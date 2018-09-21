@@ -1,3 +1,3 @@
 files:
-  - source: /src/qt/locale/stone_*.ts
+  - source: /src/qt/locale/stone_en.ts
     translation: /src/qt/locale/stone_%two_letters_code%.ts
