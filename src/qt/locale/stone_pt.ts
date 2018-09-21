@@ -1,4423 +1,3250 @@
-<TS language="pt" version="2.0">
-<context>
+<?xml version="1.0"?>
+<TS language="pt-PT" version="2.0" sourcelanguage="en">
+  <context>
     <name>AddressBookPage</name>
     <message>
-        <source>Right-click to edit address or label</source>
-        <translation>Clique com o botão direito para editar o endereço ou o rótulo</translation>
+      <source>Create a new address</source>
+      <translation type="unfinished">Create a new address</translation>
     </message>
     <message>
-        <source>Create a new address</source>
-        <translation>Criar novo endereço</translation>
+      <source>&amp;New</source>
+      <translation type="unfinished">&amp;New</translation>
     </message>
     <message>
-        <source>&amp;New</source>
-        <translation>&amp;Novo</translation>
+      <source>Copy the currently selected address to the system clipboard</source>
+      <translation type="unfinished">Copy the currently selected address to the system clipboard</translation>
     </message>
     <message>
-        <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Copiar o endereço seleccionado para a área de transferência</translation>
+      <source>&amp;Copy</source>
+      <translation type="unfinished">&amp;Copy</translation>
     </message>
     <message>
-        <source>&amp;Copy</source>
-        <translation>&amp;Copiar</translation>
+      <source>Delete the currently selected address from the list</source>
+      <translation type="unfinished">Delete the currently selected address from the list</translation>
     </message>
     <message>
-        <source>Delete the currently selected address from the list</source>
-        <translation>Apagar o endereço seleccionado</translation>
+      <source>&amp;Delete</source>
+      <translation type="unfinished">&amp;Delete</translation>
     </message>
     <message>
-        <source>&amp;Delete</source>
-        <translation>&amp;Apagar</translation>
+      <source>Export the data in the current tab to a file</source>
+      <translation type="unfinished">Export the data in the current tab to a file</translation>
     </message>
     <message>
-        <source>Export the data in the current tab to a file</source>
-        <translation>Exportar os dados do separador actual para um ficheiro</translation>
+      <source>&amp;Export</source>
+      <translation type="unfinished">&amp;Export</translation>
     </message>
     <message>
-        <source>&amp;Export</source>
-        <translation>&amp;Exportar</translation>
+      <source>C&amp;lose</source>
+      <translation type="unfinished">C&amp;lose</translation>
     </message>
     <message>
-        <source>C&amp;lose</source>
-        <translation>&amp;Fechar</translation>
+      <source>Choose the address to send coins to</source>
+      <translation type="unfinished">Choose the address to send coins to</translation>
     </message>
     <message>
-        <source>Choose the address to send coins to</source>
-        <translation>Escolha o endereço para onde enviar as moedas</translation>
+      <source>Choose the address to receive coins with</source>
+      <translation type="unfinished">Choose the address to receive coins with</translation>
     </message>
     <message>
-        <source>Choose the address to receive coins with</source>
-        <translation>Escolha o endereço onde deseja receber as moedas</translation>
+      <source>C&amp;hoose</source>
+      <translation type="unfinished">C&amp;hoose</translation>
     </message>
     <message>
-        <source>C&amp;hoose</source>
-        <translation>E&amp;scolha</translation>
+      <source>Sending addresses</source>
+      <translation type="unfinished">Sending addresses</translation>
     </message>
     <message>
-        <source>Sending addresses</source>
-        <translation>Endereços para envio</translation>
+      <source>Receiving addresses</source>
+      <translation type="unfinished">Receiving addresses</translation>
     </message>
     <message>
-        <source>Receiving addresses</source>
-        <translation>Endereços para recepção</translation>
+      <source>These are your Proton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+      <translation type="unfinished">These are your Proton addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
-        <source>These are your Proton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estes são os endereços Proton para envio de pagamentos. Confirme sempre a quantia e o endereço antes de enviar as moedas.</translation>
+      <source>These are your Proton addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+      <translation type="unfinished">These are your Proton addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
     </message>
     <message>
-        <source>These are your Proton addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estes são os seus endereços Proton para receber pagamentos. É recomendado que seja usado um novo endereço para cada transacção.</translation>
+      <source>&amp;Copy Address</source>
+      <translation type="unfinished">&amp;Copy Address</translation>
     </message>
     <message>
-        <source>&amp;Copy Address</source>
-        <translation>&amp;Copiar Endereço</translation>
+      <source>Copy &amp;Label</source>
+      <translation type="unfinished">Copy &amp;Label</translation>
     </message>
     <message>
-        <source>Copy &amp;Label</source>
-        <translation>Copiar &amp;Rótulo</translation>
+      <source>&amp;Edit</source>
+      <translation type="unfinished">&amp;Edit</translation>
     </message>
     <message>
-        <source>&amp;Edit</source>
-        <translation>&amp;Editar</translation>
+      <source>Export Address List</source>
+      <translation type="unfinished">Export Address List</translation>
     </message>
     <message>
-        <source>Export Address List</source>
-        <translation>Exportar lista de endereços</translation>
+      <source>Comma separated file (*.csv)</source>
+      <translation type="unfinished">Comma separated file (*.csv)</translation>
     </message>
     <message>
-        <source>Comma separated file (*.csv)</source>
-        <translation>Ficheiro separado por vírgulas (*.csv)</translation>
+      <source>Exporting Failed</source>
+      <translation type="unfinished">Exporting Failed</translation>
     </message>
-    <message>
-        <source>Exporting Failed</source>
-        <translation>A exportação falhou</translation>
-    </message>
-    <message>
-        <source>There was an error trying to save the address list to %1. Please try again.</source>
-        <translation>Ocorreu um erro ao tentar gravar a lista de endereços para %1. Por favor, tente de novo.</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AddressTableModel</name>
     <message>
-        <source>Label</source>
-        <translation>Rótulo</translation>
+      <source>Label</source>
+      <translation type="unfinished">Label</translation>
     </message>
     <message>
-        <source>Address</source>
-        <translation>Endereço</translation>
+      <source>Address</source>
+      <translation type="unfinished">Address</translation>
     </message>
     <message>
-        <source>(no label)</source>
-        <translation>(sem rótulo)</translation>
+      <source>(no label)</source>
+      <translation type="unfinished">(no label)</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>AskPassphraseDialog</name>
     <message>
-        <source>Passphrase Dialog</source>
-        <translation>Diálogo de Palavra Passe</translation>
+      <source>Passphrase Dialog</source>
+      <translation type="unfinished">Passphrase Dialog</translation>
     </message>
     <message>
-        <source>Enter passphrase</source>
-        <translation>Palavra Passe Actual</translation>
+      <source>Enter passphrase</source>
+      <translation type="unfinished">Enter passphrase</translation>
     </message>
     <message>
-        <source>New passphrase</source>
-        <translation>Nova Palavra Passe</translation>
+      <source>New passphrase</source>
+      <translation type="unfinished">New passphrase</translation>
     </message>
     <message>
-        <source>Repeat new passphrase</source>
-        <translation>Repita a Nova Palavra Passe</translation>
+      <source>Repeat new passphrase</source>
+      <translation type="unfinished">Repeat new passphrase</translation>
     </message>
     <message>
-        <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
-        <translation>Serve para desactivar o envio de dinheiro quando a conta do SO for comprometida. Não oferece segurança real.</translation>
+      <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
+      <translation type="unfinished">Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</translation>
     </message>
     <message>
-        <source>For anonymization only</source>
-        <translation>Apenas para anonimização</translation>
+      <source>For anonymization only</source>
+      <translation type="unfinished">For anonymization only</translation>
     </message>
     <message>
-        <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Insira a nova palavra-passe para a carteira.&lt;br/&gt;Por favor use uma palavra-chave com &lt;b&gt;10 ou mais caracteres aleatórios&lt;/b&gt;, ou &lt;b&gt;8 ou mais palavras&lt;/b&gt;.</translation>
+      <source>Encrypt wallet</source>
+      <translation type="unfinished">Encrypt wallet</translation>
     </message>
     <message>
-        <source>Encrypt wallet</source>
-        <translation>Cifrar carteira</translation>
+      <source>This operation needs your wallet passphrase to unlock the wallet.</source>
+      <translation type="unfinished">This operation needs your wallet passphrase to unlock the wallet.</translation>
     </message>
     <message>
-        <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Esta operação necessita da sua palavra-passe para desbloquear a carteira.</translation>
+      <source>Unlock wallet</source>
+      <translation type="unfinished">Unlock wallet</translation>
     </message>
     <message>
-        <source>Unlock wallet</source>
-        <translation>Desbloquear carteira</translation>
+      <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
+      <translation type="unfinished">This operation needs your wallet passphrase to decrypt the wallet.</translation>
     </message>
     <message>
-        <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Esta operação necessita da sua palavra-passe para decifrar a carteira.</translation>
+      <source>Decrypt wallet</source>
+      <translation type="unfinished">Decrypt wallet</translation>
     </message>
     <message>
-        <source>Decrypt wallet</source>
-        <translation>Decifrar carteira</translation>
+      <source>Change passphrase</source>
+      <translation type="unfinished">Change passphrase</translation>
     </message>
     <message>
-        <source>Change passphrase</source>
-        <translation>Mudar palavra-passe</translation>
+      <source>Enter the old and new passphrase to the wallet.</source>
+      <translation type="unfinished">Enter the old and new passphrase to the wallet.</translation>
     </message>
     <message>
-        <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Insira a antiga e a nova palavra-passe para a carteira.</translation>
+      <source>Confirm wallet encryption</source>
+      <translation type="unfinished">Confirm wallet encryption</translation>
     </message>
     <message>
-        <source>Confirm wallet encryption</source>
-        <translation>Confirme cifra da carteira</translation>
+      <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR STONE&lt;/b&gt;!</source>
+      <translation type="unfinished">Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR STONE&lt;/b&gt;!</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR STONE&lt;/b&gt;!</source>
-        <translation>Atenção: Se cifrar a carteira e perder a palavra-passe, irá &lt;b&gt;PERDER TODAS AS SUAS MOEDAS STONE&lt;/b&gt;!</translation>
+      <source>Are you sure you wish to encrypt your wallet?</source>
+      <translation type="unfinished">Are you sure you wish to encrypt your wallet?</translation>
     </message>
     <message>
-        <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Tem a certeza que quer cifrar a carteira?</translation>
+      <source>Wallet encrypted</source>
+      <translation type="unfinished">Wallet encrypted</translation>
     </message>
     <message>
-        <source>Wallet encrypted</source>
-        <translation>Carteira cifrada</translation>
+      <source>Proton will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your stones from being stolen by malware infecting your computer.</source>
+      <translation type="unfinished">Proton will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your stones from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
-        <source>Proton will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your stones from being stolen by malware infecting your computer.</source>
-        <translation>O cliente Proton irá fechar para finalizar o processo de cifra. Lembre-se que cifrar a sua carteira não consegue proteger totalmente as suas stones contra roubos feitos por malware presente no seu computador.</translation>
+      <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
+      <translation type="unfinished">IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</translation>
     </message>
     <message>
-        <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>IMPORTANTE: Quaisquer copias de segurança feitas anteriormente à sua carteira, devem ser substituídas pelo novo ficheiro cifrado. Por razões de segurança, as copias de segurança anteriores não cifradas ficarão obsoletas assim que comece a usar a nova carteira cifrada,</translation>
+      <source>Wallet encryption failed</source>
+      <translation type="unfinished">Wallet encryption failed</translation>
     </message>
     <message>
-        <source>Wallet encryption failed</source>
-        <translation>Cifra da carteira falhou</translation>
+      <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
+      <translation type="unfinished">Wallet encryption failed due to an internal error. Your wallet was not encrypted.</translation>
     </message>
     <message>
-        <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>A cifra da carteira falhou devido a um erro interno. A sua carteira não foi cifrada.</translation>
+      <source>The supplied passphrases do not match.</source>
+      <translation type="unfinished">The supplied passphrases do not match.</translation>
     </message>
     <message>
-        <source>The supplied passphrases do not match.</source>
-        <translation>As palavras-passe fornecidas não coincidem.</translation>
+      <source>Wallet unlock failed</source>
+      <translation type="unfinished">Wallet unlock failed</translation>
     </message>
     <message>
-        <source>Wallet unlock failed</source>
-        <translation>O desbloqueio da carteira falhou</translation>
+      <source>The passphrase entered for the wallet decryption was incorrect.</source>
+      <translation type="unfinished">The passphrase entered for the wallet decryption was incorrect.</translation>
     </message>
     <message>
-        <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>A palavra-passe fornecida para decifrar a carteira está incorrecta.</translation>
+      <source>Wallet decryption failed</source>
+      <translation type="unfinished">Wallet decryption failed</translation>
     </message>
     <message>
-        <source>Wallet decryption failed</source>
-        <translation>Decifra da carteira falhou</translation>
+      <source>Wallet passphrase was successfully changed.</source>
+      <translation type="unfinished">Wallet passphrase was successfully changed.</translation>
     </message>
     <message>
-        <source>Wallet passphrase was successfully changed.</source>
-        <translation>A palavra-passe foi alterada com sucesso.</translation>
+      <source>Warning: The Caps Lock key is on!</source>
+      <translation type="unfinished">Warning: The Caps Lock key is on!</translation>
     </message>
-    <message>
-        <source>Warning: The Caps Lock key is on!</source>
-        <translation>Atenção: O Caps Lock está activo!</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Stone Core</source>
-        <translation>Stone Core</translation>
+      <source>Stone Core</source>
+      <translation type="unfinished">Stone Core</translation>
     </message>
     <message>
-        <source>Wallet</source>
-        <translation>Carteira</translation>
+      <source>Wallet</source>
+      <translation type="unfinished">Wallet</translation>
     </message>
     <message>
-        <source>Node</source>
-        <translation>Nó</translation>
+      <source>Node</source>
+      <translation type="unfinished">Node</translation>
     </message>
     <message>
-        <source>&amp;Overview</source>
-        <translation>&amp;Global</translation>
+      <source>&amp;Overview</source>
+      <translation type="unfinished">&amp;Overview</translation>
     </message>
     <message>
-        <source>Show general overview of wallet</source>
-        <translation>Mostrar visão global da carteira</translation>
+      <source>Show general overview of wallet</source>
+      <translation type="unfinished">Show general overview of wallet</translation>
     </message>
     <message>
-        <source>&amp;Send</source>
-        <translation>&amp;Enviar</translation>
+      <source>&amp;Send</source>
+      <translation type="unfinished">&amp;Send</translation>
     </message>
     <message>
-        <source>Send coins to a Proton address</source>
-        <translation>Enviar moedas para um endereço Proton</translation>
+      <source>Send coins to a Proton address</source>
+      <translation type="unfinished">Send coins to a Proton address</translation>
     </message>
     <message>
-        <source>&amp;Receive</source>
-        <translation>&amp;Receber</translation>
+      <source>&amp;Receive</source>
+      <translation type="unfinished">&amp;Receive</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and stone: URIs)</source>
-        <translation>Solicitar pagamentos (gera códigos QR e stone: URIs)</translation>
+      <source>Request payments (generates QR codes and stone: URIs)</source>
+      <translation type="unfinished">Request payments (generates QR codes and stone: URIs)</translation>
     </message>
     <message>
-        <source>&amp;Transactions</source>
-        <translation>&amp;Transacções</translation>
+      <source>&amp;Transactions</source>
+      <translation type="unfinished">&amp;Transactions</translation>
     </message>
     <message>
-        <source>Browse transaction history</source>
-        <translation>Visualiza histórico de transacções</translation>
+      <source>Browse transaction history</source>
+      <translation type="unfinished">Browse transaction history</translation>
     </message>
     <message>
-        <source>E&amp;xit</source>
-        <translation>&amp;Sair</translation>
+      <source>E&amp;xit</source>
+      <translation type="unfinished">E&amp;xit</translation>
     </message>
     <message>
-        <source>Quit application</source>
-        <translation>Sair da aplicação</translation>
+      <source>Quit application</source>
+      <translation type="unfinished">Quit application</translation>
     </message>
     <message>
-        <source>&amp;About Stone Core</source>
-        <translation>&amp;Acerca do Stone Core</translation>
+      <source>&amp;About Stone Core</source>
+      <translation type="unfinished">&amp;About Stone Core</translation>
     </message>
     <message>
-        <source>Show information about Stone Core</source>
-        <translation>Mostra informação acerca do Stone Core</translation>
+      <source>About &amp;Qt</source>
+      <translation type="unfinished">About &amp;Qt</translation>
     </message>
     <message>
-        <source>About &amp;Qt</source>
-        <translation>Acerca do &amp;Qt</translation>
+      <source>Show information about Qt</source>
+      <translation type="unfinished">Show information about Qt</translation>
     </message>
     <message>
-        <source>Show information about Qt</source>
-        <translation>Mostra informação acerca do Qt</translation>
+      <source>&amp;Options...</source>
+      <translation type="unfinished">&amp;Options...</translation>
     </message>
     <message>
-        <source>&amp;Options...</source>
-        <translation>&amp;Opções...</translation>
+      <source>Modify configuration options for Proton</source>
+      <translation type="unfinished">Modify configuration options for Proton</translation>
     </message>
     <message>
-        <source>Modify configuration options for Proton</source>
-        <translation>Modificar opções de configuração do Proton</translation>
+      <source>&amp;Show / Hide</source>
+      <translation type="unfinished">&amp;Show / Hide</translation>
     </message>
     <message>
-        <source>&amp;Show / Hide</source>
-        <translation>&amp;Mostar / Esconder</translation>
+      <source>Show or hide the main Window</source>
+      <translation type="unfinished">Show or hide the main Window</translation>
     </message>
     <message>
-        <source>Show or hide the main Window</source>
-        <translation>Mostrar ou esconder a Janela principal</translation>
+      <source>&amp;Encrypt Wallet...</source>
+      <translation type="unfinished">&amp;Encrypt Wallet...</translation>
     </message>
     <message>
-        <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Cifrar Carteira</translation>
+      <source>Encrypt the private keys that belong to your wallet</source>
+      <translation type="unfinished">Encrypt the private keys that belong to your wallet</translation>
     </message>
     <message>
-        <source>Encrypt the private keys that belong to your wallet</source>
-        <translation>Cifra as chaves privadas que pertencem à sua carteira</translation>
+      <source>&amp;Backup Wallet...</source>
+      <translation type="unfinished">&amp;Backup Wallet...</translation>
     </message>
     <message>
-        <source>&amp;Backup Wallet...</source>
-        <translation>Copia de &amp;Segurança</translation>
+      <source>Backup wallet to another location</source>
+      <translation type="unfinished">Backup wallet to another location</translation>
     </message>
     <message>
-        <source>Backup wallet to another location</source>
-        <translation>Criar copia de segurança da carteira noutra localização</translation>
+      <source>&amp;Change Passphrase...</source>
+      <translation type="unfinished">&amp;Change Passphrase...</translation>
     </message>
     <message>
-        <source>&amp;Change Passphrase...</source>
-        <translation>&amp;Mudar Palavra-passe</translation>
+      <source>Change the passphrase used for wallet encryption</source>
+      <translation type="unfinished">Change the passphrase used for wallet encryption</translation>
     </message>
     <message>
-        <source>Change the passphrase used for wallet encryption</source>
-        <translation>Mudar a palavra-passe usada na cifra da carteira</translation>
+      <source>&amp;Unlock Wallet...</source>
+      <translation type="unfinished">&amp;Unlock Wallet...</translation>
     </message>
     <message>
-        <source>&amp;Unlock Wallet...</source>
-        <translation>&amp;Desbloquear Carteira</translation>
+      <source>Unlock wallet</source>
+      <translation type="unfinished">Unlock wallet</translation>
     </message>
     <message>
-        <source>Unlock wallet</source>
-        <translation>Desbloquear carteira</translation>
+      <source>&amp;Lock Wallet</source>
+      <translation type="unfinished">&amp;Lock Wallet</translation>
     </message>
     <message>
-        <source>&amp;Lock Wallet</source>
-        <translation>&amp;Bloquear Carteira</translation>
+      <source>Sign &amp;message...</source>
+      <translation type="unfinished">Sign &amp;message...</translation>
     </message>
     <message>
-        <source>Sign &amp;message...</source>
-        <translation>&amp;Assinar Mensagem</translation>
+      <source>Sign messages with your Proton addresses to prove you own them</source>
+      <translation type="unfinished">Sign messages with your Proton addresses to prove you own them</translation>
     </message>
     <message>
-        <source>Sign messages with your Proton addresses to prove you own them</source>
-        <translation>Assine mensagens com os seus endereços Proton para provar que são seus</translation>
+      <source>&amp;Verify message...</source>
+      <translation type="unfinished">&amp;Verify message...</translation>
     </message>
     <message>
-        <source>&amp;Verify message...</source>
-        <translation>&amp;Verificar Mensagem</translation>
+      <source>Verify messages to ensure they were signed with specified Proton addresses</source>
+      <translation type="unfinished">Verify messages to ensure they were signed with specified Proton addresses</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Proton addresses</source>
-        <translation>Verifica mensagens para garantir que foram assinadas com um endereço Proton específico</translation>
+      <source>&amp;Information</source>
+      <translation type="unfinished">&amp;Information</translation>
     </message>
     <message>
-        <source>&amp;Information</source>
-        <translation>&amp;Informação</translation>
+      <source>Show diagnostic information</source>
+      <translation type="unfinished">Show diagnostic information</translation>
     </message>
     <message>
-        <source>Show diagnostic information</source>
-        <translation>Mostra informação de diagnóstico</translation>
+      <source>&amp;Debug console</source>
+      <translation type="unfinished">&amp;Debug console</translation>
     </message>
     <message>
-        <source>&amp;Debug console</source>
-        <translation>Consola de &amp;Depuração</translation>
+      <source>Open debugging console</source>
+      <translation type="unfinished">Open debugging console</translation>
     </message>
     <message>
-        <source>Open debugging console</source>
-        <translation>Abrir consola de depuração</translation>
+      <source>&amp;Network Monitor</source>
+      <translation type="unfinished">&amp;Network Monitor</translation>
     </message>
     <message>
-        <source>&amp;Network Monitor</source>
-        <translation>Monitor de &amp;Rede</translation>
+      <source>Show network monitor</source>
+      <translation type="unfinished">Show network monitor</translation>
     </message>
     <message>
-        <source>Show network monitor</source>
-        <translation>Mostrar monitor de rede</translation>
+      <source>Open &amp;Configuration File</source>
+      <translation type="unfinished">Open &amp;Configuration File</translation>
     </message>
     <message>
-        <source>&amp;Peers list</source>
-        <translation>Lista de &amp;Nós</translation>
+      <source>Open configuration file</source>
+      <translation type="unfinished">Open configuration file</translation>
     </message>
     <message>
-        <source>Show peers info</source>
-        <translation>Mostrar informação dos nós</translation>
+      <source>&amp;Sending addresses...</source>
+      <translation type="unfinished">&amp;Sending addresses...</translation>
     </message>
     <message>
-        <source>Wallet &amp;Repair</source>
-        <translation>&amp;Reparar Carteira</translation>
+      <source>Show the list of used sending addresses and labels</source>
+      <translation type="unfinished">Show the list of used sending addresses and labels</translation>
     </message>
     <message>
-        <source>Show wallet repair options</source>
-        <translation>Mostra as opções de reparação da carteira</translation>
+      <source>&amp;Receiving addresses...</source>
+      <translation type="unfinished">&amp;Receiving addresses...</translation>
     </message>
     <message>
-        <source>Open &amp;Configuration File</source>
-        <translation>Abrir Ficheiro de &amp;Configuração</translation>
+      <source>Show the list of used receiving addresses and labels</source>
+      <translation type="unfinished">Show the list of used receiving addresses and labels</translation>
     </message>
     <message>
-        <source>Open configuration file</source>
-        <translation>Abrir ficheiro de configuração</translation>
+      <source>Open &amp;URI...</source>
+      <translation type="unfinished">Open &amp;URI...</translation>
     </message>
     <message>
-        <source>Show Automatic &amp;Backups</source>
-        <translation>Mostrar &amp;Cópias Automáticas</translation>
+      <source>Open a stone: URI or payment request</source>
+      <translation type="unfinished">Open a stone: URI or payment request</translation>
     </message>
     <message>
-        <source>Show automatically created wallet backups</source>
-        <translation>Mostra as cópias automáticas da carteira</translation>
+      <source>&amp;Command-line options</source>
+      <translation type="unfinished">&amp;Command-line options</translation>
     </message>
     <message>
-        <source>&amp;Sending addresses...</source>
-        <translation>&amp;Endereços de envio...</translation>
+      <source>Show the Stone Core help message to get a list with possible Proton command-line options</source>
+      <translation type="unfinished">Show the Stone Core help message to get a list with possible Proton command-line options</translation>
     </message>
     <message>
-        <source>Show the list of used sending addresses and labels</source>
-        <translation>Mostra a lista de endereços de envio e respectivos rótulos</translation>
+      <source>&amp;File</source>
+      <translation type="unfinished">&amp;File</translation>
     </message>
     <message>
-        <source>&amp;Receiving addresses...</source>
-        <translation>Endereços de &amp;Recepção...</translation>
+      <source>&amp;Settings</source>
+      <translation type="unfinished">&amp;Settings</translation>
     </message>
     <message>
-        <source>Show the list of used receiving addresses and labels</source>
-        <translation>Mostra a lista de endereços de recepção e respectivos rótulos</translation>
+      <source>&amp;Tools</source>
+      <translation type="unfinished">&amp;Tools</translation>
     </message>
     <message>
-        <source>Open &amp;URI...</source>
-        <translation>Abrir &amp;URI...</translation>
+      <source>&amp;Help</source>
+      <translation type="unfinished">&amp;Help</translation>
     </message>
     <message>
-        <source>Open a stone: URI or payment request</source>
-        <translation>Abre um stone: URI ou solicitação de pagamento</translation>
+      <source>Tabs toolbar</source>
+      <translation type="unfinished">Tabs toolbar</translation>
     </message>
     <message>
-        <source>&amp;Command-line options</source>
-        <translation>Opções de linha de &amp;comandos</translation>
+      <source>Synchronizing with network...</source>
+      <translation type="unfinished">Synchronizing with network...</translation>
     </message>
     <message>
-        <source>Stone Core client</source>
-        <translation>Cliente Stone Core</translation>
+      <source>Importing blocks from disk...</source>
+      <translation type="unfinished">Importing blocks from disk...</translation>
     </message>
-    <message numerus="yes">
-        <source>Processed %n blocks of transaction history.</source>
-        <translation><numerusform>%n bloco do histórico de transacções processado.</numerusform><numerusform>%n blocos do histórico de transacções processados.</numerusform></translation>
-    </message>
-    <message>
-        <source>Show the Stone Core help message to get a list with possible Proton command-line options</source>
-        <translation>Mostra a mensagem de ajuda do Stone Core para obter a lista com as possíveis opções de linha de comandos</translation>
-    </message>
-    <message>
-        <source>&amp;File</source>
-        <translation>&amp;Ficheiro</translation>
-    </message>
-    <message>
-        <source>&amp;Settings</source>
-        <translation>&amp;Definições</translation>
-    </message>
-    <message>
-        <source>&amp;Tools</source>
-        <translation>&amp;Ferramentas</translation>
-    </message>
-    <message>
-        <source>&amp;Help</source>
-        <translation>&amp;Ajuda</translation>
-    </message>
     <message>
-        <source>Tabs toolbar</source>
-        <translation>Barra de ferramentas</translation>
+      <source>Reindexing blocks on disk...</source>
+      <translation type="unfinished">Reindexing blocks on disk...</translation>
     </message>
-    <message numerus="yes">
-        <source>%n active connection(s) to Proton network</source>
-        <translation><numerusform>%n ligação activa à rede Proton</numerusform><numerusform>%n ligações activas à rede Proton</numerusform></translation>
-    </message>
-    <message>
-        <source>Synchronizing with network...</source>
-        <translation>A sincronizar com a rede...</translation>
-    </message>
-    <message>
-        <source>Importing blocks from disk...</source>
-        <translation>A carregar blocos do disco...</translation>
-    </message>
     <message>
-        <source>Reindexing blocks on disk...</source>
-        <translation>A indexar blocos no disco...</translation>
+      <source>No block source available...</source>
+      <translation type="unfinished">No block source available...</translation>
     </message>
     <message>
-        <source>No block source available...</source>
-        <translation>Nenhuma fonte de blocos disponível...</translation>
+      <source>Up to date</source>
+      <translation type="unfinished">Up to date</translation>
     </message>
     <message>
-        <source>Up to date</source>
-        <translation>Actualizado</translation>
-    </message>
-    <message numerus="yes">
-        <source>%n hour(s)</source>
-        <translation><numerusform>%n hora</numerusform><numerusform>%n horas</numerusform></translation>
-    </message>
-    <message numerus="yes">
-        <source>%n day(s)</source>
-        <translation><numerusform>%n dia</numerusform><numerusform>%n dias</numerusform></translation>
-    </message>
-    <message numerus="yes">
-        <source>%n week(s)</source>
-        <translation><numerusform>%n semana</numerusform><numerusform>%n semanas</numerusform></translation>
-    </message>
-    <message>
-        <source>%1 and %2</source>
-        <translation>%1 e %2</translation>
-    </message>
-    <message numerus="yes">
-        <source>%n year(s)</source>
-        <translation><numerusform>%n ano</numerusform><numerusform>%n anos</numerusform></translation>
+      <source>%1 and %2</source>
+      <translation type="unfinished">%1 and %2</translation>
     </message>
     <message>
-        <source>%1 behind</source>
-        <translation>%1 de atraso</translation>
+      <source>%1 behind</source>
+      <translation type="unfinished">%1 behind</translation>
     </message>
     <message>
-        <source>Catching up...</source>
-        <translation>A alcançar</translation>
+      <source>Catching up...</source>
+      <translation type="unfinished">Catching up...</translation>
     </message>
     <message>
-        <source>Last received block was generated %1 ago.</source>
-        <translation>O último bloco recebido foi gerado à %1.</translation>
+      <source>Last received block was generated %1 ago.</source>
+      <translation type="unfinished">Last received block was generated %1 ago.</translation>
     </message>
     <message>
-        <source>Transactions after this will not yet be visible.</source>
-        <translation>Transacções posteriores ainda não serão visíveis.</translation>
+      <source>Transactions after this will not yet be visible.</source>
+      <translation type="unfinished">Transactions after this will not yet be visible.</translation>
     </message>
     <message>
-        <source>Error</source>
-        <translation>Erro</translation>
+      <source>Error</source>
+      <translation type="unfinished">Error</translation>
     </message>
     <message>
-        <source>Warning</source>
-        <translation>Aviso</translation>
+      <source>Warning</source>
+      <translation type="unfinished">Warning</translation>
     </message>
     <message>
-        <source>Information</source>
-        <translation>Informação</translation>
+      <source>Information</source>
+      <translation type="unfinished">Information</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
-        <translation>Transacção enviada</translation>
+      <source>Sent transaction</source>
+      <translation type="unfinished">Sent transaction</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
-        <translation>Transacção recebida</translation>
+      <source>Incoming transaction</source>
+      <translation type="unfinished">Incoming transaction</translation>
     </message>
     <message>
-        <source>Date: %1
+      <source>Date: %1
 Amount: %2
 Type: %3
 Address: %4
 </source>
-        <translation>Data: %1
-Quantia: %2
-Tipo: %3
-Endereço: %4
+      <translation type="unfinished">Date: %1
+Amount: %2
+Type: %3
+Address: %4
 </translation>
     </message>
     <message>
-        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>A carteira encontra-se &lt;b&gt;cifrada&lt;/b&gt; e actualmente &lt;b&gt;desbloqueada&lt;/b&gt;</translation>
+      <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
+      <translation type="unfinished">Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonimization only</source>
-        <translation>A carteira encontra-se &lt;b&gt;cifrada&lt;/b&gt; e actualmente &lt;b&gt;desbloqueada&lt;/b&gt; somente para anonimização</translation>
+      <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonimization only</source>
+      <translation type="unfinished">Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonimization only</translation>
     </message>
     <message>
-        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>A carteira encontra-se &lt;b&gt;cifrada&lt;/b&gt; e actualmente &lt;b&gt;bloqueada&lt;/b&gt;</translation>
+      <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
+      <translation type="unfinished">Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ClientModel</name>
     <message>
-        <source>Total: %1 (DS compatible: %2 / Enabled: %3)</source>
-        <translation>Total: %1 (Compatível DS: %2 / Ligados: %3)</translation>
+      <source>Network Alert</source>
+      <translation type="unfinished">Network Alert</translation>
     </message>
-    <message>
-        <source>Network Alert</source>
-        <translation>Alerta de Rede</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>CoinControlDialog</name>
     <message>
-        <source>Quantity:</source>
-        <translation>Quantidade:</translation>
+      <source>Quantity:</source>
+      <translation type="unfinished">Quantity:</translation>
     </message>
     <message>
-        <source>Bytes:</source>
-        <translation>Bytes:</translation>
+      <source>Bytes:</source>
+      <translation type="unfinished">Bytes:</translation>
     </message>
     <message>
-        <source>Amount:</source>
-        <translation>Quantia:</translation>
+      <source>Amount:</source>
+      <translation type="unfinished">Amount:</translation>
     </message>
     <message>
-        <source>Priority:</source>
-        <translation>Prioridade:</translation>
+      <source>Priority:</source>
+      <translation type="unfinished">Priority:</translation>
     </message>
     <message>
-        <source>Fee:</source>
-        <translation>Taxa:</translation>
+      <source>Fee:</source>
+      <translation type="unfinished">Fee:</translation>
     </message>
     <message>
-        <source>Coin Selection</source>
-        <translation>Selecção de Moedas</translation>
+      <source>After Fee:</source>
+      <translation type="unfinished">After Fee:</translation>
     </message>
     <message>
-        <source>Dust:</source>
-        <translation>Poeira:</translation>
+      <source>Change:</source>
+      <translation type="unfinished">Change:</translation>
     </message>
     <message>
-        <source>After Fee:</source>
-        <translation>Com taxa:</translation>
+      <source>(un)select all</source>
+      <translation type="unfinished">(un)select all</translation>
     </message>
     <message>
-        <source>Change:</source>
-        <translation>Troco:</translation>
+      <source>Tree mode</source>
+      <translation type="unfinished">Tree mode</translation>
     </message>
     <message>
-        <source>(un)select all</source>
-        <translation>(des)seleccionar todos</translation>
+      <source>List mode</source>
+      <translation type="unfinished">List mode</translation>
     </message>
     <message>
-        <source>Tree mode</source>
-        <translation>Vista em árvore</translation>
+      <source>(1 locked)</source>
+      <translation type="unfinished">(1 locked)</translation>
     </message>
     <message>
-        <source>List mode</source>
-        <translation>Vista em lista</translation>
+      <source>Amount</source>
+      <translation type="unfinished">Amount</translation>
     </message>
     <message>
-        <source>(1 locked)</source>
-        <translation>(1 bloqueada)</translation>
+      <source>Date</source>
+      <translation type="unfinished">Date</translation>
     </message>
     <message>
-        <source>Amount</source>
-        <translation>Quantia</translation>
+      <source>Confirmations</source>
+      <translation type="unfinished">Confirmations</translation>
     </message>
     <message>
-        <source>Received with label</source>
-        <translation>Recebido com rótulo</translation>
+      <source>Confirmed</source>
+      <translation type="unfinished">Confirmed</translation>
     </message>
     <message>
-        <source>Received with address</source>
-        <translation>Recebido com endereço</translation>
+      <source>Priority</source>
+      <translation type="unfinished">Priority</translation>
     </message>
     <message>
-        <source>DS Rounds</source>
-        <translation>Rondas DS</translation>
+      <source>Copy address</source>
+      <translation type="unfinished">Copy address</translation>
     </message>
     <message>
-        <source>Date</source>
-        <translation>Data</translation>
+      <source>Copy label</source>
+      <translation type="unfinished">Copy label</translation>
     </message>
     <message>
-        <source>Confirmations</source>
-        <translation>Confirmações</translation>
+      <source>Copy amount</source>
+      <translation type="unfinished">Copy amount</translation>
     </message>
     <message>
-        <source>Confirmed</source>
-        <translation>Confirmada</translation>
+      <source>Copy transaction ID</source>
+      <translation type="unfinished">Copy transaction ID</translation>
     </message>
     <message>
-        <source>Priority</source>
-        <translation>Prioridade</translation>
+      <source>Lock unspent</source>
+      <translation type="unfinished">Lock unspent</translation>
     </message>
     <message>
-        <source>Copy address</source>
-        <translation>Copiar endereço</translation>
+      <source>Unlock unspent</source>
+      <translation type="unfinished">Unlock unspent</translation>
     </message>
     <message>
-        <source>Copy label</source>
-        <translation>Copiar rótulo</translation>
+      <source>Copy quantity</source>
+      <translation type="unfinished">Copy quantity</translation>
     </message>
     <message>
-        <source>Copy amount</source>
-        <translation>Copiar quantia</translation>
+      <source>Copy fee</source>
+      <translation type="unfinished">Copy fee</translation>
     </message>
     <message>
-        <source>Copy transaction ID</source>
-        <translation>Copiar ID de transacção</translation>
+      <source>Copy after fee</source>
+      <translation type="unfinished">Copy after fee</translation>
     </message>
     <message>
-        <source>Lock unspent</source>
-        <translation>Bloquear não gasto</translation>
+      <source>Copy bytes</source>
+      <translation type="unfinished">Copy bytes</translation>
     </message>
     <message>
-        <source>Unlock unspent</source>
-        <translation>Desbloquear não gasto</translation>
+      <source>Copy priority</source>
+      <translation type="unfinished">Copy priority</translation>
     </message>
     <message>
-        <source>Copy quantity</source>
-        <translation>Copiar quantidade</translation>
+      <source>Copy change</source>
+      <translation type="unfinished">Copy change</translation>
     </message>
     <message>
-        <source>Copy fee</source>
-        <translation>Copiar taxa</translation>
+      <source>highest</source>
+      <translation type="unfinished">highest</translation>
     </message>
     <message>
-        <source>Copy after fee</source>
-        <translation>Copiar depois da taxa</translation>
+      <source>higher</source>
+      <translation type="unfinished">higher</translation>
     </message>
     <message>
-        <source>Copy bytes</source>
-        <translation>Copiar bytes</translation>
+      <source>high</source>
+      <translation type="unfinished">high</translation>
     </message>
     <message>
-        <source>Copy priority</source>
-        <translation>Copiar prioridade</translation>
+      <source>medium-high</source>
+      <translation type="unfinished">medium-high</translation>
     </message>
     <message>
-        <source>Copy dust</source>
-        <translation>Copiar poeira</translation>
+      <source>n/a</source>
+      <translation type="unfinished">n/a</translation>
     </message>
     <message>
-        <source>Copy change</source>
-        <translation>Copiar troco</translation>
+      <source>medium</source>
+      <translation type="unfinished">medium</translation>
     </message>
     <message>
-        <source>Non-anonymized input selected. &lt;b&gt;Darksend will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Darksend, please deselect all non-nonymized inputs first and then check Darksend checkbox again.</source>
-        <translation>Entrada não anonimizada seleccionada. &lt;b&gt;O Darksend será desactivado.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Se deseja usar o Darksend, por favor desseleccione primeiro todas as entradas não anonimizadas e em seguida volte a marcar a opção Darksend.</translation>
+      <source>low-medium</source>
+      <translation type="unfinished">low-medium</translation>
     </message>
     <message>
-        <source>highest</source>
-        <translation>a-mais-alta</translation>
+      <source>low</source>
+      <translation type="unfinished">low</translation>
     </message>
     <message>
-        <source>higher</source>
-        <translation>mais-alta</translation>
+      <source>lower</source>
+      <translation type="unfinished">lower</translation>
     </message>
     <message>
-        <source>high</source>
-        <translation>alta</translation>
+      <source>lowest</source>
+      <translation type="unfinished">lowest</translation>
     </message>
     <message>
-        <source>medium-high</source>
-        <translation>média-alta</translation>
+      <source>(%1 locked)</source>
+      <translation type="unfinished">(%1 locked)</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 duff(s) per input.</source>
-        <translation>Pode variar +/- %1 duff(s) por input</translation>
+      <source>none</source>
+      <translation type="unfinished">none</translation>
     </message>
     <message>
-        <source>n/a</source>
-        <translation>n/d</translation>
+      <source>yes</source>
+      <translation type="unfinished">yes</translation>
     </message>
     <message>
-        <source>medium</source>
-        <translation>média</translation>
+      <source>no</source>
+      <translation type="unfinished">no</translation>
     </message>
     <message>
-        <source>low-medium</source>
-        <translation>média-baixa</translation>
+      <source>This label turns red, if the transaction size is greater than 1000 bytes.</source>
+      <translation type="unfinished">This label turns red, if the transaction size is greater than 1000 bytes.</translation>
     </message>
     <message>
-        <source>low</source>
-        <translation>baixa</translation>
+      <source>This means a fee of at least %1 per kB is required.</source>
+      <translation type="unfinished">This means a fee of at least %1 per kB is required.</translation>
     </message>
     <message>
-        <source>lower</source>
-        <translation>mais-baixa</translation>
+      <source>Can vary +/- 1 byte per input.</source>
+      <translation type="unfinished">Can vary +/- 1 byte per input.</translation>
     </message>
     <message>
-        <source>lowest</source>
-        <translation>a-mais-baixa</translation>
+      <source>Transactions with higher priority are more likely to get included into a block.</source>
+      <translation type="unfinished">Transactions with higher priority are more likely to get included into a block.</translation>
     </message>
     <message>
-        <source>(%1 locked)</source>
-        <translation>(%1 bloqueado)</translation>
+      <source>This label turns red, if the priority is smaller than "medium".</source>
+      <translation type="unfinished">This label turns red, if the priority is smaller than "medium".</translation>
     </message>
     <message>
-        <source>none</source>
-        <translation>nenhuma</translation>
+      <source>This label turns red, if any recipient receives an amount smaller than %1.</source>
+      <translation type="unfinished">This label turns red, if any recipient receives an amount smaller than %1.</translation>
     </message>
     <message>
-        <source>yes</source>
-        <translation>sim</translation>
+      <source>(no label)</source>
+      <translation type="unfinished">(no label)</translation>
     </message>
     <message>
-        <source>no</source>
-        <translation>não</translation>
+      <source>change from %1 (%2)</source>
+      <translation type="unfinished">change from %1 (%2)</translation>
     </message>
     <message>
-        <source>This label turns red, if the transaction size is greater than 1000 bytes.</source>
-        <translation>Este rótulo fica vermelho se o tamanho da transacção exceder 1000 bytes.</translation>
+      <source>(change)</source>
+      <translation type="unfinished">(change)</translation>
     </message>
-    <message>
-        <source>This means a fee of at least %1 per kB is required.</source>
-        <translation>Isto significa que é necessária uma taxa de pelo menos %1 por kB.</translation>
-    </message>
-    <message>
-        <source>Can vary +/- 1 byte per input.</source>
-        <translation>Pode variar +/- 1 byte por entrada.</translation>
-    </message>
-    <message>
-        <source>Transactions with higher priority are more likely to get included into a block.</source>
-        <translation>Transacções com prioridade mais alta tem uma maior probabilidade de ser incluídas num bloco.</translation>
-    </message>
-    <message>
-        <source>This label turns red, if the priority is smaller than "medium".</source>
-        <translation>Este rótulo fica vermelho se a prioridade for inferior a "média".</translation>
-    </message>
-    <message>
-        <source>This label turns red, if any recipient receives an amount smaller than %1.</source>
-        <translation>Este rótulo fica vermelho se algum destinatário receber uma quantia inferior a %1.</translation>
-    </message>
-    <message>
-        <source>(no label)</source>
-        <translation>(sem rótulo)</translation>
-    </message>
-    <message>
-        <source>change from %1 (%2)</source>
-        <translation>troco de %1 (%2)</translation>
-    </message>
-    <message>
-        <source>(change)</source>
-        <translation>(troco)</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>DarksendConfig</name>
     <message>
-        <source>Configure Darksend</source>
-        <translation>Configurar Darksend</translation>
+      <source>Configure Darksend</source>
+      <translation type="unfinished">Configure Darksend</translation>
     </message>
     <message>
-        <source>Basic Privacy</source>
-        <translation>Privacidade Básica</translation>
+      <source>Basic Privacy</source>
+      <translation type="unfinished">Basic Privacy</translation>
     </message>
     <message>
-        <source>High Privacy</source>
-        <translation>Privacidade Alta</translation>
+      <source>High Privacy</source>
+      <translation type="unfinished">High Privacy</translation>
     </message>
     <message>
-        <source>Maximum Privacy</source>
-        <translation>Privacidade Máxima</translation>
+      <source>Maximum Privacy</source>
+      <translation type="unfinished">Maximum Privacy</translation>
     </message>
     <message>
-        <source>Please select a privacy level.</source>
-        <translation>Por favor seleccione um nível de privacidade.</translation>
+      <source>Please select a privacy level.</source>
+      <translation type="unfinished">Please select a privacy level.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 1000 STONE</source>
-        <translation>Usar 2 masternodes distintos para misturar os fundos até 1000DRK</translation>
+      <source>Use 2 separate masternodes to mix funds up to 1000 STONE</source>
+      <translation type="unfinished">Use 2 separate masternodes to mix funds up to 1000 STONE</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 1000 STONE</source>
-        <translation>Usar 8 masternodes distintos para misturar os fundos até 1000DRK</translation>
+      <source>Use 8 separate masternodes to mix funds up to 1000 STONE</source>
+      <translation type="unfinished">Use 8 separate masternodes to mix funds up to 1000 STONE</translation>
     </message>
     <message>
-        <source>Use 16 separate masternodes</source>
-        <translation>Usar 16 masternodes</translation>
+      <source>Use 16 separate masternodes</source>
+      <translation type="unfinished">Use 16 separate masternodes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 STONE to anonymize 1000 STONE</source>
-        <translation>Esta opção é a mais rápida e irá custar cerca de ~0.025 STONE para anonimizar 1000 STONE</translation>
+      <source>This option is the quickest and will cost about ~0.025 STONE to anonymize 1000 STONE</source>
+      <translation type="unfinished">This option is the quickest and will cost about ~0.025 STONE to anonymize 1000 STONE</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 STONE to anonymize 1000 STONE</source>
-        <translation>Esta opção é relativamente rápida e irá custar cerca de ~0.05 STONE para anonimizar 1000 STONE</translation>
+      <source>This option is moderately fast and will cost about 0.05 STONE to anonymize 1000 STONE</source>
+      <translation type="unfinished">This option is moderately fast and will cost about 0.05 STONE to anonymize 1000 STONE</translation>
     </message>
     <message>
-        <source>0.1 STONE per 1000 STONE you anonymize.</source>
-        <translation>0.1 STONE por cada 1000 STONE a anonimizar.</translation>
+      <source>0.1 STONE per 1000 STONE you anonymize.</source>
+      <translation type="unfinished">0.1 STONE per 1000 STONE you anonymize.</translation>
     </message>
     <message>
-        <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
-        <translation>Esta é a opção mais lenta e mais segura. Usando anonimização máxima irá custar</translation>
+      <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
+      <translation type="unfinished">This is the slowest and most secure option. Using maximum anonymity will cost</translation>
     </message>
     <message>
-        <source>Darksend Configuration</source>
-        <translation>Configuração Darksend</translation>
+      <source>Darksend Configuration</source>
+      <translation type="unfinished">Darksend Configuration</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>Darksend foi colocado com sucesso no modo básico (%1 e 2 voltas). Pode mudar esta definição em qualquer altura abrindo o ecrã de configuração Proton.</translation>
+      <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</source>
+      <translation type="unfinished">Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>Darksend foi colocado com sucesso no modo alto (%1 e 8 voltas). Pode mudar esta definição em qualquer altura abrindo o ecrã de configuração Proton.</translation>
+      <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</source>
+      <translation type="unfinished">Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>Darksend foi colocado com sucesso no modo máximo (%1 e 16 voltas). Pode mudar esta definição em qualquer altura abrindo o ecrã de configuração Proton.</translation>
+      <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</source>
+      <translation type="unfinished">Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>EditAddressDialog</name>
     <message>
-        <source>Edit Address</source>
-        <translation>Editar Endereço</translation>
+      <source>Edit Address</source>
+      <translation type="unfinished">Edit Address</translation>
     </message>
     <message>
-        <source>&amp;Label</source>
-        <translation>&amp;Rótulo</translation>
+      <source>&amp;Label</source>
+      <translation type="unfinished">&amp;Label</translation>
     </message>
     <message>
-        <source>The label associated with this address list entry</source>
-        <translation>Rótulo associado com este item da lista de endereços</translation>
+      <source>The label associated with this address list entry</source>
+      <translation type="unfinished">The label associated with this address list entry</translation>
     </message>
     <message>
-        <source>&amp;Address</source>
-        <translation>&amp;Endereço</translation>
+      <source>&amp;Address</source>
+      <translation type="unfinished">&amp;Address</translation>
     </message>
     <message>
-        <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>O endereço associado com este item da lista. Isto só pode ser modificado para endereços de envio.</translation>
+      <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
+      <translation type="unfinished">The address associated with this address list entry. This can only be modified for sending addresses.</translation>
     </message>
     <message>
-        <source>New receiving address</source>
-        <translation>Novo endereço de recepção</translation>
+      <source>New receiving address</source>
+      <translation type="unfinished">New receiving address</translation>
     </message>
     <message>
-        <source>New sending address</source>
-        <translation>Novo endereço de envio</translation>
+      <source>New sending address</source>
+      <translation type="unfinished">New sending address</translation>
     </message>
     <message>
-        <source>Edit receiving address</source>
-        <translation>Editar endereço de recepção</translation>
+      <source>Edit receiving address</source>
+      <translation type="unfinished">Edit receiving address</translation>
     </message>
     <message>
-        <source>Edit sending address</source>
-        <translation>Editar endereço de envio</translation>
+      <source>Edit sending address</source>
+      <translation type="unfinished">Edit sending address</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Proton address.</source>
-        <translation>O endereço introduzido "%1" não é um endereço Proton válido.</translation>
+      <source>The entered address "%1" is not a valid Proton address.</source>
+      <translation type="unfinished">The entered address "%1" is not a valid Proton address.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is already in the address book.</source>
-        <translation>O endereço introduzido "%1" já se encontra no livro de endereços.</translation>
+      <source>The entered address "%1" is already in the address book.</source>
+      <translation type="unfinished">The entered address "%1" is already in the address book.</translation>
     </message>
     <message>
-        <source>Could not unlock wallet.</source>
-        <translation>Não foi possível desbloquear carteira.</translation>
+      <source>Could not unlock wallet.</source>
+      <translation type="unfinished">Could not unlock wallet.</translation>
     </message>
     <message>
-        <source>New key generation failed.</source>
-        <translation>Falhou a geração de nova chave.</translation>
+      <source>New key generation failed.</source>
+      <translation type="unfinished">New key generation failed.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>FreespaceChecker</name>
     <message>
-        <source>A new data directory will be created.</source>
-        <translation>Será criada uma nova pasta de dados.</translation>
+      <source>A new data directory will be created.</source>
+      <translation type="unfinished">A new data directory will be created.</translation>
     </message>
     <message>
-        <source>name</source>
-        <translation>nome</translation>
+      <source>name</source>
+      <translation type="unfinished">name</translation>
     </message>
     <message>
-        <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
-        <translation>A pasta já existe. Adicione %1 se desejar criar uma nova pasta aqui.</translation>
+      <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
+      <translation type="unfinished">Directory already exists. Add %1 if you intend to create a new directory here.</translation>
     </message>
     <message>
-        <source>Path already exists, and is not a directory.</source>
-        <translation>O caminho já existe e não é uma pasta.</translation>
+      <source>Path already exists, and is not a directory.</source>
+      <translation type="unfinished">Path already exists, and is not a directory.</translation>
     </message>
     <message>
-        <source>Cannot create data directory here.</source>
-        <translation>Não é possível criar a pasta de dados aqui.</translation>
+      <source>Cannot create data directory here.</source>
+      <translation type="unfinished">Cannot create data directory here.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Stone Core</source>
-        <translation>Stone Core</translation>
+      <source>Stone Core</source>
+      <translation type="unfinished">Stone Core</translation>
     </message>
     <message>
-        <source>version</source>
-        <translation>versão</translation>
+      <source>version</source>
+      <translation type="unfinished">version</translation>
     </message>
     <message>
-        <source>(%1-bit)</source>
-        <translation>(%1-bit)</translation>
+      <source>Usage:</source>
+      <translation type="unfinished">Usage:</translation>
     </message>
     <message>
-        <source>About Stone Core</source>
-        <translation>Acerca do Stone Core</translation>
+      <source>command-line options</source>
+      <translation type="unfinished">command-line options</translation>
     </message>
     <message>
-        <source>Command-line options</source>
-        <translation>Opções de linha de comandos</translation>
+      <source>UI options</source>
+      <translation type="unfinished">UI options</translation>
     </message>
     <message>
-        <source>Usage:</source>
-        <translation>Utilização:</translation>
+      <source>Choose data directory on startup (default: 0)</source>
+      <translation type="unfinished">Choose data directory on startup (default: 0)</translation>
     </message>
     <message>
-        <source>command-line options</source>
-        <translation>opções de linha de comandos</translation>
+      <source>Set language, for example "de_DE" (default: system locale)</source>
+      <translation type="unfinished">Set language, for example "de_DE" (default: system locale)</translation>
     </message>
     <message>
-        <source>UI options</source>
-        <translation>Opções do interface</translation>
+      <source>Start minimized</source>
+      <translation type="unfinished">Start minimized</translation>
     </message>
     <message>
-        <source>Choose data directory on startup (default: 0)</source>
-        <translation>Escolher pasta de dados no arranque (omissão: 0)</translation>
+      <source>Set SSL root certificates for payment request (default: -system-)</source>
+      <translation type="unfinished">Set SSL root certificates for payment request (default: -system-)</translation>
     </message>
     <message>
-        <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>Defina a linguagem, por exemplo "pt-PT" (omissão: linguagem do sistema)</translation>
+      <source>Show splash screen on startup (default: 1)</source>
+      <translation type="unfinished">Show splash screen on startup (default: 1)</translation>
     </message>
-    <message>
-        <source>Start minimized</source>
-        <translation>Arrancar minimizado</translation>
-    </message>
-    <message>
-        <source>Set SSL root certificates for payment request (default: -system-)</source>
-        <translation>Definir certificados de raiz SSL para solicitações de pagamento (omissão: -sistema-)</translation>
-    </message>
-    <message>
-        <source>Show splash screen on startup (default: 1)</source>
-        <translation>Mostrar ecrã de boas vindas no arranque (omissão: 1)</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>Intro</name>
     <message>
-        <source>Welcome</source>
-        <translation>Bem-vindo</translation>
+      <source>Welcome</source>
+      <translation type="unfinished">Welcome</translation>
     </message>
     <message>
-        <source>Welcome to Stone Core.</source>
-        <translation>Bem-vindo ao Stone Core.</translation>
+      <source>Welcome to Stone Core.</source>
+      <translation type="unfinished">Welcome to Stone Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Stone Core will store its data.</source>
-        <translation>Como esta é a primeira vez que o programa é executado, pode escolher onde o cliente Stone Core irá guardar os seus dados.</translation>
+      <source>As this is the first time the program is launched, you can choose where Stone Core will store its data.</source>
+      <translation type="unfinished">As this is the first time the program is launched, you can choose where Stone Core will store its data.</translation>
     </message>
     <message>
-        <source>Stone Core will download and store a copy of the Proton block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>O cliente Stone Core irá descarregar e guardar uma copia da cadeia de blocos Proton. Pelo menos %1GB de dados serão guardados nesta pasta e irá aumentar com o tempo. A carteira também ficará guardada nesta pasta.</translation>
+      <source>Stone Core will download and store a copy of the Proton block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+      <translation type="unfinished">Stone Core will download and store a copy of the Proton block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
     </message>
     <message>
-        <source>Use the default data directory</source>
-        <translation>Usar a pasta de dados por omissão</translation>
+      <source>Use the default data directory</source>
+      <translation type="unfinished">Use the default data directory</translation>
     </message>
     <message>
-        <source>Use a custom data directory:</source>
-        <translation>Usar uma pasta de dados personalizada</translation>
+      <source>Use a custom data directory:</source>
+      <translation type="unfinished">Use a custom data directory:</translation>
     </message>
     <message>
-        <source>Stone Core</source>
-        <translation>Stone Core</translation>
+      <source>Error</source>
+      <translation type="unfinished">Error</translation>
     </message>
-    <message>
-        <source>Error: Specified data directory "%1" cannot be created.</source>
-        <translation>Erro: A pasta especificada "%1" não pode ser criada.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Erro</translation>
-    </message>
-    <message>
-        <source>%1 GB of free space available</source>
-        <translation>%1 GB de espaço livre disponível</translation>
-    </message>
-    <message>
-        <source>(of %1 GB needed)</source>
-        <translation>(de %1 GB necessários)</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>OpenURIDialog</name>
     <message>
-        <source>Open URI</source>
-        <translation>Abrir URI</translation>
+      <source>Open URI</source>
+      <translation type="unfinished">Open URI</translation>
     </message>
     <message>
-        <source>Open payment request from URI or file</source>
-        <translation>Abrir solicitação de pagamento a partir de um URI ou ficheiro</translation>
+      <source>Open payment request from URI or file</source>
+      <translation type="unfinished">Open payment request from URI or file</translation>
     </message>
     <message>
-        <source>URI:</source>
-        <translation>URI:</translation>
+      <source>URI:</source>
+      <translation type="unfinished">URI:</translation>
     </message>
     <message>
-        <source>Select payment request file</source>
-        <translation>Seleccionar ficheiro de solicitação de pagamento</translation>
+      <source>Select payment request file</source>
+      <translation type="unfinished">Select payment request file</translation>
     </message>
     <message>
-        <source>Select payment request file to open</source>
-        <translation>Seleccionar ficheiro de solicitação de pagamento para abrir</translation>
+      <source>Select payment request file to open</source>
+      <translation type="unfinished">Select payment request file to open</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>OptionsDialog</name>
     <message>
-        <source>Options</source>
-        <translation>Opções</translation>
+      <source>Options</source>
+      <translation type="unfinished">Options</translation>
     </message>
     <message>
-        <source>&amp;Main</source>
-        <translation>&amp;Geral</translation>
+      <source>&amp;Main</source>
+      <translation type="unfinished">&amp;Main</translation>
     </message>
     <message>
-        <source>Automatically start Proton after logging in to the system.</source>
-        <translation>Executar automaticamente o cliente Proton quando entrar no sistema.</translation>
+      <source>Automatically start Proton after logging in to the system.</source>
+      <translation type="unfinished">Automatically start Proton after logging in to the system.</translation>
     </message>
     <message>
-        <source>&amp;Start Proton on system login</source>
-        <translation>&amp;Iniciar o cliente Proton ao entrar no sistema</translation>
+      <source>&amp;Start Proton on system login</source>
+      <translation type="unfinished">&amp;Start Proton on system login</translation>
     </message>
     <message>
-        <source>Size of &amp;database cache</source>
-        <translation>Tamanho da &amp;cache de dados</translation>
+      <source>Size of &amp;database cache</source>
+      <translation type="unfinished">Size of &amp;database cache</translation>
     </message>
     <message>
-        <source>MB</source>
-        <translation>MB</translation>
+      <source>MB</source>
+      <translation type="unfinished">MB</translation>
     </message>
     <message>
-        <source>Number of script &amp;verification threads</source>
-        <translation>Número de processos de &amp;verificação de scripts</translation>
+      <source>Number of script &amp;verification threads</source>
+      <translation type="unfinished">Number of script &amp;verification threads</translation>
     </message>
     <message>
-        <source>(0 = auto, &lt;0 = leave that many cores free)</source>
-        <translation>(0 = auto, &lt;0 = deixar este número de cores livres)</translation>
+      <source>(0 = auto, &lt;0 = leave that many cores free)</source>
+      <translation type="unfinished">(0 = auto, &lt;0 = leave that many cores free)</translation>
     </message>
     <message>
-        <source>Darksend rounds to use</source>
-        <translation>Número de voltas Darksend a usar</translation>
+      <source>Darksend rounds to use</source>
+      <translation type="unfinished">Darksend rounds to use</translation>
     </message>
     <message>
-        <source>This amount acts as a threshold to turn off Darksend once it's reached.</source>
-        <translation>Esta quantia actua como um limite, a partir do qual o Darksend é desligado.</translation>
+      <source>This amount acts as a threshold to turn off Darksend once it's reached.</source>
+      <translation type="unfinished">This amount acts as a threshold to turn off Darksend once it's reached.</translation>
     </message>
     <message>
-        <source>Amount of Proton to keep anonymized</source>
-        <translation>Quantia de Proton a manter anonimizada</translation>
+      <source>Amount of Proton to keep anonymized</source>
+      <translation type="unfinished">Amount of Proton to keep anonymized</translation>
     </message>
     <message>
-        <source>W&amp;allet</source>
-        <translation>C&amp;arteira</translation>
+      <source>W&amp;allet</source>
+      <translation type="unfinished">W&amp;allet</translation>
     </message>
     <message>
-        <source>If you disable the spending of unconfirmed change, the change from a transaction&lt;br/&gt;cannot be used until that transaction has at least one confirmation.&lt;br/&gt;This also affects how your balance is computed.</source>
-        <translation>Se desabilitar a funcionalidade de gastar o troco não confirmado, este troco &lt;br/&gt; não poderá ser usado até que a transacção tenha pelo menos uma confirmação. &lt;br/&gt; Isto também afecta a maneira como o seu saldo é calculado.</translation>
+      <source>Expert</source>
+      <translation type="unfinished">Expert</translation>
     </message>
     <message>
-        <source>Accept connections from outside</source>
-        <translation>Aceitar ligações do exterior</translation>
+      <source>Whether to show coin control features or not.</source>
+      <translation type="unfinished">Whether to show coin control features or not.</translation>
     </message>
     <message>
-        <source>Allow incoming connections</source>
-        <translation>Aceitar ligações de entrada</translation>
+      <source>Enable coin &amp;control features</source>
+      <translation type="unfinished">Enable coin &amp;control features</translation>
     </message>
     <message>
-        <source>Connect to the Proton network through a SOCKS5 proxy.</source>
-        <translation>Efectuar a ligação à rede Proton através de um proxy SOCKS5.</translation>
+      <source>&amp;Spend unconfirmed change</source>
+      <translation type="unfinished">&amp;Spend unconfirmed change</translation>
     </message>
     <message>
-        <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
-        <translation>&amp;Ligar através de um proxy SOCKS5 (proxy por omissão)</translation>
+      <source>&amp;Network</source>
+      <translation type="unfinished">&amp;Network</translation>
     </message>
     <message>
-        <source>Expert</source>
-        <translation>Avançado</translation>
+      <source>Automatically open the Proton client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+      <translation type="unfinished">Automatically open the Proton client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
-        <source>This setting determines the amount of individual masternodes that an input will be anonymized through.&lt;br/&gt;More rounds of anonymization gives a higher degree of privacy, but also costs more in fees.</source>
-        <translation>Esta opção determina o número de masternodes pelos quais uma entrada será anonimizada. &lt;br/&gt; Mais rondas de anonimização fornecem um maior grau de privacidade, mas também tem um custo mais elevado em taxas.</translation>
+      <source>Map port using &amp;UPnP</source>
+      <translation type="unfinished">Map port using &amp;UPnP</translation>
     </message>
     <message>
-        <source>Whether to show coin control features or not.</source>
-        <translation>Se deve mostrar as opções de coin control.</translation>
+      <source>Proxy &amp;IP:</source>
+      <translation type="unfinished">Proxy &amp;IP:</translation>
     </message>
     <message>
-        <source>Enable coin &amp;control features</source>
-        <translation>Activar opções coin &amp;control</translation>
+      <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
+      <translation type="unfinished">IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</translation>
     </message>
     <message>
-        <source>&amp;Spend unconfirmed change</source>
-        <translation>&amp;Gastar troco não confirmado</translation>
+      <source>&amp;Port:</source>
+      <translation type="unfinished">&amp;Port:</translation>
     </message>
     <message>
-        <source>&amp;Network</source>
-        <translation>&amp;Rede</translation>
+      <source>Port of the proxy (e.g. 9050)</source>
+      <translation type="unfinished">Port of the proxy (e.g. 9050)</translation>
     </message>
     <message>
-        <source>Automatically open the Proton client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automaticamente a porta do cliente Proton no router. Isto só funciona quando o seu router suporta UPnP e este está activo.</translation>
+      <source>&amp;Window</source>
+      <translation type="unfinished">&amp;Window</translation>
     </message>
     <message>
-        <source>Map port using &amp;UPnP</source>
-        <translation>Mapear porta usando &amp;UPnP</translation>
+      <source>Show only a tray icon after minimizing the window.</source>
+      <translation type="unfinished">Show only a tray icon after minimizing the window.</translation>
     </message>
     <message>
-        <source>Proxy &amp;IP:</source>
-        <translation>IP do proxy</translation>
+      <source>&amp;Minimize to the tray instead of the taskbar</source>
+      <translation type="unfinished">&amp;Minimize to the tray instead of the taskbar</translation>
     </message>
     <message>
-        <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
-        <translation>Endereço IP do proxy (ex. IPv4: 127.0.0.1 / IPv6: ::1)</translation>
+      <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
+      <translation type="unfinished">Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</translation>
     </message>
     <message>
-        <source>&amp;Port:</source>
-        <translation>&amp;Porta:</translation>
+      <source>M&amp;inimize on close</source>
+      <translation type="unfinished">M&amp;inimize on close</translation>
     </message>
     <message>
-        <source>Port of the proxy (e.g. 9050)</source>
-        <translation>Porta do servidor proxy (ex. 9050)</translation>
+      <source>&amp;Display</source>
+      <translation type="unfinished">&amp;Display</translation>
     </message>
     <message>
-        <source>&amp;Window</source>
-        <translation>&amp;Janela</translation>
+      <source>User Interface &amp;language:</source>
+      <translation type="unfinished">User Interface &amp;language:</translation>
     </message>
     <message>
-        <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Somente mostrar o ícone no tabuleiro após minimizar aplicação</translation>
+      <source>The user interface language can be set here. This setting will take effect after restarting Proton.</source>
+      <translation type="unfinished">The user interface language can be set here. This setting will take effect after restarting Proton.</translation>
     </message>
     <message>
-        <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;Minimizar para o tabuleiro, em vez da barra de tarefas</translation>
-    </message>
-    <message>
-        <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Minimizar em vez de fechar ao sair da aplicação. Quando esta opção está activada, a aplicação só será fechada quando seleccionar Sair no menu. </translation>
-    </message>
-    <message>
-        <source>M&amp;inimize on close</source>
-        <translation>M&amp;inimizar ao fechar</translation>
-    </message>
-    <message>
-        <source>&amp;Display</source>
-        <translation>&amp;Interface</translation>
-    </message>
-    <message>
-        <source>User Interface &amp;language:</source>
-        <translation>&amp;Linguagem do interface:</translation>
-    </message>
-    <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Proton.</source>
-        <translation>A linguagem do interface pode ser definida aqui. Esta definição terá efeito depois de reiniciar a aplicação.</translation>
-    </message>
-    <message>
-        <source>Language missing or translation incomplete? Help contributing translations here:
+      <source>Language missing or translation incomplete? Help contributing translations here:
 https://www.transifex.com/projects/p/stone/</source>
-        <translation>Linguagem não encontrada ou tradução incompleta? Ajude a traduzir aqui:
+      <translation type="unfinished">Language missing or translation incomplete? Help contributing translations here:
 https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
-        <source>User Interface Theme:</source>
-        <translation>Tema do interface:</translation>
+      <source>&amp;Unit to show amounts in:</source>
+      <translation type="unfinished">&amp;Unit to show amounts in:</translation>
     </message>
     <message>
-        <source>&amp;Unit to show amounts in:</source>
-        <translation>&amp;Unidade por omissão usada para mostrar as quantias:</translation>
+      <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
+      <translation type="unfinished">Choose the default subdivision unit to show in the interface and when sending coins.</translation>
     </message>
     <message>
-        <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Escolha a unidade subdivisão por omissão para mostrar na interface e no envio de moedas.</translation>
+      <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
+      <translation type="unfinished">Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</translation>
     </message>
     <message>
-        <source>Decimal digits</source>
-        <translation>Dígitos decimais</translation>
+      <source>Third party transaction URLs</source>
+      <translation type="unfinished">Third party transaction URLs</translation>
     </message>
     <message>
-        <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
-        <translation>URLs de terceiros (ex. explorador de blocos) que aparecem no separador de transacções como itens do menu de contexto. %s no URL é substituído pelo hash da transacção. URLs múltiplos são separados pela barra vertical |.</translation>
+      <source>Active command-line options that override above options:</source>
+      <translation type="unfinished">Active command-line options that override above options:</translation>
     </message>
     <message>
-        <source>Third party transaction URLs</source>
-        <translation>URLs de transacções de terceiros</translation>
+      <source>Reset all client options to default.</source>
+      <translation type="unfinished">Reset all client options to default.</translation>
     </message>
     <message>
-        <source>Active command-line options that override above options:</source>
-        <translation>Opções activas de linha de comandos que sobrescrevem as opções acima:</translation>
+      <source>&amp;Reset Options</source>
+      <translation type="unfinished">&amp;Reset Options</translation>
     </message>
     <message>
-        <source>Reset all client options to default.</source>
-        <translation>Reiniciar todas as opções do cliente para os valores por omissão.</translation>
+      <source>&amp;OK</source>
+      <translation type="unfinished">&amp;OK</translation>
     </message>
     <message>
-        <source>&amp;Reset Options</source>
-        <translation>&amp;Reiniciar Opções</translation>
+      <source>&amp;Cancel</source>
+      <translation type="unfinished">&amp;Cancel</translation>
     </message>
     <message>
-        <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+      <source>default</source>
+      <translation type="unfinished">default</translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation>&amp;Cancelar</translation>
+      <source>none</source>
+      <translation type="unfinished">none</translation>
     </message>
     <message>
-        <source>default</source>
-        <translation>omissão</translation>
+      <source>Confirm options reset</source>
+      <translation type="unfinished">Confirm options reset</translation>
     </message>
     <message>
-        <source>none</source>
-        <translation>nenhum</translation>
+      <source>Client restart required to activate changes.</source>
+      <translation type="unfinished">Client restart required to activate changes.</translation>
     </message>
     <message>
-        <source>Confirm options reset</source>
-        <translation>Confirme reinicialização das opções</translation>
+      <source>Client will be shutdown, do you want to proceed?</source>
+      <translation type="unfinished">Client will be shutdown, do you want to proceed?</translation>
     </message>
     <message>
-        <source>Client restart required to activate changes.</source>
-        <translation>Para activar as alterações é necessário reiniciar o cliente.</translation>
+      <source>This change would require a client restart.</source>
+      <translation type="unfinished">This change would require a client restart.</translation>
     </message>
     <message>
-        <source>Client will be shutdown, do you want to proceed?</source>
-        <translation>O cliente será fechado, deseja continuar?</translation>
+      <source>The supplied proxy address is invalid.</source>
+      <translation type="unfinished">The supplied proxy address is invalid.</translation>
     </message>
-    <message>
-        <source>This change would require a client restart.</source>
-        <translation>Esta alteração necessita que o cliente seja reiniciado.</translation>
-    </message>
-    <message>
-        <source>The supplied proxy address is invalid.</source>
-        <translation>O endereço proxy fornecido é inválido.</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>OverviewPage</name>
     <message>
-        <source>Form</source>
-        <translation>De</translation>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Proton network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada pode estar desactualizada. A sua carteira sincroniza automaticamente com a rede Proton assim que for estabelecida uma ligação, mas este processo ainda não terminou.</translation>
+      <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Proton network after a connection is established, but this process has not completed yet.</source>
+      <translation type="unfinished">The displayed information may be out of date. Your wallet automatically synchronizes with the Proton network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
-        <source>Available:</source>
-        <translation>Disponível:</translation>
+      <source>Available:</source>
+      <translation type="unfinished">Available:</translation>
     </message>
     <message>
-        <source>Your current spendable balance</source>
-        <translation>O seu saldo disponível</translation>
+      <source>Your current spendable balance</source>
+      <translation type="unfinished">Your current spendable balance</translation>
     </message>
     <message>
-        <source>Pending:</source>
-        <translation>Pendente:</translation>
+      <source>Pending:</source>
+      <translation type="unfinished">Pending:</translation>
     </message>
     <message>
-        <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
-        <translation>Total de transacções que ainda não foram confirmadas e não contam para o saldo disponível</translation>
+      <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
+      <translation type="unfinished">Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</translation>
     </message>
     <message>
-        <source>Immature:</source>
-        <translation>Imaturo:</translation>
+      <source>Immature:</source>
+      <translation type="unfinished">Immature:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
-        <translation>Saldo minado que ainda não atingiu a maturidade</translation>
+      <source>Mined balance that has not yet matured</source>
+      <translation type="unfinished">Mined balance that has not yet matured</translation>
     </message>
     <message>
-        <source>Balances</source>
-        <translation>Saldos</translation>
+      <source>Total:</source>
+      <translation type="unfinished">Total:</translation>
     </message>
     <message>
-        <source>Unconfirmed transactions to watch-only addresses</source>
-        <translation>Transações não confirmadas para endereços somente de visualização</translation>
+      <source>Your current total balance</source>
+      <translation type="unfinished">Your current total balance</translation>
     </message>
     <message>
-        <source>Mined balance in watch-only addresses that has not yet matured</source>
-        <translation>Saldo minado que ainda não atingiu a maturidade em endereços somente de visualização</translation>
+      <source>Status:</source>
+      <translation type="unfinished">Status:</translation>
     </message>
     <message>
-        <source>Total:</source>
-        <translation>Total:</translation>
+      <source>Enabled/Disabled</source>
+      <translation type="unfinished">Enabled/Disabled</translation>
     </message>
     <message>
-        <source>Your current total balance</source>
-        <translation>O seu saldo total</translation>
+      <source>Completion:</source>
+      <translation type="unfinished">Completion:</translation>
     </message>
     <message>
-        <source>Current total balance in watch-only addresses</source>
-        <translation>Saldo total em endereços somente de visualização</translation>
+      <source>Darksend Balance:</source>
+      <translation type="unfinished">Darksend Balance:</translation>
     </message>
     <message>
-        <source>Watch-only:</source>
-        <translation>Somente de visualização:</translation>
+      <source>Amount and Rounds:</source>
+      <translation type="unfinished">Amount and Rounds:</translation>
     </message>
     <message>
-        <source>Your current balance in watch-only addresses</source>
-        <translation>O seu saldo actual em endereços somente de visualização</translation>
+      <source>0 STONE / 0 Rounds</source>
+      <translation type="unfinished">0 STONE / 0 Rounds</translation>
     </message>
     <message>
-        <source>Spendable:</source>
-        <translation>Disponível:</translation>
+      <source>Submitted Denom:</source>
+      <translation type="unfinished">Submitted Denom:</translation>
     </message>
     <message>
-        <source>Status:</source>
-        <translation>Estado:</translation>
+      <source>n/a</source>
+      <translation type="unfinished">n/a</translation>
     </message>
     <message>
-        <source>Enabled/Disabled</source>
-        <translation>Activado/Desactivado</translation>
+      <source>Darksend</source>
+      <translation type="unfinished">Darksend</translation>
     </message>
     <message>
-        <source>Completion:</source>
-        <translation>Progresso:</translation>
+      <source>Start/Stop Mixing</source>
+      <translation type="unfinished">Start/Stop Mixing</translation>
     </message>
     <message>
-        <source>Darksend Balance:</source>
-        <translation>Saldo Darksend:</translation>
+      <source>(Last Message)</source>
+      <translation type="unfinished">(Last Message)</translation>
     </message>
     <message>
-        <source>Amount and Rounds:</source>
-        <translation>Quantia e Voltas:</translation>
+      <source>Try to manually submit a Darksend request.</source>
+      <translation type="unfinished">Try to manually submit a Darksend request.</translation>
     </message>
     <message>
-        <source>0 STONE / 0 Rounds</source>
-        <translation>0 STONE / 0 Voltas</translation>
+      <source>Try Mix</source>
+      <translation type="unfinished">Try Mix</translation>
     </message>
     <message>
-        <source>Submitted Denom:</source>
-        <translation>Denominação submetida:</translation>
+      <source>Reset the current status of Darksend (can interrupt Darksend if it's in the process of Mixing, which can cost you money!)</source>
+      <translation type="unfinished">Reset the current status of Darksend (can interrupt Darksend if it's in the process of Mixing, which can cost you money!)</translation>
     </message>
     <message>
-        <source>n/a</source>
-        <translation>n/d</translation>
+      <source>Reset</source>
+      <translation type="unfinished">Reset</translation>
     </message>
     <message>
-        <source>Darksend</source>
-        <translation>Darksend</translation>
+      <source>out of sync</source>
+      <translation type="unfinished">out of sync</translation>
     </message>
     <message>
-        <source>Recent transactions</source>
-        <translation>Transacções recentes</translation>
+      <source>Disabled</source>
+      <translation type="unfinished">Disabled</translation>
     </message>
     <message>
-        <source>Start/Stop Mixing</source>
-        <translation>Iniciar/Parar Mistura</translation>
+      <source>Start Darksend Mixing</source>
+      <translation type="unfinished">Start Darksend Mixing</translation>
     </message>
     <message>
-        <source>The denominations you submitted to the Masternode.&lt;br&gt;To mix, other users must submit the exact same denominations.</source>
-        <translation>As denominações que foram submetidas para o Masternode.&lt;br&gt;Para misturar, outros utilizadores terão que submeter denominações iguais.</translation>
+      <source>Stop Darksend Mixing</source>
+      <translation type="unfinished">Stop Darksend Mixing</translation>
     </message>
     <message>
-        <source>(Last Message)</source>
-        <translation>(Última Mensagem)</translation>
+      <source>No inputs detected</source>
+      <translation type="unfinished">No inputs detected</translation>
     </message>
     <message>
-        <source>Try to manually submit a Darksend request.</source>
-        <translation>Tentar submeter um pedido Darksend manualmente.</translation>
+      <source>Enabled</source>
+      <translation type="unfinished">Enabled</translation>
     </message>
     <message>
-        <source>Try Mix</source>
-        <translation>Tentar Mistura</translation>
-    </message>
-    <message>
-        <source>Reset the current status of Darksend (can interrupt Darksend if it's in the process of Mixing, which can cost you money!)</source>
-        <translation>Reinicia o estado actual Darksend (pode interromper o Darksend mesmo quando em processo de Mistura, o que pode ter custos!)</translation>
-    </message>
-    <message>
-        <source>Reset</source>
-        <translation>Reiniciar</translation>
-    </message>
-    <message>
-        <source>out of sync</source>
-        <translation>fora de sincronia</translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <translation>Desactivado</translation>
-    </message>
-    <message>
-        <source>Start Darksend Mixing</source>
-        <translation>Iniciar Mistura Darksend</translation>
-    </message>
-    <message>
-        <source>Stop Darksend Mixing</source>
-        <translation>Parar Mistura Darksend</translation>
-    </message>
-    <message>
-        <source>No inputs detected</source>
-        <translation>Nenhuma entrada detectada</translation>
-    </message>
-    <message numerus="yes">
-        <source>%n Rounds</source>
-        <translation><numerusform>%n volta</numerusform><numerusform>%n voltas</numerusform></translation>
-    </message>
-    <message>
-        <source>Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</source>
-        <translation>Número insuficiente de entradas para anonimizar &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br/&gt;a anonimizar &lt;span style='color:red;'&gt;%2&lt;/span&gt; em alternativa</translation>
-    </message>
-    <message>
-        <source>Overall progress</source>
-        <translation>Progresso Geral</translation>
-    </message>
-    <message>
-        <source>Denominated</source>
-        <translation>Denominado</translation>
-    </message>
-    <message>
-        <source>Anonymized</source>
-        <translation>Anonimizado</translation>
-    </message>
-    <message numerus="yes">
-        <source>Denominated inputs have %5 of %n rounds on average</source>
-        <translation><numerusform>Entradas denominadas tem %5 de %n volta em média</numerusform><numerusform>Entradas denominadas tem %5 de %n voltas em média</numerusform></translation>
-    </message>
-    <message>
-        <source>Found enough compatible inputs to anonymize %1</source>
-        <translation>Encontradas entradas suficientes para anonimizar %1</translation>
-    </message>
-    <message>
-        <source>Mixed</source>
-        <translation>Misturado</translation>
-    </message>
-    <message>
-        <source>Enabled</source>
-        <translation>Activado</translation>
-    </message>
-    <message>
-        <source>Last Darksend message:
+      <source>Last Darksend message:
 </source>
-        <translation>Última mensagem Darksend:
+      <translation type="unfinished">Last Darksend message:
 </translation>
     </message>
     <message>
-        <source>N/A</source>
-        <translation>N/D</translation>
+      <source>N/A</source>
+      <translation type="unfinished">N/A</translation>
     </message>
     <message>
-        <source>Darksend was successfully reset.</source>
-        <translation>Darksend foi reposto com sucesso.</translation>
+      <source>Darksend was successfully reset.</source>
+      <translation type="unfinished">Darksend was successfully reset.</translation>
     </message>
     <message>
-        <source>If you don't want to see internal Darksend fees/transactions select "Most Common" as Type on the "Transactions" tab.</source>
-        <translation>Se não deseja visualizar as taxas/transacções internas Darksend seleccione "Mais Comuns" como Tipo no separador "Transacções"</translation>
+      <source>Darksend requires at least %1 to use.</source>
+      <translation type="unfinished">Darksend requires at least %1 to use.</translation>
     </message>
     <message>
-        <source>Darksend requires at least %1 to use.</source>
-        <translation>Darksend necessita de pelo menos %1 para ser usado.</translation>
+      <source>Wallet is locked and user declined to unlock. Disabling Darksend.</source>
+      <translation type="unfinished">Wallet is locked and user declined to unlock. Disabling Darksend.</translation>
     </message>
-    <message>
-        <source>Wallet is locked and user declined to unlock. Disabling Darksend.</source>
-        <translation>A carteira está bloqueada e o utilizador recusou o desbloqueamento. A desactivar Darksend.</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PaymentServer</name>
     <message>
-        <source>Payment request error</source>
-        <translation>Erro na solicitação de pagamento</translation>
+      <source>Payment request error</source>
+      <translation type="unfinished">Payment request error</translation>
     </message>
     <message>
-        <source>Cannot start stone: click-to-pay handler</source>
-        <translation>Não é possível iniciar o stone: click-to-pay handler</translation>
+      <source>Cannot start stone: click-to-pay handler</source>
+      <translation type="unfinished">Cannot start stone: click-to-pay handler</translation>
     </message>
     <message>
-        <source>URI handling</source>
-        <translation>Manipulação de URI</translation>
+      <source>URI handling</source>
+      <translation type="unfinished">URI handling</translation>
     </message>
     <message>
-        <source>Payment request fetch URL is invalid: %1</source>
-        <translation>URL de solicitação de pagamento é inválido: %1</translation>
+      <source>Payment request fetch URL is invalid: %1</source>
+      <translation type="unfinished">Payment request fetch URL is invalid: %1</translation>
     </message>
     <message>
-        <source>Payment request file handling</source>
-        <translation>Manipulação de ficheiros de solicitação de pagamento</translation>
+      <source>Payment request file handling</source>
+      <translation type="unfinished">Payment request file handling</translation>
     </message>
     <message>
-        <source>Invalid payment address %1</source>
-        <translation>Endereço de pagamento inválido %1</translation>
+      <source>Unverified payment requests to custom payment scripts are unsupported.</source>
+      <translation type="unfinished">Unverified payment requests to custom payment scripts are unsupported.</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Proton address or malformed URI parameters.</source>
-        <translation>O URI não pode ser carregado! Isto pode ser causado por um endereço Proton inválido ou parâmetros do URI incorrectos.</translation>
+      <source>Requested payment amount of %1 is too small (considered dust).</source>
+      <translation type="unfinished">Requested payment amount of %1 is too small (considered dust).</translation>
     </message>
     <message>
-        <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
-        <translation>O ficheiro de solicitação de pagamento não pode ser aberto ou processado! Isto pode ser causado por um ficheiro de solicitação de pagamento inválido.</translation>
+      <source>Refund from %1</source>
+      <translation type="unfinished">Refund from %1</translation>
     </message>
     <message>
-        <source>Payment request rejected</source>
-        <translation>Solicitação de pagamento rejeitada</translation>
+      <source>Error communicating with %1: %2</source>
+      <translation type="unfinished">Error communicating with %1: %2</translation>
     </message>
     <message>
-        <source>Payment request network doesn't match client network.</source>
-        <translation>A rede da solicitação de pagamento não corresponde à rede do cliente.</translation>
+      <source>Bad response from server %1</source>
+      <translation type="unfinished">Bad response from server %1</translation>
     </message>
     <message>
-        <source>Payment request has expired.</source>
-        <translation>A solicitação de pagamento expirou.</translation>
+      <source>Network request error</source>
+      <translation type="unfinished">Network request error</translation>
     </message>
     <message>
-        <source>Payment request is not initialized.</source>
-        <translation>A solicitação de pagamento não está inicializada.</translation>
+      <source>Payment acknowledged</source>
+      <translation type="unfinished">Payment acknowledged</translation>
     </message>
-    <message>
-        <source>Unverified payment requests to custom payment scripts are unsupported.</source>
-        <translation>Solicitações de pagamento não verificadas para scripts de pagamento personalizados não são suportadas.</translation>
-    </message>
-    <message>
-        <source>Requested payment amount of %1 is too small (considered dust).</source>
-        <translation>A quantia %1 para solicitação de pagamento é demasiado pequena (considerada poeira)</translation>
-    </message>
-    <message>
-        <source>Refund from %1</source>
-        <translation>Devolução de %1</translation>
-    </message>
-    <message>
-        <source>Payment request %1 is too large (%2 bytes, allowed %3 bytes).</source>
-        <translation>A solicitação de pagamento %1 é demasiado grande (%2 bytes, permitido %3 bytes).</translation>
-    </message>
-    <message>
-        <source>Payment request DoS protection</source>
-        <translation>Protecção DoS à solicitação de pagamento</translation>
-    </message>
-    <message>
-        <source>Error communicating with %1: %2</source>
-        <translation>Erro de comunicação com %1: %2</translation>
-    </message>
-    <message>
-        <source>Payment request cannot be parsed!</source>
-        <translation>A solicitação de pagamento não pode ser carregada!</translation>
-    </message>
-    <message>
-        <source>Bad response from server %1</source>
-        <translation>Resposta inválida do servidor %1</translation>
-    </message>
-    <message>
-        <source>Network request error</source>
-        <translation>Erro no pedido à rede</translation>
-    </message>
-    <message>
-        <source>Payment acknowledged</source>
-        <translation>Pagamento confirmado</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>PeerTableModel</name>
-    <message>
-        <source>Address/Hostname</source>
-        <translation>Endereço/Servidor</translation>
-    </message>
-    <message>
-        <source>User Agent</source>
-        <translation>Agente de Usuário</translation>
-    </message>
-    <message>
-        <source>Ping Time</source>
-        <translation>Tempo de Ping</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QObject</name>
-    <message>
-        <source>Amount</source>
-        <translation>Quantia</translation>
-    </message>
-    <message>
-        <source>Enter a Proton address (e.g. %1)</source>
-        <translation>Insira um endereço Proton (ex. %1)</translation>
-    </message>
-    <message>
-        <source>%1 d</source>
-        <translation>%1 d</translation>
-    </message>
-    <message>
-        <source>%1 h</source>
-        <translation>%1 h</translation>
-    </message>
-    <message>
-        <source>%1 m</source>
-        <translation>%1 m</translation>
-    </message>
-    <message>
-        <source>%1 s</source>
-        <translation>%1 s</translation>
-    </message>
-    <message>
-        <source>NETWORK</source>
-        <translation>REDE</translation>
-    </message>
-    <message>
-        <source>UNKNOWN</source>
-        <translation>DESCONHECIDO</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Nenhum</translation>
-    </message>
-    <message>
-        <source>N/A</source>
-        <translation>N/D</translation>
-    </message>
-    <message>
-        <source>%1 ms</source>
-        <translation>%1 ms</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>QRImageWidget</name>
     <message>
-        <source>&amp;Save Image...</source>
-        <translation>&amp;Salvar Imagem...</translation>
+      <source>&amp;Save Image...</source>
+      <translation type="unfinished">&amp;Save Image...</translation>
     </message>
     <message>
-        <source>&amp;Copy Image</source>
-        <translation>&amp;Copiar Imagem</translation>
+      <source>&amp;Copy Image</source>
+      <translation type="unfinished">&amp;Copy Image</translation>
     </message>
     <message>
-        <source>Save QR Code</source>
-        <translation>Guardar código QR</translation>
+      <source>Save QR Code</source>
+      <translation type="unfinished">Save QR Code</translation>
     </message>
     <message>
-        <source>PNG Image (*.png)</source>
-        <translation>Imagem PNG (*.png)</translation>
+      <source>PNG Image (*.png)</source>
+      <translation type="unfinished">PNG Image (*.png)</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>RPCConsole</name>
     <message>
-        <source>Tools window</source>
-        <translation>Janela de ferramentas</translation>
+      <source>Tools window</source>
+      <translation type="unfinished">Tools window</translation>
     </message>
     <message>
-        <source>&amp;Information</source>
-        <translation>&amp;Information</translation>
+      <source>&amp;Information</source>
+      <translation type="unfinished">&amp;Information</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation>Geral</translation>
+      <source>General</source>
+      <translation type="unfinished">General</translation>
     </message>
     <message>
-        <source>Name</source>
-        <translation>Nome</translation>
+      <source>Name</source>
+      <translation type="unfinished">Name</translation>
     </message>
     <message>
-        <source>Client name</source>
-        <translation>Nome do Cliente</translation>
+      <source>Client name</source>
+      <translation type="unfinished">Client name</translation>
     </message>
     <message>
-        <source>N/A</source>
-        <translation>N/D</translation>
+      <source>N/A</source>
+      <translation type="unfinished">N/A</translation>
     </message>
     <message>
-        <source>Number of connections</source>
-        <translation>Número de ligações</translation>
+      <source>Number of connections</source>
+      <translation type="unfinished">Number of connections</translation>
     </message>
     <message>
-        <source>Open the Proton debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abrir o ficheiro de registo de depuração Proton a partir da pasta de dados actual. Para grandes ficheiros de registo pode demorar alguns segundos.</translation>
+      <source>Open the Proton debug log file from the current data directory. This can take a few seconds for large log files.</source>
+      <translation type="unfinished">Open the Proton debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
-        <source>&amp;Open</source>
-        <translation>&amp;Abrir</translation>
+      <source>&amp;Open</source>
+      <translation type="unfinished">&amp;Open</translation>
     </message>
     <message>
-        <source>Startup time</source>
-        <translation>Hora de inicialização</translation>
+      <source>Startup time</source>
+      <translation type="unfinished">Startup time</translation>
     </message>
     <message>
-        <source>Network</source>
-        <translation>Rede</translation>
+      <source>Network</source>
+      <translation type="unfinished">Network</translation>
     </message>
     <message>
-        <source>Last block time</source>
-        <translation>Data do último bloco</translation>
+      <source>Last block time</source>
+      <translation type="unfinished">Last block time</translation>
     </message>
     <message>
-        <source>Debug log file</source>
-        <translation>Ficheiro de registo de depuração</translation>
+      <source>Debug log file</source>
+      <translation type="unfinished">Debug log file</translation>
     </message>
     <message>
-        <source>Using OpenSSL version</source>
-        <translation>A usar versão do OpenSSL</translation>
+      <source>Using OpenSSL version</source>
+      <translation type="unfinished">Using OpenSSL version</translation>
     </message>
     <message>
-        <source>Build date</source>
-        <translation>Data de compilação</translation>
+      <source>Build date</source>
+      <translation type="unfinished">Build date</translation>
     </message>
     <message>
-        <source>Current number of blocks</source>
-        <translation>Número actual de blocos</translation>
+      <source>Current number of blocks</source>
+      <translation type="unfinished">Current number of blocks</translation>
     </message>
     <message>
-        <source>Client version</source>
-        <translation>Versão do Cliente</translation>
+      <source>Client version</source>
+      <translation type="unfinished">Client version</translation>
     </message>
     <message>
-        <source>Using BerkeleyDB version</source>
-        <translation>A usar a versão do BerkeleyDB</translation>
+      <source>Block chain</source>
+      <translation type="unfinished">Block chain</translation>
     </message>
     <message>
-        <source>Block chain</source>
-        <translation>Cadeia de blocos</translation>
+      <source>&amp;Console</source>
+      <translation type="unfinished">&amp;Console</translation>
     </message>
     <message>
-        <source>Number of Masternodes</source>
-        <translation>Número de Masternodes</translation>
+      <source>Clear console</source>
+      <translation type="unfinished">Clear console</translation>
     </message>
     <message>
-        <source>&amp;Console</source>
-        <translation>&amp;Consola</translation>
+      <source>&amp;Network Traffic</source>
+      <translation type="unfinished">&amp;Network Traffic</translation>
     </message>
     <message>
-        <source>Clear console</source>
-        <translation>Limpar consola</translation>
+      <source>&amp;Clear</source>
+      <translation type="unfinished">&amp;Clear</translation>
     </message>
     <message>
-        <source>&amp;Network Traffic</source>
-        <translation>&amp;Tráfego de Rede</translation>
+      <source>Totals</source>
+      <translation type="unfinished">Totals</translation>
     </message>
     <message>
-        <source>&amp;Clear</source>
-        <translation>&amp;Limpar</translation>
+      <source>In:</source>
+      <translation type="unfinished">In:</translation>
     </message>
     <message>
-        <source>Totals</source>
-        <translation>Totais</translation>
+      <source>Out:</source>
+      <translation type="unfinished">Out:</translation>
     </message>
     <message>
-        <source>Received</source>
-        <translation>Recebido</translation>
+      <source>Welcome to the Proton RPC console.</source>
+      <translation type="unfinished">Welcome to the Proton RPC console.</translation>
     </message>
     <message>
-        <source>Sent</source>
-        <translation>Enviado</translation>
+      <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
+      <translation type="unfinished">Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</translation>
     </message>
     <message>
-        <source>&amp;Peers</source>
-        <translation>&amp;Nós</translation>
+      <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+      <translation type="unfinished">Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</translation>
     </message>
     <message>
-        <source>Select a peer to view detailed information.</source>
-        <translation>Seleccione um nó para visualizar informação detalhada.</translation>
+      <source>%1 B</source>
+      <translation type="unfinished">%1 B</translation>
     </message>
     <message>
-        <source>Direction</source>
-        <translation>Direcção</translation>
+      <source>%1 KB</source>
+      <translation type="unfinished">%1 KB</translation>
     </message>
     <message>
-        <source>Version</source>
-        <translation>Versão</translation>
+      <source>%1 MB</source>
+      <translation type="unfinished">%1 MB</translation>
     </message>
     <message>
-        <source>User Agent</source>
-        <translation>Agente de Usuário</translation>
+      <source>%1 GB</source>
+      <translation type="unfinished">%1 GB</translation>
     </message>
-    <message>
-        <source>Services</source>
-        <translation>Serviços</translation>
-    </message>
-    <message>
-        <source>Starting Height</source>
-        <translation>Altura Inicial</translation>
-    </message>
-    <message>
-        <source>Sync Height</source>
-        <translation>Altura de Sincronização</translation>
-    </message>
-    <message>
-        <source>Ban Score</source>
-        <translation>Pontuação para Banir</translation>
-    </message>
-    <message>
-        <source>Connection Time</source>
-        <translation>Tempo de Ligação</translation>
-    </message>
-    <message>
-        <source>Last Send</source>
-        <translation>Última Enviado</translation>
-    </message>
-    <message>
-        <source>Last Receive</source>
-        <translation>Último Recebido</translation>
-    </message>
-    <message>
-        <source>Bytes Sent</source>
-        <translation>Bytes Enviados</translation>
-    </message>
-    <message>
-        <source>Bytes Received</source>
-        <translation>Bytes Recebidos</translation>
-    </message>
-    <message>
-        <source>Ping Time</source>
-        <translation>Tempo de Ping</translation>
-    </message>
-    <message>
-        <source>&amp;Wallet Repair</source>
-        <translation>&amp;Reparar Carteira</translation>
-    </message>
-    <message>
-        <source>Salvage wallet</source>
-        <translation>Recuperar Carteira</translation>
-    </message>
-    <message>
-        <source>Rescan blockchain files</source>
-        <translation>Reprocessar ficheiros da cadeia de blocos</translation>
-    </message>
-    <message>
-        <source>Recover transactions 1</source>
-        <translation>Recuperar transacções 1</translation>
-    </message>
-    <message>
-        <source>Recover transactions 2</source>
-        <translation>Recuperar transacções 2</translation>
-    </message>
-    <message>
-        <source>Upgrade wallet format</source>
-        <translation>Actualizar o formato da carteira</translation>
-    </message>
-    <message>
-        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockhain files or missing/obsolete transactions.</source>
-        <translation>Os botões abaixo irão reiniciar a carteira passando parâmetros da linha de comandos para reparar a carteira, corrigir problemas com a cadeia de blocos ou com transacções em falta ou obsoletas.</translation>
-    </message>
-    <message>
-        <source>-salvagewallet: Attempt to recover private keys from a corrupt wallet.dat.</source>
-        <translation>-salvagewallet: Tenta recuperar as chaves privadas a partir de um ficheiro wallet.dat corrompido.</translation>
-    </message>
-    <message>
-        <source>-rescan: Rescan the block chain for missing wallet transactions.</source>
-        <translation>-rescan: Examina novamente a cadeia de blocos para encontrar transacções inexistentes na carteira</translation>
-    </message>
-    <message>
-        <source>-zapwallettxes=1: Recover transactions from blockchain (keep meta-data, e.g. account owner).</source>
-        <translation>-zapwallettxes=1: Recupera transacções da cadeia de blocos (mantendo os meta-dados, ex. dono da conta)</translation>
-    </message>
-    <message>
-        <source>-zapwallettxes=2: Recover transactions from blockchain (drop meta-data).</source>
-        <translation>-zapwallettxes=2: Recupera transacções da cadeia de blocos (apagando os meta-dados)</translation>
-    </message>
-    <message>
-        <source>-upgradewallet: Upgrade wallet to latest format on startup. (Note: this is NOT an update of the wallet itself!)</source>
-        <translation>-upgradewallet: Actualiza a carteira para o formato mais recente quando arranca. (Nota: Isto NÃO é uma actualização da carteira em si!)</translation>
-    </message>
-    <message>
-        <source>Wallet repair options.</source>
-        <translation>Opções de reparação da carteira.</translation>
-    </message>
-    <message>
-        <source>Rebuild index</source>
-        <translation>Reconstruir indexação</translation>
-    </message>
-    <message>
-        <source>-reindex: Rebuild block chain index from current blk000??.dat files.</source>
-        <translation>-reindex: Reconstroi o índice da cadeia de blocos a partir dos ficheiros actuais blk000??.dat.</translation>
-    </message>
-    <message>
-        <source>In:</source>
-        <translation>Entrada:</translation>
-    </message>
-    <message>
-        <source>Out:</source>
-        <translation>Saída:</translation>
-    </message>
-    <message>
-        <source>Welcome to the Proton RPC console.</source>
-        <translation>Bem-vindo à consola RPC Proton</translation>
-    </message>
-    <message>
-        <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Use as setas para cima / baixo para navegar no histórico, e &lt;b&gt;Ctrl-L&lt;/b&gt; para limpar o ecran.</translation>
-    </message>
-    <message>
-        <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Digite &lt;b&gt;help&lt;/b&gt; para ter uma visão global dos comandos disponíveis.</translation>
-    </message>
-    <message>
-        <source>%1 B</source>
-        <translation>%1 B</translation>
-    </message>
-    <message>
-        <source>%1 KB</source>
-        <translation>%1 KB</translation>
-    </message>
-    <message>
-        <source>%1 MB</source>
-        <translation>%1 MB</translation>
-    </message>
-    <message>
-        <source>%1 GB</source>
-        <translation>%1 GB</translation>
-    </message>
-    <message>
-        <source>via %1</source>
-        <translation>via %1</translation>
-    </message>
-    <message>
-        <source>never</source>
-        <translation>nunca</translation>
-    </message>
-    <message>
-        <source>Inbound</source>
-        <translation>Entrada</translation>
-    </message>
-    <message>
-        <source>Outbound</source>
-        <translation>Saída</translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation>Desconhecido</translation>
-    </message>
-    <message>
-        <source>Fetching...</source>
-        <translation>Carregando...</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ReceiveCoinsDialog</name>
     <message>
-        <source>Reuse one of the previously used receiving addresses.&lt;br&gt;Reusing addresses has security and privacy issues.&lt;br&gt;Do not use this unless re-generating a payment request made before.</source>
-        <translation>Reutilizar um dos endereços de recebimento usados anteriormente. &lt;br&gt; Reutilizar endereços tem problemas de segurança e privacidade. &lt;br&gt;Não use isto a menos que se trate de uma reutilização de um pedido de pagamento feito anteriormente.</translation>
+      <source>R&amp;euse an existing receiving address (not recommended)</source>
+      <translation type="unfinished">R&amp;euse an existing receiving address (not recommended)</translation>
     </message>
     <message>
-        <source>R&amp;euse an existing receiving address (not recommended)</source>
-        <translation>R&amp;eutilizar um endereço de recebimento existente (não recomendado)</translation>
+      <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Proton network.</source>
+      <translation type="unfinished">An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Proton network.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Proton network.</source>
-        <translation>Mensagem opcional para anexar à solicitação de pagamento, que será mostrada quando a solicitação for aberta. Nota: A mensagem não será enviada com o pagamento através da rede Proton.</translation>
+      <source>&amp;Message:</source>
+      <translation type="unfinished">&amp;Message:</translation>
     </message>
     <message>
-        <source>&amp;Message:</source>
-        <translation>&amp;Mensagem:</translation>
+      <source>An optional label to associate with the new receiving address.</source>
+      <translation type="unfinished">An optional label to associate with the new receiving address.</translation>
     </message>
     <message>
-        <source>An optional label to associate with the new receiving address.</source>
-        <translation>Rótulo opcional para associar com o novo endereço de recebimento.</translation>
+      <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
+      <translation type="unfinished">Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Proton network.</source>
-        <translation>Mensagem opcional para anexar à solicitação de pagamento, que será mostrada quando a solicitação for aberta. &lt;br&gt;Nota: A mensagem não será enviada com o pagamento através da rede Proton.</translation>
+      <source>&amp;Label:</source>
+      <translation type="unfinished">&amp;Label:</translation>
     </message>
     <message>
-        <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
-        <translation>Utilize este formulário para solicitar pagamentos. Todos os campos são &lt;b&gt;opcionais&lt;/b&gt;.</translation>
+      <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
+      <translation type="unfinished">An optional amount to request. Leave this empty or zero to not request a specific amount.</translation>
     </message>
     <message>
-        <source>&amp;Label:</source>
-        <translation>&amp;Rótulo:</translation>
+      <source>&amp;Amount:</source>
+      <translation type="unfinished">&amp;Amount:</translation>
     </message>
     <message>
-        <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
-        <translation>Quantia opcional a solicitar. Deixar vazio ou zero para não solicitar uma quantia específica.</translation>
+      <source>&amp;Request payment</source>
+      <translation type="unfinished">&amp;Request payment</translation>
     </message>
     <message>
-        <source>&amp;Amount:</source>
-        <translation>&amp;Quantia</translation>
+      <source>Clear all fields of the form.</source>
+      <translation type="unfinished">Clear all fields of the form.</translation>
     </message>
     <message>
-        <source>&amp;Request payment</source>
-        <translation>&amp;Pedir pagamento</translation>
+      <source>Clear</source>
+      <translation type="unfinished">Clear</translation>
     </message>
     <message>
-        <source>Clear all fields of the form.</source>
-        <translation>Limpar todos os campos do formulário.</translation>
+      <source>Requested payments history</source>
+      <translation type="unfinished">Requested payments history</translation>
     </message>
     <message>
-        <source>Clear</source>
-        <translation>Limpar</translation>
+      <source>Show the selected request (does the same as double clicking an entry)</source>
+      <translation type="unfinished">Show the selected request (does the same as double clicking an entry)</translation>
     </message>
     <message>
-        <source>Requested payments history</source>
-        <translation>Histórico de solicitações de pagamento</translation>
+      <source>Show</source>
+      <translation type="unfinished">Show</translation>
     </message>
     <message>
-        <source>Show the selected request (does the same as double clicking an entry)</source>
-        <translation>Mostrar a solicitação seleccionada (igual a clicar duas vezes)</translation>
+      <source>Remove the selected entries from the list</source>
+      <translation type="unfinished">Remove the selected entries from the list</translation>
     </message>
     <message>
-        <source>Show</source>
-        <translation>Mostrar</translation>
+      <source>Remove</source>
+      <translation type="unfinished">Remove</translation>
     </message>
     <message>
-        <source>Remove the selected entries from the list</source>
-        <translation>Remover as entradas seleccionadas da lista</translation>
+      <source>Copy label</source>
+      <translation type="unfinished">Copy label</translation>
     </message>
     <message>
-        <source>Remove</source>
-        <translation>Remover</translation>
+      <source>Copy message</source>
+      <translation type="unfinished">Copy message</translation>
     </message>
     <message>
-        <source>Copy label</source>
-        <translation>Copiar rótulo</translation>
+      <source>Copy amount</source>
+      <translation type="unfinished">Copy amount</translation>
     </message>
-    <message>
-        <source>Copy message</source>
-        <translation>Copiar mensagem</translation>
-    </message>
-    <message>
-        <source>Copy amount</source>
-        <translation>Copiar quantia</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ReceiveRequestDialog</name>
     <message>
-        <source>QR Code</source>
-        <translation>QR Code</translation>
+      <source>QR Code</source>
+      <translation type="unfinished">QR Code</translation>
     </message>
     <message>
-        <source>Copy &amp;URI</source>
-        <translation>Copiar &amp;URI</translation>
+      <source>Copy &amp;URI</source>
+      <translation type="unfinished">Copy &amp;URI</translation>
     </message>
     <message>
-        <source>Copy &amp;Address</source>
-        <translation>Copiar &amp;Endereço</translation>
+      <source>Copy &amp;Address</source>
+      <translation type="unfinished">Copy &amp;Address</translation>
     </message>
     <message>
-        <source>&amp;Save Image...</source>
-        <translation>&amp;Salvar Imagem...</translation>
+      <source>&amp;Save Image...</source>
+      <translation type="unfinished">&amp;Save Image...</translation>
     </message>
     <message>
-        <source>Request payment to %1</source>
-        <translation>Solicitar pagamento a %1</translation>
+      <source>Request payment to %1</source>
+      <translation type="unfinished">Request payment to %1</translation>
     </message>
     <message>
-        <source>Payment information</source>
-        <translation>Informação de pagamento</translation>
+      <source>Payment information</source>
+      <translation type="unfinished">Payment information</translation>
     </message>
     <message>
-        <source>URI</source>
-        <translation>URI</translation>
+      <source>URI</source>
+      <translation type="unfinished">URI</translation>
     </message>
     <message>
-        <source>Address</source>
-        <translation>Endereço</translation>
+      <source>Address</source>
+      <translation type="unfinished">Address</translation>
     </message>
     <message>
-        <source>Amount</source>
-        <translation>Quantia</translation>
+      <source>Amount</source>
+      <translation type="unfinished">Amount</translation>
     </message>
     <message>
-        <source>Label</source>
-        <translation>Rótulo</translation>
+      <source>Label</source>
+      <translation type="unfinished">Label</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation>Mensagem</translation>
+      <source>Message</source>
+      <translation type="unfinished">Message</translation>
     </message>
     <message>
-        <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>O URI resultante é demasiado longo, tente reduzir o texto do rótulo ou da mensagem.</translation>
+      <source>Resulting URI too long, try to reduce the text for label / message.</source>
+      <translation type="unfinished">Resulting URI too long, try to reduce the text for label / message.</translation>
     </message>
     <message>
-        <source>Error encoding URI into QR Code.</source>
-        <translation>Erro ao codificar o URI para código QR.</translation>
+      <source>Error encoding URI into QR Code.</source>
+      <translation type="unfinished">Error encoding URI into QR Code.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>RecentRequestsTableModel</name>
     <message>
-        <source>Date</source>
-        <translation>Data</translation>
+      <source>Date</source>
+      <translation type="unfinished">Date</translation>
     </message>
     <message>
-        <source>Label</source>
-        <translation>Rótulo</translation>
+      <source>Label</source>
+      <translation type="unfinished">Label</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation>Mensagem</translation>
+      <source>Message</source>
+      <translation type="unfinished">Message</translation>
     </message>
     <message>
-        <source>Amount</source>
-        <translation>Quantia</translation>
+      <source>Amount</source>
+      <translation type="unfinished">Amount</translation>
     </message>
     <message>
-        <source>(no label)</source>
-        <translation>(sem rótulo)</translation>
+      <source>(no label)</source>
+      <translation type="unfinished">(no label)</translation>
     </message>
     <message>
-        <source>(no message)</source>
-        <translation>(sem mensagem)</translation>
+      <source>(no message)</source>
+      <translation type="unfinished">(no message)</translation>
     </message>
     <message>
-        <source>(no amount)</source>
-        <translation>(sem quantia)</translation>
+      <source>(no amount)</source>
+      <translation type="unfinished">(no amount)</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SendCoinsDialog</name>
     <message>
-        <source>Send Coins</source>
-        <translation>Enviar Moedas</translation>
+      <source>Send Coins</source>
+      <translation type="unfinished">Send Coins</translation>
     </message>
     <message>
-        <source>Coin Control Features</source>
-        <translation>Funcionalidades de Coin Control</translation>
+      <source>Coin Control Features</source>
+      <translation type="unfinished">Coin Control Features</translation>
     </message>
     <message>
-        <source>Inputs...</source>
-        <translation>Entradas...</translation>
+      <source>Inputs...</source>
+      <translation type="unfinished">Inputs...</translation>
     </message>
     <message>
-        <source>automatically selected</source>
-        <translation>seleccionadas automáticamente</translation>
+      <source>automatically selected</source>
+      <translation type="unfinished">automatically selected</translation>
     </message>
     <message>
-        <source>Insufficient funds!</source>
-        <translation>Fundos insuficientes!</translation>
+      <source>Insufficient funds!</source>
+      <translation type="unfinished">Insufficient funds!</translation>
     </message>
     <message>
-        <source>Quantity:</source>
-        <translation>Quantidade:</translation>
+      <source>Quantity:</source>
+      <translation type="unfinished">Quantity:</translation>
     </message>
     <message>
-        <source>Bytes:</source>
-        <translation>Bytes:</translation>
+      <source>Bytes:</source>
+      <translation type="unfinished">Bytes:</translation>
     </message>
     <message>
-        <source>Amount:</source>
-        <translation>Quantia:</translation>
+      <source>Amount:</source>
+      <translation type="unfinished">Amount:</translation>
     </message>
     <message>
-        <source>Priority:</source>
-        <translation>Prioridade:</translation>
+      <source>Priority:</source>
+      <translation type="unfinished">Priority:</translation>
     </message>
     <message>
-        <source>medium</source>
-        <translation>média</translation>
+      <source>medium</source>
+      <translation type="unfinished">medium</translation>
     </message>
     <message>
-        <source>Fee:</source>
-        <translation>Taxa:</translation>
+      <source>Fee:</source>
+      <translation type="unfinished">Fee:</translation>
     </message>
     <message>
-        <source>Dust:</source>
-        <translation>Poeira:</translation>
+      <source>no</source>
+      <translation type="unfinished">no</translation>
     </message>
     <message>
-        <source>no</source>
-        <translation>não</translation>
+      <source>After Fee:</source>
+      <translation type="unfinished">After Fee:</translation>
     </message>
     <message>
-        <source>After Fee:</source>
-        <translation>Com taxa:</translation>
+      <source>Change:</source>
+      <translation type="unfinished">Change:</translation>
     </message>
     <message>
-        <source>Change:</source>
-        <translation>Troco:</translation>
+      <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
+      <translation type="unfinished">If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</translation>
     </message>
     <message>
-        <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-        <translation>Se isto for activado e o endereço de troco se encontrar vazio, o troco será enviado para um novo endereço gerado.</translation>
+      <source>Custom change address</source>
+      <translation type="unfinished">Custom change address</translation>
     </message>
     <message>
-        <source>Custom change address</source>
-        <translation>Endereço de troco personalizado</translation>
+      <source>Confirm the send action</source>
+      <translation type="unfinished">Confirm the send action</translation>
     </message>
     <message>
-        <source>Transaction Fee:</source>
-        <translation>Taxa de Transacção:</translation>
+      <source>S&amp;end</source>
+      <translation type="unfinished">S&amp;end</translation>
     </message>
     <message>
-        <source>Choose...</source>
-        <translation>Escolha...</translation>
+      <source>Clear all fields of the form.</source>
+      <translation type="unfinished">Clear all fields of the form.</translation>
     </message>
     <message>
-        <source>collapse fee-settings</source>
-        <translation>fechar opções de taxa</translation>
+      <source>Clear &amp;All</source>
+      <translation type="unfinished">Clear &amp;All</translation>
     </message>
     <message>
-        <source>Minimize</source>
-        <translation>Minimizar</translation>
+      <source>Send to multiple recipients at once</source>
+      <translation type="unfinished">Send to multiple recipients at once</translation>
     </message>
     <message>
-        <source>per kilobyte</source>
-        <translation>por kilobyte</translation>
+      <source>Add &amp;Recipient</source>
+      <translation type="unfinished">Add &amp;Recipient</translation>
     </message>
     <message>
-        <source>total at least</source>
-        <translation>pelo menos total</translation>
+      <source>Darksend</source>
+      <translation type="unfinished">Darksend</translation>
     </message>
     <message>
-        <source>(read the tooltip)</source>
-        <translation>(leia a tooltip)</translation>
+      <source>InstantX</source>
+      <translation type="unfinished">InstantX</translation>
     </message>
     <message>
-        <source>Recommended:</source>
-        <translation>Recomendado:</translation>
+      <source>Balance:</source>
+      <translation type="unfinished">Balance:</translation>
     </message>
     <message>
-        <source>Custom:</source>
-        <translation>Personalizado:</translation>
+      <source>Copy quantity</source>
+      <translation type="unfinished">Copy quantity</translation>
     </message>
     <message>
-        <source>(Smart fee not initialized yet. This usually takes a few blocks...)</source>
-        <translation>(A taxa inteligente ainda não foi inicializada. Normalmente demora alguns blocos...)</translation>
+      <source>Copy amount</source>
+      <translation type="unfinished">Copy amount</translation>
     </message>
     <message>
-        <source>Confirmation time:</source>
-        <translation>Tempo de confirmação:</translation>
+      <source>Copy fee</source>
+      <translation type="unfinished">Copy fee</translation>
     </message>
     <message>
-        <source>normal</source>
-        <translation>normal</translation>
+      <source>Copy after fee</source>
+      <translation type="unfinished">Copy after fee</translation>
     </message>
     <message>
-        <source>fast</source>
-        <translation>rápido</translation>
+      <source>Copy bytes</source>
+      <translation type="unfinished">Copy bytes</translation>
     </message>
     <message>
-        <source>Send as zero-fee transaction if possible</source>
-        <translation>Enviar com taxa-zero se possível</translation>
+      <source>Copy priority</source>
+      <translation type="unfinished">Copy priority</translation>
     </message>
     <message>
-        <source>(confirmation may take longer)</source>
-        <translation>(a confirmação pode demorar mais)</translation>
+      <source>Copy change</source>
+      <translation type="unfinished">Copy change</translation>
     </message>
     <message>
-        <source>Confirm the send action</source>
-        <translation>Confirmar envio</translation>
+      <source>using</source>
+      <translation type="unfinished">using</translation>
     </message>
     <message>
-        <source>S&amp;end</source>
-        <translation>&amp;Enviar</translation>
+      <source>anonymous funds</source>
+      <translation type="unfinished">anonymous funds</translation>
     </message>
     <message>
-        <source>Clear all fields of the form.</source>
-        <translation>Limpar todos os campos do formulário.</translation>
+      <source>(darksend requires this amount to be rounded up to the nearest %1).</source>
+      <translation type="unfinished">(darksend requires this amount to be rounded up to the nearest %1).</translation>
     </message>
     <message>
-        <source>Clear &amp;All</source>
-        <translation>Limpar &amp;Tudo</translation>
+      <source>any available funds (not recommended)</source>
+      <translation type="unfinished">any available funds (not recommended)</translation>
     </message>
     <message>
-        <source>Send to multiple recipients at once</source>
-        <translation>Enviar para múltiplos destinatários de uma vez</translation>
+      <source>and InstantX</source>
+      <translation type="unfinished">and InstantX</translation>
     </message>
     <message>
-        <source>Add &amp;Recipient</source>
-        <translation>Adicionar &amp;Destinatário</translation>
+      <source>%1 to %2</source>
+      <translation type="unfinished">%1 to %2</translation>
     </message>
     <message>
-        <source>Darksend</source>
-        <translation>Darksend</translation>
+      <source>Are you sure you want to send?</source>
+      <translation type="unfinished">Are you sure you want to send?</translation>
     </message>
     <message>
-        <source>InstantX</source>
-        <translation>InstantX</translation>
+      <source>are added as transaction fee</source>
+      <translation type="unfinished">are added as transaction fee</translation>
     </message>
     <message>
-        <source>Balance:</source>
-        <translation>Saldo:</translation>
+      <source>Confirm send coins</source>
+      <translation type="unfinished">Confirm send coins</translation>
     </message>
     <message>
-        <source>Copy quantity</source>
-        <translation>Copiar quantidade</translation>
+      <source>The recipient address is not valid, please recheck.</source>
+      <translation type="unfinished">The recipient address is not valid, please recheck.</translation>
     </message>
     <message>
-        <source>Copy amount</source>
-        <translation>Copiar quantia</translation>
+      <source>The amount to pay must be larger than 0.</source>
+      <translation type="unfinished">The amount to pay must be larger than 0.</translation>
     </message>
     <message>
-        <source>Copy fee</source>
-        <translation>Copiar taxa</translation>
+      <source>The amount exceeds your balance.</source>
+      <translation type="unfinished">The amount exceeds your balance.</translation>
     </message>
     <message>
-        <source>Copy after fee</source>
-        <translation>Copiar depois da taxa</translation>
+      <source>The total exceeds your balance when the %1 transaction fee is included.</source>
+      <translation type="unfinished">The total exceeds your balance when the %1 transaction fee is included.</translation>
     </message>
     <message>
-        <source>Copy bytes</source>
-        <translation>Copiar bytes</translation>
+      <source>Duplicate address found, can only send to each address once per send operation.</source>
+      <translation type="unfinished">Duplicate address found, can only send to each address once per send operation.</translation>
     </message>
     <message>
-        <source>Copy priority</source>
-        <translation>Copiar prioridade</translation>
+      <source>Transaction creation failed!</source>
+      <translation type="unfinished">Transaction creation failed!</translation>
     </message>
     <message>
-        <source>Copy dust</source>
-        <translation>Copiar pó</translation>
+      <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
+      <translation type="unfinished">The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</translation>
     </message>
     <message>
-        <source>Copy change</source>
-        <translation>Copiar troco</translation>
+      <source>Error: The wallet was unlocked only to anonymize coins.</source>
+      <translation type="unfinished">Error: The wallet was unlocked only to anonymize coins.</translation>
     </message>
     <message>
-        <source>using</source>
-        <translation>a usar</translation>
+      <source>Warning: Invalid Proton address</source>
+      <translation type="unfinished">Warning: Invalid Proton address</translation>
     </message>
     <message>
-        <source>anonymous funds</source>
-        <translation>fundos anónimos</translation>
+      <source>Warning: Unknown change address</source>
+      <translation type="unfinished">Warning: Unknown change address</translation>
     </message>
     <message>
-        <source>(darksend requires this amount to be rounded up to the nearest %1).</source>
-        <translation>(o darksend requer que esta quantia seja arredondada até ao %1 mais próximo).</translation>
+      <source>(no label)</source>
+      <translation type="unfinished">(no label)</translation>
     </message>
-    <message>
-        <source>any available funds (not recommended)</source>
-        <translation>quaisquer fundos disponíveis (não recomendado)</translation>
-    </message>
-    <message>
-        <source>and InstantX</source>
-        <translation>e InstantX</translation>
-    </message>
-    <message>
-        <source>%1 to %2</source>
-        <translation>%1 a %2</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to send?</source>
-        <translation>Tem a certeza que quer enviar?</translation>
-    </message>
-    <message>
-        <source>are added as transaction fee</source>
-        <translation>são adicionadas como taxa de transacção</translation>
-    </message>
-    <message>
-        <source>Total Amount = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</source>
-        <translation>Quantidade Total = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</translation>
-    </message>
-    <message>
-        <source>Confirm send coins</source>
-        <translation>Confirmar envio de moedas</translation>
-    </message>
-    <message>
-        <source>A fee %1 times higher than %2 per kB is considered an insanely high fee.</source>
-        <translation>Uma taxa %1 vezes mais alta do que %2 por kB é considerada demasiado alta.</translation>
-    </message>
-    <message numerus="yes">
-        <source>Estimated to begin confirmation within %n block(s).</source>
-        <translation><numerusform>Inicio de confirmação estimado dentro de %n bloco.</numerusform><numerusform>Inicio de confirmação estimado dentro de %n blocos.</numerusform></translation>
-    </message>
-    <message>
-        <source>The recipient address is not valid, please recheck.</source>
-        <translation>O endereço do destinatário é inválido, por favor verifique.</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;(%1 of %2 entries displayed)&lt;/b&gt;</source>
-        <translation>&lt;b&gt;(%1 de %2 entradas mostradas)&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>The amount to pay must be larger than 0.</source>
-        <translation>A quantia a pagar tem que ser maior que 0.</translation>
-    </message>
-    <message>
-        <source>The amount exceeds your balance.</source>
-        <translation>A quantia excede o seu saldo.</translation>
-    </message>
-    <message>
-        <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>O total excede o seu saldo quando é incluído o valor %1 relativo a taxas de transacção.</translation>
-    </message>
-    <message>
-        <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation>Endereço duplicado encontrado, só pode enviar para um endereço uma vez por cada operação de envio.</translation>
-    </message>
-    <message>
-        <source>Transaction creation failed!</source>
-        <translation>Falha ao criar transacção!</translation>
-    </message>
-    <message>
-        <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>A transacção foi rejeitada! Isto pode acontecer se algumas das moedas da sua carteira tiverem sido gastas, tal como se usou uma copia do ficheiro wallet.dat e moedas tiverem sido gastas nessa cópia mas não aqui.</translation>
-    </message>
-    <message>
-        <source>Error: The wallet was unlocked only to anonymize coins.</source>
-        <translation>Erro: A carteira foi somente desbloqueada para anonimização de moedas.</translation>
-    </message>
-    <message>
-        <source>Pay only the minimum fee of %1</source>
-        <translation>Pagar somente a taxa mínima de %1</translation>
-    </message>
-    <message>
-        <source>Warning: Invalid Proton address</source>
-        <translation>Aviso: Endereço Proton inválido</translation>
-    </message>
-    <message>
-        <source>Warning: Unknown change address</source>
-        <translation>Aviso: Endereço de troco desconhecido</translation>
-    </message>
-    <message>
-        <source>(no label)</source>
-        <translation>(sem rótulo)</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SendCoinsEntry</name>
     <message>
-        <source>This is a normal payment.</source>
-        <translation>Este é um pagamento normal.</translation>
+      <source>This is a normal payment.</source>
+      <translation type="unfinished">This is a normal payment.</translation>
     </message>
     <message>
-        <source>Pay &amp;To:</source>
-        <translation>&amp;Pagar a:</translation>
+      <source>Pay &amp;To:</source>
+      <translation type="unfinished">Pay &amp;To:</translation>
     </message>
     <message>
-        <source>The Proton address to send the payment to</source>
-        <translation>O endereço Proton para onde enviar o pagamento</translation>
+      <source>Choose previously used address</source>
+      <translation type="unfinished">Choose previously used address</translation>
     </message>
     <message>
-        <source>Choose previously used address</source>
-        <translation>Escolher endereço usado previamente</translation>
+      <source>Alt+A</source>
+      <translation type="unfinished">Alt+A</translation>
     </message>
     <message>
-        <source>Alt+A</source>
-        <translation>Alt+A</translation>
+      <source>Paste address from clipboard</source>
+      <translation type="unfinished">Paste address from clipboard</translation>
     </message>
     <message>
-        <source>Paste address from clipboard</source>
-        <translation>Colar endereço da área de transferência</translation>
+      <source>Alt+P</source>
+      <translation type="unfinished">Alt+P</translation>
     </message>
     <message>
-        <source>Alt+P</source>
-        <translation>Alt+P</translation>
+      <source>Remove this entry</source>
+      <translation type="unfinished">Remove this entry</translation>
     </message>
     <message>
-        <source>Remove this entry</source>
-        <translation>Remover esta entrada</translation>
+      <source>&amp;Label:</source>
+      <translation type="unfinished">&amp;Label:</translation>
     </message>
     <message>
-        <source>&amp;Label:</source>
-        <translation>&amp;Rótulo:</translation>
+      <source>Enter a label for this address to add it to the list of used addresses</source>
+      <translation type="unfinished">Enter a label for this address to add it to the list of used addresses</translation>
     </message>
     <message>
-        <source>Enter a label for this address to add it to the list of used addresses</source>
-        <translation>Digite um rótulo para este endereço para adicioná-lo à lista de endereços usados</translation>
+      <source>A&amp;mount:</source>
+      <translation type="unfinished">A&amp;mount:</translation>
     </message>
     <message>
-        <source>A&amp;mount:</source>
-        <translation>&amp;Quantidade</translation>
+      <source>Message:</source>
+      <translation type="unfinished">Message:</translation>
     </message>
     <message>
-        <source>Message:</source>
-        <translation>Mensagem:</translation>
+      <source>A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Proton network.</source>
+      <translation type="unfinished">A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Proton network.</translation>
     </message>
     <message>
-        <source>A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Proton network.</source>
-        <translation>Mensagem que foi anexada ao stone: URI e que será guardada com a transacção para sua referência. Nota: Esta mensagem não será enviada para a rede Proton.</translation>
+      <source>This is an unverified payment request.</source>
+      <translation type="unfinished">This is an unverified payment request.</translation>
     </message>
     <message>
-        <source>This is an unverified payment request.</source>
-        <translation>Este é um pedido de pagamento não verificado.</translation>
+      <source>Pay To:</source>
+      <translation type="unfinished">Pay To:</translation>
     </message>
     <message>
-        <source>Pay To:</source>
-        <translation>Pagar a:</translation>
+      <source>Memo:</source>
+      <translation type="unfinished">Memo:</translation>
     </message>
     <message>
-        <source>Memo:</source>
-        <translation>Rótulo:</translation>
+      <source>This is a verified payment request.</source>
+      <translation type="unfinished">This is a verified payment request.</translation>
     </message>
     <message>
-        <source>This is a verified payment request.</source>
-        <translation>Este é um pedido de pagamento verificado.</translation>
+      <source>Enter a label for this address to add it to your address book</source>
+      <translation type="unfinished">Enter a label for this address to add it to your address book</translation>
     </message>
-    <message>
-        <source>Enter a label for this address to add it to your address book</source>
-        <translation>Introduza um rótulo para este endereço para adicionar ao livro de endereços</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Stone Core is shutting down...</source>
-        <translation>O Stone Core está a desligar...</translation>
+      <source>Stone Core is shutting down...</source>
+      <translation type="unfinished">Stone Core is shutting down...</translation>
     </message>
     <message>
-        <source>Do not shut down the computer until this window disappears.</source>
-        <translation>Não desligue o computador enquanto está janela estiver visível.</translation>
+      <source>Do not shut down the computer until this window disappears.</source>
+      <translation type="unfinished">Do not shut down the computer until this window disappears.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>Signatures - Sign / Verify a Message</source>
-        <translation>Assinaturas - Assinar / Verificar uma Mensagem</translation>
+      <source>Signatures - Sign / Verify a Message</source>
+      <translation type="unfinished">Signatures - Sign / Verify a Message</translation>
     </message>
     <message>
-        <source>&amp;Sign Message</source>
-        <translation>&amp;Assinar Mensagem</translation>
+      <source>&amp;Sign Message</source>
+      <translation type="unfinished">&amp;Sign Message</translation>
     </message>
     <message>
-        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Pode assinar mensagens com os seus endereços para provar que são seus. Tenha atenção para não assinar mensagens vagas, já que, ataques de phishing podem levá-lo a assinar a sua própria identidade para os atacantes. Apenas assine declarações detalhadas com as quais concorde.</translation>
+      <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+      <translation type="unfinished">You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</translation>
     </message>
     <message>
-        <source>The Proton address to sign the message with</source>
-        <translation>Endereço Proton com o qual deseja assinar a mensagem</translation>
+      <source>Choose previously used address</source>
+      <translation type="unfinished">Choose previously used address</translation>
     </message>
     <message>
-        <source>Choose previously used address</source>
-        <translation>Escolher endereço usado previamente</translation>
+      <source>Alt+A</source>
+      <translation type="unfinished">Alt+A</translation>
     </message>
     <message>
-        <source>Alt+A</source>
-        <translation>Alt+A</translation>
+      <source>Paste address from clipboard</source>
+      <translation type="unfinished">Paste address from clipboard</translation>
     </message>
     <message>
-        <source>Paste address from clipboard</source>
-        <translation>Colar endereço da área de transferência</translation>
+      <source>Alt+P</source>
+      <translation type="unfinished">Alt+P</translation>
     </message>
     <message>
-        <source>Alt+P</source>
-        <translation>Alt+P</translation>
+      <source>Enter the message you want to sign here</source>
+      <translation type="unfinished">Enter the message you want to sign here</translation>
     </message>
     <message>
-        <source>Enter the message you want to sign here</source>
-        <translation>Escreva aqui a mensagem que deseja assinar</translation>
+      <source>Signature</source>
+      <translation type="unfinished">Signature</translation>
     </message>
     <message>
-        <source>Signature</source>
-        <translation>Assinatura</translation>
+      <source>Copy the current signature to the system clipboard</source>
+      <translation type="unfinished">Copy the current signature to the system clipboard</translation>
     </message>
     <message>
-        <source>Copy the current signature to the system clipboard</source>
-        <translation>Copiar a assinatura actual para a área de transferência</translation>
+      <source>Sign the message to prove you own this Proton address</source>
+      <translation type="unfinished">Sign the message to prove you own this Proton address</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Proton address</source>
-        <translation>Assinar a mensagem para provar que é o proprietário deste endereço Proton</translation>
+      <source>Sign &amp;Message</source>
+      <translation type="unfinished">Sign &amp;Message</translation>
     </message>
     <message>
-        <source>Sign &amp;Message</source>
-        <translation>Assinar &amp;Mensagem</translation>
+      <source>Reset all sign message fields</source>
+      <translation type="unfinished">Reset all sign message fields</translation>
     </message>
     <message>
-        <source>Reset all sign message fields</source>
-        <translation>Repor todos os campos de assinatura de mensagem</translation>
+      <source>Clear &amp;All</source>
+      <translation type="unfinished">Clear &amp;All</translation>
     </message>
     <message>
-        <source>Clear &amp;All</source>
-        <translation>Limpar &amp;Tudo</translation>
+      <source>&amp;Verify Message</source>
+      <translation type="unfinished">&amp;Verify Message</translation>
     </message>
     <message>
-        <source>&amp;Verify Message</source>
-        <translation>&amp;Verificar Mensagem</translation>
+      <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
+      <translation type="unfinished">Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</translation>
     </message>
     <message>
-        <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>Introduza o endereço de assinatura, mensagem (assegure-se que copia exactamente as quebras de linha, espaços, tabulações, etc) e assinatura abaixo para verificar a mensagem. Tenha atenção para não ler mais na assinatura do que o que estiver na mensagem assinada, para evitar ser enganado por um atacante que se encontre entre si e quem assinou a mensagem.</translation>
+      <source>Verify the message to ensure it was signed with the specified Proton address</source>
+      <translation type="unfinished">Verify the message to ensure it was signed with the specified Proton address</translation>
     </message>
     <message>
-        <source>The Proton address the message was signed with</source>
-        <translation>Endereço Proton com o qual a mensagem foi assinada</translation>
+      <source>Verify &amp;Message</source>
+      <translation type="unfinished">Verify &amp;Message</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Proton address</source>
-        <translation>Verificar a mensagem de forma a garantir que foi assinada com o endereço Proton especificado</translation>
+      <source>Reset all verify message fields</source>
+      <translation type="unfinished">Reset all verify message fields</translation>
     </message>
     <message>
-        <source>Verify &amp;Message</source>
-        <translation>Verificar &amp;Mensagem</translation>
+      <source>Click "Sign Message" to generate signature</source>
+      <translation type="unfinished">Click "Sign Message" to generate signature</translation>
     </message>
     <message>
-        <source>Reset all verify message fields</source>
-        <translation>Repor todos os campos de verificação de mensagem</translation>
+      <source>The entered address is invalid.</source>
+      <translation type="unfinished">The entered address is invalid.</translation>
     </message>
     <message>
-        <source>Click "Sign Message" to generate signature</source>
-        <translation>Prima "Assinar Mensagem" para gerar a assinatura</translation>
+      <source>Please check the address and try again.</source>
+      <translation type="unfinished">Please check the address and try again.</translation>
     </message>
     <message>
-        <source>The entered address is invalid.</source>
-        <translation>O endereço inserido é inválido.</translation>
+      <source>The entered address does not refer to a key.</source>
+      <translation type="unfinished">The entered address does not refer to a key.</translation>
     </message>
     <message>
-        <source>Please check the address and try again.</source>
-        <translation>Por favor verifique o endereço e tente de novo.</translation>
+      <source>Wallet unlock was cancelled.</source>
+      <translation type="unfinished">Wallet unlock was cancelled.</translation>
     </message>
     <message>
-        <source>The entered address does not refer to a key.</source>
-        <translation>O endereço introduzido não corresponde a uma chave.</translation>
+      <source>Private key for the entered address is not available.</source>
+      <translation type="unfinished">Private key for the entered address is not available.</translation>
     </message>
     <message>
-        <source>Wallet unlock was cancelled.</source>
-        <translation>O desbloqueamento da carteira foi cancelado.</translation>
+      <source>Message signing failed.</source>
+      <translation type="unfinished">Message signing failed.</translation>
     </message>
     <message>
-        <source>Private key for the entered address is not available.</source>
-        <translation>A chave privada correspondente ao endereço introduzido não está disponível.</translation>
+      <source>Message signed.</source>
+      <translation type="unfinished">Message signed.</translation>
     </message>
     <message>
-        <source>Message signing failed.</source>
-        <translation>A assinatura da mensagem falhou.</translation>
+      <source>The signature could not be decoded.</source>
+      <translation type="unfinished">The signature could not be decoded.</translation>
     </message>
     <message>
-        <source>Message signed.</source>
-        <translation>Mensagem assinada.</translation>
+      <source>Please check the signature and try again.</source>
+      <translation type="unfinished">Please check the signature and try again.</translation>
     </message>
     <message>
-        <source>The signature could not be decoded.</source>
-        <translation>A assinatura não pode ser descodificada.</translation>
+      <source>The signature did not match the message digest.</source>
+      <translation type="unfinished">The signature did not match the message digest.</translation>
     </message>
     <message>
-        <source>Please check the signature and try again.</source>
-        <translation>Por favor verifique a assinatura e tente de novo.</translation>
+      <source>Message verification failed.</source>
+      <translation type="unfinished">Message verification failed.</translation>
     </message>
     <message>
-        <source>The signature did not match the message digest.</source>
-        <translation>A assinatura não corresponde à compilação da mensagem.</translation>
+      <source>Message verified.</source>
+      <translation type="unfinished">Message verified.</translation>
     </message>
-    <message>
-        <source>Message verification failed.</source>
-        <translation>A verificação da mensagem falhou.</translation>
-    </message>
-    <message>
-        <source>Message verified.</source>
-        <translation>Mensagem verificada.</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>SplashScreen</name>
     <message>
-        <source>Stone Core</source>
-        <translation>Stone Core</translation>
+      <source>Stone Core</source>
+      <translation type="unfinished">Stone Core</translation>
     </message>
     <message>
-        <source>Version %1</source>
-        <translation>Versão %1</translation>
+      <source>Version %1</source>
+      <translation type="unfinished">Version %1</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Os programadores Bitcoin Core</translation>
+      <source>The Bitcoin Core developers</source>
+      <translation type="unfinished">The Bitcoin Core developers</translation>
     </message>
     <message>
-        <source>The Stone Core developers</source>
-        <translation>Os programadores Stone Core</translation>
+      <source>The Stone Core developers</source>
+      <translation type="unfinished">The Stone Core developers</translation>
     </message>
     <message>
-        <source>[testnet]</source>
-        <translation>[rede de testes]</translation>
+      <source>[testnet]</source>
+      <translation type="unfinished">[testnet]</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TrafficGraphWidget</name>
     <message>
-        <source>KB/s</source>
-        <translation>KB/s</translation>
+      <source>KB/s</source>
+      <translation type="unfinished">KB/s</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TransactionDesc</name>
-    <message numerus="yes">
-        <source>Open for %n more block(s)</source>
-        <translation><numerusform>Aberta durante mais %n bloco</numerusform><numerusform>Aberta durante mais %n blocos</numerusform></translation>
+    <message>
+      <source>Open until %1</source>
+      <translation type="unfinished">Open until %1</translation>
     </message>
     <message>
-        <source>Open until %1</source>
-        <translation>Aberta até %1</translation>
+      <source>conflicted</source>
+      <translation type="unfinished">conflicted</translation>
     </message>
     <message>
-        <source>conflicted</source>
-        <translation>conflituosa</translation>
+      <source>%1/offline (verified via instantx)</source>
+      <translation type="unfinished">%1/offline (verified via instantx)</translation>
     </message>
     <message>
-        <source>%1/offline (verified via instantx)</source>
-        <translation>%1/desligado (verificado através de instantx)</translation>
+      <source>%1/confirmed (verified via instantx)</source>
+      <translation type="unfinished">%1/confirmed (verified via instantx)</translation>
     </message>
     <message>
-        <source>%1/confirmed (verified via instantx)</source>
-        <translation>%1/confirmado (verificado através de instantx)</translation>
+      <source>%1 confirmations (verified via instantx)</source>
+      <translation type="unfinished">%1 confirmations (verified via instantx)</translation>
     </message>
     <message>
-        <source>%1 confirmations (verified via instantx)</source>
-        <translation>%1 confirmações (verificado através de instantx)</translation>
+      <source>%1/offline</source>
+      <translation type="unfinished">%1/offline</translation>
     </message>
     <message>
-        <source>%1/offline</source>
-        <translation>%1/desligada</translation>
+      <source>%1/unconfirmed</source>
+      <translation type="unfinished">%1/unconfirmed</translation>
     </message>
     <message>
-        <source>%1/unconfirmed</source>
-        <translation>%1/não confirmada</translation>
+      <source>%1 confirmations</source>
+      <translation type="unfinished">%1 confirmations</translation>
     </message>
     <message>
-        <source>%1 confirmations</source>
-        <translation>%1 confirmações</translation>
+      <source>%1/offline (InstantX verification in progress - %2 of %3 signatures)</source>
+      <translation type="unfinished">%1/offline (InstantX verification in progress - %2 of %3 signatures)</translation>
     </message>
     <message>
-        <source>%1/offline (InstantX verification in progress - %2 of %3 signatures)</source>
-        <translation>%1/desligado (verificação InstantX em progresso - %2 de %3 assinaturas)</translation>
+      <source>%1/confirmed (InstantX verification in progress - %2 of %3 signatures )</source>
+      <translation type="unfinished">%1/confirmed (InstantX verification in progress - %2 of %3 signatures )</translation>
     </message>
     <message>
-        <source>%1/confirmed (InstantX verification in progress - %2 of %3 signatures )</source>
-        <translation>%1/confirmada (verificação InstantX em progresso - %2 de %3 assinaturas)</translation>
+      <source>%1 confirmations (InstantX verification in progress - %2 of %3 signatures)</source>
+      <translation type="unfinished">%1 confirmations (InstantX verification in progress - %2 of %3 signatures)</translation>
     </message>
     <message>
-        <source>%1 confirmations (InstantX verification in progress - %2 of %3 signatures)</source>
-        <translation>%1 confirmações (verificação InstantX em progresso - %2 de %3 assinaturas)</translation>
+      <source>%1/offline (InstantX verification failed)</source>
+      <translation type="unfinished">%1/offline (InstantX verification failed)</translation>
     </message>
     <message>
-        <source>%1/offline (InstantX verification failed)</source>
-        <translation>%1/desligado (a verificação InstantX falhou)</translation>
+      <source>%1/confirmed (InstantX verification failed)</source>
+      <translation type="unfinished">%1/confirmed (InstantX verification failed)</translation>
     </message>
     <message>
-        <source>%1/confirmed (InstantX verification failed)</source>
-        <translation>%1/confirmada (a verificação InstantX falhou)</translation>
+      <source>Status</source>
+      <translation type="unfinished">Status</translation>
     </message>
     <message>
-        <source>Status</source>
-        <translation>Estado</translation>
+      <source>, has not been successfully broadcast yet</source>
+      <translation type="unfinished">, has not been successfully broadcast yet</translation>
     </message>
     <message>
-        <source>, has not been successfully broadcast yet</source>
-        <translation>, ainda não foi transmitida com sucesso</translation>
-    </message>
-    <message numerus="yes">
-        <source>, broadcast through %n node(s)</source>
-        <translation><numerusform>, transmitida através de %n nó</numerusform><numerusform>, transmitida através de %n nós</numerusform></translation>
+      <source>Date</source>
+      <translation type="unfinished">Date</translation>
     </message>
     <message>
-        <source>Date</source>
-        <translation>Data</translation>
+      <source>Source</source>
+      <translation type="unfinished">Source</translation>
     </message>
     <message>
-        <source>Source</source>
-        <translation>Origem</translation>
+      <source>Generated</source>
+      <translation type="unfinished">Generated</translation>
     </message>
     <message>
-        <source>Generated</source>
-        <translation>Gerada</translation>
+      <source>From</source>
+      <translation type="unfinished">From</translation>
     </message>
     <message>
-        <source>From</source>
-        <translation>De</translation>
+      <source>unknown</source>
+      <translation type="unfinished">unknown</translation>
     </message>
     <message>
-        <source>unknown</source>
-        <translation>desconhecido</translation>
+      <source>To</source>
+      <translation type="unfinished">To</translation>
     </message>
     <message>
-        <source>To</source>
-        <translation>Para</translation>
+      <source>own address</source>
+      <translation type="unfinished">own address</translation>
     </message>
     <message>
-        <source>own address</source>
-        <translation>endereço próprio</translation>
+      <source>label</source>
+      <translation type="unfinished">label</translation>
     </message>
     <message>
-        <source>watch-only</source>
-        <translation>somente de visualização</translation>
+      <source>Credit</source>
+      <translation type="unfinished">Credit</translation>
     </message>
     <message>
-        <source>label</source>
-        <translation>rótulo</translation>
+      <source>not accepted</source>
+      <translation type="unfinished">not accepted</translation>
     </message>
     <message>
-        <source>Credit</source>
-        <translation>Credito</translation>
-    </message>
-    <message numerus="yes">
-        <source>matures in %n more block(s)</source>
-        <translation><numerusform>maturidade em %n bloco</numerusform><numerusform>maturidade em %n blocos</numerusform></translation>
+      <source>Debit</source>
+      <translation type="unfinished">Debit</translation>
     </message>
     <message>
-        <source>not accepted</source>
-        <translation>rejeitada</translation>
+      <source>Transaction fee</source>
+      <translation type="unfinished">Transaction fee</translation>
     </message>
     <message>
-        <source>Debit</source>
-        <translation>Débito</translation>
+      <source>Net amount</source>
+      <translation type="unfinished">Net amount</translation>
     </message>
     <message>
-        <source>Total debit</source>
-        <translation>Débito total</translation>
+      <source>Message</source>
+      <translation type="unfinished">Message</translation>
     </message>
     <message>
-        <source>Total credit</source>
-        <translation>Credito total</translation>
+      <source>Comment</source>
+      <translation type="unfinished">Comment</translation>
     </message>
     <message>
-        <source>Transaction fee</source>
-        <translation>Taxa de transacção</translation>
+      <source>Transaction ID</source>
+      <translation type="unfinished">Transaction ID</translation>
     </message>
     <message>
-        <source>Net amount</source>
-        <translation>Valor líquido</translation>
+      <source>Merchant</source>
+      <translation type="unfinished">Merchant</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation>Mensagem</translation>
+      <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+      <translation type="unfinished">Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</translation>
     </message>
     <message>
-        <source>Comment</source>
-        <translation>Comentário</translation>
+      <source>Debug information</source>
+      <translation type="unfinished">Debug information</translation>
     </message>
     <message>
-        <source>Transaction ID</source>
-        <translation>ID de transacção</translation>
+      <source>Transaction</source>
+      <translation type="unfinished">Transaction</translation>
     </message>
     <message>
-        <source>Merchant</source>
-        <translation>Comerciante</translation>
+      <source>Inputs</source>
+      <translation type="unfinished">Inputs</translation>
     </message>
     <message>
-        <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>As moedas geradas tem que amadurecer %1 blocos antes de poderem ser gastas. Quando gerou este bloco, este foi propagado para a rede de modo a ser incluído na cadeia de blocos. Se não foi incluído na cadeia, o seu estado será alterado para "rejeitado" e não será possível gastar as moedas. Isto pode acontecer ocasionalmente quando outro nó gera um bloco a poucos segundos do seu.</translation>
+      <source>Amount</source>
+      <translation type="unfinished">Amount</translation>
     </message>
     <message>
-        <source>Debug information</source>
-        <translation>Informação de depuração</translation>
+      <source>true</source>
+      <translation type="unfinished">true</translation>
     </message>
     <message>
-        <source>Transaction</source>
-        <translation>Transacção</translation>
+      <source>false</source>
+      <translation type="unfinished">false</translation>
     </message>
-    <message>
-        <source>Inputs</source>
-        <translation>Entradas</translation>
-    </message>
-    <message>
-        <source>Amount</source>
-        <translation>Quantia</translation>
-    </message>
-    <message>
-        <source>true</source>
-        <translation>verdadeiro</translation>
-    </message>
-    <message>
-        <source>false</source>
-        <translation>falso</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TransactionDescDialog</name>
     <message>
-        <source>Transaction details</source>
-        <translation>Detalhes da transação</translation>
+      <source>Transaction details</source>
+      <translation type="unfinished">Transaction details</translation>
     </message>
     <message>
-        <source>This pane shows a detailed description of the transaction</source>
-        <translation>Esta janela mostra uma descrição detalhada da transação</translation>
+      <source>This pane shows a detailed description of the transaction</source>
+      <translation type="unfinished">This pane shows a detailed description of the transaction</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TransactionTableModel</name>
     <message>
-        <source>Date</source>
-        <translation>Data</translation>
+      <source>Date</source>
+      <translation type="unfinished">Date</translation>
     </message>
     <message>
-        <source>Type</source>
-        <translation>Tipo</translation>
+      <source>Type</source>
+      <translation type="unfinished">Type</translation>
     </message>
     <message>
-        <source>Address</source>
-        <translation>Endereço</translation>
-    </message>
-    <message numerus="yes">
-        <source>Open for %n more block(s)</source>
-        <translation><numerusform>Aberta durante mais %n bloco</numerusform><numerusform>Aberta durante mais %n blocos</numerusform></translation>
+      <source>Address</source>
+      <translation type="unfinished">Address</translation>
     </message>
     <message>
-        <source>Open until %1</source>
-        <translation>Aberta até %1</translation>
+      <source>Open until %1</source>
+      <translation type="unfinished">Open until %1</translation>
     </message>
     <message>
-        <source>Offline</source>
-        <translation>Desligado</translation>
+      <source>Offline</source>
+      <translation type="unfinished">Offline</translation>
     </message>
     <message>
-        <source>Unconfirmed</source>
-        <translation>Não confirmado</translation>
+      <source>Unconfirmed</source>
+      <translation type="unfinished">Unconfirmed</translation>
     </message>
     <message>
-        <source>Confirming (%1 of %2 recommended confirmations)</source>
-        <translation>A confirmar (%1 de %2 confirmações recomendadas)</translation>
+      <source>Confirming (%1 of %2 recommended confirmations)</source>
+      <translation type="unfinished">Confirming (%1 of %2 recommended confirmations)</translation>
     </message>
     <message>
-        <source>Confirmed (%1 confirmations)</source>
-        <translation>Confirmada (%1 confirmações)</translation>
+      <source>Confirmed (%1 confirmations)</source>
+      <translation type="unfinished">Confirmed (%1 confirmations)</translation>
     </message>
     <message>
-        <source>Conflicted</source>
-        <translation>Conflituosa</translation>
+      <source>Conflicted</source>
+      <translation type="unfinished">Conflicted</translation>
     </message>
     <message>
-        <source>Immature (%1 confirmations, will be available after %2)</source>
-        <translation>Imatura (%1 confirmações, estará disponível após %2)</translation>
+      <source>Immature (%1 confirmations, will be available after %2)</source>
+      <translation type="unfinished">Immature (%1 confirmations, will be available after %2)</translation>
     </message>
     <message>
-        <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>Este bloco não foi recebido por nenhum outro nó e provavelmente será rejeitado!</translation>
+      <source>This block was not received by any other nodes and will probably not be accepted!</source>
+      <translation type="unfinished">This block was not received by any other nodes and will probably not be accepted!</translation>
     </message>
     <message>
-        <source>Generated but not accepted</source>
-        <translation>Gerado mas rejeitado</translation>
+      <source>Generated but not accepted</source>
+      <translation type="unfinished">Generated but not accepted</translation>
     </message>
     <message>
-        <source>Received with</source>
-        <translation>Recebido com</translation>
+      <source>Received with</source>
+      <translation type="unfinished">Received with</translation>
     </message>
     <message>
-        <source>Received from</source>
-        <translation>Recebido de</translation>
+      <source>Received from</source>
+      <translation type="unfinished">Received from</translation>
     </message>
     <message>
-        <source>Received via Darksend</source>
-        <translation>Recebido via Darksend</translation>
+      <source>Received via Darksend</source>
+      <translation type="unfinished">Received via Darksend</translation>
     </message>
     <message>
-        <source>Sent to</source>
-        <translation>Enviado para</translation>
+      <source>Sent to</source>
+      <translation type="unfinished">Sent to</translation>
     </message>
     <message>
-        <source>Payment to yourself</source>
-        <translation>Pagamento ao próprio</translation>
+      <source>Payment to yourself</source>
+      <translation type="unfinished">Payment to yourself</translation>
     </message>
     <message>
-        <source>Mined</source>
-        <translation>Minado</translation>
+      <source>Mined</source>
+      <translation type="unfinished">Mined</translation>
     </message>
     <message>
-        <source>Darksend Denominate</source>
-        <translation>Denominação Darksend</translation>
+      <source>Darksend Denominate</source>
+      <translation type="unfinished">Darksend Denominate</translation>
     </message>
     <message>
-        <source>Darksend Collateral Payment</source>
-        <translation>Pagamento Colateral Darksend</translation>
+      <source>Darksend Collateral Payment</source>
+      <translation type="unfinished">Darksend Collateral Payment</translation>
     </message>
     <message>
-        <source>Darksend Make Collateral Inputs</source>
-        <translation>Darksend Fazer Entradas Colaterais</translation>
+      <source>Darksend Make Collateral Inputs</source>
+      <translation type="unfinished">Darksend Make Collateral Inputs</translation>
     </message>
     <message>
-        <source>Darksend Create Denominations</source>
-        <translation>Darksend Criar Denominações</translation>
+      <source>Darksend Create Denominations</source>
+      <translation type="unfinished">Darksend Create Denominations</translation>
     </message>
     <message>
-        <source>Darksent</source>
-        <translation>Darksent</translation>
+      <source>Darksent</source>
+      <translation type="unfinished">Darksent</translation>
     </message>
     <message>
-        <source>watch-only</source>
-        <translation>somente de visualização</translation>
+      <source>(n/a)</source>
+      <translation type="unfinished">(n/a)</translation>
     </message>
     <message>
-        <source>(n/a)</source>
-        <translation>(n/d)</translation>
+      <source>Transaction status. Hover over this field to show number of confirmations.</source>
+      <translation type="unfinished">Transaction status. Hover over this field to show number of confirmations.</translation>
     </message>
     <message>
-        <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>Estado da transacção. Passe o ponteiro do rato sobre este campo para mostrar o número de confirmações.</translation>
+      <source>Date and time that the transaction was received.</source>
+      <translation type="unfinished">Date and time that the transaction was received.</translation>
     </message>
     <message>
-        <source>Date and time that the transaction was received.</source>
-        <translation>Data e hora à qual a transacção foi recebida.</translation>
+      <source>Type of transaction.</source>
+      <translation type="unfinished">Type of transaction.</translation>
     </message>
     <message>
-        <source>Type of transaction.</source>
-        <translation>Tipo de transacção.</translation>
+      <source>Destination address of transaction.</source>
+      <translation type="unfinished">Destination address of transaction.</translation>
     </message>
     <message>
-        <source>Whether or not a watch-only address is involved in this transaction.</source>
-        <translation>Se existe algum endereço somente de visualização envolvido nesta transacção.</translation>
+      <source>Amount removed from or added to balance.</source>
+      <translation type="unfinished">Amount removed from or added to balance.</translation>
     </message>
-    <message>
-        <source>Destination address of transaction.</source>
-        <translation>Endereço de destino da transacção.</translation>
-    </message>
-    <message>
-        <source>Amount removed from or added to balance.</source>
-        <translation>Quantia removida ou adicionada ao saldo.</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>TransactionView</name>
     <message>
-        <source>All</source>
-        <translation>Todas</translation>
+      <source>All</source>
+      <translation type="unfinished">All</translation>
     </message>
     <message>
-        <source>Today</source>
-        <translation>Hoje</translation>
+      <source>Today</source>
+      <translation type="unfinished">Today</translation>
     </message>
     <message>
-        <source>This week</source>
-        <translation>Esta semana</translation>
+      <source>This week</source>
+      <translation type="unfinished">This week</translation>
     </message>
     <message>
-        <source>This month</source>
-        <translation>Este mês</translation>
+      <source>This month</source>
+      <translation type="unfinished">This month</translation>
     </message>
     <message>
-        <source>Last month</source>
-        <translation>Mês anterior</translation>
+      <source>Last month</source>
+      <translation type="unfinished">Last month</translation>
     </message>
     <message>
-        <source>This year</source>
-        <translation>Este ano</translation>
+      <source>This year</source>
+      <translation type="unfinished">This year</translation>
     </message>
     <message>
-        <source>Range...</source>
-        <translation>Intervalo...</translation>
+      <source>Range...</source>
+      <translation type="unfinished">Range...</translation>
     </message>
     <message>
-        <source>Most Common</source>
-        <translation>Mais Comum</translation>
+      <source>Received with</source>
+      <translation type="unfinished">Received with</translation>
     </message>
     <message>
-        <source>Received with</source>
-        <translation>Recebido com</translation>
+      <source>Sent to</source>
+      <translation type="unfinished">Sent to</translation>
     </message>
     <message>
-        <source>Sent to</source>
-        <translation>Enviado para</translation>
+      <source>Darksent</source>
+      <translation type="unfinished">Darksent</translation>
     </message>
     <message>
-        <source>Darksent</source>
-        <translation>Darksent</translation>
+      <source>Darksend Make Collateral Inputs</source>
+      <translation type="unfinished">Darksend Make Collateral Inputs</translation>
     </message>
     <message>
-        <source>Darksend Make Collateral Inputs</source>
-        <translation>Darksend Fazer Entradas Colaterais</translation>
+      <source>Darksend Create Denominations</source>
+      <translation type="unfinished">Darksend Create Denominations</translation>
     </message>
     <message>
-        <source>Darksend Create Denominations</source>
-        <translation>Darksend Criar Denominações</translation>
+      <source>Darksend Denominate</source>
+      <translation type="unfinished">Darksend Denominate</translation>
     </message>
     <message>
-        <source>Darksend Denominate</source>
-        <translation>Denominação Darksend</translation>
+      <source>Darksend Collateral Payment</source>
+      <translation type="unfinished">Darksend Collateral Payment</translation>
     </message>
     <message>
-        <source>Darksend Collateral Payment</source>
-        <translation>Pagamento Colateral Darksend</translation>
+      <source>To yourself</source>
+      <translation type="unfinished">To yourself</translation>
     </message>
     <message>
-        <source>To yourself</source>
-        <translation>Ao próprio</translation>
+      <source>Mined</source>
+      <translation type="unfinished">Mined</translation>
     </message>
     <message>
-        <source>Mined</source>
-        <translation>Minado</translation>
+      <source>Other</source>
+      <translation type="unfinished">Other</translation>
     </message>
     <message>
-        <source>Other</source>
-        <translation>Outra</translation>
+      <source>Enter address or label to search</source>
+      <translation type="unfinished">Enter address or label to search</translation>
     </message>
     <message>
-        <source>Enter address or label to search</source>
-        <translation>Introduza endereço ou rótulo a pesquisar</translation>
+      <source>Min amount</source>
+      <translation type="unfinished">Min amount</translation>
     </message>
     <message>
-        <source>Min amount</source>
-        <translation>Quantia mínima</translation>
+      <source>Copy address</source>
+      <translation type="unfinished">Copy address</translation>
     </message>
     <message>
-        <source>Copy address</source>
-        <translation>Copiar endereço</translation>
+      <source>Copy label</source>
+      <translation type="unfinished">Copy label</translation>
     </message>
     <message>
-        <source>Copy label</source>
-        <translation>Copiar rótulo</translation>
+      <source>Copy amount</source>
+      <translation type="unfinished">Copy amount</translation>
     </message>
     <message>
-        <source>Copy amount</source>
-        <translation>Copiar quantia</translation>
+      <source>Copy transaction ID</source>
+      <translation type="unfinished">Copy transaction ID</translation>
     </message>
     <message>
-        <source>Copy transaction ID</source>
-        <translation>Copiar ID de transacção</translation>
+      <source>Edit label</source>
+      <translation type="unfinished">Edit label</translation>
     </message>
     <message>
-        <source>Edit label</source>
-        <translation>Editar rótulo</translation>
+      <source>Show transaction details</source>
+      <translation type="unfinished">Show transaction details</translation>
     </message>
     <message>
-        <source>Show transaction details</source>
-        <translation>Mostrar detalhes da transacção</translation>
+      <source>Export Transaction History</source>
+      <translation type="unfinished">Export Transaction History</translation>
     </message>
     <message>
-        <source>Export Transaction History</source>
-        <translation>Exportar histórico de transacções</translation>
+      <source>Comma separated file (*.csv)</source>
+      <translation type="unfinished">Comma separated file (*.csv)</translation>
     </message>
     <message>
-        <source>Comma separated file (*.csv)</source>
-        <translation>Ficheiro separado por vírgulas (*.csv)</translation>
+      <source>Confirmed</source>
+      <translation type="unfinished">Confirmed</translation>
     </message>
     <message>
-        <source>Confirmed</source>
-        <translation>Confirmada</translation>
+      <source>Date</source>
+      <translation type="unfinished">Date</translation>
     </message>
     <message>
-        <source>Watch-only</source>
-        <translation>Somente de visualização</translation>
+      <source>Type</source>
+      <translation type="unfinished">Type</translation>
     </message>
     <message>
-        <source>Date</source>
-        <translation>Data</translation>
+      <source>Label</source>
+      <translation type="unfinished">Label</translation>
     </message>
     <message>
-        <source>Type</source>
-        <translation>Tipo</translation>
+      <source>Address</source>
+      <translation type="unfinished">Address</translation>
     </message>
     <message>
-        <source>Label</source>
-        <translation>Rótulo</translation>
+      <source>ID</source>
+      <translation type="unfinished">ID</translation>
     </message>
     <message>
-        <source>Address</source>
-        <translation>Endereço</translation>
+      <source>Exporting Failed</source>
+      <translation type="unfinished">Exporting Failed</translation>
     </message>
     <message>
-        <source>ID</source>
-        <translation>ID</translation>
+      <source>There was an error trying to save the transaction history to %1.</source>
+      <translation type="unfinished">There was an error trying to save the transaction history to %1.</translation>
     </message>
     <message>
-        <source>Exporting Failed</source>
-        <translation>A exportação falhou</translation>
+      <source>Exporting Successful</source>
+      <translation type="unfinished">Exporting Successful</translation>
     </message>
     <message>
-        <source>There was an error trying to save the transaction history to %1.</source>
-        <translation>Ocorreu um erro ao tentar gravar o histórico de transacções para %1.</translation>
+      <source>The transaction history was successfully saved to %1.</source>
+      <translation type="unfinished">The transaction history was successfully saved to %1.</translation>
     </message>
     <message>
-        <source>Exporting Successful</source>
-        <translation>Exportação Concluída com Sucesso</translation>
+      <source>Range:</source>
+      <translation type="unfinished">Range:</translation>
     </message>
     <message>
-        <source>The transaction history was successfully saved to %1.</source>
-        <translation>O histórico de transacções foi gravado com sucesso para %1.</translation>
+      <source>to</source>
+      <translation type="unfinished">to</translation>
     </message>
-    <message>
-        <source>Range:</source>
-        <translation>Intervalo:</translation>
-    </message>
-    <message>
-        <source>to</source>
-        <translation>para</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>UnitDisplayStatusBarControl</name>
-    <message>
-        <source>Unit to show amounts in. Click to select another unit.</source>
-        <translation>Unidade das quantias. Clique para seleccionar outra unidade.</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>WalletFrame</name>
     <message>
-        <source>No wallet has been loaded.</source>
-        <translation>Nenhuma carteira carregada</translation>
+      <source>No wallet has been loaded.</source>
+      <translation type="unfinished">No wallet has been loaded.</translation>
     </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>WalletModel</name>
     <message>
-        <source>Send Coins</source>
-        <translation>Enviar Moedas</translation>
+      <source>Send Coins</source>
+      <translation type="unfinished">Send Coins</translation>
     </message>
-    <message>
-        <source>InstantX doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</source>
-        <translation>O InstantX não suporta valores tão elevados neste momento. As transacções estão limitadas a %1 STONE.</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>WalletView</name>
     <message>
-        <source>&amp;Export</source>
-        <translation>&amp;Exportar</translation>
+      <source>&amp;Export</source>
+      <translation type="unfinished">&amp;Export</translation>
     </message>
     <message>
-        <source>Export the data in the current tab to a file</source>
-        <translation>Exportar os dados do separador actual para um ficheiro</translation>
+      <source>Export the data in the current tab to a file</source>
+      <translation type="unfinished">Export the data in the current tab to a file</translation>
     </message>
     <message>
-        <source>Selected amount:</source>
-        <translation>Quantia seleccionada: </translation>
+      <source>Backup Wallet</source>
+      <translation type="unfinished">Backup Wallet</translation>
     </message>
     <message>
-        <source>Backup Wallet</source>
-        <translation>Criar Cópia de Segurança da Carteira</translation>
+      <source>Wallet Data (*.dat)</source>
+      <translation type="unfinished">Wallet Data (*.dat)</translation>
     </message>
     <message>
-        <source>Wallet Data (*.dat)</source>
-        <translation>Dados da Carteira (*.dat)</translation>
+      <source>Backup Failed</source>
+      <translation type="unfinished">Backup Failed</translation>
     </message>
     <message>
-        <source>Backup Failed</source>
-        <translation>A Cópia de Segurança Falhou</translation>
+      <source>There was an error trying to save the wallet data to %1.</source>
+      <translation type="unfinished">There was an error trying to save the wallet data to %1.</translation>
     </message>
     <message>
-        <source>There was an error trying to save the wallet data to %1.</source>
-        <translation>Ocorreu um erro ao tentar criar cópia de segurança da carteira para %1.</translation>
+      <source>Backup Successful</source>
+      <translation type="unfinished">Backup Successful</translation>
     </message>
     <message>
-        <source>Backup Successful</source>
-        <translation>Cópia de Segurança Criada com Sucesso</translation>
+      <source>The wallet data was successfully saved to %1.</source>
+      <translation type="unfinished">The wallet data was successfully saved to %1.</translation>
     </message>
-    <message>
-        <source>The wallet data was successfully saved to %1.</source>
-        <translation>Os dados da carteira foram gravados com sucesso em %1.</translation>
-    </message>
-</context>
-<context>
+  </context>
+  <context>
     <name>stone-core</name>
     <message>
-        <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
-        <translation>Vincular a um determinado endereço e ouvir sempre aí. Use a notação [endereço]:porta para IPv6</translation>
+      <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
+      <translation type="unfinished">Bind to given address and always listen on it. Use [host]:port notation for IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Stone Core is probably already running.</source>
-        <translation>Não foi possível obter acesso exclusivo à pasta de dados %s. Possivelmente o Stone Core já se encontra em execução.</translation>
+      <source>Cannot obtain a lock on data directory %s. Stone Core is probably already running.</source>
+      <translation type="unfinished">Cannot obtain a lock on data directory %s. Stone Core is probably already running.</translation>
     </message>
     <message>
-        <source>Darksend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
-        <translation>O Darksend usa denominações exactas para enviar fundos, pode necessitar simplesmente de anonimizar mais algumas moedas.</translation>
+      <source>Darksend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
+      <translation type="unfinished">Darksend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</translation>
     </message>
     <message>
-        <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly.</source>
-        <translation>Entrar no modo de testes de regressão, que usa uma cadeia de blocos especial onde cada bloco é resolvido instantaneamente.</translation>
+      <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly.</source>
+      <translation type="unfinished">Enter regression test mode, which uses a special chain in which blocks can be solved instantly.</translation>
     </message>
     <message>
-        <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
-        <translation>Erro: A escuta por ligações de entrada falhou (a escuta devolveu o erro %s)</translation>
+      <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
+      <translation type="unfinished">Error: Listening for incoming connections failed (listen returned error %s)</translation>
     </message>
     <message>
-        <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
-        <translation>Executar comando quando é recebido um alerta ou vemos uma longa bifurcação na cadeia de blocos (%s no comando é substituído pela mensagem)</translation>
+      <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
+      <translation type="unfinished">Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</translation>
     </message>
     <message>
-        <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Executar comando quando muda uma transacção na carteira (%s no comando é substituído pelo TxID)</translation>
+      <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
+      <translation type="unfinished">Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</translation>
     </message>
     <message>
-        <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Executar comando quando o melhor bloco muda (%s no comando é substituído pela hash do bloco)</translation>
+      <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
+      <translation type="unfinished">Execute command when the best block changes (%s in cmd is replaced by block hash)</translation>
     </message>
     <message>
-        <source>In this mode -genproclimit controls how many blocks are generated immediately.</source>
-        <translation>Neste modo o -genproclimit controla quantos blocos são gerados imediatamente.</translation>
+      <source>In this mode -genproclimit controls how many blocks are generated immediately.</source>
+      <translation type="unfinished">In this mode -genproclimit controls how many blocks are generated immediately.</translation>
     </message>
     <message>
-        <source>InstantX requires inputs with at least 6 confirmations, you might need to wait a few minutes and try again.</source>
-        <translation>O InstantX necessita de entradas com pelo menos 6 confirmações, pode ser necessário aguardar mais uns minutos e tentar de novo.</translation>
+      <source>InstantX requires inputs with at least 6 confirmations, you might need to wait a few minutes and try again.</source>
+      <translation type="unfinished">InstantX requires inputs with at least 6 confirmations, you might need to wait a few minutes and try again.</translation>
     </message>
     <message>
-        <source>Name to construct url for KeePass entry that stores the wallet passphrase</source>
-        <translation>Nome para construir o url para a entrada KeePass que guarda a palavra-passe da carteira</translation>
+      <source>Name to construct url for KeePass entry that stores the wallet passphrase</source>
+      <translation type="unfinished">Name to construct url for KeePass entry that stores the wallet passphrase</translation>
     </message>
     <message>
-        <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>
-        <translation>Questionar por endereços dos nós através de pesquisas DNS caso tenha poucos endereços (omissão: 1 excepto -connect)</translation>
+      <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>
+      <translation type="unfinished">Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</translation>
     </message>
     <message>
-        <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>
-        <translation>Definir tamanho máximo de transacções com alta-prioridade/taxa-reduzida em bytes (omissão: %d)</translation>
+      <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>
+      <translation type="unfinished">Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</translation>
     </message>
     <message>
-        <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>
-        <translation>Definir número de processos de verificação de scripts (%u a %d, 0 = auto, &lt;0 = deixar este número de cores livres, omissão: %d)</translation>
+      <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>
+      <translation type="unfinished">Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</translation>
     </message>
     <message>
-        <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>Esta é uma compilação prévia de teste - use por sua conta e risco - não use para minar nem em aplicações comerciais</translation>
+      <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
+      <translation type="unfinished">This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Stone Core is probably already running.</source>
-        <translation>Não foi possível vincular a %s neste computador. Provavelmente o Stone Core já está a ser executado.</translation>
+      <source>Unable to bind to %s on this computer. Stone Core is probably already running.</source>
+      <translation type="unfinished">Unable to bind to %s on this computer. Stone Core is probably already running.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Darksend denominated funds for this transaction.</source>
-        <translation>Não foi possível localizar fundos Darksend denominados suficientes para esta transacção.</translation>
+      <source>Unable to locate enough Darksend denominated funds for this transaction.</source>
+      <translation type="unfinished">Unable to locate enough Darksend denominated funds for this transaction.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 1000 STONE.</source>
-        <translation>Não foi possível localizar fundos Darksend não denominados suficientes para esta transacção que não sejam igual a 1000DRK.</translation>
+      <source>Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 1000 STONE.</source>
+      <translation type="unfinished">Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 1000 STONE.</translation>
     </message>
     <message>
-        <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>Aviso: -paytxfee tem um valor muito elevado! Esta é a taxa de transacção que será paga se enviar uma transacção.</translation>
+      <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
+      <translation type="unfinished">Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</translation>
     </message>
     <message>
-        <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
-        <translation>Aviso: A rede não parece estar concordar! Parece haver alguns mineiros com problemas.</translation>
+      <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
+      <translation type="unfinished">Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</translation>
     </message>
     <message>
-        <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>
-        <translation>Aviso: Parece que não estamos de acordo com outros nós! Talvez necessite actualizar a aplicação ou os outros nós necessitem actualizar.</translation>
+      <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>
+      <translation type="unfinished">Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</translation>
     </message>
     <message>
-        <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>Aviso: erro ao carregar wallet.dat! Todas as chaves estão correctas mas os dados das transacções ou as entradas do livro de endereços podem estar ausentes ou incorrectas.</translation>
+      <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
+      <translation type="unfinished">Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</translation>
     </message>
     <message>
-        <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Aviso: wallet.dar corrompido mas os dados foram recuperados! A carteira original foi gravada como wallet{data/hora}.bak in %s; se o seu saldo ou transacções forem incorrectos deverá recuperar a partir de uma cópia de segurança.</translation>
+      <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
+      <translation type="unfinished">Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</translation>
     </message>
     <message>
-        <source>You must specify a masternodeprivkey in the configuration. Please see documentation for help.</source>
-        <translation>Tem que especificar uma masternodeprivkey na configuração. Por favor verifique a documentação para ajuda.</translation>
+      <source>You must specify a masternodeprivkey in the configuration. Please see documentation for help.</source>
+      <translation type="unfinished">You must specify a masternodeprivkey in the configuration. Please see documentation for help.</translation>
     </message>
     <message>
-        <source>(default: 1)</source>
-        <translation>(omissão: 1)</translation>
+      <source>(default: 1)</source>
+      <translation type="unfinished">(default: 1)</translation>
     </message>
     <message>
-        <source>Accept command line and JSON-RPC commands</source>
-        <translation>Aceitar comandos da linha de comandos e JSON-RPC</translation>
+      <source>Accept command line and JSON-RPC commands</source>
+      <translation type="unfinished">Accept command line and JSON-RPC commands</translation>
     </message>
     <message>
-        <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation>Aceitar ligações do exterior (omissão: 1 se não tiver usado -proxy ou -connect)</translation>
+      <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
+      <translation type="unfinished">Accept connections from outside (default: 1 if no -proxy or -connect)</translation>
     </message>
     <message>
-        <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Adicionar um nó ao qual efectuar ligação e tentar manter a ligação aberta</translation>
+      <source>Add a node to connect to and attempt to keep the connection open</source>
+      <translation type="unfinished">Add a node to connect to and attempt to keep the connection open</translation>
     </message>
     <message>
-        <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>Permitir pesquisas de DNS para -addnode, -deednode e -connect</translation>
+      <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
+      <translation type="unfinished">Allow DNS lookups for -addnode, -seednode and -connect</translation>
     </message>
     <message>
-        <source>Already have that input.</source>
-        <translation>Entrada existente.</translation>
+      <source>Already have that input.</source>
+      <translation type="unfinished">Already have that input.</translation>
     </message>
     <message>
-        <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation>Tentar recuperar as chaves privadas a partir de um ficheiro wallet.dat corrompido</translation>
+      <source>Attempt to recover private keys from a corrupt wallet.dat</source>
+      <translation type="unfinished">Attempt to recover private keys from a corrupt wallet.dat</translation>
     </message>
     <message>
-        <source>Block creation options:</source>
-        <translation>Opções de criação de blocos:</translation>
+      <source>Block creation options:</source>
+      <translation type="unfinished">Block creation options:</translation>
     </message>
     <message>
-        <source>Can't denominate: no compatible inputs left.</source>
-        <translation>Não é possível denominar: não existem mais entradas compatíveis.</translation>
+      <source>Can't denominate: no compatible inputs left.</source>
+      <translation type="unfinished">Can't denominate: no compatible inputs left.</translation>
     </message>
     <message>
-        <source>Cannot downgrade wallet</source>
-        <translation>Não é possível reverter para uma versão anterior da carteira</translation>
+      <source>Cannot downgrade wallet</source>
+      <translation type="unfinished">Cannot downgrade wallet</translation>
     </message>
     <message>
-        <source>Cannot resolve -bind address: '%s'</source>
-        <translation>Não foi possível resolver endereço de vínculo: '%s'</translation>
+      <source>Cannot resolve -bind address: '%s'</source>
+      <translation type="unfinished">Cannot resolve -bind address: '%s'</translation>
     </message>
     <message>
-        <source>Cannot resolve -externalip address: '%s'</source>
-        <translation>Não foi possível resolver endereço -externalip: '%s'</translation>
+      <source>Cannot resolve -externalip address: '%s'</source>
+      <translation type="unfinished">Cannot resolve -externalip address: '%s'</translation>
     </message>
     <message>
-        <source>Cannot write default address</source>
-        <translation>Não foi possível escrever endereço por omissão</translation>
+      <source>Cannot write default address</source>
+      <translation type="unfinished">Cannot write default address</translation>
     </message>
     <message>
-        <source>Collateral not valid.</source>
-        <translation>Colateral inválido.</translation>
+      <source>Collateral not valid.</source>
+      <translation type="unfinished">Collateral not valid.</translation>
     </message>
     <message>
-        <source>Connect only to the specified node(s)</source>
-        <translation>Ligar apenas ao(s) nó(s) especificados</translation>
+      <source>Connect only to the specified node(s)</source>
+      <translation type="unfinished">Connect only to the specified node(s)</translation>
     </message>
     <message>
-        <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Efectuar ligação a um nó para obter os endereços de outros clientes e desligar</translation>
+      <source>Connect to a node to retrieve peer addresses, and disconnect</source>
+      <translation type="unfinished">Connect to a node to retrieve peer addresses, and disconnect</translation>
     </message>
     <message>
-        <source>Connection options:</source>
-        <translation>Opções de ligação:</translation>
+      <source>Connection options:</source>
+      <translation type="unfinished">Connection options:</translation>
     </message>
     <message>
-        <source>Corrupted block database detected</source>
-        <translation>Detectada corrupção na base de dados dos blocos</translation>
+      <source>Corrupted block database detected</source>
+      <translation type="unfinished">Corrupted block database detected</translation>
     </message>
     <message>
-        <source>Darksend options:</source>
-        <translation>Opções Darksend:</translation>
+      <source>Darksend options:</source>
+      <translation type="unfinished">Darksend options:</translation>
     </message>
     <message>
-        <source>Debugging/Testing options:</source>
-        <translation>Opções de Depuração/Teste</translation>
+      <source>Debugging/Testing options:</source>
+      <translation type="unfinished">Debugging/Testing options:</translation>
     </message>
     <message>
-        <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation>Descobrir endereço de IP próprio (omissão: 1 quando em escuta e -externalip não definido)</translation>
+      <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
+      <translation type="unfinished">Discover own IP address (default: 1 when listening and no -externalip)</translation>
     </message>
     <message>
-        <source>Do not load the wallet and disable wallet RPC calls</source>
-        <translation>Não carregar a carteira e desabilitar as chamadas RPC</translation>
+      <source>Do not load the wallet and disable wallet RPC calls</source>
+      <translation type="unfinished">Do not load the wallet and disable wallet RPC calls</translation>
     </message>
     <message>
-        <source>Do you want to rebuild the block database now?</source>
-        <translation>Quer reconstruir agora a base de dados dos blocos?</translation>
+      <source>Do you want to rebuild the block database now?</source>
+      <translation type="unfinished">Do you want to rebuild the block database now?</translation>
     </message>
     <message>
-        <source>Done loading</source>
-        <translation>Carregamento completo</translation>
+      <source>Done loading</source>
+      <translation type="unfinished">Done loading</translation>
     </message>
     <message>
-        <source>Entries are full.</source>
-        <translation>Entradas completas.</translation>
+      <source>Entries are full.</source>
+      <translation type="unfinished">Entries are full.</translation>
     </message>
     <message>
-        <source>Error initializing block database</source>
-        <translation>Erro ao inicializar a base de dados dos blocos</translation>
+      <source>Error initializing block database</source>
+      <translation type="unfinished">Error initializing block database</translation>
     </message>
     <message>
-        <source>Error initializing wallet database environment %s!</source>
-        <translation>Erro ao inicializar o ambiente de base de dados da carteira %s!</translation>
+      <source>Error initializing wallet database environment %s!</source>
+      <translation type="unfinished">Error initializing wallet database environment %s!</translation>
     </message>
     <message>
-        <source>Error loading block database</source>
-        <translation>Erro ao carregar base de dados de blocos</translation>
+      <source>Error loading block database</source>
+      <translation type="unfinished">Error loading block database</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat</source>
-        <translation>Erro ao carregar wallet.dat</translation>
+      <source>Error loading wallet.dat</source>
+      <translation type="unfinished">Error loading wallet.dat</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>Erro ao carregar wallet.dat: A carteira está corrompida</translation>
+      <source>Error loading wallet.dat: Wallet corrupted</source>
+      <translation type="unfinished">Error loading wallet.dat: Wallet corrupted</translation>
     </message>
     <message>
-        <source>Error opening block database</source>
-        <translation>Erro ao abrir base de dados de blocos</translation>
+      <source>Error opening block database</source>
+      <translation type="unfinished">Error opening block database</translation>
     </message>
     <message>
-        <source>Error reading from database, shutting down.</source>
-        <translation>Erro ao ler da base de dados, a encerrar.</translation>
+      <source>Error reading from database, shutting down.</source>
+      <translation type="unfinished">Error reading from database, shutting down.</translation>
     </message>
     <message>
-        <source>Error recovering public key.</source>
-        <translation>Erro ao recuperar chave pública.</translation>
+      <source>Error recovering public key.</source>
+      <translation type="unfinished">Error recovering public key.</translation>
     </message>
     <message>
-        <source>Error</source>
-        <translation>Erro</translation>
+      <source>Error</source>
+      <translation type="unfinished">Error</translation>
     </message>
     <message>
-        <source>Error: Disk space is low!</source>
-        <translation>Erro: Pouco espaço em disco!</translation>
+      <source>Error: Disk space is low!</source>
+      <translation type="unfinished">Error: Disk space is low!</translation>
     </message>
     <message>
-        <source>Error: Wallet locked, unable to create transaction!</source>
-        <translation>Erro: Carteira bloqueada, não foi possível criar a transacção!</translation>
+      <source>Error: Wallet locked, unable to create transaction!</source>
+      <translation type="unfinished">Error: Wallet locked, unable to create transaction!</translation>
     </message>
     <message>
-        <source>Error: You already have pending entries in the Darksend pool</source>
-        <translation>Erro: Já tem entradas pendentes no conjunto Darksend</translation>
+      <source>Error: You already have pending entries in the Darksend pool</source>
+      <translation type="unfinished">Error: You already have pending entries in the Darksend pool</translation>
     </message>
     <message>
-        <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Falhou a escuta em qualquer porta. Use -listen=0 se é isto que deseja.</translation>
+      <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
+      <translation type="unfinished">Failed to listen on any port. Use -listen=0 if you want this.</translation>
     </message>
     <message>
-        <source>Failed to read block</source>
-        <translation>Falha ao ler bloco</translation>
+      <source>Failed to read block</source>
+      <translation type="unfinished">Failed to read block</translation>
     </message>
     <message>
-        <source>If &lt;category&gt; is not supplied, output all debugging information.</source>
-        <translation>Se a &lt;category&gt; não for fornecida, mostrar toda a informação de depuração.</translation>
+      <source>If &lt;category&gt; is not supplied, output all debugging information.</source>
+      <translation type="unfinished">If &lt;category&gt; is not supplied, output all debugging information.</translation>
     </message>
     <message>
-        <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
-        <translation>(1 = mantem meta dados das transacções ex. dono da conta e informação das solicitações de pagamento, 2 = elimina os meta dados das transacções)</translation>
+      <source>Found unconfirmed denominated outputs, will wait till they confirm to continue.</source>
+      <translation type="unfinished">Found unconfirmed denominated outputs, will wait till they confirm to continue.</translation>
     </message>
     <message>
-        <source>An error occurred while setting up the RPC address %s port %u for listening: %s</source>
-        <translation>Ocorreu um erro ao configurar o endereço RPC %s na porta %u para escutar: %s</translation>
+      <source>Importing...</source>
+      <translation type="unfinished">Importing...</translation>
     </message>
     <message>
-        <source>Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6</source>
-        <translation>Vincular a um determinado endereço e ouvir sempre aí. Use a notação [host]:porta para IPv6</translation>
+      <source>Imports blocks from external blk000??.dat file</source>
+      <translation type="unfinished">Imports blocks from external blk000??.dat file</translation>
     </message>
     <message>
-        <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:%u)</source>
-        <translation>Continuamente limitar o número de transacções gratuitas por minuto a &lt;n&gt;*1000 bytes (default:%u)</translation>
+      <source>Incompatible mode.</source>
+      <translation type="unfinished">Incompatible mode.</translation>
     </message>
     <message>
-        <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>
-        <translation>Apaga todas as transacções da carteira e só recupera essas partes da cadeia de blocos com -rescan no arranque</translation>
+      <source>Incompatible version.</source>
+      <translation type="unfinished">Incompatible version.</translation>
     </message>
     <message>
-        <source>Enable instantx, show confirmations for locked transactions (bool, default: %s)</source>
-        <translation>Activar instantx, mostrar confirmações para transacções bloqueadas (bool, default: %s)</translation>
+      <source>Incorrect or no genesis block found. Wrong datadir for network?</source>
+      <translation type="unfinished">Incorrect or no genesis block found. Wrong datadir for network?</translation>
     </message>
     <message>
-        <source>Enable use of automated darksend for funds stored in this wallet (0-1, default: %u)</source>
-        <translation>Activar o uso de darksend automatizado para os fundos guardados nesta carteira (0-1, default: %u)</translation>
+      <source>Information</source>
+      <translation type="unfinished">Information</translation>
     </message>
     <message>
-        <source>Fees (in STONE/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Taxas (em STONE/Kb) inferiores a esta serão consideradas zero para retransmissão (default: %s)</translation>
+      <source>Initialization sanity check failed. Stone Core is shutting down.</source>
+      <translation type="unfinished">Initialization sanity check failed. Stone Core is shutting down.</translation>
     </message>
     <message>
-        <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
-        <translation>Consolidar a actividade de dados de memoria para disco a cada &lt;n&gt; megabytes (omissão: %u)</translation>
+      <source>Input is not valid.</source>
+      <translation type="unfinished">Input is not valid.</translation>
     </message>
     <message>
-        <source>Found unconfirmed denominated outputs, will wait till they confirm to continue.</source>
-        <translation>Foram encontradas saídas denominadas não confirmadas, a aguardar pela confirmação para prosseguir.</translation>
+      <source>InstantX options:</source>
+      <translation type="unfinished">InstantX options:</translation>
     </message>
     <message>
-        <source>How thorough the block verification of -checkblocks is (0-4, default: %u)</source>
-        <translation>Quão minuciosa é a verificação dos blocos do -checkblocks (0-4, omissão: %u)</translation>
+      <source>Insufficient funds.</source>
+      <translation type="unfinished">Insufficient funds.</translation>
     </message>
     <message>
-        <source>Log transaction priority and fee per kB when mining blocks (default: %u)</source>
-        <translation>Salvar prioridade e taxa da transacção por kB quando minar blocos (omissão: %u)</translation>
+      <source>Invalid -onion address: '%s'</source>
+      <translation type="unfinished">Invalid -onion address: '%s'</translation>
     </message>
     <message>
-        <source>Number of seconds to keep misbehaving peers from reconnecting (default: %u)</source>
-        <translation>Número de segundos a não permitir ligações de nós com comportamento inadequado (omissão: %u)</translation>
+      <source>Invalid -proxy address: '%s'</source>
+      <translation type="unfinished">Invalid -proxy address: '%s'</translation>
     </message>
     <message>
-        <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>
-        <translation>Informação de depuração de saída (omissão: %u, fornecer &lt;category&gt; é opcional)</translation>
+      <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
+      <translation type="unfinished">Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
-        <source>Provide liquidity to Darksend by infrequently mixing coins on a continual basis (0-100, default: %u, 1=very frequent, high fees, 100=very infrequent, low fees)</source>
-        <translation>Providenciar liquidez para o Darksend misturando moedas continuamente com baixa frequência (0-100, omissão: %u, 1=muito frequente taxas elevadas, 100=pouco frequente, taxas reduzidas)</translation>
+      <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
+      <translation type="unfinished">Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
-        <source>Send trace/debug info to console instead of debug.log file (default: %u)</source>
-        <translation>Enviar informação de execução/depuração para a consola em vez de enviar para o ficheiro debug.log (omissão: %u)</translation>
+      <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
+      <translation type="unfinished">Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
-        <source>Set the number of threads for coin generation if enabled (-1 = all cores, default: %d)</source>
-        <translation>Definir o limite de processadores quando a geração está activa (-1 = todos, omissão: %d)</translation>
+      <source>Invalid masternodeprivkey. Please see documenation.</source>
+      <translation type="unfinished">Invalid masternodeprivkey. Please see documenation.</translation>
     </message>
     <message>
-        <source>Show N confirmations for a successfully locked transaction (0-9999, default: %u)</source>
-        <translation>Mostrar N confirmações para uma transacção bloqueada com sucesso (0-9999, omissão: %u)</translation>
+      <source>Invalid private key.</source>
+      <translation type="unfinished">Invalid private key.</translation>
     </message>
     <message>
-        <source>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit &lt;https://www.openssl.org/&gt; and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard.</source>
-        <translation>Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no OpenSSL Toolkit &lt;https://www.openssl.org/&gt;, software criptográfico escrito por Eric Young e software UPnP escrito por Thomas Bernard.</translation>
+      <source>Invalid script detected.</source>
+      <translation type="unfinished">Invalid script detected.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 1000 STONE.</source>
-        <translation>Não foi possível localizar fundos suficientes para esta transacção que não sejam igual a 1000DRK.</translation>
+      <source>KeePassHttp id for the established association</source>
+      <translation type="unfinished">KeePassHttp id for the established association</translation>
     </message>
     <message>
-        <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
-        <translation>Usar um proxy SOCKS5 diferente para ligar aos nós através dos serviços escondidos Tor (omissão: %s)</translation>
+      <source>KeePassHttp key for AES encrypted communication with KeePass</source>
+      <translation type="unfinished">KeePassHttp key for AES encrypted communication with KeePass</translation>
     </message>
     <message>
-        <source>Warning: -maxtxfee is set very high! Fees this large could be paid on a single transaction.</source>
-        <translation>Aviso: -maxtxfee é demasiado alta! Taxas deste tamanho podem ser pagas em apenas uma transacção.</translation>
+      <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
+      <translation type="unfinished">Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Stone Core will not work properly.</source>
-        <translation>Aviso: Por favor verifique que a data e a hora do computador está correcta! Se o relógio estiver errado o Stone Core não vai funcionar correctamente.</translation>
+      <source>Last Darksend was too recent.</source>
+      <translation type="unfinished">Last Darksend was too recent.</translation>
     </message>
     <message>
-        <source>(9999 could be used only on mainnet)</source>
-        <translation>(9999 apenas pode ser usado para mainnet)</translation>
+      <source>Loading addresses...</source>
+      <translation type="unfinished">Loading addresses...</translation>
     </message>
     <message>
-        <source>(default: %s)</source>
-        <translation>(default: %s)</translation>
+      <source>Loading block index...</source>
+      <translation type="unfinished">Loading block index...</translation>
     </message>
     <message>
-        <source>&lt;category&gt; can be:
-</source>
-        <translation>&lt;category&gt; pode ser:
-</translation>
+      <source>Loading wallet... (%3.2f %%)</source>
+      <translation type="unfinished">Loading wallet... (%3.2f %%)</translation>
     </message>
     <message>
-        <source>Accept public REST requests (default: %u)</source>
-        <translation>Aceitar REST requests (default: %u) públicos</translation>
+      <source>Loading wallet...</source>
+      <translation type="unfinished">Loading wallet...</translation>
     </message>
     <message>
-        <source>Acceptable ciphers (default: %s)</source>
-        <translation>Cifras aceitáveis (default: %s)</translation>
+      <source>Masternode options:</source>
+      <translation type="unfinished">Masternode options:</translation>
     </message>
     <message>
-        <source>Always query for peer addresses via DNS lookup (default: %u)</source>
-        <translation>Perguntar sempre por endereços de pares via DNS lookup (default: %u)</translation>
+      <source>Masternode queue is full.</source>
+      <translation type="unfinished">Masternode queue is full.</translation>
     </message>
     <message>
-        <source>Cannot resolve -whitebind address: '%s'</source>
-        <translation>Incapaz de resolver -whitebind address: '%s'</translation>
+      <source>Masternode:</source>
+      <translation type="unfinished">Masternode:</translation>
     </message>
     <message>
-        <source>Connect through SOCKS5 proxy</source>
-        <translation>Conectar através de SOCKS5 proxy</translation>
+      <source>Missing input transaction information.</source>
+      <translation type="unfinished">Missing input transaction information.</translation>
     </message>
     <message>
-        <source>Connect to KeePassHttp on port &lt;port&gt; (default: %u)</source>
-        <translation>Conectar a KeePassHttp na porta &lt;port&gt; (default: %u)</translation>
+      <source>No funds detected in need of denominating.</source>
+      <translation type="unfinished">No funds detected in need of denominating.</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation>Copyright (C) 2009-%i The Bitcoin Core Developers</translation>
+      <source>No matching denominations found for mixing.</source>
+      <translation type="unfinished">No matching denominations found for mixing.</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Stone Core Developers</source>
-        <translation>Copyright (C) 2014-%i Stone Core Developers</translation>
+      <source>Non-standard public key detected.</source>
+      <translation type="unfinished">Non-standard public key detected.</translation>
     </message>
     <message>
-        <source>Could not parse -rpcbind value %s as network address</source>
-        <translation>Incapaz de analizar -rpcbind value %s como endereço de rede</translation>
+      <source>Not compatible with existing transactions.</source>
+      <translation type="unfinished">Not compatible with existing transactions.</translation>
     </message>
     <message>
-        <source>Darksend is idle.</source>
-        <translation>Darksend está inactivo.</translation>
+      <source>Not enough file descriptors available.</source>
+      <translation type="unfinished">Not enough file descriptors available.</translation>
     </message>
     <message>
-        <source>Darksend request complete:</source>
-        <translation>Pedido Darksend completo:</translation>
+      <source>Options:</source>
+      <translation type="unfinished">Options:</translation>
     </message>
     <message>
-        <source>Darksend request incomplete:</source>
-        <translation>Pedido Darksend incompleto:</translation>
+      <source>Password for JSON-RPC connections</source>
+      <translation type="unfinished">Password for JSON-RPC connections</translation>
     </message>
     <message>
-        <source>Disable safemode, override a real safe mode event (default: %u)</source>
-        <translation>Desactivar safemode, ultrapassar o evento de modo de segurança real (default: %u)</translation>
+      <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
+      <translation type="unfinished">RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</translation>
     </message>
     <message>
-        <source>Enable the client to act as a masternode (0-1, default: %u)</source>
-        <translation>Permitir ao cliente actuar como um masternode (0-1, omissão: %u)</translation>
+      <source>RPC server options:</source>
+      <translation type="unfinished">RPC server options:</translation>
     </message>
     <message>
-        <source>Error connecting to Masternode.</source>
-        <translation>Erro conectando ao Masternode</translation>
+      <source>Randomly drop 1 of every &lt;n&gt; network messages</source>
+      <translation type="unfinished">Randomly drop 1 of every &lt;n&gt; network messages</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Stone Core</source>
-        <translation>Erro carregando wallet.dat Carteira precisa de nova versão do Stone Core</translation>
+      <source>Randomly fuzz 1 of every &lt;n&gt; network messages</source>
+      <translation type="unfinished">Randomly fuzz 1 of every &lt;n&gt; network messages</translation>
     </message>
     <message>
-        <source>Error: A fatal internal error occured, see debug.log for details</source>
-        <translation>Erro: Um erro fatal interno ocorreu, veja debug.log para mais detalhes</translation>
+      <source>Rebuild block chain index from current blk000??.dat files</source>
+      <translation type="unfinished">Rebuild block chain index from current blk000??.dat files</translation>
     </message>
     <message>
-        <source>Error: Can't select current denominated inputs</source>
-        <translation>Erro: Incapaz de seleccionar inputs denominados correntes</translation>
+      <source>Rescan the block chain for missing wallet transactions</source>
+      <translation type="unfinished">Rescan the block chain for missing wallet transactions</translation>
     </message>
     <message>
-        <source>Error: Unsupported argument -tor found, use -onion.</source>
-        <translation>Erro: Argument não suportado -tor encontrado, utilize -onion</translation>
+      <source>Rescanning...</source>
+      <translation type="unfinished">Rescanning...</translation>
     </message>
     <message>
-        <source>Fee (in STONE/kB) to add to transactions you send (default: %s)</source>
-        <translation>Taxas (em STONE/Kb) a adicionar às transacções que envia (omissão: %s)</translation>
+      <source>Run in the background as a daemon and accept commands</source>
+      <translation type="unfinished">Run in the background as a daemon and accept commands</translation>
     </message>
     <message>
-        <source>Finalizing transaction.</source>
-        <translation>Finalizando transacção.</translation>
+      <source>Session not complete!</source>
+      <translation type="unfinished">Session not complete!</translation>
     </message>
     <message>
-        <source>Force safe mode (default: %u)</source>
-        <translation>Forçar safe mode (default: %u)</translation>
+      <source>Set database cache size in megabytes (%d to %d, default: %d)</source>
+      <translation type="unfinished">Set database cache size in megabytes (%d to %d, default: %d)</translation>
     </message>
     <message>
-        <source>Found enough users, signing ( waiting %s )</source>
-        <translation>Encontrados utilizadores suficientes, assinando ( waiting %s )</translation>
+      <source>Set maximum block size in bytes (default: %d)</source>
+      <translation type="unfinished">Set maximum block size in bytes (default: %d)</translation>
     </message>
     <message>
-        <source>Found enough users, signing ...</source>
-        <translation>Encontrados utilizadores suficientes, assinando ...</translation>
+      <source>Set the masternode private key</source>
+      <translation type="unfinished">Set the masternode private key</translation>
     </message>
     <message>
-        <source>Generate coins (default: %u)</source>
-        <translation>Gerar moedas (default: %u)</translation>
+      <source>Show all debugging options (usage: --help -help-debug)</source>
+      <translation type="unfinished">Show all debugging options (usage: --help -help-debug)</translation>
     </message>
     <message>
-        <source>How many blocks to check at startup (default: %u, 0 = all)</source>
-        <translation>Quanto blocos deve verificar no arranque (omissão: %u, 0 = all)</translation>
+      <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
+      <translation type="unfinished">Shrink debug.log file on client startup (default: 1 when no -debug)</translation>
     </message>
     <message>
-        <source>Importing...</source>
-        <translation>A importar...</translation>
+      <source>Signing failed.</source>
+      <translation type="unfinished">Signing failed.</translation>
     </message>
     <message>
-        <source>Imports blocks from external blk000??.dat file</source>
-        <translation>Importa blocos a partir de ficheiros blk000??.dat externos</translation>
+      <source>Signing transaction failed</source>
+      <translation type="unfinished">Signing transaction failed</translation>
     </message>
     <message>
-        <source>Include IP addresses in debug output (default: %u)</source>
-        <translation>Incluir endereços IP no output do debug (default: %u)</translation>
+      <source>Specify data directory</source>
+      <translation type="unfinished">Specify data directory</translation>
     </message>
     <message>
-        <source>Incompatible mode.</source>
-        <translation>Modo incompatível.</translation>
+      <source>Specify wallet file (within data directory)</source>
+      <translation type="unfinished">Specify wallet file (within data directory)</translation>
     </message>
     <message>
-        <source>Incompatible version.</source>
-        <translation>Versão incompatível.</translation>
+      <source>Specify your own public address</source>
+      <translation type="unfinished">Specify your own public address</translation>
     </message>
     <message>
-        <source>Incorrect or no genesis block found. Wrong datadir for network?</source>
-        <translation>Bloco original não encontrado ou incorrecto. Pasta de dados errada para esta rede?</translation>
+      <source>This help message</source>
+      <translation type="unfinished">This help message</translation>
     </message>
     <message>
-        <source>Information</source>
-        <translation>Informação</translation>
+      <source>This is intended for regression testing tools and app development.</source>
+      <translation type="unfinished">This is intended for regression testing tools and app development.</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Stone Core is shutting down.</source>
-        <translation>A verificação de consistência no arranque falhou. O Stone Core está a encerrar.</translation>
+      <source>Transaction amount too small</source>
+      <translation type="unfinished">Transaction amount too small</translation>
     </message>
     <message>
-        <source>Input is not valid.</source>
-        <translation>A entrada não é válida.</translation>
+      <source>Transaction amounts must be positive</source>
+      <translation type="unfinished">Transaction amounts must be positive</translation>
     </message>
     <message>
-        <source>InstantX options:</source>
-        <translation>Opções InstantX</translation>
+      <source>Transaction created successfully.</source>
+      <translation type="unfinished">Transaction created successfully.</translation>
     </message>
     <message>
-        <source>Insufficient funds.</source>
-        <translation>Fundos insuficientes.</translation>
+      <source>Transaction fees are too high.</source>
+      <translation type="unfinished">Transaction fees are too high.</translation>
     </message>
     <message>
-        <source>Invalid -onion address: '%s'</source>
-        <translation>Endereço -onion inválido: '%s'</translation>
+      <source>Transaction not valid.</source>
+      <translation type="unfinished">Transaction not valid.</translation>
     </message>
     <message>
-        <source>Invalid -proxy address: '%s'</source>
-        <translation>Endereço -proxy inválido: '%s'</translation>
+      <source>Transaction too large</source>
+      <translation type="unfinished">Transaction too large</translation>
     </message>
     <message>
-        <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Quantidade inválida para -maxtxfee=&lt;amount&gt;: '%s'</translation>
+      <source>Unable to bind to %s on this computer (bind returned error %s)</source>
+      <translation type="unfinished">Unable to bind to %s on this computer (bind returned error %s)</translation>
     </message>
     <message>
-        <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Quantia inválida para -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
+      <source>Unable to sign spork message, wrong key?</source>
+      <translation type="unfinished">Unable to sign spork message, wrong key?</translation>
     </message>
     <message>
-        <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Quantia inválida para -mintxfee=&lt;amount&gt;: '%s'</translation>
+      <source>Unknown network specified in -onlynet: '%s'</source>
+      <translation type="unfinished">Unknown network specified in -onlynet: '%s'</translation>
     </message>
     <message>
-        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
-        <translation>Quantia inválida para -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</translation>
+      <source>Upgrade wallet to latest format</source>
+      <translation type="unfinished">Upgrade wallet to latest format</translation>
     </message>
     <message>
-        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Quantia inválida para -paytxfee=&lt;amount&gt;: '%s'</translation>
+      <source>Use OpenSSL (https) for JSON-RPC connections</source>
+      <translation type="unfinished">Use OpenSSL (https) for JSON-RPC connections</translation>
     </message>
     <message>
-        <source>Last successful Darksend action was too recent.</source>
-        <translation>Ultima acção Darksend com sucesso é demasiado recente.</translation>
+      <source>Use UPnP to map the listening port (default: 1 when listening)</source>
+      <translation type="unfinished">Use UPnP to map the listening port (default: 1 when listening)</translation>
     </message>
     <message>
-        <source>Limit size of signature cache to &lt;n&gt; entries (default: %u)</source>
-        <translation>Limitar o tamanho da cache de assinaturas a &lt;n&gt; elementos (default: %u)</translation>
+      <source>Use the test network</source>
+      <translation type="unfinished">Use the test network</translation>
     </message>
     <message>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-        <translation>Escutar por ligações JSON-RPC na porta &lt;port&gt; (default: %u or testnet: %u)</translation>
+      <source>Username for JSON-RPC connections</source>
+      <translation type="unfinished">Username for JSON-RPC connections</translation>
     </message>
     <message>
-        <source>Listen for connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-        <translation>Escutar ligações na &lt;port&gt; (default: %u or testnet: %u)</translation>
+      <source>Value more than Darksend pool maximum allows.</source>
+      <translation type="unfinished">Value more than Darksend pool maximum allows.</translation>
     </message>
     <message>
-        <source>Loading budget cache...</source>
-        <translation>Carregando cache de orçamentos...</translation>
+      <source>Verifying blocks...</source>
+      <translation type="unfinished">Verifying blocks...</translation>
     </message>
     <message>
-        <source>Loading masternode cache...</source>
-        <translation>A carregar a cache de masternodes...</translation>
+      <source>Verifying wallet...</source>
+      <translation type="unfinished">Verifying wallet...</translation>
     </message>
     <message>
-        <source>Loading masternode payment cache...</source>
-        <translation>Carregando cache de pagamento de maternodes...</translation>
+      <source>Wallet %s resides outside data directory %s</source>
+      <translation type="unfinished">Wallet %s resides outside data directory %s</translation>
     </message>
     <message>
-        <source>Lock is already in place.</source>
-        <translation>Bloqueio já efectuado.</translation>
+      <source>Wallet is locked.</source>
+      <translation type="unfinished">Wallet is locked.</translation>
     </message>
     <message>
-        <source>Lock masternodes from masternode configuration file (default: %u)</source>
-        <translation>Bloquear masternode presentes no ficheiro de configuração (omissão: %u)</translation>
+      <source>Wallet options:</source>
+      <translation type="unfinished">Wallet options:</translation>
     </message>
     <message>
-        <source>Maintain at most &lt;n&gt; connections to peers (default: %u)</source>
-        <translation>Manter no máximo &lt;n&gt; ligações a outros nós (omissão: %u)</translation>
+      <source>Warning</source>
+      <translation type="unfinished">Warning</translation>
     </message>
     <message>
-        <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
-        <translation>Tamanho máximo da memória intermédia de recepção por ligação, &lt;n&gt;*1000 bytes (omissão: %u)</translation>
+      <source>Warning: This version is obsolete, upgrade required!</source>
+      <translation type="unfinished">Warning: This version is obsolete, upgrade required!</translation>
     </message>
     <message>
-        <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
-        <translation>Tamanho máximo da memória intermédia de envio por ligação, &lt;n&gt;*1000 bytes (omissão: %u)</translation>
+      <source>You need to rebuild the database using -reindex to change -txindex</source>
+      <translation type="unfinished">You need to rebuild the database using -reindex to change -txindex</translation>
     </message>
     <message>
-        <source>Mixing in progress...</source>
-        <translation>Mistura em progresso...</translation>
+      <source>Zapping all transactions from wallet...</source>
+      <translation type="unfinished">Zapping all transactions from wallet...</translation>
     </message>
     <message>
-        <source>Need to specify a port with -whitebind: '%s'</source>
-        <translation>Necessita especificar a porta com -whitebind: '%s'</translation>
+      <source>on startup</source>
+      <translation type="unfinished">on startup</translation>
     </message>
     <message>
-        <source>No Masternodes detected.</source>
-        <translation>Nenhum Masternode detectado.</translation>
+      <source>wallet.dat corrupt, salvage failed</source>
+      <translation type="unfinished">wallet.dat corrupt, salvage failed</translation>
     </message>
-    <message>
-        <source>No compatible Masternode found.</source>
-        <translation>Nenhum Masternode compatível encontrado.</translation>
-    </message>
-    <message>
-        <source>Not in the Masternode list.</source>
-        <translation>Não está na lista de Masternodes.</translation>
-    </message>
-    <message>
-        <source>Number of automatic wallet backups (default: 10)</source>
-        <translation>Número de backups automáticos da carteira (omissão: 10)</translation>
-    </message>
-    <message>
-        <source>Only accept block chain matching built-in checkpoints (default: %u)</source>
-        <translation>Somente aceitar pontos de inspecção apropriados presentes na cadeia de blocos (omissão: %u)</translation>
-    </message>
-    <message>
-        <source>Only connect to nodes in network &lt;net&gt; (ipv4, ipv6 or onion)</source>
-        <translation>Somente ligar a nós na rede &lt;net&gt; (IPv4, IPv6 ou onion)</translation>
-    </message>
-    <message>
-        <source>Prepend debug output with timestamp (default: %u)</source>
-        <translation>Adicionar data/hora à informação de depuração (omissão: %u)</translation>
-    </message>
-    <message>
-        <source>Run a thread to flush wallet periodically (default: %u)</source>
-        <translation>Executar periodicamente um processo para consolidar a carteira (omissão: %u)</translation>
-    </message>
-    <message>
-        <source>Send trace/debug info to debug.log file (default: %u)</source>
-        <translation>Enviar informação de execução/depuração para o ficheiro debug.log (omissão: %u)</translation>
-    </message>
-    <message>
-        <source>Send transactions as zero-fee transactions if possible (default: %u)</source>
-        <translation>Enviar com taxa-zero se possível (ex: %u)</translation>
-    </message>
-    <message>
-        <source>Server certificate file (default: %s)</source>
-        <translation>Ficheiro de certificado do servidor (omissão: %s)</translation>
-    </message>
-    <message>
-        <source>Server private key (default: %s)</source>
-        <translation>Chave privada do servidor (default: %s)</translation>
-    </message>
-    <message>
-        <source>Set external address:port to get to this masternode (example: %s)</source>
-        <translation>Definir endereço:porta externo para ligação a este masternode (ex: %s)</translation>
-    </message>
-    <message>
-        <source>Set key pool size to &lt;n&gt; (default: %u)</source>
-        <translation>Define o tamanho do conjunto de chaves para &lt;n&gt; (omissão: %u)</translation>
-    </message>
-    <message>
-        <source>Set minimum block size in bytes (default: %u)</source>
-        <translation>Define o tamanho máximo do bloco em bytes (omissão %u)</translation>
-    </message>
-    <message>
-        <source>Set the number of threads to service RPC calls (default: %d)</source>
-        <translation>Define o número de threads que processam os pedidos RPC (omissão: %d)</translation>
-    </message>
-    <message>
-        <source>Sets the DB_PRIVATE flag in the wallet db environment (default: %u)</source>
-        <translation>Definir a flag DB_PRIVATE no ambiente db da carteira (default: %u)</translation>
-    </message>
-    <message>
-        <source>Signing timed out.</source>
-        <translation>Assinatura fora do tempo.</translation>
-    </message>
-    <message>
-        <source>Specify configuration file (default: %s)</source>
-        <translation>Especificar ficheiro de configuração (default: %s)</translation>
-    </message>
-    <message>
-        <source>Specify connection timeout in milliseconds (minimum: 1, default: %d)</source>
-        <translation>Especificar timeout da conexão em milisegundos  (minimum: 1, default: %d)</translation>
-    </message>
-    <message>
-        <source>Specify masternode configuration file (default: %s)</source>
-        <translation>Especificar ficheiro de configuração masternode (default: %s)</translation>
-    </message>
-    <message>
-        <source>Specify pid file (default: %s)</source>
-        <translation>Especificar ficheiro pid (default: %s)</translation>
-    </message>
-    <message>
-        <source>Spend unconfirmed change when sending transactions (default: %u)</source>
-        <translation>Gastar troco não confirmado quando enviando transacções (default: %u)</translation>
-    </message>
-    <message>
-        <source>Stop running after importing blocks from disk (default: %u)</source>
-        <translation>Para de correr após importação de blocos do disco (default: %u)</translation>
-    </message>
-    <message>
-        <source>Submitted following entries to masternode: %u / %d</source>
-        <translation>Apresentadas as seguintes entradas ao masternode:  %u / %d </translation>
-    </message>
-    <message>
-        <source>Submitted to masternode, waiting for more entries ( %u / %d ) %s</source>
-        <translation>Apresentado ao masternode, esperando por mais entradas ( %u / %d ) %s</translation>
-    </message>
-    <message>
-        <source>Submitted to masternode, waiting in queue %s</source>
-        <translation>Apresentado ao masternode, esperando na fila %s </translation>
-    </message>
-    <message>
-        <source>Synchronizing budgets...</source>
-        <translation>A sincronizar orçamentos...</translation>
-    </message>
-    <message>
-        <source>Synchronizing masternode winners...</source>
-        <translation>A sincronizar masternodes vencedores...</translation>
-    </message>
-    <message>
-        <source>Synchronizing masternodes...</source>
-        <translation>A sincronizar masternodes...</translation>
-    </message>
-    <message>
-        <source>Synchronizing sporks...</source>
-        <translation>A sincronizar sporks...</translation>
-    </message>
-    <message>
-        <source>This is not a Masternode.</source>
-        <translation>Este não é um Masternode</translation>
-    </message>
-    <message>
-        <source>Threshold for disconnecting misbehaving peers (default: %u)</source>
-        <translation>Limiar para desconectar pares mal comportados (default: %u)</translation>
-    </message>
-    <message>
-        <source>Use KeePass 2 integration using KeePassHttp plugin (default: %u)</source>
-        <translation>Utilize integração KeePass 2 usando plugin KeePassHttp (default: %u)</translation>
-    </message>
-    <message>
-        <source>Use N separate masternodes to anonymize funds  (2-8, default: %u)</source>
-        <translation>Utilize N masternode distintos para anonimizar fundos (2-8, default: %u)</translation>
-    </message>
-    <message>
-        <source>Use UPnP to map the listening port (default: %u)</source>
-        <translation>Utilize UPNP para mapear porta de escuta (default: %u)</translation>
-    </message>
-    <message>
-        <source>Wallet needed to be rewritten: restart Stone Core to complete</source>
-        <translation>Carteira necessita de ser re-escrita: reinicie Stone Core para completar</translation>
-    </message>
-    <message>
-        <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>
-        <translation>Aviso: Argumento não suportado -benchmark ignorado, use -debug=bench.</translation>
-    </message>
-    <message>
-        <source>Warning: Unsupported argument -debugnet ignored, use -debug=net.</source>
-        <translation>Aviso: Argumento não suportado debugnet ignorado, use -debug=net.</translation>
-    </message>
-    <message>
-        <source>Will retry...</source>
-        <translation>Tentar de novo...</translation>
-    </message>
-    <message>
-        <source>Invalid masternodeprivkey. Please see documenation.</source>
-        <translation>masternodeprivkey inválida. Por favor reveja a documentação.</translation>
-    </message>
-    <message>
-        <source>(must be 9999 for mainnet)</source>
-        <translation>(deve ser 9999 para mainnet)</translation>
-    </message>
-    <message>
-        <source>Can't find random Masternode.</source>
-        <translation>Incapaz de encontrar Masternode aleatório.</translation>
-    </message>
-    <message>
-        <source>Can't mix while sync in progress.</source>
-        <translation>Incapaz de misturar enquanto sincronização está a decorrer.</translation>
-    </message>
-    <message>
-        <source>Could not parse masternode.conf</source>
-        <translation>Incapaz de analizar masternode.conf</translation>
-    </message>
-    <message>
-        <source>Invalid netmask specified in -whitelist: '%s'</source>
-        <translation>Netmask especificado invalido na -whitelist: '%s'</translation>
-    </message>
-    <message>
-        <source>Invalid port detected in masternode.conf</source>
-        <translation>Port inválido detectado em masternode.conf</translation>
-    </message>
-    <message>
-        <source>Invalid private key.</source>
-        <translation>Chave privada inválida.</translation>
-    </message>
-    <message>
-        <source>Invalid script detected.</source>
-        <translation>Script inválido detectado.</translation>
-    </message>
-    <message>
-        <source>KeePassHttp id for the established association</source>
-        <translation>Identificador KeePassHttp para a associação estabelecida</translation>
-    </message>
-    <message>
-        <source>KeePassHttp key for AES encrypted communication with KeePass</source>
-        <translation>Chave KeePassHttp para usar na comunicação cifrada AES com o KeePass</translation>
-    </message>
-    <message>
-        <source>Keep N STONE anonymized (default: %u)</source>
-        <translation>Manter N STONE anonimizados (default: %u)</translation>
-    </message>
-    <message>
-        <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
-        <translation>Manter no máximo &lt;n&gt; transacções não conectáveis em memória (omissão: %u)</translation>
-    </message>
-    <message>
-        <source>Last Darksend was too recent.</source>
-        <translation>O último Darksend é muito recente.</translation>
-    </message>
-    <message>
-        <source>Line: %d</source>
-        <translation>Linha: %d</translation>
-    </message>
-    <message>
-        <source>Loading addresses...</source>
-        <translation>A carregar endereços...</translation>
-    </message>
-    <message>
-        <source>Loading block index...</source>
-        <translation>A carregar índice de blocos...</translation>
-    </message>
-    <message>
-        <source>Loading wallet... (%3.2f %%)</source>
-        <translation>A carregar carteira... (%3.2f %%)</translation>
-    </message>
-    <message>
-        <source>Loading wallet...</source>
-        <translation>A carregar carteira...</translation>
-    </message>
-    <message>
-        <source>Masternode options:</source>
-        <translation>Opções de masternode:</translation>
-    </message>
-    <message>
-        <source>Masternode queue is full.</source>
-        <translation>A fila do masternode está cheia.</translation>
-    </message>
-    <message>
-        <source>Masternode:</source>
-        <translation>Masternode:</translation>
-    </message>
-    <message>
-        <source>Missing input transaction information.</source>
-        <translation>A informação da transacção de entrada não foi encontrada.</translation>
-    </message>
-    <message>
-        <source>No funds detected in need of denominating.</source>
-        <translation>Não foram detectados fundos a necessitar de denominação.</translation>
-    </message>
-    <message>
-        <source>No matching denominations found for mixing.</source>
-        <translation>Não foram encontradas denominações correspondentes para misturar.</translation>
-    </message>
-    <message>
-        <source>Node relay options:</source>
-        <translation>Opções de relé do nódulo:</translation>
-    </message>
-    <message>
-        <source>Non-standard public key detected.</source>
-        <translation>Detectada chave pública fora do padrão.</translation>
-    </message>
-    <message>
-        <source>Not compatible with existing transactions.</source>
-        <translation>Não é compatível com as transacções existentes.</translation>
-    </message>
-    <message>
-        <source>Not enough file descriptors available.</source>
-        <translation>Número insuficiente de descritores de ficheiros disponíveis.</translation>
-    </message>
-    <message>
-        <source>Options:</source>
-        <translation>Opções:</translation>
-    </message>
-    <message>
-        <source>Password for JSON-RPC connections</source>
-        <translation>Palavra-passe para as ligações JSON-RPC</translation>
-    </message>
-    <message>
-        <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>Opções RPC SSL: (para instruções de configuração SSL dirija-se à Proton Wiki)</translation>
-    </message>
-    <message>
-        <source>RPC server options:</source>
-        <translation>Opções do servidor RPC:</translation>
-    </message>
-    <message>
-        <source>RPC support for HTTP persistent connections (default: %d)</source>
-        <translation>Suporte RPC para conexões persistentes HTTP (default: %d)</translation>
-    </message>
-    <message>
-        <source>Randomly drop 1 of every &lt;n&gt; network messages</source>
-        <translation>Ignorar aleatoriamente 1 de cada &lt;n&gt; mensagens da rede</translation>
-    </message>
-    <message>
-        <source>Randomly fuzz 1 of every &lt;n&gt; network messages</source>
-        <translation>Esfiapar aleatoriamente 1 de cada &lt;n&gt; mensagens da rede</translation>
-    </message>
-    <message>
-        <source>Rebuild block chain index from current blk000??.dat files</source>
-        <translation>Reconstruir o índice da cadeia de blocos a partir dos ficheiros actuais blk000??.dat</translation>
-    </message>
-    <message>
-        <source>Receive and display P2P network alerts (default: %u)</source>
-        <translation>Receber e apresentar alertas da rede P2P (default: %u)</translation>
-    </message>
-    <message>
-        <source>Relay and mine data carrier transactions (default: %u)</source>
-        <translation>Relé e mine data de transacções de suporte (default: %u)</translation>
-    </message>
-    <message>
-        <source>Relay non-P2SH multisig (default: %u)</source>
-        <translation>Relé não-P2SH multisig (default: %u)</translation>
-    </message>
-    <message>
-        <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>Examinar novamente a cadeia de blocos para encontrar transacções inexistentes na carteira</translation>
-    </message>
-    <message>
-        <source>Rescanning...</source>
-        <translation>A examinar novamente...</translation>
-    </message>
-    <message>
-        <source>Run in the background as a daemon and accept commands</source>
-        <translation>Executar em segundo plano como um serviço e aceitar comandos</translation>
-    </message>
-    <message>
-        <source>Session not complete!</source>
-        <translation>Sessão incompleta!</translation>
-    </message>
-    <message>
-        <source>Session timed out.</source>
-        <translation>Esgotado o tempo de sessão.</translation>
-    </message>
-    <message>
-        <source>Set database cache size in megabytes (%d to %d, default: %d)</source>
-        <translation>Define o tamanho máximo da cache de dados em megabytes (%d até %d, omissão %d)</translation>
-    </message>
-    <message>
-        <source>Set maximum block size in bytes (default: %d)</source>
-        <translation>Define o tamanho máximo do bloco em bytes (omissão %d)</translation>
-    </message>
-    <message>
-        <source>Set the masternode private key</source>
-        <translation>Define a chave privada do masternode</translation>
-    </message>
-    <message>
-        <source>Show all debugging options (usage: --help -help-debug)</source>
-        <translation>Mostrar todas as opções de depuração (uso: --help -help-debug)</translation>
-    </message>
-    <message>
-        <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>Diminuir o ficheiro debug.log ao iniciar o cliente (omissão: 1 quando não usa opção -debug)</translation>
-    </message>
-    <message>
-        <source>Signing failed.</source>
-        <translation>A assinatura falhou.</translation>
-    </message>
-    <message>
-        <source>Signing transaction failed</source>
-        <translation>A assinatura da transacção falhou</translation>
-    </message>
-    <message>
-        <source>Specify data directory</source>
-        <translation>Especificar a pasta de dados</translation>
-    </message>
-    <message>
-        <source>Specify wallet file (within data directory)</source>
-        <translation>Especificar o ficheiro da carteira (dentro da pasta de dados)</translation>
-    </message>
-    <message>
-        <source>Specify your own public address</source>
-        <translation>Especificar o seu endereço público</translation>
-    </message>
-    <message>
-        <source>This help message</source>
-        <translation>Esta mensagem de ajuda</translation>
-    </message>
-    <message>
-        <source>This is experimental software.</source>
-        <translation>Este é um software experimental.</translation>
-    </message>
-    <message>
-        <source>This is intended for regression testing tools and app development.</source>
-        <translation>Esta opção destina-se a ferramentas de testes de regressão e desenvolvimento de aplicativos.</translation>
-    </message>
-    <message>
-        <source>Transaction amount too small</source>
-        <translation>Quantia da transacção demasiado pequena</translation>
-    </message>
-    <message>
-        <source>Transaction amounts must be positive</source>
-        <translation>As quantias da transacção tem que ser positivas</translation>
-    </message>
-    <message>
-        <source>Transaction created successfully.</source>
-        <translation>Transacção criada com sucesso.</translation>
-    </message>
-    <message>
-        <source>Transaction fees are too high.</source>
-        <translation>As taxas da transacção são demasiado elevadas.</translation>
-    </message>
-    <message>
-        <source>Transaction not valid.</source>
-        <translation>A transacção não é válida.</translation>
-    </message>
-    <message>
-        <source>Transaction too large for fee policy</source>
-        <translation>Transacção demasiado grande para a política de taxas</translation>
-    </message>
-    <message>
-        <source>Transaction too large</source>
-        <translation>Transacção demasiado grande</translation>
-    </message>
-    <message>
-        <source>Transmitting final transaction.</source>
-        <translation>Transmitindo transacção final</translation>
-    </message>
-    <message>
-        <source>Unable to bind to %s on this computer (bind returned error %s)</source>
-        <translation>Não foi possível vincular a %s neste computador (o vínculo retornou o erro %s)</translation>
-    </message>
-    <message>
-        <source>Unable to sign spork message, wrong key?</source>
-        <translation>Não foi possível assinar a mensagem spork, chave incorrecta?</translation>
-    </message>
-    <message>
-        <source>Unknown network specified in -onlynet: '%s'</source>
-        <translation>Rede especificada desconhecida em -onlynet: '%s'</translation>
-    </message>
-    <message>
-        <source>Unknown state: id = %u</source>
-        <translation>Estado desconhecido: id = %u</translation>
-    </message>
-    <message>
-        <source>Upgrade wallet to latest format</source>
-        <translation>Actualizar carteira para o formato mais recente</translation>
-    </message>
-    <message>
-        <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation>Usar OpenSSl (https) para as ligações JSON-RPC</translation>
-    </message>
-    <message>
-        <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>Usar UPnP para mapear a porta de entrada (omissão: 1 quando em escuta)</translation>
-    </message>
-    <message>
-        <source>Use the test network</source>
-        <translation>Usar a rede de testes</translation>
-    </message>
-    <message>
-        <source>Username for JSON-RPC connections</source>
-        <translation>Utilizador para as ligações JSON-RPC</translation>
-    </message>
-    <message>
-        <source>Value more than Darksend pool maximum allows.</source>
-        <translation>Valor mais elevado do que o máximo permitido pelo Darksend.</translation>
-    </message>
-    <message>
-        <source>Verifying blocks...</source>
-        <translation>A verificar blocos...</translation>
-    </message>
-    <message>
-        <source>Verifying wallet...</source>
-        <translation>A verificar carteira...</translation>
-    </message>
-    <message>
-        <source>Wallet %s resides outside data directory %s</source>
-        <translation>A carteira %s encontra-se fora da pasta de dados %s</translation>
-    </message>
-    <message>
-        <source>Wallet is locked.</source>
-        <translation>A carteira encontra-se bloqueada.</translation>
-    </message>
-    <message>
-        <source>Wallet options:</source>
-        <translation>Opções da carteira:</translation>
-    </message>
-    <message>
-        <source>Wallet window title</source>
-        <translation>Título da janela</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Aviso</translation>
-    </message>
-    <message>
-        <source>Warning: This version is obsolete, upgrade required!</source>
-        <translation>Aviso: Esta versão é obsoleta, actualização necessária!</translation>
-    </message>
-    <message>
-        <source>You need to rebuild the database using -reindex to change -txindex</source>
-        <translation>Necessita reconstruir a base de dados usando -reindex para alterar -txindex</translation>
-    </message>
-    <message>
-        <source>Your entries added successfully.</source>
-        <translation>Suas entradas adicionadas com sucesso.</translation>
-    </message>
-    <message>
-        <source>Your transaction was accepted into the pool!</source>
-        <translation>A sua transacção foi aceite na pool!</translation>
-    </message>
-    <message>
-        <source>Zapping all transactions from wallet...</source>
-        <translation>A apagar todas as transacções da carteira...</translation>
-    </message>
-    <message>
-        <source>on startup</source>
-        <translation>no arranque</translation>
-    </message>
-    <message>
-        <source>wallet.dat corrupt, salvage failed</source>
-        <translation>wallet.dat corrompido, recuperação falhou</translation>
-    </message>
-</context>
+  </context>
 </TS>
