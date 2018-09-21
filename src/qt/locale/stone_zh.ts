@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE TS>
-<TS language="zh-TW" version="2.1" sourcelanguage="en">
+<TS language="zh-CN" version="2.1" sourcelanguage="en">
   <context>
     <name>AddressBookPage</name>
     <message>
