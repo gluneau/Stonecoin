@@ -1017,7 +1017,7 @@
     <message>
       <location line="+163"/>
       <source>Please switch to "List mode" to use this function.</source>
-      <translation type="unfinished">Please switch to "List mode" to use this function.</translation>
+      <translation>H&#xE3;y chuy&#x1EC3;n v&#x1EC1; "Ch&#x1EBF; &#x111;&#x1ED9; danh s&#xE1;ch" &#x111;&#x1EC3; s&#x1EED; d&#x1EE5;ng t&#xED;nh n&#x103;ng n&#xE0;y.</translation>
     </message>
     <message>
       <location line="+205"/>
@@ -1052,7 +1052,7 @@
     <message>
       <location line="+5"/>
       <source>This label turns red if the priority is smaller than "medium".</source>
-      <translation type="unfinished">This label turns red if the priority is smaller than "medium".</translation>
+      <translation>Nh&#xE3;n n&#xE0;y chuy&#x1EC3;n sang m&#xE0;u &#x111;&#xF3; n&#x1EBF;u m&#x1EE9;c &#x1B0;u ti&#xEA;n nh&#x1ECF; h&#x1A1;n m&#x1EE9;c "trung b&#xEC;nh".</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -1221,17 +1221,17 @@
     <message>
       <location line="-29"/>
       <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
+      <translation>PrivateSend &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t l&#x1EAD;p th&#xE0;nh c&#xF4;ng v&#x1EC1; m&#x1EE9;c c&#x1A1; b&#x1EA3;n (%1 v&#xE0; 2 v&#xF2;ng). B&#x1EA1;n c&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i n&#xF3; b&#x1EA5;t c&#x1EE9; th&#x1EDD;i gian n&#xE0;o b&#x1EB1;ng c&#xE1;ch m&#x1EDF; ch&#x1EE9;c n&#x103;ng c&#x1EA5;u h&#xEC;nh c&#x1EE7;a Proton.</translation>
     </message>
     <message>
       <location line="+15"/>
       <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
+      <translation>PrivateSend &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t l&#x1EAD;p th&#xE0;nh c&#xF4;ng &#x1EDF; m&#x1EE9;c cao (%1 v&#xE0; 8 v&#xF2;ng). B&#x1EA1;n c&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i n&#xF3; b&#x1EA5;t c&#x1EE9; l&#xFA;c n&#xE0;o b&#x1EB1;ng c&#xE1;ch m&#x1EDF; ch&#x1EE9;c n&#x103;ng c&#x1EA5;u h&#xEC;nh Proton.</translation>
     </message>
     <message>
       <location line="+15"/>
       <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
+      <translation>PrivateSend &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t l&#x1EAD;p th&#xE0;nh c&#xF4;ng &#x1EDF; m&#x1EE9;c t&#x1ED1;i &#x111;a (%1 v&#xE0; 16 v&#xF2;ng). B&#x1EA1;n c&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i n&#xF3; b&#x1EA5;t c&#x1EE9; th&#x1EDD;i gian n&#xE0;o b&#x1EB1;ng c&#xE1;ch m&#x1EDF; ch&#x1EE9;c n&#x103;ng c&#x1EA5;u h&#xEC;nh c&#x1EE7;a Proton.</translation>
     </message>
   </context>
   <context>
@@ -1284,12 +1284,12 @@
     <message>
       <location line="+71"/>
       <source>The entered address "%1" is not a valid Proton address.</source>
-      <translation type="unfinished">The entered address "%1" is not a valid Proton address.</translation>
+      <translation>&#x110;&#x1ECB;a ch&#x1EC9; v&#x1EEB;a nh&#x1EAD;p "%1" kh&#xF4;ng ph&#x1EA3;i &#x111;&#x1ECB;a ch&#x1EC9; Proton h&#x1EE3;p l&#x1EC7;.</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>The entered address "%1" is already in the address book.</source>
-      <translation type="unfinished">The entered address "%1" is already in the address book.</translation>
+      <translation>&#x110;&#x1ECB;a ch&#x1EC9; v&#x1EEB;a nh&#x1EAD;p "%1" &#x111;&#xE3; c&#xF3; trong danh s&#xE1;ch &#x111;&#x1ECB;a ch&#x1EC9;.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -1396,12 +1396,12 @@
     <message>
       <location line="+4"/>
       <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Proton in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
-      <translation type="unfinished">&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Proton in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </translation>
+      <translation>&lt;h3&gt;C&#x1A1; b&#x1EA3;n v&#x1EC1; PrivateSend&lt;/h3&gt; PrivateSend cho b&#x1EA1;n s&#x1EF1; th&#x1EF1;c s&#x1EF1; ri&#xEA;ng t&#x1B0; v&#x1EC1; t&#xE0;i ch&#xED;nh b&#x1EB1;ng vi&#x1EC7;c che d&#x1EA5;u nh&#x1EEF;ng ngu&#x1ED3;n cung. T&#x1EA5;t c&#x1EA3; Proton trong v&#xED; c&#x1EE7;a b&#x1EA1;n bao g&#x1ED3;m nh&#x1EEF;ng "ngu&#x1ED3;n" kh&#xE1;c nhau m&#xE0; b&#x1EA1;n ngh&#x129; &#x111;&#xF3; l&#xE0; c&#xE1;c coin ri&#xEA;ng bi&#x1EC7;t v&#xE0; r&#x1EDD;i r&#x1EA1;c.&lt;br&gt; PrivateSend s&#x1EED; d&#x1EE5;ng m&#x1ED9;t ti&#x1EBF;n tr&#xEC;nh &#x111;&#x1ED9;c &#x111;&#xE1;o &#x111;&#x1EC3; tr&#x1ED9;n c&#xE1;c &#x111;&#x1EA7;u v&#xE0;o c&#x1EE7;a b&#x1EA1;n v&#x1EDB;i &#x111;&#x1EA7;u v&#xE0;o c&#x1EE7;a nh&#x1EEF;ng ng&#x1B0;&#x1EDD;i kh&#xE1;c, m&#xE0; kh&#xF4;ng l&#xE0;m cho c&#xE1;c coin r&#x1EDD;i kh&#x1ECF;i v&#xED; c&#x1EE7;a b&#x1EA1;n. B&#x1EA1;n v&#x1EAB;n gi&#x1EEF; quy&#x1EC1;n ki&#x1EC3;m so&#xE1;t ti&#x1EC1;n c&#x1EE7;a b&#x1EA1;n b&#x1EA5;t c&#x1EE9; l&#xFA;c n&#xE0;o..&lt;hr&gt; &lt;b&gt;Qu&#xE1; tr&#xEC;nh PrivateSend l&#xE0;m vi&#x1EC7;c nh&#x1B0; sau: &lt;/b&gt; &lt;ol type="1"&gt; &lt;li&gt;PrivateSend b&#x1EAF;t &#x111;&#x1EA7;u b&#x1EB1;ng vi&#x1EC7;c chia c&#xE1;c giao d&#x1ECB;ch &#x111;&#x1EA7;u v&#xE0;o c&#x1EE7;a b&#x1EA1;n th&#xE0;nh nh&#x1EEF;ng m&#x1EC7;nh gi&#xE1; chu&#x1EA9;n. Nh&#x1EEF;ng m&#x1EC7;nh gi&#xE1; &#x111;&#xF3; l&#xE0; 0.01 STONE, 0.1 STONE, 1 STONE, v&#xE0; 10 STONE -- c&#x169;ng gi&#x1ED1;ng nh&#x1B0; c&#xE1;c m&#x1EC7;nh gi&#xE1; tr&#xEA;n ti&#x1EC1;n gi&#x1EA5;y m&#xE0; b&#x1EA1;n s&#x1EED; d&#x1EE5;ng h&#xE0;ng ng&#xE0;y.&lt;li&gt; &lt;li&gt;V&#xED; c&#x1EE7;a b&#x1EA1;n sau &#x111;&#xF3; g&#x1EED;i y&#xEA;u c&#x1EA7;u &#x111;&#x1EBF;n nh&#x1EEF;ng n&#xFA;t ph&#x1EA7;n m&#x1EC1;m &#x111;&#x1B0;&#x1EE3;c c&#x1EA5;u h&#xEC;nh &#x111;&#x1EB7;c bi&#x1EC7;t tr&#xEA;n m&#x1EA1;ng g&#x1ECD;i l&#xE0; c&#xE1;c "masternode". Nh&#x1EEF;ng masternode &#x111;&#x1B0;&#x1EE3;c b&#xE1;o r&#x1EB1;ng b&#x1EA1;n quan t&#xE2;m &#x111;&#x1EBF;n vi&#x1EC7;c x&#xE1;o tr&#x1ED9;n m&#x1ED9;t m&#x1EC7;nh gi&#xE1; n&#xE0;o &#x111;&#xF3;. Kh&#xF4;ng c&#xF3; th&#xF4;ng tin &#x111;&#x1ECB;nh danh n&#xE0;o &#x111;&#x1B0;&#x1EE3;c g&#x1EED;i &#x111;&#x1EBF;n cho c&#xE1;c masternode, v&#xE0; nh&#x1B0; v&#x1EAD;y h&#x1ECD; kh&#xF4;ng bao gi&#x1EDD; bi&#x1EBF;t b&#x1EA1;n "l&#xE0; ai".&lt;/li&gt; &lt;li&gt;Khi hai ng&#x1B0;&#x1EDD;i kh&#xE1;c nhau g&#x1EED;i nh&#x1EEF;ng th&#xF4;ng &#x111;i&#x1EC7;p t&#x1B0;&#x1A1;ng t&#x1EF1;, c&#xF3; ngh&#x129;a l&#xE0; h&#x1ECD; mu&#x1ED1;n x&#xE1;o tr&#x1ED9;n c&#xF9;ng lo&#x1EA1;i m&#x1EC7;nh gi&#xE1;, m&#x1ED9;t phi&#xEA;n x&#xE1;o tr&#x1ED9;n b&#x1EAF;t &#x111;&#x1EA7;u.Masternode x&#xE1;o tr&#x1ED9;n c&#xE1;c &#x111;&#x1EA7;u v&#xE0;o v&#xE0; h&#x1B0;&#x1EDB;ng d&#x1EAB;n t&#x1EA5;t c&#x1EA3; v&#xED; c&#x1EE7;a t&#x1EA5;t c&#x1EA3; ba ng&#x1B0;&#x1EDD;i d&#xF9;ng &#x111;&#x1EC3; tr&#x1EA3; &#x111;&#x1EA7;u v&#xE0;o &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c chuy&#x1EC3;n &#x111;&#x1ED5;i tr&#x1EDF; l&#x1EA1;i cho ch&#xED;nh h&#x1ECD;. V&#xED; c&#x1EE7;a b&#x1EA1;n s&#x1EBD; tr&#x1EA3; m&#x1EC7;nh gi&#xE1; &#x111;&#xF3; tr&#x1EF1;c ti&#x1EBF;p cho n&#xF3;, nh&#x1B0;ng v&#x1EDB;i m&#x1ED9;t &#x111;&#x1ECB;a ch&#x1EC9; kh&#xE1;c (&#x111;&#x1B0;&#x1EE3;c g&#x1ECD;i l&#xE0; &#x111;&#x1ECB;a ch&#x1EC9; tr&#x1EA3; ti&#x1EC1;n l&#x1EBB;).&lt;/li&gt; &lt;/li&gt;&#x110;&#x1EC3; th&#x1EF1;c s&#x1EF1; che khu&#x1EA5;t ngu&#x1ED3;n ti&#x1EC1;n c&#x1EE7;a b&#x1EA1;n, v&#xED; c&#x1EE7;a b&#x1EA1;n ph&#x1EA3;i l&#x1EB7;p l&#x1EA1;i quy tr&#xEC;nh &#x111;&#xF3; m&#x1ED9;t s&#x1ED1; l&#x1EA7;n v&#x1EDB;i m&#x1ED7;i m&#x1EC7;nh gi&#xE1; nh&#x1EA5;t &#x111;&#x1ECB;nh. M&#x1ED7;i l&#x1EA7;n ti&#x1EBF;n tr&#xEC;nh ho&#xE0;n t&#x1EA5;t, n&#xF3; &#x111;&#x1B0;&#x1EE3;c g&#x1ECD;i l&#xE0; m&#x1ED9;t "v&#xF2;ng". M&#x1ED7;i v&#xF2;ng c&#x1EE7;a PrivateSend l&#xE0;m n&#xEA;n &#x111;&#x1ED9; kh&#xF3; b&#x1EAD;c s&#x1ED1; m&#x169; &#x111;&#x1EC3; x&#xE1;c &#x111;&#x1ECB;nh ngu&#x1ED3;n ti&#x1EC1;n c&#x1EE7;a b&#x1EA1;n &#x111;&#x1EBF;n t&#x1EEB; &#x111;&#xE2;u.&lt;/li&gt; &lt;li&gt;Qu&#xE1; tr&#xEC;nh x&#xE1;o tr&#x1ED9;n n&#xE0;y x&#x1EA3;y ra trong ch&#x1EBF; &#x111;&#x1ED9; n&#x1EC1;n m&#xE0; kh&#xF4;ng xen v&#xE0;o nh&#x1EEF;ng vi&#x1EC7;c kh&#xE1;c c&#x1EE7;a b&#x1EA1;n. Khi b&#x1EA1;n mu&#x1ED1;n l&#xE0;m m&#x1ED9;t giao d&#x1ECB;ch, ngu&#x1ED3;n ti&#x1EC1;n c&#x1EE7;a b&#x1EA1;n &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c &#x1EA9;n danh ho&#xE1; r&#x1ED3;i. Do &#x111;&#xF3; b&#x1EA1;n kh&#xF4;ng c&#x1EA7;n ph&#x1EA3;i &#x111;&#x1EE3;i th&#xEA;m g&#xEC; n&#x1EEF;a.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt; &lt;b&gt;QUAN TR&#x1ECC;NG:&lt;/b&gt; V&#xED; c&#x1EE7;a b&#x1EA1;n ch&#x1EC9; c&#xF3; ch&#x1EE9;a 1000 "&#x111;&#x1ECB;a ch&#x1EC9; ti&#x1EC1;n tr&#x1EA3; l&#x1EA1;i". M&#x1ED7;i l&#x1EA7;n m&#x1ED9;t s&#x1EF1; ki&#x1EC7;n x&#xE1;o tr&#x1ED9;n x&#x1EA3;y ra, c&#xF3; &#x111;&#x1EBF;n 9 &#x111;&#x1ECB;a ch&#x1EC9; s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng. &#x110;i&#x1EC1;u &#x111;&#xF3; c&#xF3; ngh&#x129;a v&#x1EDB;i v&#xED; m&#x1EDB;i v&#x1EDB;i 1000 &#x111;&#x1ECB;a ch&#x1EC9; th&#xEC; d&#xF9;ng cho 100 l&#x1EA7;n tr&#x1ED9;n. Khi 900 &#x111;&#x1ECB;a ch&#x1EC9; &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng, v&#xED; c&#x1EE7;a b&#x1EA1;n ph&#x1EA3;i t&#x1EA1;o th&#xEA;m c&#xE1;c &#x111;&#x1ECB;a ch&#x1EC9; m&#x1EDB;i. N&#xF3; ch&#x1EC9; c&#xF3; th&#x1EC3; l&#xE0;m vi&#x1EC7;c &#x111;&#xF3;, tuy nhi&#xEA;n, n&#x1EBF;u b&#x1EA1;n c&#xF3; ch&#x1EBF; &#x111;&#x1ED9; t&#x1EF1; &#x111;&#x1ED9;ng backup &#x111;&#x1B0;&#x1EE3;c b&#x1EAD;t&lt;br&gt; K&#x1EBF;t qu&#x1EA3; l&#xE0;, nh&#x1EEF;ng ng&#x1B0;&#x1EDD;i d&#xF9;ng m&#xE0; ch&#x1EBF; &#x111;&#x1ED9; backup b&#x1ECB; t&#x1EAF;t s&#x1EBD; c&#xF3; ch&#x1EBF; &#x111;&#x1ED9; PrivateSend c&#x169;ng b&#x1ECB; t&#x1EAF;t.&lt;hr&gt; &#x110;&#x1EC3; bi&#x1EBF;t th&#xEA;m th&#xF4;ng tin h&#xE3;y xem &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;</translation>
     </message>
     <message>
       <location line="-50"/>
       <source>Set language, for example "de_DE" (default: system locale)</source>
-      <translation type="unfinished">Set language, for example "de_DE" (default: system locale)</translation>
+      <translation>Ch&#x1ECD;n ng&#xF4;n ng&#x1EEF;, v&#xED; d&#x1EE5; "vn_VN" (ng&#x1EA7;m &#x111;&#x1ECB;nh: theo h&#x1EC7; th&#x1ED1;ng)</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -1454,7 +1454,7 @@
     <message>
       <location line="+1"/>
       <source>Error: Specified data directory "%1" cannot be created.</source>
-      <translation type="unfinished">Error: Specified data directory "%1" cannot be created.</translation>
+      <translation>L&#x1ED7;i: Th&#x1B0; m&#x1EE5;c b&#x1EA1;n c&#x1ECD;n "%1" kh&#xF4;ng th&#x1EC3; t&#x1EA1;o &#x111;&#x1B0;&#x1EE3;c.</translation>
     </message>
     <message>
       <location line="+25"/>
@@ -1487,7 +1487,7 @@
     <message>
       <location line="+16"/>
       <source>Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your masternode should be running but you still do not see "ENABLED" in "Status" field.</source>
-      <translation type="unfinished">Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your masternode should be running but you still do not see "ENABLED" in "Status" field.</translation>
+      <translation>Ch&#xFA; &#xFD;: Tr&#x1EA1;ng th&#xE1;i c&#x1EE7;a c&#xE1;c masternode c&#x1EE7;a b&#x1EA1;n &#x1EDF; v&#xED; c&#x1EE5;c b&#x1ED9; c&#xF3; th&#x1EC3; c&#xF3; ti&#x1EC1;m n&#x103;ng h&#x1A1;i kh&#xF4;ng ch&#xED;nh x&#xE1;c. &lt;br /&gt;Lu&#xF4;n lu&#xF4;n &#x111;&#x1EE3;i v&#xED; c&#x1EE7;a b&#x1EA1;n &#x111;&#x1ED3;ng b&#x1ED9; d&#x1EEF; li&#x1EC7;u th&#xEA;m v&#xE0; sau &#x111;&#xF3; ki&#x1EC3;m tra k&#xE9;m n&#xFA;t kh&#xE1;c&lt;br /&gt;n&#x1EBF;u masternode c&#x1EE7;a b&#x1EA1;n &#x111;ang ch&#x1EA1;y nh&#x1B0;ng b&#x1EA1;n v&#x1EAB;n kh&#xF4;ng th&#x1EA5;y n&#xF3; "ENABLED" trong tr&#x1B0;&#x1EDD;ng "Tr&#x1EA1;ng th&#xE1;i".</translation>
     </message>
     <message>
       <location line="+37"/>
@@ -1614,7 +1614,7 @@
     <message>
       <location line="+1"/>
       <source>You can't use this command until masternode list is synced</source>
-      <translation type="unfinished">You can't use this command until masternode list is synced</translation>
+      <translation>B&#x1EA1;n kh&#xF4;ng th&#x1EC3; s&#x1EED; d&#x1EE5;ng l&#x1EC7;nh n&#xE0;y &#x111;&#x1EBF;n t&#x1EAD;n khi danh s&#xE1;ch masternode &#x111;&#x1B0;&#x1EE3;c &#x111;&#x1ED3;ng b&#x1ED9;</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -1760,7 +1760,7 @@
     <message>
       <location line="+24"/>
       <source>This amount acts as a threshold to turn off PrivateSend once it's reached.</source>
-      <translation type="unfinished">This amount acts as a threshold to turn off PrivateSend once it's reached.</translation>
+      <translation>S&#x1ED1; l&#x1B0;&#x1EE3;ng n&#xE0;y ho&#x1EA1;t &#x111;&#x1ED9;ng nh&#x1B0; l&#xE0; m&#x1ED9;t ng&#x1B0;&#x1EE1;ng &#x111;&#x1EC3; t&#x1EAF;t PrivateSend khi n&#xF3; &#x111;&#x1B0;&#x1EE3;c ch&#x1EA1;m t&#x1EDB;i.</translation>
     </message>
     <message>
       <location line="+60"/>
@@ -2147,7 +2147,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+16"/>
       <source>Reset the current status of PrivateSend (can interrupt PrivateSend if it's in the process of Mixing, which can cost you money!)</source>
-      <translation type="unfinished">Reset the current status of PrivateSend (can interrupt PrivateSend if it's in the process of Mixing, which can cost you money!)</translation>
+      <translation>Kh&#x1EDF;i t&#x1EA1;o l&#x1EA1;i tr&#x1EA1;ng th&#xE1;i hi&#x1EC7;n t&#x1EA1;i c&#x1EE7;a PrivateSend (c&#xF3; th&#x1EC3; l&#xE0;m ng&#x1EAF;t PrivateSend n&#x1EBF;u n&#xF3; &#x111;ang trong qu&#xE1; tr&#xEC;nh Tr&#x1ED9;n, &#x111;i&#x1EC1;u &#x111;&#xF3; c&#xF3; th&#x1EC3; l&#xE0;m b&#x1EA1;n t&#x1ED1;n ti&#x1EC1;n!)</translation>
     </message>
     <message>
       <location line="+19"/>
@@ -2249,7 +2249,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-7"/>
       <source>Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</source>
-      <translation type="unfinished">Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</translation>
+      <translation>Kh&#xF4;ng &#x111;&#x1EE7; &#x111;&#x1EA7;u v&#xE0;o t&#x1B0;&#x1A1;ng &#x1EE9;ng &#x111;&#x1EC3; &#x1EA9;n danh &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;s&#x1EBD; &#x1EA9;n danh &lt;span style='color:red;'&gt;%2&lt;/span&gt; thay v&#xE0;o &#x111;&#xF3;</translation>
     </message>
     <message>
       <location line="+46"/>
@@ -2314,7 +2314,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>We are about to create a new automatic backup for you, however &lt;span style='color:red;'&gt; you should always make sure you have backups saved in some safe place&lt;/span&gt;!</source>
-      <translation type="unfinished">We are about to create a new automatic backup for you, however &lt;span style='color:red;'&gt; you should always make sure you have backups saved in some safe place&lt;/span&gt;!</translation>
+      <translation>Ch&#xFA;ng t&#xF4;i s&#x1EBD; t&#x1EA1;o m&#x1ED9;t b&#x1EA3;n t&#x1EF1; &#x111;&#x1ED9;ng backup cho b&#x1EA1;n, tuy nhi&#xEA;n &lt;span style='color:red;'&gt;b&#x1EA1;n n&#xEA;n lu&#xF4;n ch&#x1EAF;c ch&#x1EAF;n r&#x1EB1;ng b&#x1EA1;n &#x111;&#xE3; l&#x1B0;u backup &#x1EDF; n&#x1A1;i n&#xE0;o &#x111;&#xF3; an to&#xE0;n&lt;/span&gt;!</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -2368,7 +2368,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+15"/>
       <source>If you don't want to see internal PrivateSend fees/transactions select "Most Common" as Type on the "Transactions" tab.</source>
-      <translation type="unfinished">If you don't want to see internal PrivateSend fees/transactions select "Most Common" as Type on the "Transactions" tab.</translation>
+      <translation>N&#x1EBF;u b&#x1EA1;n kh&#xF4;ng mu&#x1ED1;n nh&#xEC;n th&#x1EA5;y th&#xF4;ng tin n&#x1ED9;i b&#x1ED9; v&#x1EC1; ph&#xED;/giao dich PrivateSend th&#xEC; h&#xE3;y ch&#x1ECD;n "Th&#xF4;ng d&#x1EE5;ng nh&#x1EA5;t" l&#xE0; ki&#x1EC3;u tr&#xEA;n trang "C&#xE1;c giao d&#x1ECB;ch".</translation>
     </message>
     <message>
       <location line="+9"/>
@@ -2453,7 +2453,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-155"/>
       <source>Payment request network doesn't match client network.</source>
-      <translation type="unfinished">Payment request network doesn't match client network.</translation>
+      <translation>M&#x1EA1;ng y&#xEA;u c&#x1EA7;u thanh to&#xE1;n kh&#xF4;ng t&#x1B0;&#x1A1;ng x&#x1EE9;ng v&#x1EDB;i m&#x1EA1;ng c&#x1EE7;a ph&#x1EA7;n m&#x1EC1;m.</translation>
     </message>
     <message>
       <location line="+15"/>
@@ -3427,12 +3427,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-488"/>
       <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation type="unfinished">If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+      <translation>N&#x1EBF;u m&#x1EE9;c ph&#xED; tu&#x1EF3; ch&#x1EC9;nh &#x111;&#x1B0;&#x1EE3;c &#x111;&#x1EB7;t l&#xE0; 1000 duff v&#xE0; giao d&#x1ECB;ch ch&#x1EC9; c&#xF3; 250 byte, th&#xEC; "theo kilobyte" ch&#x1EC9; tr&#x1EA3; 250 duff cho ph&#xED;,&lt;br /&gt;trong khi "&#xED;t nh&#x1EA5;t" ph&#x1EA3;i tr&#x1EA3; 1000 duff. Cho c&#xE1;c giao d&#x1ECB;ch l&#x1EDB;n h&#x1A1;n 1 kilobyte th&#xEC; c&#x1EA3; hai &#x111;&#x1EC1;u tr&#x1EA3; theo kilobyte.</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "total at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation type="unfinished">If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "total at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+      <translation>N&#x1EBF;u ph&#xED; giao d&#x1ECB;ch tu&#x1EF3; ch&#x1EC9;nh &#x111;&#x1B0;&#x1EE3;c &#x111;&#x1EB7;t l&#xE0; 1000 duff v&#xE0; giao d&#x1ECB;ch ch&#x1EC9; c&#xF3; 250 bytes, th&#xEC; "theo kilobyte" ch&#x1EC9; tr&#x1EA3; 250 duff ph&#xED;,&lt;br /&gt;trong khi "t&#x1ED5;ng &#xED;t nh&#x1EA5;t" tr&#x1EA3; 1000 duff. V&#x1EDB;i c&#xE1;c giao d&#x1ECB;ch l&#x1EDB;n h&#x1A1;n 1 kilobyte th&#xEC; c&#x1EA3; hai &#x111;&#x1EC1;u tr&#x1EA3; theo kilobyte.</translation>
     </message>
     <message>
       <location line="+33"/>
@@ -3919,7 +3919,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+6"/>
       <source>Enter the receiver's address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</source>
-      <translation type="unfinished">Enter the receiver's address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</translation>
+      <translation>H&#xE3;y nh&#x1EAD;p v&#xE0;o &#x111;&#x1ECB;a ch&#x1EC9; c&#x1EE7;a ng&#x1B0;&#x1EDD;i nh&#x1EAD;n, th&#xF4;ng &#x111;i&#x1EC7;p (h&#xE3;y &#x111;&#x1EA3;m b&#x1EA3;o r&#x1EB1;ng b&#x1EA1;n copy c&#x1EA3; d&#x1EA5;u xu&#x1ED1;ng d&#xF2;ng, d&#x1EA5;u c&#xE1;ch, d&#x1EA5;u tab,... m&#x1ED9;t c&#xE1;ch ch&#xED;nh x&#xE1;c) v&#xE0; ch&#x1EEF; k&#xFD; b&#xEA;n d&#x1B0;&#x1EDB;i &#x111;&#x1EC3; ki&#x1EC3;m tra th&#xF4;ng &#x111;i&#x1EC7;p. H&#xE3;y c&#x1EA9;n th&#x1EAD;n &#x111;&#x1EC3; kh&#xF4;ng &#x111;&#x1ECD;c th&#xEA;m v&#xE0;o ph&#x1EA7;n ch&#x1EEF; k&#xFD; m&#xE0; n&#xF3; d&#xF9;ng &#x111;&#x1EC3; k&#xFD;, &#x111;&#x1EC3; tr&#xE1;nh b&#x1ECB; &#x111;&#xE1;nh l&#x1EEB;a b&#x1EDF;i ki&#x1EC3;u t&#x1EA5;n c&#xF4;ng ng&#x1B0;&#x1EDD;i trung gian. Ch&#xFA; &#xFD; &#x111;&#xE2;y ch&#x1EC9; &#x111;&#x1EC3; ch&#x1EE9;ng minh ch&#x1EEF; k&#xFD; c&#x1EE7;a b&#xEA;n nh&#x1EAD;n v&#x1EDB;i &#x111;&#x1ECB;a ch&#x1EC9; &#x111;&#xF3;, n&#xF3; kh&#xF4;ng th&#x1EC3; ch&#x1EE9;ng minh ng&#x1B0;&#x1EDD;i g&#x1EED;i ho&#x1EB7;c b&#x1EA5;t k&#x1EF3; giao dich n&#xE0;o!</translation>
     </message>
     <message>
       <location line="+21"/>
@@ -3944,7 +3944,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../signverifymessagedialog.cpp" line="+33"/>
       <source>Click "Sign Message" to generate signature</source>
-      <translation type="unfinished">Click "Sign Message" to generate signature</translation>
+      <translation>B&#x1EA5;m "K&#xFD; Th&#xF4;ng &#x111;i&#x1EC7;p" &#x111;&#x1EC3; sinh ch&#x1EEF; k&#xFD;</translation>
     </message>
     <message>
       <location line="+104"/>
@@ -4237,7 +4237,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+7"/>
       <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-      <translation type="unfinished">Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</translation>
+      <translation>Coin &#x111;&#x1B0;&#x1EE3;c t&#x1EA1;o ph&#x1EA3;i &#x111;&#x1B0;&#x1EE3;c tr&#x1B0;&#x1EDF;ng th&#xE0;nh %1 kh&#x1ED1;i tr&#x1B0;&#x1EDB;c khi ch&#xFA;ng c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c ti&#xEA;u. Khi b&#x1EA1;n sinh kh&#x1ED1;i n&#xE0;y, n&#xF3; &#x111;&#x1B0;&#x1EE3;c qu&#x1EA3;ng b&#xE1; trong m&#x1EA1;ng &#x111;&#x1EC3; th&#xEA;m v&#xE0;o chu&#x1ED7;i kh&#x1ED1;i. N&#x1EBF;u n&#xF3; kh&#xF4;ng &#x111;&#x1B0;&#x1EE3;c &#x111;&#x1B0;a v&#xE0;o chu&#x1ED7;i, tr&#x1EA1;ng th&#xE1;i c&#x1EE7;a n&#xF3; &#x111;&#x1B0;&#x1EE3;c chuy&#x1EC3;n th&#xE0;nh "kh&#xF4;ng &#x111;&#x1B0;&#x1EE3;c ch&#x1EA5;p nh&#x1EAD;n" v&#xE0; s&#x1EBD; kh&#xF4;ng th&#x1EC3; ti&#xEA;u &#x111;&#x1B0;&#x1EE3;c. &#x110;i&#x1EC1;u n&#xE0;y th&#x1EC9;nh tho&#x1EA3;ng c&#xF3; x&#x1EA3;y ra n&#x1EBF;u nh&#x1EEF;ng n&#xFA;t kh&#xE1;c c&#x169;ng sinh trong v&#xF2;ng v&#xE0;i gi&#xE2;y v&#x1EDB;i kh&#x1ED1;i c&#x1EE7;a b&#x1EA1;n.</translation>
     </message>
     <message>
       <location line="+8"/>
@@ -4694,7 +4694,7 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="-28"/>
       <location line="+12"/>
       <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</source>
-      <translation type="unfinished">InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</translation>
+      <translation>InstantSend kh&#xF4;ng h&#x1ED7; tr&#x1EE3; g&#x1EED;i gi&#xE1; tr&#x1ECB; l&#x1EDB;n &#x111;&#x1EBF;n v&#x1EAD;y. C&#xE1;c giao d&#x1ECB;ch hi&#x1EC7;n gi&#x1EDB;i h&#x1EA1;n v&#x1EDB;i %1 STONE.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -4865,7 +4865,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Can't denominate: no compatible inputs left.</source>
-      <translation type="unfinished">Can't denominate: no compatible inputs left.</translation>
+      <translation>Kh&#xF4;ng th&#x1EC3; &#x111;&#x1ECB;nh gi&#xE1;: kh&#xF4;ng c&#xF2;n &#x111;&#x1EA7;u v&#xE0;o t&#x1B0;&#x1A1;ng t&#xED;ch.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -4875,12 +4875,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Cannot resolve -bind address: '%s'</source>
-      <translation type="unfinished">Cannot resolve -bind address: '%s'</translation>
+      <translation>Kh&#xF4;ng th&#x1EC3; ph&#xE2;n gi&#x1EA3;i &#x111;&#x1ECB;a ch&#x1EC9; -bind: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Cannot resolve -externalip address: '%s'</source>
-      <translation type="unfinished">Cannot resolve -externalip address: '%s'</translation>
+      <translation>Kh&#xF4;ng th&#x1EC3; ph&#xE2;n gi&#x1EA3;i &#x111;&#x1ECB;a ch&#x1EC9; -externalip: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -5065,7 +5065,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+9"/>
       <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
-      <translation type="unfinished">Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</translation>
+      <translation>S&#x1ED1; l&#x1B0;&#x1EE3;ng kh&#xF4;ng ph&#xF9; h&#x1EE3;p cho -maxtxfee=&lt;s&#x1ED1; l&#x1B0;&#x1EE3;ng&gt;: '%s' (ph&#x1EA3;i b&#x1EB1;ng &#xED;t nh&#x1EA5;t m&#x1EE9;c ph&#xED; chuy&#x1EC3;n ti&#x1EBF;p t&#x1ED1;i thi&#x1EC3;u %s &#x111;&#x1EC3; tr&#xE1;nh t&#xEC;nh tr&#x1EA1;ng t&#x1EAF;c c&#xE1;c giao d&#x1ECB;ch)</translation>
     </message>
     <message>
       <location line="+9"/>
@@ -5140,7 +5140,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+12"/>
       <source>Cannot resolve -whitebind address: '%s'</source>
-      <translation type="unfinished">Cannot resolve -whitebind address: '%s'</translation>
+      <translation>Kh&#xF4;ng th&#x1EC3; ph&#xE2;n gi&#x1EA3;i &#x111;&#x1ECB;a ch&#x1EC9; -whitebind: '%s'</translation>
     </message>
     <message>
       <location line="+4"/>
@@ -5245,37 +5245,37 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Invalid -onion address: '%s'</source>
-      <translation type="unfinished">Invalid -onion address: '%s'</translation>
+      <translation>&#x110;&#x1ECB;a ch&#x1EC9; -onion kh&#xF4;ng h&#x1EE3;p l&#x1EC7;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid -proxy address: '%s'</source>
-      <translation type="unfinished">Invalid -proxy address: '%s'</translation>
+      <translation>&#x110;&#x1ECB;a ch&#x1EC9; proxy kh&#xF4;ng h&#x1EE3;p l&#x1EC7;: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>S&#x1ED1; ti&#x1EC1;n kh&#xF4;ng h&#x1EE3;p l&#x1EC7; cho -maxtxfee=&lt;s&#x1ED1; ti&#x1EC1;n&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>S&#x1ED1; ti&#x1EC1;n kh&#xF4;ng h&#x1EE3;p l&#x1EC7; cho -minrelaytxfee=&lt;s&#x1ED1; ti&#x1EC1;n&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>S&#x1ED1; ti&#x1EC1;n kh&#xF4;ng h&#x1EE3;p l&#x1EC7; cho -mintxfee =&lt;s&#x1ED1; ti&#x1EC1;n&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
-      <translation type="unfinished">Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</translation>
+      <translation>S&#x1ED1; ti&#x1EC1;n kh&#xF4;ng h&#x1EE3;p l&#x1EC7; cho -paytxfee=&lt;s&#x1ED1; ti&#x1EC1;n&gt;: '%s' (&#xED;t nh&#x1EA5;t ph&#x1EA3;i b&#x1EB1;ng %s)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>S&#x1ED1; ti&#x1EC1;n kh&#xF4;ng h&#x1EE3;p l&#x1EC7; cho -paytxfee =&lt;s&#x1ED1; ti&#x1EC1;n&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+13"/>
@@ -5325,7 +5325,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Need to specify a port with -whitebind: '%s'</source>
-      <translation type="unfinished">Need to specify a port with -whitebind: '%s'</translation>
+      <translation>C&#x1EA7;n ch&#x1EC9; r&#xF5; m&#x1ED9;t c&#x1ED5;ng v&#x1EDB;i -whitebind: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -5535,12 +5535,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-72"/>
       <source>Can't find random Masternode.</source>
-      <translation type="unfinished">Can't find random Masternode.</translation>
+      <translation>Kh&#xF4;ng t&#xEC;m th&#x1EA5;y Masternode ng&#x1EAB;u nhi&#xEA;n.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Can't mix while sync in progress.</source>
-      <translation type="unfinished">Can't mix while sync in progress.</translation>
+      <translation>Kh&#xF4;ng th&#x1EC3; tr&#x1ED9;n trong qu&#xE1; tr&#xEC;nh &#x111;&#x1ED3;ng b&#x1ED9;.</translation>
     </message>
     <message>
       <location line="+15"/>
@@ -5550,7 +5550,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+57"/>
       <source>Invalid netmask specified in -whitelist: '%s'</source>
-      <translation type="unfinished">Invalid netmask specified in -whitelist: '%s'</translation>
+      <translation>L&#x1ED7;i netmask &#x111;&#x1B0;&#x1EE3;c ch&#x1EC9; ra trong -whitelist: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -5650,7 +5650,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+6"/>
       <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</source>
-      <translation type="unfinished">InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</translation>
+      <translation>InstantSend kh&#xF4;ng h&#x1ED7; tr&#x1EE3; g&#x1EED;i gi&#xE1; tr&#x1ECB; l&#x1EDB;n &#x111;&#x1EBF;n v&#x1EAD;y. C&#xE1;c giao d&#x1ECB;ch hi&#x1EC7;n gi&#x1EDB;i h&#x1EA1;n v&#x1EDB;i %1 STONE.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5685,7 +5685,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+9"/>
       <source>Please check that your computer's date and time are correct! If your clock is wrong Stone Core will not work properly.</source>
-      <translation type="unfinished">Please check that your computer's date and time are correct! If your clock is wrong Stone Core will not work properly.</translation>
+      <translation>H&#xE3;y ki&#x1EC3;m tra ng&#xE0;y gi&#x1EDD; tr&#xEA;n m&#xE1;y t&#xED;nh c&#x1EE7;a b&#x1EA1;n &#x111;&#x1EC3; &#x111;&#x1EA3;m b&#x1EA3;o ch&#xFA;ng &#x111;&#x1B0;&#x1EE3;c ch&#xED;nh x&#xE1;c. N&#x1EBF;u &#x111;&#x1ED3;ng h&#x1ED3; c&#x1EE7;a b&#x1EA1;n kh&#xF4;ng &#x111;&#xFA;ng Stone Core s&#x1EBD; ho&#x1EA1;t &#x111;&#x1ED9;ng kh&#xF4;ng ch&#xED;nh x&#xE1;c.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5735,7 +5735,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+2"/>
       <source>The block database contains a block which appears to be from the future. This may be due to your computer's date and time being set incorrectly. Only rebuild the block database if you are sure that your computer's date and time are correct</source>
-      <translation type="unfinished">The block database contains a block which appears to be from the future. This may be due to your computer's date and time being set incorrectly. Only rebuild the block database if you are sure that your computer's date and time are correct</translation>
+      <translation>C&#x1A1; s&#x1EDF; d&#x1EEF; li&#x1EC7;u kh&#x1ED1;i c&#xF3; ch&#x1EE9;a m&#x1ED9;t kh&#x1ED1;i m&#xE0; n&#xF3; c&#xF3; v&#x1EBB; s&#x1EBD; xu&#x1EA5;t hi&#x1EC7;n trong t&#x1B0;&#x1A1;ng lai. &#x110;i&#x1EC1;u n&#xE0;y c&#xF3; th&#x1EC3; l&#xE0; do ng&#xE0;y gi&#x1EDD; tr&#xEA;n m&#xE1;y t&#xED;nh c&#x1EE7;a b&#x1EA1;n &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t l&#x1EAD;p kh&#xF4;ng ch&#xED;nh x&#xE1;c. Ch&#x1EC9; khi t&#xE1;i l&#x1EAD;p l&#x1EA1;i c&#x1A1; s&#x1EDF; d&#x1EEF; li&#x1EC7;u kh&#x1ED1;i n&#x1EBF;u b&#x1EA1;n ch&#x1EAF;c ch&#x1EAF;n r&#x1EB1;ng ng&#xE0;y gi&#x1EDD; m&#xE1;y t&#xED;nh c&#x1EE7;a b&#x1EA1;n l&#xE0; ch&#xED;nh x&#xE1;c.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -5765,7 +5765,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+6"/>
       <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
-      <translation type="unfinished">Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</translation>
+      <translation>T&#xEC;m th&#x1EA5;y tham s&#x1ED1; kh&#xF4;ng &#x111;&#x1B0;&#x1EE3;c h&#x1ED7; tr&#x1EE3; -socks. Thi&#x1EBF;t l&#x1EAD;p phi&#xEA;n b&#x1EA3;n SOCKS kh&#xF4;ng c&#xF2;n hi&#x1EC7;u l&#x1EF1;c n&#x1EEF;a, ch&#x1EC9; c&#xF3; proxy SOCKS5 m&#x1EDB;i &#x111;&#x1B0;&#x1EE3;c h&#x1ED7; tr&#x1EE3;.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5805,12 +5805,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+3"/>
       <source>Wallet is locked, can't replenish keypool! Automatic backups and mixing are disabled, please unlock your wallet to replenish keypool.</source>
-      <translation type="unfinished">Wallet is locked, can't replenish keypool! Automatic backups and mixing are disabled, please unlock your wallet to replenish keypool.</translation>
+      <translation>V&#xED; &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c kho&#xE1;, kh&#xF4;ng th&#x1EC3; b&#x1ED5; sung keypool! T&#x1EF1; &#x111;&#x1ED9;ng backups v&#xE0; tr&#x1ED9;n &#x111;&#xE3; b&#x1ECB; t&#x1EAF;t, h&#xE3;y m&#x1EDF; kho&#xE1; v&#xED; c&#x1EE7;a b&#x1EA1;n &#x111;&#x1EC3; b&#x1ED5; sung keypool.</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Warning: Unknown block versions being mined! It's possible unknown rules are in effect</source>
-      <translation type="unfinished">Warning: Unknown block versions being mined! It's possible unknown rules are in effect</translation>
+      <translation>C&#x1EA3;nh b&#xE1;o: Kh&#xF4;ng x&#xE1;c &#x111;&#x1ECB;nh &#x111;&#x1B0;&#x1EE3;c phi&#xEA;n b&#x1EA3;n kh&#x1ED1;i &#x111;&#x1B0;&#x1EE3;c &#x111;&#xE0;o! C&#xF3; th&#x1EC3; nh&#x1EEF;ng lu&#x1EAD;t ch&#x1B0;a &#x111;&#x1B0;&#x1EE3;c bi&#x1EBF;t &#x111;ang c&#xF3; t&#xE1;c &#x111;&#x1ED9;ng</translation>
     </message>
     <message>
       <location line="+19"/>
@@ -5960,7 +5960,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+4"/>
       <source>Invalid amount for -fallbackfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -fallbackfee=&lt;amount&gt;: '%s'</translation>
+      <translation>S&#x1ED1; l&#x1B0;&#x1EE3;ng kh&#xF4;ng h&#x1EE3;p l&#x1EC7; cho -fallbackfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -6165,7 +6165,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Wasn't able to create wallet backup folder %s!</source>
-      <translation type="unfinished">Wasn't able to create wallet backup folder %s!</translation>
+      <translation>Kh&#xF4;ng th&#x1EC3; t&#x1EA1;o &#x111;&#x1B0;&#x1EE3;c th&#x1B0; m&#x1EE5;c backup v&#xED; %s!</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -6360,7 +6360,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+2"/>
       <source>Unknown network specified in -onlynet: '%s'</source>
-      <translation type="unfinished">Unknown network specified in -onlynet: '%s'</translation>
+      <translation>Kh&#xF4;ng bi&#x1EBF;t m&#x1EA1;ng &#x111;&#x1B0;&#x1EE3;c ch&#x1EC9; ra trong -onlynet: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
