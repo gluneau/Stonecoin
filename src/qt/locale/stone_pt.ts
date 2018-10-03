@@ -1290,12 +1290,12 @@
     <message>
       <location line="+71"/>
       <source>The entered address "%1" is not a valid Proton address.</source>
-      <translation type="unfinished">The entered address "%1" is not a valid Proton address.</translation>
+      <translation>O endere&#xE7;o introduzido "%1" n&#xE3;o &#xE9; um endere&#xE7;o Proton v&#xE1;lido.</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>The entered address "%1" is already in the address book.</source>
-      <translation type="unfinished">The entered address "%1" is already in the address book.</translation>
+      <translation>O endere&#xE7;o introduzido "%1" j&#xE1; se encontra no livro de endere&#xE7;os.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -1407,7 +1407,7 @@
     <message>
       <location line="-50"/>
       <source>Set language, for example "de_DE" (default: system locale)</source>
-      <translation type="unfinished">Set language, for example "de_DE" (default: system locale)</translation>
+      <translation>Defina a linguagem, por exemplo "pt-PT" (omiss&#xE3;o: linguagem do sistema)</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -1460,7 +1460,7 @@
     <message>
       <location line="+1"/>
       <source>Error: Specified data directory "%1" cannot be created.</source>
-      <translation type="unfinished">Error: Specified data directory "%1" cannot be created.</translation>
+      <translation>Erro: A pasta especificada "%1" n&#xE3;o pode ser criada.</translation>
     </message>
     <message>
       <location line="+25"/>
@@ -2256,7 +2256,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-7"/>
       <source>Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</source>
-      <translation type="unfinished">Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</translation>
+      <translation>N&#xFA;mero insuficiente de entradas para anonimizar &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br/&gt;a anonimizar &lt;span style='color:red;'&gt;%2&lt;/span&gt; em alternativa</translation>
     </message>
     <message>
       <location line="+46"/>
@@ -2461,7 +2461,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-155"/>
       <source>Payment request network doesn't match client network.</source>
-      <translation type="unfinished">Payment request network doesn't match client network.</translation>
+      <translation>A rede da solicita&#xE7;&#xE3;o de pagamento n&#xE3;o corresponde &#xE0; rede do cliente.</translation>
     </message>
     <message>
       <location line="+15"/>
@@ -3953,7 +3953,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../signverifymessagedialog.cpp" line="+33"/>
       <source>Click "Sign Message" to generate signature</source>
-      <translation type="unfinished">Click "Sign Message" to generate signature</translation>
+      <translation>Prima "Assinar Mensagem" para gerar a assinatura</translation>
     </message>
     <message>
       <location line="+104"/>
@@ -4249,7 +4249,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+7"/>
       <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-      <translation type="unfinished">Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</translation>
+      <translation>As moedas geradas tem que amadurecer %1 blocos antes de poderem ser gastas. Quando gerou este bloco, este foi propagado para a rede de modo a ser inclu&#xED;do na cadeia de blocos. Se n&#xE3;o foi inclu&#xED;do na cadeia, o seu estado ser&#xE1; alterado para "rejeitado" e n&#xE3;o ser&#xE1; poss&#xED;vel gastar as moedas. Isto pode acontecer ocasionalmente quando outro n&#xF3; gera um bloco a poucos segundos do seu.</translation>
     </message>
     <message>
       <location line="+8"/>
@@ -4878,7 +4878,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Can't denominate: no compatible inputs left.</source>
-      <translation type="unfinished">Can't denominate: no compatible inputs left.</translation>
+      <translation>N&#xE3;o &#xE9; poss&#xED;vel denominar: n&#xE3;o existem mais entradas compat&#xED;veis.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -4888,12 +4888,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Cannot resolve -bind address: '%s'</source>
-      <translation type="unfinished">Cannot resolve -bind address: '%s'</translation>
+      <translation>N&#xE3;o foi poss&#xED;vel resolver endere&#xE7;o de v&#xED;nculo: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Cannot resolve -externalip address: '%s'</source>
-      <translation type="unfinished">Cannot resolve -externalip address: '%s'</translation>
+      <translation>N&#xE3;o foi poss&#xED;vel resolver endere&#xE7;o -externalip: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -5153,7 +5153,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+12"/>
       <source>Cannot resolve -whitebind address: '%s'</source>
-      <translation type="unfinished">Cannot resolve -whitebind address: '%s'</translation>
+      <translation>Incapaz de resolver -whitebind address: '%s'</translation>
     </message>
     <message>
       <location line="+4"/>
@@ -5258,37 +5258,37 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Invalid -onion address: '%s'</source>
-      <translation type="unfinished">Invalid -onion address: '%s'</translation>
+      <translation>Endere&#xE7;o -onion inv&#xE1;lido: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid -proxy address: '%s'</source>
-      <translation type="unfinished">Invalid -proxy address: '%s'</translation>
+      <translation>Endere&#xE7;o -proxy inv&#xE1;lido: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>Quantidade inv&#xE1;lida para -maxtxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>Quantia inv&#xE1;lida para -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>Quantia inv&#xE1;lida para -mintxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
-      <translation type="unfinished">Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</translation>
+      <translation>Quantia inv&#xE1;lida para -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>Quantia inv&#xE1;lida para -paytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+13"/>
@@ -5338,7 +5338,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Need to specify a port with -whitebind: '%s'</source>
-      <translation type="unfinished">Need to specify a port with -whitebind: '%s'</translation>
+      <translation>Necessita especificar a porta com -whitebind: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -5548,12 +5548,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-72"/>
       <source>Can't find random Masternode.</source>
-      <translation type="unfinished">Can't find random Masternode.</translation>
+      <translation>Incapaz de encontrar Masternode aleat&#xF3;rio.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Can't mix while sync in progress.</source>
-      <translation type="unfinished">Can't mix while sync in progress.</translation>
+      <translation>Incapaz de misturar enquanto sincroniza&#xE7;&#xE3;o est&#xE1; a decorrer.</translation>
     </message>
     <message>
       <location line="+15"/>
@@ -5563,7 +5563,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+57"/>
       <source>Invalid netmask specified in -whitelist: '%s'</source>
-      <translation type="unfinished">Invalid netmask specified in -whitelist: '%s'</translation>
+      <translation>Netmask especificado invalido na -whitelist: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -6373,7 +6373,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+2"/>
       <source>Unknown network specified in -onlynet: '%s'</source>
-      <translation type="unfinished">Unknown network specified in -onlynet: '%s'</translation>
+      <translation>Rede especificada desconhecida em -onlynet: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
