@@ -6,122 +6,122 @@
     <message>
       <location filename="../forms/addressbookpage.ui" line="+30"/>
       <source>Right-click to edit address or label</source>
-      <translation type="unfinished">Right-click to edit address or label</translation>
+      <translation>Kliknij prawym przyciskiem myszki w celu edycji adresu lub etykiety</translation>
     </message>
     <message>
       <location line="+27"/>
       <source>Create a new address</source>
-      <translation type="unfinished">Create a new address</translation>
+      <translation>Utw&#xF3;rz nowy adres</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>&amp;New</source>
-      <translation type="unfinished">&amp;New</translation>
+      <translation>&amp;Nowy</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>Copy the currently selected address to the system clipboard</source>
-      <translation type="unfinished">Copy the currently selected address to the system clipboard</translation>
+      <translation>Skopiuj aktualnie wybrany adres do schowka</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>&amp;Copy</source>
-      <translation type="unfinished">&amp;Copy</translation>
+      <translation>&amp;Kopiuj</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>Delete the currently selected address from the list</source>
-      <translation type="unfinished">Delete the currently selected address from the list</translation>
+      <translation>Usu&#x144; obecnie zaznaczony adres z listy</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>&amp;Delete</source>
-      <translation type="unfinished">&amp;Delete</translation>
+      <translation>&amp;Usu&#x144;</translation>
     </message>
     <message>
       <location line="+23"/>
       <source>Export the data in the current tab to a file</source>
-      <translation type="unfinished">Export the data in the current tab to a file</translation>
+      <translation>Eksportuj dane z aktywnej karty do pliku</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>&amp;Export</source>
-      <translation type="unfinished">&amp;Export</translation>
+      <translation>&amp;Eksportuj</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>C&amp;lose</source>
-      <translation type="unfinished">C&amp;lose</translation>
+      <translation>Z&amp;amknij</translation>
     </message>
     <message>
       <location filename="../addressbookpage.cpp" line="+51"/>
       <source>Choose the address to send coins to</source>
-      <translation type="unfinished">Choose the address to send coins to</translation>
+      <translation>Wybierz adres na kt&#xF3;ry wys&#x142;a&#x107; monety</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Choose the address to receive coins with</source>
-      <translation type="unfinished">Choose the address to receive coins with</translation>
+      <translation>Wybierz adres do otrzymania monet.</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>C&amp;hoose</source>
-      <translation type="unfinished">C&amp;hoose</translation>
+      <translation>W&amp;ybierz</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Sending addresses</source>
-      <translation type="unfinished">Sending addresses</translation>
+      <translation>Adres do wysy&#x142;ania</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Receiving addresses</source>
-      <translation type="unfinished">Receiving addresses</translation>
+      <translation>Adres odbiorczy</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>These are your Proton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-      <translation type="unfinished">These are your Proton addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+      <translation>To s&#x105; twoje adresy Proton na kt&#xF3;re wysy&#x142;asz p&#x142;atno&#x15B;ci. Zawsze upewnij si&#x119;, &#x17C;e kwota i adres s&#x105; prawid&#x142;owe zanim wy&#x15B;lesz monety.</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>These are your Proton addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-      <translation type="unfinished">These are your Proton addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
+      <translation>To s&#x105; twoje adresy do otrzymywania Proton&#xF3;w. Zaleca si&#x119; aby stworzy&#x107; nowy adres dla ka&#x17C;dej transakcji</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>&amp;Copy Address</source>
-      <translation type="unfinished">&amp;Copy Address</translation>
+      <translation>&amp;Kopiuj adres</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy &amp;Label</source>
-      <translation type="unfinished">Copy &amp;Label</translation>
+      <translation>Kopiuj &amp;Etykiet&#x119;</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>&amp;Edit</source>
-      <translation type="unfinished">&amp;Edit</translation>
+      <translation>&amp;Edytuj</translation>
     </message>
     <message>
       <location line="+193"/>
       <source>Export Address List</source>
-      <translation type="unfinished">Export Address List</translation>
+      <translation>Eksportuj list&#x119; adres&#xF3;w</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Comma separated file (*.csv)</source>
-      <translation type="unfinished">Comma separated file (*.csv)</translation>
+      <translation>Plik porozdzielany przecinkami (*.csv)</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>Exporting Failed</source>
-      <translation type="unfinished">Exporting Failed</translation>
+      <translation>Pr&#xF3;ba eksportu nie powiod&#x142;a si&#x119;</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>There was an error trying to save the address list to %1. Please try again.</source>
-      <translation type="unfinished">There was an error trying to save the address list to %1. Please try again.</translation>
+      <translation>Wyst&#x105;pi&#x142; b&#x142;&#x105;d podczas pr&#xF3;by zapisu listy adres&#xF3;w do %1. Prosz&#x119; spr&#xF3;bowa&#x107; ponownie.</translation>
     </message>
   </context>
   <context>
@@ -129,17 +129,17 @@
     <message>
       <location filename="../addresstablemodel.cpp" line="+171"/>
       <source>Label</source>
-      <translation type="unfinished">Label</translation>
+      <translation>Etykieta</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Adres</translation>
     </message>
     <message>
       <location line="+36"/>
       <source>(no label)</source>
-      <translation type="unfinished">(no label)</translation>
+      <translation>(brak etykiety)</translation>
     </message>
   </context>
   <context>
@@ -147,27 +147,27 @@
     <message>
       <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
       <source>Passphrase Dialog</source>
-      <translation type="unfinished">Passphrase Dialog</translation>
+      <translation>Okienko Has&#x142;a</translation>
     </message>
     <message>
       <location line="+30"/>
       <source>Enter passphrase</source>
-      <translation type="unfinished">Enter passphrase</translation>
+      <translation>Wpisz has&#x142;o</translation>
     </message>
     <message>
       <location line="+14"/>
       <source>New passphrase</source>
-      <translation type="unfinished">New passphrase</translation>
+      <translation>Nowe has&#x142;o</translation>
     </message>
     <message>
       <location line="+14"/>
       <source>Repeat new passphrase</source>
-      <translation type="unfinished">Repeat new passphrase</translation>
+      <translation>Powt&#xF3;rz nowe has&#x142;o</translation>
     </message>
     <message>
       <location line="+33"/>
       <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
-      <translation type="unfinished">Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</translation>
+      <translation>S&#x142;u&#x17C;y do zablokowania funkcji wysy&#x142;ania monet gdy konto u&#x17C;ytkownika systemu operacyjnego zosta&#x142;o przej&#x119;te przez kogo&#x15B; innego. Nie gwarantuje prawdziwego bezpiecze&#x144;stwa.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -177,58 +177,58 @@
     <message>
       <location filename="../askpassphrasedialog.cpp" line="+43"/>
       <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-      <translation type="unfinished">Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</translation>
+      <translation>Wprowad&#x17A; nowe has&#x142;o dla twojego portfela.&lt;br/&gt;Prosz&#x119; u&#x17C;ywa&#x107; has&#x142;a o d&#x142;ugo&#x15B;ci co najmniej &lt;b&gt;dziesi&#x119;ciu (najlepiej losowych) znak&#xF3;w&lt;/b&gt;, lub &lt;b&gt;co najmniej 8 s&#x142;&#xF3;w&lt;/b&gt;.</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Encrypt wallet</source>
-      <translation type="unfinished">Encrypt wallet</translation>
+      <translation>Zaszyfruj portfel</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-      <translation type="unfinished">This operation needs your wallet passphrase to unlock the wallet.</translation>
+      <translation>Ta operacja wymaga has&#x142;a do portfela aby m&#xF3;c go odblokowa&#x107;.</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>Unlock wallet</source>
-      <translation type="unfinished">Unlock wallet</translation>
+      <translation>Odblokuj portfel</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-      <translation type="unfinished">This operation needs your wallet passphrase to decrypt the wallet.</translation>
+      <translation>Ta operacja wymaga has&#x142;a do portfela aby m&#xF3;c go odszyfrowa&#x107;.</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>Decrypt wallet</source>
-      <translation type="unfinished">Decrypt wallet</translation>
+      <translation>Odszyfruj portfel</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Change passphrase</source>
-      <translation type="unfinished">Change passphrase</translation>
+      <translation>Zmie&#x144; has&#x142;o</translation>
     </message>
     <message>
       <location line="+46"/>
       <source>Confirm wallet encryption</source>
-      <translation type="unfinished">Confirm wallet encryption</translation>
+      <translation>Potwierd&#x17A; szyfrowanie portfela</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR STONE&lt;/b&gt;!</source>
-      <translation type="unfinished">Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR STONE&lt;/b&gt;!</translation>
+      <translation>Ostrze&#x17C;enie: Je&#x15B;li zaszyfrujesz sw&#xF3;j portfel i zgubisz swoje has&#x142;o, &lt;b&gt;STRACISZ WSZYSTKIE MONETY STONE&lt;/b&gt;</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>Are you sure you wish to encrypt your wallet?</source>
-      <translation type="unfinished">Are you sure you wish to encrypt your wallet?</translation>
+      <translation>Jeste&#x15B; pewien, &#x17C;e chcesz zaszyfrowa&#x107; sw&#xF3;j portfel?</translation>
     </message>
     <message>
       <location line="+9"/>
       <location line="+59"/>
       <source>Wallet encrypted</source>
-      <translation type="unfinished">Wallet encrypted</translation>
+      <translation>Portfel zaszyfrowany</translation>
     </message>
     <message>
       <location line="-114"/>
@@ -243,7 +243,7 @@
     <message>
       <location line="+4"/>
       <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-      <translation type="unfinished">IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</translation>
+      <translation>WA&#x17B;NE: Wszystkie wykonane wcze&#x15B;niej kopie pliku portfela powinny by&#x107; zamienione na nowe, szyfrowane pliki. Z powod&#xF3;w bezpiecze&#x144;stwa, poprzednie kopie nieszyfrowanych plik&#xF3;w portfela stan&#x105; si&#x119; bezu&#x17C;yteczne jak tylko zaczniesz korzysta&#x107; z nowego, szyfrowanego portfela.</translation>
     </message>
     <message>
       <location line="+9"/>
@@ -251,46 +251,46 @@
       <location line="+43"/>
       <location line="+6"/>
       <source>Wallet encryption failed</source>
-      <translation type="unfinished">Wallet encryption failed</translation>
+      <translation>Szyfrowanie portfela nie powiod&#x142;o si&#x119;</translation>
     </message>
     <message>
       <location line="-55"/>
       <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-      <translation type="unfinished">Wallet encryption failed due to an internal error. Your wallet was not encrypted.</translation>
+      <translation>Szyfrowanie portfela nie powiod&#x142;o si&#x119; z powodu wewn&#x119;trznego b&#x142;&#x119;du. Tw&#xF3;j portfel nie zosta&#x142; zaszyfrowany.</translation>
     </message>
     <message>
       <location line="+7"/>
       <location line="+49"/>
       <source>The supplied passphrases do not match.</source>
-      <translation type="unfinished">The supplied passphrases do not match.</translation>
+      <translation>Podane has&#x142;a nie s&#x105; takie same.</translation>
     </message>
     <message>
       <location line="-37"/>
       <source>Wallet unlock failed</source>
-      <translation type="unfinished">Wallet unlock failed</translation>
+      <translation>Odblokowanie portfela nie powiod&#x142;o si&#x119;</translation>
     </message>
     <message>
       <location line="+1"/>
       <location line="+11"/>
       <location line="+19"/>
       <source>The passphrase entered for the wallet decryption was incorrect.</source>
-      <translation type="unfinished">The passphrase entered for the wallet decryption was incorrect.</translation>
+      <translation>Wprowadzone has&#x142;o do odszyfrowania portfela jest niepoprawne.</translation>
     </message>
     <message>
       <location line="-20"/>
       <source>Wallet decryption failed</source>
-      <translation type="unfinished">Wallet decryption failed</translation>
+      <translation>Odszyfrowanie portfela nie powiod&#x142;o si&#x119;</translation>
     </message>
     <message>
       <location line="+14"/>
       <source>Wallet passphrase was successfully changed.</source>
-      <translation type="unfinished">Wallet passphrase was successfully changed.</translation>
+      <translation>Has&#x142;o portfela zosta&#x142;o pomy&#x15B;lnie zmienione.</translation>
     </message>
     <message>
       <location line="+48"/>
       <location line="+24"/>
       <source>Warning: The Caps Lock key is on!</source>
-      <translation type="unfinished">Warning: The Caps Lock key is on!</translation>
+      <translation>Uwaga: Klawisz Caps Lock jest w&#x142;&#x105;czony</translation>
     </message>
   </context>
   <context>
@@ -317,52 +317,52 @@
     <message>
       <location line="-910"/>
       <source>Wallet</source>
-      <translation type="unfinished">Wallet</translation>
+      <translation>Portfel</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Node</source>
-      <translation type="unfinished">Node</translation>
+      <translation>W&#x119;ze&#x142;</translation>
     </message>
     <message>
       <location line="+138"/>
       <source>&amp;Overview</source>
-      <translation type="unfinished">&amp;Overview</translation>
+      <translation>P&amp;odsumowanie</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Show general overview of wallet</source>
-      <translation type="unfinished">Show general overview of wallet</translation>
+      <translation>Pokazuje og&#xF3;lny zarys portfela</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>&amp;Send</source>
-      <translation type="unfinished">&amp;Send</translation>
+      <translation>Wy&#x15B;lij</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Send coins to a Proton address</source>
-      <translation type="unfinished">Send coins to a Proton address</translation>
+      <translation>Wy&#x15B;lij monety na adres Proton</translation>
     </message>
     <message>
       <location line="+14"/>
       <source>&amp;Receive</source>
-      <translation type="unfinished">&amp;Receive</translation>
+      <translation>Odbie&amp;rz</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Request payments (generates QR codes and stone: URIs)</source>
-      <translation type="unfinished">Request payments (generates QR codes and stone: URIs)</translation>
+      <translation>Popro&#x15B; o p&#x142;atno&#x15B;ci (generuje kod QR oraz stone: link)</translation>
     </message>
     <message>
       <location line="+14"/>
       <source>&amp;Transactions</source>
-      <translation type="unfinished">&amp;Transactions</translation>
+      <translation>&amp;Transakcje</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Browse transaction history</source>
-      <translation type="unfinished">Browse transaction history</translation>
+      <translation>Przegl&#x105;daj histori&#x119; transakcji</translation>
     </message>
     <message>
       <location line="+13"/>
@@ -377,290 +377,290 @@
     <message>
       <location line="+29"/>
       <source>E&amp;xit</source>
-      <translation type="unfinished">E&amp;xit</translation>
+      <translation>&amp;Zako&#x144;cz</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Quit application</source>
-      <translation type="unfinished">Quit application</translation>
+      <translation>Zamknij program</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>&amp;About Stone Core</source>
-      <translation type="unfinished">&amp;About Stone Core</translation>
+      <translation>&amp;O Stone Core</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Show information about Stone Core</source>
-      <translation type="unfinished">Show information about Stone Core</translation>
+      <translation>Poka&#x17C; informacje o Stone Core</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>About &amp;Qt</source>
-      <translation type="unfinished">About &amp;Qt</translation>
+      <translation>O &amp;Qt</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Show information about Qt</source>
-      <translation type="unfinished">Show information about Qt</translation>
+      <translation>Pokazuje informacje o Qt</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>&amp;Options...</source>
-      <translation type="unfinished">&amp;Options...</translation>
+      <translation>&amp;Opcje...</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>&amp;Show / Hide</source>
-      <translation type="unfinished">&amp;Show / Hide</translation>
+      <translation>&amp;Poka&#x17C; / Ukryj</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Show or hide the main Window</source>
-      <translation type="unfinished">Show or hide the main Window</translation>
+      <translation>Pokazuje lub ukrywa g&#x142;&#xF3;wne okno</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>&amp;Encrypt Wallet...</source>
-      <translation type="unfinished">&amp;Encrypt Wallet...</translation>
+      <translation>Zaszyfruj Portf&amp;el</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Encrypt the private keys that belong to your wallet</source>
-      <translation type="unfinished">Encrypt the private keys that belong to your wallet</translation>
+      <translation>Szyfruj klucze prywatne, dla twojego portfela</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>&amp;Backup Wallet...</source>
-      <translation type="unfinished">&amp;Backup Wallet...</translation>
+      <translation>Wykonaj kopi&#x119; zapasow&#x105;...</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Backup wallet to another location</source>
-      <translation type="unfinished">Backup wallet to another location</translation>
+      <translation>Zapisz kopi&#x119; zapasow&#x105; portfela w innym miejscu</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>&amp;Change Passphrase...</source>
-      <translation type="unfinished">&amp;Change Passphrase...</translation>
+      <translation>&amp;Zmie&#x144; has&#x142;o...</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Change the passphrase used for wallet encryption</source>
-      <translation type="unfinished">Change the passphrase used for wallet encryption</translation>
+      <translation>Zmie&#x144; has&#x142;o u&#x17C;yte do szyfrowania portfela</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>&amp;Unlock Wallet...</source>
-      <translation type="unfinished">&amp;Unlock Wallet...</translation>
+      <translation>Odblok&amp;uj Portfel</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Unlock wallet</source>
-      <translation type="unfinished">Unlock wallet</translation>
+      <translation>Odblokuj portfel</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>&amp;Lock Wallet</source>
-      <translation type="unfinished">&amp;Lock Wallet</translation>
+      <translation>Zab&amp;lokuj Porftel</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Sign &amp;message...</source>
-      <translation type="unfinished">Sign &amp;message...</translation>
+      <translation>Podpisz wiado&amp;mo&#x15B;&#x107;...</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Sign messages with your Proton addresses to prove you own them</source>
-      <translation type="unfinished">Sign messages with your Proton addresses to prove you own them</translation>
+      <translation>Podpisz wiadomo&#x15B;ci swoim adresem Proton aby udowodni&#x107;, &#x17C;e jeste&#x15B; ich w&#x142;a&#x15B;cicielem. </translation>
     </message>
     <message>
       <location line="+1"/>
       <source>&amp;Verify message...</source>
-      <translation type="unfinished">&amp;Verify message...</translation>
+      <translation>&amp;Zweryfikuj wiadomo&#x15B;&#x107;...</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Verify messages to ensure they were signed with specified Proton addresses</source>
-      <translation type="unfinished">Verify messages to ensure they were signed with specified Proton addresses</translation>
+      <translation>Zweryfikuj wiadomo&#x15B;ci aby upewni&#x107; si&#x119;, &#x17C;e zosta&#x142;y one podpisane wybranym adresem Proton</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>&amp;Information</source>
-      <translation type="unfinished">&amp;Information</translation>
+      <translation>&amp;Informacje</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Show diagnostic information</source>
-      <translation type="unfinished">Show diagnostic information</translation>
+      <translation>Poka&#x17C; informacje diagnostyczne</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>&amp;Debug console</source>
-      <translation type="unfinished">&amp;Debug console</translation>
+      <translation>Konsola &amp;debugowania</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Open debugging console</source>
-      <translation type="unfinished">Open debugging console</translation>
+      <translation>Otw&#xF3;rz konsole debugowania</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>&amp;Network Monitor</source>
-      <translation type="unfinished">&amp;Network Monitor</translation>
+      <translation>Mo&amp;nitor Sieci</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Show network monitor</source>
-      <translation type="unfinished">Show network monitor</translation>
+      <translation>Poka&#x17C; monitor sieci</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>&amp;Peers list</source>
-      <translation type="unfinished">&amp;Peers list</translation>
+      <translation>&amp;lista peer&#xF3;w</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Show peers info</source>
-      <translation type="unfinished">Show peers info</translation>
+      <translation>Poka&#x17C; informacje peer&#xF3;w</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Wallet &amp;Repair</source>
-      <translation type="unfinished">Wallet &amp;Repair</translation>
+      <translation>Naprawa po&amp;rfela</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Show wallet repair options</source>
-      <translation type="unfinished">Show wallet repair options</translation>
+      <translation>Poka&#x17C; opcje naprawy portfela</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Open configuration file</source>
-      <translation type="unfinished">Open configuration file</translation>
+      <translation>Otworz plik konfiguracji </translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Show Automatic &amp;Backups</source>
-      <translation type="unfinished">Show Automatic &amp;Backups</translation>
+      <translation>Poka&#x17C; automatyczne kopie zapasowe (&amp;Backups)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Show automatically created wallet backups</source>
-      <translation type="unfinished">Show automatically created wallet backups</translation>
+      <translation>Poka&#x17C; automatycznie stworzone kopie zapasowe porfela.</translation>
     </message>
     <message>
       <location line="+8"/>
       <source>&amp;Sending addresses...</source>
-      <translation type="unfinished">&amp;Sending addresses...</translation>
+      <translation>Adres wysy&#x142;ania</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Show the list of used sending addresses and labels</source>
-      <translation type="unfinished">Show the list of used sending addresses and labels</translation>
+      <translation>Poka&#x17C; list&#x119; u&#x17C;ytych adres&#xF3;w wysy&#x142;aj&#x105;cych i etykiety</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>&amp;Receiving addresses...</source>
-      <translation type="unfinished">&amp;Receiving addresses...</translation>
+      <translation>Adres odbiorczy</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Show the list of used receiving addresses and labels</source>
-      <translation type="unfinished">Show the list of used receiving addresses and labels</translation>
+      <translation>Poka&#x17C; list&#x119; u&#x17C;ytych adres&#xF3;w odbiorczych i etykiety</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Open &amp;URI...</source>
-      <translation type="unfinished">Open &amp;URI...</translation>
+      <translation>Otw&#xF3;rz URI...</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Open a stone: URI or payment request</source>
-      <translation type="unfinished">Open a stone: URI or payment request</translation>
+      <translation>Otw&#xF3;rz stone: Link lub &#x17C;&#x105;danie zap&#x142;aty</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>&amp;Command-line options</source>
-      <translation type="unfinished">&amp;Command-line options</translation>
+      <translation>&amp;Opcje konsoli</translation>
     </message>
     <message>
       <location line="+267"/>
       <source>Stone Core client</source>
-      <translation type="unfinished">Stone Core client</translation>
+      <translation>Klient Stone Core</translation>
     </message>
     <message>
       <location line="+334"/>
       <source>Synchronizing additional data: %p%</source>
-      <translation type="unfinished">Synchronizing additional data: %p%</translation>
+      <translation>Synchronizuj&#x119; dodatkowe dane: %p%</translation>
     </message>
     <message>
       <location line="-533"/>
       <source>&amp;File</source>
-      <translation type="unfinished">&amp;File</translation>
+      <translation>&amp;Plik</translation>
     </message>
     <message>
       <location line="+14"/>
       <source>&amp;Settings</source>
-      <translation type="unfinished">&amp;Settings</translation>
+      <translation>P&amp;referencje</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>&amp;Tools</source>
-      <translation type="unfinished">&amp;Tools</translation>
+      <translation>&amp;Narz&#x119;dzia</translation>
     </message>
     <message>
       <location line="+12"/>
       <source>&amp;Help</source>
-      <translation type="unfinished">&amp;Help</translation>
+      <translation>Pomo&amp;c</translation>
     </message>
     <message>
       <location line="+12"/>
       <source>Tabs toolbar</source>
-      <translation type="unfinished">Tabs toolbar</translation>
+      <translation>Pasek zak&#x142;adek</translation>
     </message>
     <message numerus="yes">
       <location line="+347"/>
       <source>%n active connection(s) to Proton network</source>
       <translation type="unfinished">
-        <numerusform>%n active connection(s) to Proton network</numerusform>
-        <numerusform>%n active connection(s) to Proton network</numerusform>
-        <numerusform>%n active connection(s) to Proton network</numerusform>
+        <numerusform>%n aktywne po&#x142;&#x105;czenie do sieci Proton</numerusform>
+        <numerusform>%n aktywne po&#x142;&#x105;czenia do sieci Proton</numerusform>
+        <numerusform>%n aktywne po&#x142;&#x105;czenia do sieci Proton</numerusform>
         <numerusform>%n active connection(s) to Proton network</numerusform>
       </translation>
     </message>
     <message>
       <location line="+15"/>
       <source>Synchronizing with network...</source>
-      <translation type="unfinished">Synchronizing with network...</translation>
+      <translation>Synchronizacja z sieci&#x105;...</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Importing blocks from disk...</source>
-      <translation type="unfinished">Importing blocks from disk...</translation>
+      <translation>Importowanie blok&#xF3;w z dysku...</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Reindexing blocks on disk...</source>
-      <translation type="unfinished">Reindexing blocks on disk...</translation>
+      <translation>Ponowne indeksowanie blok&#xF3;w na dysku...</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>No block source available...</source>
-      <translation type="unfinished">No block source available...</translation>
+      <translation>Brak dost&#x119;pnych &#x17A;r&#xF3;de&#x142; blok&#xF3;w...</translation>
     </message>
     <message>
       <location line="+92"/>
       <source>Up to date</source>
-      <translation type="unfinished">Up to date</translation>
+      <translation>Aktualny</translation>
     </message>
     <message numerus="yes">
       <location line="-68"/>
       <source>%n hour(s)</source>
       <translation type="unfinished">
-        <numerusform>%n hour(s)</numerusform>
-        <numerusform>%n hour(s)</numerusform>
-        <numerusform>%n hour(s)</numerusform>
+        <numerusform>%n godzina</numerusform>
+        <numerusform>%n godzin</numerusform>
+        <numerusform>%n godziny</numerusform>
         <numerusform>%n hour(s)</numerusform>
       </translation>
     </message>
@@ -713,9 +713,9 @@
       <location line="+19"/>
       <source>%n day(s)</source>
       <translation type="unfinished">
-        <numerusform>%n day(s)</numerusform>
-        <numerusform>%n day(s)</numerusform>
-        <numerusform>%n day(s)</numerusform>
+        <numerusform>%n dzie&#x144;</numerusform>
+        <numerusform>%n dni</numerusform>
+        <numerusform>%n dni</numerusform>
         <numerusform>%n day(s)</numerusform>
       </translation>
     </message>
@@ -724,61 +724,61 @@
       <location line="+6"/>
       <source>%n week(s)</source>
       <translation type="unfinished">
-        <numerusform>%n week(s)</numerusform>
-        <numerusform>%n week(s)</numerusform>
-        <numerusform>%n week(s)</numerusform>
+        <numerusform>%n tydzie&#x144;</numerusform>
+        <numerusform>%n tygodni</numerusform>
+        <numerusform>%n tygodnie</numerusform>
         <numerusform>%n week(s)</numerusform>
       </translation>
     </message>
     <message>
       <location line="+0"/>
       <source>%1 and %2</source>
-      <translation type="unfinished">%1 and %2</translation>
+      <translation>%1 i %2</translation>
     </message>
     <message numerus="yes">
       <location line="+0"/>
       <source>%n year(s)</source>
       <translation type="unfinished">
-        <numerusform>%n year(s)</numerusform>
-        <numerusform>%n year(s)</numerusform>
-        <numerusform>%n year(s)</numerusform>
+        <numerusform>%n rok</numerusform>
+        <numerusform>%n lat</numerusform>
+        <numerusform>%n lata</numerusform>
         <numerusform>%n year(s)</numerusform>
       </translation>
     </message>
     <message>
       <location line="+4"/>
       <source>%1 behind</source>
-      <translation type="unfinished">%1 behind</translation>
+      <translation>%1 wstecz</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>Catching up...</source>
-      <translation type="unfinished">Catching up...</translation>
+      <translation>&#x141;apanie blok&#xF3;w...</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>Last received block was generated %1 ago.</source>
-      <translation type="unfinished">Last received block was generated %1 ago.</translation>
+      <translation>Ostatni otrzymany blok zosta&#x142; wygenerowany %1 temu.</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Transactions after this will not yet be visible.</source>
-      <translation type="unfinished">Transactions after this will not yet be visible.</translation>
+      <translation>Transakcje po tym momencie nie b&#x119;d&#x105; jeszcze widoczne.</translation>
     </message>
     <message>
       <location line="+79"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>B&#x142;&#x105;d</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Warning</source>
-      <translation type="unfinished">Warning</translation>
+      <translation>Ostrze&#x17C;enie</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Information</source>
-      <translation type="unfinished">Information</translation>
+      <translation>Informacja</translation>
     </message>
     <message>
       <location line="+89"/>
@@ -818,12 +818,12 @@
     <message>
       <location line="+1"/>
       <source>Sent transaction</source>
-      <translation type="unfinished">Sent transaction</translation>
+      <translation>Transakcja wys&#x142;ana</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>Incoming transaction</source>
-      <translation type="unfinished">Incoming transaction</translation>
+      <translation>Transakcja przychodz&#x105;ca</translation>
     </message>
     <message>
       <location line="+75"/>
@@ -833,12 +833,12 @@
     <message>
       <location line="-10"/>
       <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-      <translation type="unfinished">Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</translation>
+      <translation>Portfel jest &lt;b&gt;zaszyfrowany&lt;/b&gt; i obecnie &lt;b&gt;niezablokowany&lt;/b&gt;</translation>
     </message>
     <message>
       <location line="+20"/>
       <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-      <translation type="unfinished">Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</translation>
+      <translation>Portfel jest &lt;b&gt;zaszyfrowany&lt;/b&gt; i obecnie &lt;b&gt;zablokowany&lt;/b&gt;</translation>
     </message>
   </context>
   <context>
@@ -851,7 +851,7 @@
     <message>
       <location line="+91"/>
       <source>Network Alert</source>
-      <translation type="unfinished">Network Alert</translation>
+      <translation>Sie&#x107; Alert</translation>
     </message>
   </context>
   <context>
@@ -859,52 +859,52 @@
     <message>
       <location filename="../forms/coincontroldialog.ui" line="+48"/>
       <source>Quantity:</source>
-      <translation type="unfinished">Quantity:</translation>
+      <translation>Ilo&#x15B;&#x107;:</translation>
     </message>
     <message>
       <location line="+29"/>
       <source>Bytes:</source>
-      <translation type="unfinished">Bytes:</translation>
+      <translation>Bajt&#xF3;w:</translation>
     </message>
     <message>
       <location line="+45"/>
       <source>Amount:</source>
-      <translation type="unfinished">Amount:</translation>
+      <translation>Kwota:</translation>
     </message>
     <message>
       <location line="+29"/>
       <source>Priority:</source>
-      <translation type="unfinished">Priority:</translation>
+      <translation>Priorytet:</translation>
     </message>
     <message>
       <location line="+45"/>
       <source>Fee:</source>
-      <translation type="unfinished">Fee:</translation>
+      <translation>Op&#x142;ata:</translation>
     </message>
     <message>
       <location line="-182"/>
       <source>Coin Selection</source>
-      <translation type="unfinished">Coin Selection</translation>
+      <translation>Wyb&#xF3;r Monet</translation>
     </message>
     <message>
       <location line="+214"/>
       <source>Dust:</source>
-      <translation type="unfinished">Dust:</translation>
+      <translation>Py&#x142;:</translation>
     </message>
     <message>
       <location line="+48"/>
       <source>After Fee:</source>
-      <translation type="unfinished">After Fee:</translation>
+      <translation>Po op&#x142;acie:</translation>
     </message>
     <message>
       <location line="+32"/>
       <source>Change:</source>
-      <translation type="unfinished">Change:</translation>
+      <translation>Reszta:</translation>
     </message>
     <message>
       <location line="+56"/>
       <source>(un)select all</source>
-      <translation type="unfinished">(un)select all</translation>
+      <translation>Zaznacz/Odznacz wszystko</translation>
     </message>
     <message>
       <location line="+16"/>
@@ -914,32 +914,32 @@
     <message>
       <location line="+16"/>
       <source>Tree mode</source>
-      <translation type="unfinished">Tree mode</translation>
+      <translation>Widok drzewa</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>List mode</source>
-      <translation type="unfinished">List mode</translation>
+      <translation>Widok listy</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>(1 locked)</source>
-      <translation type="unfinished">(1 locked)</translation>
+      <translation>(1 zablokowana)</translation>
     </message>
     <message>
       <location line="+46"/>
       <source>Amount</source>
-      <translation type="unfinished">Amount</translation>
+      <translation>Kwota</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>Received with label</source>
-      <translation type="unfinished">Received with label</translation>
+      <translation>Otrzymane z nazw&#x105;</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>Received with address</source>
-      <translation type="unfinished">Received with address</translation>
+      <translation>Otrzymano z adresem</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -949,88 +949,88 @@
     <message>
       <location line="+5"/>
       <source>Date</source>
-      <translation type="unfinished">Date</translation>
+      <translation>Data</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>Confirmations</source>
-      <translation type="unfinished">Confirmations</translation>
+      <translation>Potwierdzenia</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Confirmed</source>
-      <translation type="unfinished">Confirmed</translation>
+      <translation>Potwierdzony</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>Priority</source>
-      <translation type="unfinished">Priority</translation>
+      <translation>Priorytet</translation>
     </message>
     <message>
       <location filename="../coincontroldialog.cpp" line="+54"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>Kopiuj adres</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy label</source>
-      <translation type="unfinished">Copy label</translation>
+      <translation>Kopiuj etykiet&#x119;</translation>
     </message>
     <message>
       <location line="+1"/>
       <location line="+26"/>
       <source>Copy amount</source>
-      <translation type="unfinished">Copy amount</translation>
+      <translation>Kopiuj kwot&#x119;</translation>
     </message>
     <message>
       <location line="-25"/>
       <source>Copy transaction ID</source>
-      <translation type="unfinished">Copy transaction ID</translation>
+      <translation>Skopiuj ID transakcji</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Lock unspent</source>
-      <translation type="unfinished">Lock unspent</translation>
+      <translation>Zablokuj</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Unlock unspent</source>
-      <translation type="unfinished">Unlock unspent</translation>
+      <translation>Odblokuj</translation>
     </message>
     <message>
       <location line="+22"/>
       <source>Copy quantity</source>
-      <translation type="unfinished">Copy quantity</translation>
+      <translation>Skopiuj ilo&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Copy fee</source>
-      <translation type="unfinished">Copy fee</translation>
+      <translation>Skopiuj op&#x142;at&#x119;</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy after fee</source>
-      <translation type="unfinished">Copy after fee</translation>
+      <translation>Skopiuj ilo&#x15B;&#x107; po op&#x142;acie</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy bytes</source>
-      <translation type="unfinished">Copy bytes</translation>
+      <translation>Skopiuj ilo&#x15B;&#x107; bajt&#xF3;w</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy priority</source>
-      <translation type="unfinished">Copy priority</translation>
+      <translation>Skopiuj priorytet</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy dust</source>
-      <translation type="unfinished">Copy dust</translation>
+      <translation>Kopiuj py&#x142; (kwota poni&#x17C;ej 5460 duff&#xF3;w)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy change</source>
-      <translation type="unfinished">Copy change</translation>
+      <translation>Skopiuj reszt&#x119;</translation>
     </message>
     <message>
       <location line="+163"/>
@@ -1045,22 +1045,22 @@
     <message>
       <location line="+32"/>
       <source>highest</source>
-      <translation type="unfinished">highest</translation>
+      <translation>najwy&#x17C;sza</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>higher</source>
-      <translation type="unfinished">higher</translation>
+      <translation>wy&#x17C;sza</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>high</source>
-      <translation type="unfinished">high</translation>
+      <translation>wysoka</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>medium-high</source>
-      <translation type="unfinished">medium-high</translation>
+      <translation>&#x15B;rednio wysoki</translation>
     </message>
     <message>
       <location line="+216"/>
@@ -1080,91 +1080,91 @@
     <message>
       <location line="+9"/>
       <source>Can vary +/- %1 duff(s) per input.</source>
-      <translation type="unfinished">Can vary +/- %1 duff(s) per input.</translation>
+      <translation>Mo&#x17C;e si&#x119; r&#xF3;&#x17C;ni&#x107; oko&#x142;o +/- %1 duff(&#xF3;w) na transacj&#x119;.</translation>
     </message>
     <message>
       <location line="+131"/>
       <source>n/a</source>
-      <translation type="unfinished">n/a</translation>
+      <translation>nie dotyczy</translation>
     </message>
     <message>
       <location filename="../forms/coincontroldialog.ui" line="-334"/>
       <location filename="../coincontroldialog.cpp" line="-363"/>
       <source>medium</source>
-      <translation type="unfinished">medium</translation>
+      <translation>&#x15B;rednia</translation>
     </message>
     <message>
       <location filename="../coincontroldialog.cpp" line="+1"/>
       <source>low-medium</source>
-      <translation type="unfinished">low-medium</translation>
+      <translation>&#x15B;rednio niski</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>low</source>
-      <translation type="unfinished">low</translation>
+      <translation>niski</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>lower</source>
-      <translation type="unfinished">lower</translation>
+      <translation>ni&#x17C;szy</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>lowest</source>
-      <translation type="unfinished">lowest</translation>
+      <translation>najni&#x17C;szy</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>(%1 locked)</source>
-      <translation type="unfinished">(%1 locked)</translation>
+      <translation>(%1 zablokowane)</translation>
     </message>
     <message>
       <location line="+28"/>
       <source>none</source>
-      <translation type="unfinished">none</translation>
+      <translation>&#x17C;aden</translation>
     </message>
     <message>
       <location line="+157"/>
       <source>yes</source>
-      <translation type="unfinished">yes</translation>
+      <translation>tak</translation>
     </message>
     <message>
       <location filename="../forms/coincontroldialog.ui" line="+80"/>
       <location filename="../coincontroldialog.cpp" line="+0"/>
       <source>no</source>
-      <translation type="unfinished">no</translation>
+      <translation>nie</translation>
     </message>
     <message>
       <location filename="../coincontroldialog.cpp" line="+17"/>
       <location line="+5"/>
       <source>This means a fee of at least %1 per kB is required.</source>
-      <translation type="unfinished">This means a fee of at least %1 per kB is required.</translation>
+      <translation>Oznacza to wymagan&#x105; op&#x142;at&#x119; minimum %1 na kB.</translation>
     </message>
     <message>
       <location line="-4"/>
       <source>Can vary +/- 1 byte per input.</source>
-      <translation type="unfinished">Can vary +/- 1 byte per input.</translation>
+      <translation>Waha si&#x119; +/- 1 bajt na wej&#x15B;cie.</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Transactions with higher priority are more likely to get included into a block.</source>
-      <translation type="unfinished">Transactions with higher priority are more likely to get included into a block.</translation>
+      <translation>Transakcje o wy&#x17C;szym priorytecie zostaj&#x105; szybciej do&#x142;&#x105;czone do bloku.</translation>
     </message>
     <message>
       <location line="+60"/>
       <location line="+64"/>
       <source>(no label)</source>
-      <translation type="unfinished">(no label)</translation>
+      <translation>(brak etykiety)</translation>
     </message>
     <message>
       <location line="-7"/>
       <source>change from %1 (%2)</source>
-      <translation type="unfinished">change from %1 (%2)</translation>
+      <translation>reszta z %1 (%2)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>(change)</source>
-      <translation type="unfinished">(change)</translation>
+      <translation>(reszta)</translation>
     </message>
   </context>
   <context>
@@ -1177,57 +1177,57 @@
     <message>
       <location line="+12"/>
       <source>Basic Privacy</source>
-      <translation type="unfinished">Basic Privacy</translation>
+      <translation>Podstawowa prywatno&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>High Privacy</source>
-      <translation type="unfinished">High Privacy</translation>
+      <translation>Wysoka prywatno&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>Maximum Privacy</source>
-      <translation type="unfinished">Maximum Privacy</translation>
+      <translation>Maksymalna prywatno&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>Please select a privacy level.</source>
-      <translation type="unfinished">Please select a privacy level.</translation>
+      <translation>Prosz&#x119; wybra&#x107; poziom bezpiecze&#x144;stwa.</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>Use 2 separate masternodes to mix funds up to 1000 STONE</source>
-      <translation type="unfinished">Use 2 separate masternodes to mix funds up to 1000 STONE</translation>
+      <translation>U&#x17C;yj 2 oddzielnych masternod&#xF3;w aby wymiesza&#x107; &#x15B;rodki max. do 1000 STONE</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>Use 8 separate masternodes to mix funds up to 1000 STONE</source>
-      <translation type="unfinished">Use 8 separate masternodes to mix funds up to 1000 STONE</translation>
+      <translation>U&#x17C;yj 8 oddzielnych masternod&#xF3;w aby wymiesza&#x107; &#x15B;rodki max. do 1000 STONE</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>Use 16 separate masternodes</source>
-      <translation type="unfinished">Use 16 separate masternodes</translation>
+      <translation>U&#x17C;yj 16 oddzielnych masternod&#xF3;w</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>This option is the quickest and will cost about ~0.025 STONE to anonymize 1000 STONE</source>
-      <translation type="unfinished">This option is the quickest and will cost about ~0.025 STONE to anonymize 1000 STONE</translation>
+      <translation>Ta opcja jest najszybsza i kosztuje oko&#x142;o 0.025 STONE za zanonimizowanie 1000 STONE</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>This option is moderately fast and will cost about 0.05 STONE to anonymize 1000 STONE</source>
-      <translation type="unfinished">This option is moderately fast and will cost about 0.05 STONE to anonymize 1000 STONE</translation>
+      <translation>Ta opcja jest w miar&#x119; szybka i kosztuje oko&#x142;o 0.05 STONE za zanonimizowanie 1000 STONE</translation>
     </message>
     <message>
       <location line="+26"/>
       <source>0.1 STONE per 1000 STONE you anonymize.</source>
-      <translation type="unfinished">0.1 STONE per 1000 STONE you anonymize.</translation>
+      <translation>0.1 STONE za ka&#x17C;de 1000 STONE kt&#xF3;re zanonimizujesz.</translation>
     </message>
     <message>
       <location line="-13"/>
       <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
-      <translation type="unfinished">This is the slowest and most secure option. Using maximum anonymity will cost</translation>
+      <translation>Jest to najwolniejsza lecz najbardziej bezpieczna opcja. Maksymalny poziom zanonimizowania b&#x119;dzie kosztowa&#x107;</translation>
     </message>
     <message>
       <location filename="../darksendconfig.cpp" line="+43"/>
@@ -1257,47 +1257,47 @@
     <message>
       <location filename="../forms/editaddressdialog.ui" line="+14"/>
       <source>Edit Address</source>
-      <translation type="unfinished">Edit Address</translation>
+      <translation>Edytuj adres</translation>
     </message>
     <message>
       <location line="+11"/>
       <source>&amp;Label</source>
-      <translation type="unfinished">&amp;Label</translation>
+      <translation>&amp;Etykieta</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>The label associated with this address list entry</source>
-      <translation type="unfinished">The label associated with this address list entry</translation>
+      <translation>Etykieta skojarzona z tym wpisem na li&#x15B;cie adres&#xF3;w</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>&amp;Address</source>
-      <translation type="unfinished">&amp;Address</translation>
+      <translation>&amp;Adres</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-      <translation type="unfinished">The address associated with this address list entry. This can only be modified for sending addresses.</translation>
+      <translation>Ten adres jest skojarzony z wpisem na li&#x15B;cie adres&#xF3;w. Mo&#x17C;e by&#x107; zmodyfikowany jedynie dla adres&#xF3;w wysy&#x142;aj&#x105;cych.</translation>
     </message>
     <message>
       <location filename="../editaddressdialog.cpp" line="+29"/>
       <source>New receiving address</source>
-      <translation type="unfinished">New receiving address</translation>
+      <translation>Nowy adres odbiorczy</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>New sending address</source>
-      <translation type="unfinished">New sending address</translation>
+      <translation>Nowy adres wysy&#x142;ania</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Edit receiving address</source>
-      <translation type="unfinished">Edit receiving address</translation>
+      <translation>Zmie&#x144; adres odbioru</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>Edit sending address</source>
-      <translation type="unfinished">Edit sending address</translation>
+      <translation>Zmie&#x144; adres wysy&#x142;ania</translation>
     </message>
     <message>
       <location line="+71"/>
@@ -1312,12 +1312,12 @@
     <message>
       <location line="+5"/>
       <source>Could not unlock wallet.</source>
-      <translation type="unfinished">Could not unlock wallet.</translation>
+      <translation>Nie mo&#x17C;na by&#x142;o odblokowa&#x107; portfela.</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>New key generation failed.</source>
-      <translation type="unfinished">New key generation failed.</translation>
+      <translation>Tworzenie nowego klucza nie powiod&#x142;o si&#x119;.</translation>
     </message>
   </context>
   <context>
@@ -1325,27 +1325,27 @@
     <message>
       <location filename="../intro.cpp" line="+75"/>
       <source>A new data directory will be created.</source>
-      <translation type="unfinished">A new data directory will be created.</translation>
+      <translation>Utworzono nowy folder danych.</translation>
     </message>
     <message>
       <location line="+22"/>
       <source>name</source>
-      <translation type="unfinished">name</translation>
+      <translation>nazwa</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
-      <translation type="unfinished">Directory already exists. Add %1 if you intend to create a new directory here.</translation>
+      <translation>Katalog ju&#x17C; istnieje. Dodaj %1 je&#x15B;li masz zamiar utworzy&#x107; tutaj nowy katalog.</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Path already exists, and is not a directory.</source>
-      <translation type="unfinished">Path already exists, and is not a directory.</translation>
+      <translation>&#x15A;cie&#x17C;ka ju&#x17C; istnieje i nie wskazuje na folder.</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Cannot create data directory here.</source>
-      <translation type="unfinished">Cannot create data directory here.</translation>
+      <translation>Nie mo&#x17C;na by&#x142;o tutaj utworzy&#x107; folderu.</translation>
     </message>
   </context>
   <context>
@@ -1358,7 +1358,7 @@
     <message>
       <location line="+0"/>
       <source>version</source>
-      <translation type="unfinished">version</translation>
+      <translation>wersja</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -1369,22 +1369,22 @@
     <message>
       <location line="+5"/>
       <source>About Stone Core</source>
-      <translation type="unfinished">About Stone Core</translation>
+      <translation>Informacje o Stone Core</translation>
     </message>
     <message>
       <location line="+20"/>
       <source>Command-line options</source>
-      <translation type="unfinished">Command-line options</translation>
+      <translation>Opcje lini polece&#x144;</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Usage:</source>
-      <translation type="unfinished">Usage:</translation>
+      <translation>U&#x17C;ycie:</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>command-line options</source>
-      <translation type="unfinished">command-line options</translation>
+      <translation>opcje konsoli</translation>
     </message>
     <message>
       <location line="+9"/>
@@ -1424,12 +1424,12 @@
     <message>
       <location line="+1"/>
       <source>Start minimized</source>
-      <translation type="unfinished">Start minimized</translation>
+      <translation>Uruchom zminimalizowany</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Set SSL root certificates for payment request (default: -system-)</source>
-      <translation type="unfinished">Set SSL root certificates for payment request (default: -system-)</translation>
+      <translation>Ustaw g&#x142;&#xF3;wne cerytfikaty SSL dla &#x17C;&#x105;da&#x144;&#xA0;p&#x142;atno&#x15B;ci (domy&#x15B;lnie: -system-)</translation>
     </message>
   </context>
   <context>
@@ -1437,32 +1437,32 @@
     <message>
       <location filename="../forms/intro.ui" line="+14"/>
       <source>Welcome</source>
-      <translation type="unfinished">Welcome</translation>
+      <translation>Witaj</translation>
     </message>
     <message>
       <location line="+9"/>
       <source>Welcome to Stone Core.</source>
-      <translation type="unfinished">Welcome to Stone Core.</translation>
+      <translation>Witaj w Stone Core</translation>
     </message>
     <message>
       <location line="+26"/>
       <source>As this is the first time the program is launched, you can choose where Stone Core will store its data.</source>
-      <translation type="unfinished">As this is the first time the program is launched, you can choose where Stone Core will store its data.</translation>
+      <translation>Poniewa&#x17C; uruchomi&#x142;e&#x15B; ten program po raz pierwszy, mo&#x17C;esz wybra&#x107; gdzie Stone Core b&#x119;dzie przechowywa&#x142; dane.</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>Stone Core will download and store a copy of the Proton block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-      <translation type="unfinished">Stone Core will download and store a copy of the Proton block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+      <translation>Stone Core &#x15B;ci&#x105;gnie i przechowa  kopi&#x119; blockchain na twoim dysku. Co najmniej %1GB danych zostanie zapisanych w tym katalogu, a wraz z up&#x142;ywem czasu blockchain b&#x119;dzie stopniowo wymaga&#x142; coraz wi&#x119;cej miejsca. Tw&#xF3;j portfel r&#xF3;wnie&#x17C; zostanie zapisany w tym katalogu.</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>Use the default data directory</source>
-      <translation type="unfinished">Use the default data directory</translation>
+      <translation>U&#x17C;yj domy&#x15B;lnego folderu danych</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Use a custom data directory:</source>
-      <translation type="unfinished">Use a custom data directory:</translation>
+      <translation>U&#x17C;yj wybranego folderu dla danych</translation>
     </message>
     <message>
       <location filename="../intro.cpp" line="+88"/>
@@ -1477,17 +1477,17 @@
     <message>
       <location line="+25"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>B&#x142;&#x105;d</translation>
     </message>
     <message>
       <location line="+9"/>
       <source>%1 GB of free space available</source>
-      <translation type="unfinished">%1 GB of free space available</translation>
+      <translation>%1 GB wolnego miejsca na dysku</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>(of %1 GB needed)</source>
-      <translation type="unfinished">(of %1 GB needed)</translation>
+      <translation>(z %1GB potrzebnego)</translation>
     </message>
   </context>
   <context>
@@ -1516,7 +1516,7 @@
       <location line="+5"/>
       <location line="+123"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Adres</translation>
     </message>
     <message>
       <location line="-118"/>
@@ -1650,12 +1650,12 @@
     <message>
       <location filename="../forms/openuridialog.ui" line="+14"/>
       <source>Open URI</source>
-      <translation type="unfinished">Open URI</translation>
+      <translation>Otw&#xF3;rz URI:</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Open payment request from URI or file</source>
-      <translation type="unfinished">Open payment request from URI or file</translation>
+      <translation>Otw&#xF3;rz &#x17C;&#x105;danie zap&#x142;aty z URI lub pliku</translation>
     </message>
     <message>
       <location line="+9"/>
@@ -1665,12 +1665,12 @@
     <message>
       <location line="+10"/>
       <source>Select payment request file</source>
-      <translation type="unfinished">Select payment request file</translation>
+      <translation>Otw&#xF3;rz &#x17C;&#x105;danie zap&#x142;aty z pliku</translation>
     </message>
     <message>
       <location filename="../openuridialog.cpp" line="+48"/>
       <source>Select payment request file to open</source>
-      <translation type="unfinished">Select payment request file to open</translation>
+      <translation>Wybierz plik &#x17C;&#x105;dania zap&#x142;aty do otwarcia</translation>
     </message>
   </context>
   <context>
@@ -1678,17 +1678,17 @@
     <message>
       <location filename="../forms/optionsdialog.ui" line="+14"/>
       <source>Options</source>
-      <translation type="unfinished">Options</translation>
+      <translation>Opcje</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>&amp;Main</source>
-      <translation type="unfinished">&amp;Main</translation>
+      <translation>G&#x142;&#xF3;wne</translation>
     </message>
     <message>
       <location line="+18"/>
       <source>Size of &amp;database cache</source>
-      <translation type="unfinished">Size of &amp;database cache</translation>
+      <translation>Rozmiar &amp;pami&#x119;ci podr&#x119;cznej bazy danych.</translation>
     </message>
     <message>
       <location line="+16"/>
@@ -1698,22 +1698,22 @@
     <message>
       <location line="+27"/>
       <source>Number of script &amp;verification threads</source>
-      <translation type="unfinished">Number of script &amp;verification threads</translation>
+      <translation>Liczba w&#x105;tk&#xF3;w &amp;weryfikacji skryptu</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>(0 = auto, &lt;0 = leave that many cores free)</source>
-      <translation type="unfinished">(0 = auto, &lt;0 = leave that many cores free)</translation>
+      <translation>(0=auto, &lt;0 = zostaw tyle wolnych rdzeni)</translation>
     </message>
     <message>
       <location line="+155"/>
       <source>Amount of Proton to keep anonymized</source>
-      <translation type="unfinished">Amount of Proton to keep anonymized</translation>
+      <translation>Ilo&#x15B;&#x107; Proton&#xF3;w, kt&#xF3;re maj&#x105; pozosta&#x107; anonimowe.</translation>
     </message>
     <message>
       <location line="-119"/>
       <source>W&amp;allet</source>
-      <translation type="unfinished">W&amp;allet</translation>
+      <translation>Portfel</translation>
     </message>
     <message>
       <location line="-104"/>
@@ -1768,7 +1768,7 @@
     <message>
       <location line="+7"/>
       <source>If you disable the spending of unconfirmed change, the change from a transaction&lt;br/&gt;cannot be used until that transaction has at least one confirmation.&lt;br/&gt;This also affects how your balance is computed.</source>
-      <translation type="unfinished">If you disable the spending of unconfirmed change, the change from a transaction&lt;br/&gt;cannot be used until that transaction has at least one confirmation.&lt;br/&gt;This also affects how your balance is computed.</translation>
+      <translation>Je&#x15B;li wy&#x142;&#x105;czysz mo&#x17C;liwo&#x15B;&#x107; wydawania niepotwierdzonej reszty, to reszta z transakcji&lt;br/&gt; nie mo&#x17C;e zosta&#x107; u&#x17C;yta dop&#xF3;ki nie ma przynajmniej jednego potwierdzona.&lt;br/&gt; To r&#xF3;wnie&#x17C; wp&#x142;ywa na to jak wyliczane jest twoje saldo.</translation>
     </message>
     <message>
       <location line="+18"/>
@@ -1788,22 +1788,22 @@
     <message>
       <location line="+10"/>
       <source>Accept connections from outside</source>
-      <translation type="unfinished">Accept connections from outside</translation>
+      <translation>Akceptuj po&#x142;&#x105;czenia z zewn&#x105;trz</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Allow incoming connections</source>
-      <translation type="unfinished">Allow incoming connections</translation>
+      <translation>Zezw&#xF3;l na przychdz&#x105;ce po&#x142;&#x105;czenia</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Connect to the Proton network through a SOCKS5 proxy.</source>
-      <translation type="unfinished">Connect to the Proton network through a SOCKS5 proxy.</translation>
+      <translation>Po&#x142;&#x105;cz si&#x119; z sieci&#x105; Proton przez proxy SOCKS5.</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
-      <translation type="unfinished">&amp;Connect through SOCKS5 proxy (default proxy):</translation>
+      <translation>Po&#x142;&#x105;&amp;cz si&#x119; przez SOCKS5 proxy (opcja domy&#x15B;lna):</translation>
     </message>
     <message>
       <location line="+305"/>
@@ -1824,49 +1824,49 @@
     <message>
       <location line="-643"/>
       <source>Expert</source>
-      <translation type="unfinished">Expert</translation>
+      <translation>Ekspert</translation>
     </message>
     <message>
       <location line="+71"/>
       <source>This setting determines the amount of individual masternodes that an input will be anonymized through.&lt;br/&gt;More rounds of anonymization gives a higher degree of privacy, but also costs more in fees.</source>
-      <translation type="unfinished">This setting determines the amount of individual masternodes that an input will be anonymized through.&lt;br/&gt;More rounds of anonymization gives a higher degree of privacy, but also costs more in fees.</translation>
+      <translation>Tutaj mo&#x17C;esz ustawi&#x107; liczb&#x119; masternod&#xF3;w, przez kt&#xF3;re transakcja zostanie przepuszczona.&lt;br/&gt;Im wi&#x119;ksza liczba masternod&#xF3;w tym wi&#x119;kszy poziom anonimowo&#x15B;ci, ale op&#x142;ata jest r&#xF3;wnie&#x17C; wy&#x17C;sza.</translation>
     </message>
     <message>
       <location line="-65"/>
       <source>Whether to show coin control features or not.</source>
-      <translation type="unfinished">Whether to show coin control features or not.</translation>
+      <translation>Czy pokaza&#x107; funkcje kontroli monet czy nie.</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Enable coin &amp;control features</source>
-      <translation type="unfinished">Enable coin &amp;control features</translation>
+      <translation>W&#x142;&#x105;cz funkcje &amp;kontroli monet</translation>
     </message>
     <message>
       <location line="+50"/>
       <source>&amp;Spend unconfirmed change</source>
-      <translation type="unfinished">&amp;Spend unconfirmed change</translation>
+      <translation>&amp;Wydaj niepotwierdzon&#x105; reszt&#x119;</translation>
     </message>
     <message>
       <location line="+93"/>
       <source>&amp;Network</source>
-      <translation type="unfinished">&amp;Network</translation>
+      <translation>&amp;Sie&#x107;</translation>
     </message>
     <message>
       <location line="+9"/>
       <source>Map port using &amp;UPnP</source>
-      <translation type="unfinished">Map port using &amp;UPnP</translation>
+      <translation>Mapuj port u&#x17C;ywaj&#x105;c &amp;UPnP</translation>
     </message>
     <message>
       <location line="+29"/>
       <location line="+187"/>
       <source>Proxy &amp;IP:</source>
-      <translation type="unfinished">Proxy &amp;IP:</translation>
+      <translation>Proxy &amp;IP: </translation>
     </message>
     <message>
       <location line="-162"/>
       <location line="+187"/>
       <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
-      <translation type="unfinished">IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</translation>
+      <translation>Adres IP serwera proxy (np. IPv4: 127.0.0.1 / IPv6: ::1)</translation>
     </message>
     <message>
       <location line="-180"/>
@@ -1878,7 +1878,7 @@
       <location line="-162"/>
       <location line="+187"/>
       <source>Port of the proxy (e.g. 9050)</source>
-      <translation type="unfinished">Port of the proxy (e.g. 9050)</translation>
+      <translation>Port proxy (np. 9050)</translation>
     </message>
     <message>
       <location line="-163"/>
@@ -1920,79 +1920,79 @@
     <message>
       <location line="+102"/>
       <source>&amp;Window</source>
-      <translation type="unfinished">&amp;Window</translation>
+      <translation>&amp;Okno</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Show only a tray icon after minimizing the window.</source>
-      <translation type="unfinished">Show only a tray icon after minimizing the window.</translation>
+      <translation>Pokazuj tylko ikon&#x119; przy zegarku po zminimalizowaniu okna.</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>&amp;Minimize to the tray instead of the taskbar</source>
-      <translation type="unfinished">&amp;Minimize to the tray instead of the taskbar</translation>
+      <translation>&amp;Minimalizuj do paska przy zegarku zamiast do paska zada&#x144;</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>M&amp;inimize on close</source>
-      <translation type="unfinished">M&amp;inimize on close</translation>
+      <translation>M&amp;inimalizuj przy zamkni&#x119;ciu</translation>
     </message>
     <message>
       <location line="+21"/>
       <source>&amp;Display</source>
-      <translation type="unfinished">&amp;Display</translation>
+      <translation>&amp;Wy&#x15B;wietlanie</translation>
     </message>
     <message>
       <location line="+8"/>
       <source>User Interface &amp;language:</source>
-      <translation type="unfinished">User Interface &amp;language:</translation>
+      <translation>J&#x119;zyk &amp;U&#x17C;ytkownika:</translation>
     </message>
     <message>
       <location line="+34"/>
       <source>Language missing or translation incomplete? Help contributing translations here:
 https://www.transifex.com/projects/p/stone/</source>
-      <translation type="unfinished">Language missing or translation incomplete? Help contributing translations here:
+      <translation>Stone Core nie zosta&#x142; przet&#x142;umaczony na tw&#xF3;j j&#x119;zyk? T&#x142;umaczenie jest niepe&#x142;ne lub niepoprawne? Mo&#x17C;esz pom&#xF3;c nam t&#x142;umaczy&#x107; tutaj:
 https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+19"/>
       <source>User Interface Theme:</source>
-      <translation type="unfinished">User Interface Theme:</translation>
+      <translation>Motyw interefejsu u&#x17C;ytkownika:</translation>
     </message>
     <message>
       <location line="+21"/>
       <source>&amp;Unit to show amounts in:</source>
-      <translation type="unfinished">&amp;Unit to show amounts in:</translation>
+      <translation>&amp;Jednostka pokazywana przy kwocie:</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-      <translation type="unfinished">Choose the default subdivision unit to show in the interface and when sending coins.</translation>
+      <translation>Wybierz podzia&#x142; jednostki pokazywany w interfejsie  oraz podczas wysy&#x142;ania monet</translation>
     </message>
     <message>
       <location line="+11"/>
       <source>Decimal digits</source>
-      <translation type="unfinished">Decimal digits</translation>
+      <translation>Cyfry po przecinku</translation>
     </message>
     <message>
       <location line="+17"/>
       <source>Third party transaction URLs</source>
-      <translation type="unfinished">Third party transaction URLs</translation>
+      <translation>URL transakcji os&#xF3;b trzecich</translation>
     </message>
     <message>
       <location line="+41"/>
       <source>Active command-line options that override above options:</source>
-      <translation type="unfinished">Active command-line options that override above options:</translation>
+      <translation>Aktywne opcje linii komend, kt&#xF3;re nadpisuj&#x105; powy&#x17C;sze opcje:</translation>
     </message>
     <message>
       <location line="+43"/>
       <source>Reset all client options to default.</source>
-      <translation type="unfinished">Reset all client options to default.</translation>
+      <translation>Przywr&#xF3;&#x107; domy&#x15B;lne wszystkie ustawienia klienta.</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>&amp;Reset Options</source>
-      <translation type="unfinished">&amp;Reset Options</translation>
+      <translation>Z&amp;resetuj Ustawienia</translation>
     </message>
     <message>
       <location line="+61"/>
@@ -2002,28 +2002,28 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+13"/>
       <source>&amp;Cancel</source>
-      <translation type="unfinished">&amp;Cancel</translation>
+      <translation>&amp;Anuluj</translation>
     </message>
     <message>
       <location filename="../optionsdialog.cpp" line="+100"/>
       <source>default</source>
-      <translation type="unfinished">default</translation>
+      <translation>domy&#x15B;lny</translation>
     </message>
     <message>
       <location line="+64"/>
       <source>none</source>
-      <translation type="unfinished">none</translation>
+      <translation>&#x17C;aden</translation>
     </message>
     <message>
       <location line="+83"/>
       <source>Confirm options reset</source>
-      <translation type="unfinished">Confirm options reset</translation>
+      <translation>Potwierd&#x17A; reset ustawie&#x144;</translation>
     </message>
     <message>
       <location line="+1"/>
       <location line="+32"/>
       <source>Client restart required to activate changes.</source>
-      <translation type="unfinished">Client restart required to activate changes.</translation>
+      <translation>Wymagany restart programu, aby uaktywni&#x107; zmiany.</translation>
     </message>
     <message>
       <location line="-32"/>
@@ -2033,12 +2033,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+36"/>
       <source>This change would require a client restart.</source>
-      <translation type="unfinished">This change would require a client restart.</translation>
+      <translation>Ta zmiana mo&#x17C;e wymaga&#x107; ponownego uruchomienia klienta.</translation>
     </message>
     <message>
       <location line="+25"/>
       <source>The supplied proxy address is invalid.</source>
-      <translation type="unfinished">The supplied proxy address is invalid.</translation>
+      <translation>Adres podanego proxy jest nieprawid&#x142;owy</translation>
     </message>
   </context>
   <context>
@@ -2053,82 +2053,82 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+355"/>
       <location line="+258"/>
       <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Proton network after a connection is established, but this process has not completed yet.</source>
-      <translation type="unfinished">The displayed information may be out of date. Your wallet automatically synchronizes with the Proton network after a connection is established, but this process has not completed yet.</translation>
+      <translation>Wy&#x15B;wietlona informacja mo&#x17C;e by&#x107; przedawniona. Tw&#xF3;j portfel automatycznie zsynchronizuje sie z sieci&#x105; Proton jak tylko zostanie ustanowione po&#x142;&#x105;czenie, jednak&#x17C;e proces ten jeszcze si&#x119; nie zako&#x144;czy&#x142;.</translation>
     </message>
     <message>
       <location line="-364"/>
       <source>Available:</source>
-      <translation type="unfinished">Available:</translation>
+      <translation>Dost&#x119;pne:</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>Your current spendable balance</source>
-      <translation type="unfinished">Your current spendable balance</translation>
+      <translation>Twoje obecne saldo</translation>
     </message>
     <message>
       <location line="+41"/>
       <source>Pending:</source>
-      <translation type="unfinished">Pending:</translation>
+      <translation>W toku:</translation>
     </message>
     <message>
       <location line="-236"/>
       <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
-      <translation type="unfinished">Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</translation>
+      <translation>Suma transakcji, kt&#xF3;re nie zosta&#x142;y jeszcze potwierdzone, a kt&#xF3;re nie zosta&#x142;y wliczone do twojego obecnego salda</translation>
     </message>
     <message>
       <location line="+112"/>
       <source>Immature:</source>
-      <translation type="unfinished">Immature:</translation>
+      <translation>Niedojrza&#x142;y: </translation>
     </message>
     <message>
       <location line="-29"/>
       <source>Mined balance that has not yet matured</source>
-      <translation type="unfinished">Mined balance that has not yet matured</translation>
+      <translation>Balans wydobycia, kt&#xF3;ry jeszcze nie dojrza&#x142;</translation>
     </message>
     <message>
       <location line="-160"/>
       <source>Balances</source>
-      <translation type="unfinished">Balances</translation>
+      <translation>Balans</translation>
     </message>
     <message>
       <location line="+52"/>
       <source>Unconfirmed transactions to watch-only addresses</source>
-      <translation type="unfinished">Unconfirmed transactions to watch-only addresses</translation>
+      <translation>Nipotwierdzone transakcje do adres&#xF3;w mog&#x105;cych by&#x107; jedynie do odczytu.</translation>
     </message>
     <message>
       <location line="+50"/>
       <source>Mined balance in watch-only addresses that has not yet matured</source>
-      <translation type="unfinished">Mined balance in watch-only addresses that has not yet matured</translation>
+      <translation>Wykopane fundusze  jeszcze nie gotowe b&#x119;d&#x105;ce w adresie tylko do odczytu.</translation>
     </message>
     <message>
       <location line="+42"/>
       <source>Total:</source>
-      <translation type="unfinished">Total:</translation>
+      <translation>Wynosi og&#xF3;&#x142;em:</translation>
     </message>
     <message>
       <location line="+61"/>
       <source>Your current total balance</source>
-      <translation type="unfinished">Your current total balance</translation>
+      <translation>Twoje obecne saldo</translation>
     </message>
     <message>
       <location line="+25"/>
       <source>Current total balance in watch-only addresses</source>
-      <translation type="unfinished">Current total balance in watch-only addresses</translation>
+      <translation>Obecny stan konta adresu tylko do odczytu.</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>Watch-only:</source>
-      <translation type="unfinished">Watch-only:</translation>
+      <translation>Tylko do podgl&#x105;du:</translation>
     </message>
     <message>
       <location line="+51"/>
       <source>Your current balance in watch-only addresses</source>
-      <translation type="unfinished">Your current balance in watch-only addresses</translation>
+      <translation>Tw&#xF3;j obecny stan konta w adresie tylko do odczytu</translation>
     </message>
     <message>
       <location line="+23"/>
       <source>Spendable:</source>
-      <translation type="unfinished">Spendable:</translation>
+      <translation>Mo&#x17C;liwe do wydania:</translation>
     </message>
     <message>
       <location line="+35"/>
@@ -2150,12 +2150,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+7"/>
       <source>Enabled/Disabled</source>
-      <translation type="unfinished">Enabled/Disabled</translation>
+      <translation>W&#x142;&#x105;czony/Wy&#x142;&#x105;czony</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Completion:</source>
-      <translation type="unfinished">Completion:</translation>
+      <translation>Uko&#x144;czone:</translation>
     </message>
     <message>
       <location line="+109"/>
@@ -2180,32 +2180,32 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-107"/>
       <source>Amount and Rounds:</source>
-      <translation type="unfinished">Amount and Rounds:</translation>
+      <translation>Ilo&#x15B;&#x107; oraz Rundy:</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>0 STONE / 0 Rounds</source>
-      <translation type="unfinished">0 STONE / 0 Rounds</translation>
+      <translation>0 STONE / 0 Rund</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Submitted Denom:</source>
-      <translation type="unfinished">Submitted Denom:</translation>
+      <translation>Zg&#x142;oszone denominacje:</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>n/a</source>
-      <translation type="unfinished">n/a</translation>
+      <translation>nie dotyczy</translation>
     </message>
     <message>
       <location line="+131"/>
       <source>Recent transactions</source>
-      <translation type="unfinished">Recent transactions</translation>
+      <translation>Ostatnie transakcje</translation>
     </message>
     <message>
       <location line="-101"/>
       <source>Start/Stop Mixing</source>
-      <translation type="unfinished">Start/Stop Mixing</translation>
+      <translation>Start/Stop Mieszanie</translation>
     </message>
     <message>
       <location line="-74"/>
@@ -2215,17 +2215,17 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+41"/>
       <source>The denominations you submitted to the Masternode.&lt;br&gt;To mix, other users must submit the exact same denominations.</source>
-      <translation type="unfinished">The denominations you submitted to the Masternode.&lt;br&gt;To mix, other users must submit the exact same denominations.</translation>
+      <translation>Denominacje, kt&#xF3;re wys&#x142;a&#x142;e&#x15B; do Masternoda.&lt;br&gt;Aby zosta&#x142;y one wymieszane, inni u&#x17C;ytkownicy musz&#x105; wys&#x142;a&#x107; dok&#x142;adnie takie same denominacje. </translation>
     </message>
     <message>
       <location line="+14"/>
       <source>(Last Message)</source>
-      <translation type="unfinished">(Last Message)</translation>
+      <translation>(Ostatnia Wiadomo&#x15B;&#x107;)</translation>
     </message>
     <message>
       <location line="+37"/>
       <source>Try Mix</source>
-      <translation type="unfinished">Try Mix</translation>
+      <translation>Mieszaj</translation>
     </message>
     <message>
       <location line="+19"/>
@@ -2237,7 +2237,7 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+1"/>
       <location line="+1"/>
       <source>out of sync</source>
-      <translation type="unfinished">out of sync</translation>
+      <translation>desynchronizacja</translation>
     </message>
     <message>
       <location line="+325"/>
@@ -2247,13 +2247,13 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+1"/>
       <location line="+3"/>
       <source>Disabled</source>
-      <translation type="unfinished">Disabled</translation>
+      <translation>Wy&#x142;&#x105;czony</translation>
     </message>
     <message>
       <location line="-332"/>
       <location line="+6"/>
       <source>No inputs detected</source>
-      <translation type="unfinished">No inputs detected</translation>
+      <translation>Nie wykryto wej&#x15B;&#x107;</translation>
     </message>
     <message numerus="yes">
       <location line="-2"/>
@@ -2261,9 +2261,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+10"/>
       <source>%n Rounds</source>
       <translation type="unfinished">
-        <numerusform>%n Rounds</numerusform>
-        <numerusform>%n Rounds</numerusform>
-        <numerusform>%n Rounds</numerusform>
+        <numerusform>%n Runda</numerusform>
+        <numerusform>%n Rundy</numerusform>
+        <numerusform>%n Rundy</numerusform>
         <numerusform>%n Rounds</numerusform>
       </translation>
     </message>
@@ -2275,32 +2275,32 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+46"/>
       <source>Overall progress</source>
-      <translation type="unfinished">Overall progress</translation>
+      <translation>Ca&#x142;kowity post&#x119;p</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Denominated</source>
-      <translation type="unfinished">Denominated</translation>
+      <translation>Zdenominowane</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Anonymized</source>
-      <translation type="unfinished">Anonymized</translation>
+      <translation>Zanonimowane</translation>
     </message>
     <message numerus="yes">
       <location line="+1"/>
       <source>Denominated inputs have %5 of %n rounds on average</source>
       <translation type="unfinished">
-        <numerusform>Denominated inputs have %5 of %n rounds on average</numerusform>
-        <numerusform>Denominated inputs have %5 of %n rounds on average</numerusform>
-        <numerusform>Denominated inputs have %5 of %n rounds on average</numerusform>
+        <numerusform>Denonimowane wej&#x15B;cie ma %5 z %n rund jako &#x15B;rednia</numerusform>
+        <numerusform>Denonimowane wej&#x15B;cia maj&#x105; %5 z %n rund jako &#x15B;rednia</numerusform>
+        <numerusform>Denonimowane wej&#x15B;cia maj&#x105; %5 z %n rund jako &#x15B;rednia</numerusform>
         <numerusform>Denominated inputs have %5 of %n rounds on average</numerusform>
       </translation>
     </message>
     <message>
       <location line="-56"/>
       <source>Found enough compatible inputs to anonymize %1</source>
-      <translation type="unfinished">Found enough compatible inputs to anonymize %1</translation>
+      <translation>Znaleziono wystarczaj&#x105;c&#x105; ilo&#x15B;&#x107; odpowiednich &#x15B;rodk&#xF3;w aby zanonimizowa&#x17A; %1</translation>
     </message>
     <message>
       <location line="-203"/>
@@ -2323,7 +2323,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-208"/>
       <source>Mixed</source>
-      <translation type="unfinished">Mixed</translation>
+      <translation>Zmiksowane</translation>
     </message>
     <message>
       <location line="+37"/>
@@ -2365,7 +2365,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-11"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>W&#x142;&#x105;czony</translation>
     </message>
     <message>
       <location line="+10"/>
@@ -2407,7 +2407,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-54"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>NIEDOST&#x118;PNE</translation>
     </message>
   </context>
   <context>
@@ -2420,29 +2420,29 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+14"/>
       <location line="+18"/>
       <source>Payment request error</source>
-      <translation type="unfinished">Payment request error</translation>
+      <translation>B&#x142;&#x105;d &#x17C;&#x105;dania p&#x142;atno&#x15B;ci</translation>
     </message>
     <message>
       <location line="-402"/>
       <source>Cannot start stone: click-to-pay handler</source>
-      <translation type="unfinished">Cannot start stone: click-to-pay handler</translation>
+      <translation>Nie mo&#x17C;na w&#x142;&#x105;czy&#x107; stone: kliknij-aby-zap&#x142;aci&#x107; ubs&#x142;uguj&#x105;cemu.</translation>
     </message>
     <message>
       <location line="+103"/>
       <location line="+14"/>
       <location line="+7"/>
       <source>URI handling</source>
-      <translation type="unfinished">URI handling</translation>
+      <translation>Obs&#x142;uga URI</translation>
     </message>
     <message>
       <location line="-20"/>
       <source>Payment request fetch URL is invalid: %1</source>
-      <translation type="unfinished">Payment request fetch URL is invalid: %1</translation>
+      <translation>&#x17B;&#x105;danie p&#x142;atno&#x15B;ci podowduje &#x17C;e URL jest niew&#x142;a&#x15B;ciwy: %1</translation>
     </message>
     <message>
       <location line="+34"/>
       <source>Payment request file handling</source>
-      <translation type="unfinished">Payment request file handling</translation>
+      <translation>Obs&#x142;uga pliku z &#x17C;&#x105;daniem p&#x142;atno&#x15B;ci</translation>
     </message>
     <message>
       <location line="+71"/>
@@ -2452,17 +2452,17 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-92"/>
       <source>Invalid payment address %1</source>
-      <translation type="unfinished">Invalid payment address %1</translation>
+      <translation>Nieprawid&#x142;owy adres p&#x142;atno&#x15B;ci %1</translation>
     </message>
     <message>
       <location line="+8"/>
       <source>URI cannot be parsed! This can be caused by an invalid Proton address or malformed URI parameters.</source>
-      <translation type="unfinished">URI cannot be parsed! This can be caused by an invalid Proton address or malformed URI parameters.</translation>
+      <translation>URI nie mo&#x17C;e zosta&#x107; przeanalizowany! Mog&#x142;o to by&#x107; spowodowane przez niew&#x142;a&#x15B;ciwy adres Proton lub niew&#x142;a&#x15B;ciwe parametry URI</translation>
     </message>
     <message>
       <location line="+14"/>
       <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
-      <translation type="unfinished">Payment request file cannot be read! This can be caused by an invalid payment request file.</translation>
+      <translation>Plik z &#x17C;&#x105;daniem p&#x142;atno&#x15B;ci nie mo&#x17C;e zosta&#x107; odczytany! Mo&#x17C;e to by&#x107; spowodowane przez niew&#x142;a&#x15B;ciwy plik z &#x17C;&#x105;daniem p&#x142;atno&#x15B;ci.</translation>
     </message>
     <message>
       <location line="+61"/>
@@ -2472,7 +2472,7 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+17"/>
       <location line="+88"/>
       <source>Payment request rejected</source>
-      <translation type="unfinished">Payment request rejected</translation>
+      <translation>&#x17B;&#x105;danie p&#x142;atno&#x15B;ci zosta&#x142;o odrzucone</translation>
     </message>
     <message>
       <location line="-155"/>
@@ -2482,12 +2482,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+15"/>
       <source>Payment request is not initialized.</source>
-      <translation type="unfinished">Payment request is not initialized.</translation>
+      <translation>&#x17B;&#x105;danie p&#x142;atno&#x15B;ci nie zosta&#x142;o zainicjonowane.</translation>
     </message>
     <message>
       <location line="+26"/>
       <source>Unverified payment requests to custom payment scripts are unsupported.</source>
-      <translation type="unfinished">Unverified payment requests to custom payment scripts are unsupported.</translation>
+      <translation>Niezweryfikowane &#x17C;&#x105;dania p&#x142;atno&#x15B;ci dla specjalnych skrypt&#xF3;w z p&#x142;atno&#x15B;ciami nie s&#x105; obs&#x142;ugiwane.</translation>
     </message>
     <message>
       <location line="+9"/>
@@ -2498,42 +2498,42 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-10"/>
       <source>Requested payment amount of %1 is too small (considered dust).</source>
-      <translation type="unfinished">Requested payment amount of %1 is too small (considered dust).</translation>
+      <translation>&#x17B;&#x105;dana kwota %1 jest za niska (uznana za py&#x142;).</translation>
     </message>
     <message>
       <location line="+55"/>
       <source>Refund from %1</source>
-      <translation type="unfinished">Refund from %1</translation>
+      <translation>Zwrot z %1</translation>
     </message>
     <message>
       <location line="+44"/>
       <source>Payment request %1 is too large (%2 bytes, allowed %3 bytes).</source>
-      <translation type="unfinished">Payment request %1 is too large (%2 bytes, allowed %3 bytes).</translation>
+      <translation>&#x17B;&#x105;danie p&#x142;atno&#x15B;ci %1 jest zbyt du&#x17C;e (%2 bit&#xF3;w, maksymalny rozmiar to %3 bit&#xF3;w).</translation>
     </message>
     <message>
       <location line="+9"/>
       <source>Error communicating with %1: %2</source>
-      <translation type="unfinished">Error communicating with %1: %2</translation>
+      <translation>B&#x142;&#x105;d komunikacji z %1 : %2</translation>
     </message>
     <message>
       <location line="+20"/>
       <source>Payment request cannot be parsed!</source>
-      <translation type="unfinished">Payment request cannot be parsed!</translation>
+      <translation>&#x17B;&#x105;danie p&#x142;atno&#x15B;ci nie mo&#x17C;e zosta&#x107; przeanalizowane!</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>Bad response from server %1</source>
-      <translation type="unfinished">Bad response from server %1</translation>
+      <translation>B&#x142;&#x119;dna odpowied&#x17A; z serwera %1</translation>
     </message>
     <message>
       <location line="+22"/>
       <source>Network request error</source>
-      <translation type="unfinished">Network request error</translation>
+      <translation>B&#x142;&#x105;d &#x17C;&#x105;dania sieci</translation>
     </message>
     <message>
       <location line="+11"/>
       <source>Payment acknowledged</source>
-      <translation type="unfinished">Payment acknowledged</translation>
+      <translation>P&#x142;atno&#x15B;&#x107; potwierdzona</translation>
     </message>
   </context>
   <context>
@@ -2541,12 +2541,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../peertablemodel.cpp" line="+117"/>
       <source>User Agent</source>
-      <translation type="unfinished">User Agent</translation>
+      <translation>Agent u&#x17C;ytkownika</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>Ping Time</source>
-      <translation type="unfinished">Ping Time</translation>
+      <translation>czas op&#xF3;&#x17A;nienia sieci</translation>
     </message>
     <message>
       <location line="+0"/>
@@ -2559,48 +2559,48 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../bitcoinunits.cpp" line="+233"/>
       <source>Amount</source>
-      <translation type="unfinished">Amount</translation>
+      <translation>Kwota</translation>
     </message>
     <message>
       <location filename="../guiutil.cpp" line="+119"/>
       <source>Enter a Proton address (e.g. %1)</source>
-      <translation type="unfinished">Enter a Proton address (e.g. %1)</translation>
+      <translation>Wpisz adres Proton (np. %1)</translation>
     </message>
     <message>
       <location line="+857"/>
       <source>%1 d</source>
-      <translation type="unfinished">%1 d</translation>
+      <translation>%1 dzie&#x144;</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>%1 h</source>
-      <translation type="unfinished">%1 h</translation>
+      <translation>%1 godz.</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>%1 m</source>
-      <translation type="unfinished">%1 m</translation>
+      <translation>%1 min.</translation>
     </message>
     <message>
       <location line="+2"/>
       <location line="+44"/>
       <source>%1 s</source>
-      <translation type="unfinished">%1 s</translation>
+      <translation>%1 sec.</translation>
     </message>
     <message>
       <location line="-10"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>&#x17B;aden</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>NIEDOST&#x118;PNE</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>%1 ms</source>
-      <translation type="unfinished">%1 ms</translation>
+      <translation>%1 milisec.</translation>
     </message>
   </context>
   <context>
@@ -2608,22 +2608,22 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../receiverequestdialog.cpp" line="+36"/>
       <source>&amp;Save Image...</source>
-      <translation type="unfinished">&amp;Save Image...</translation>
+      <translation>&amp;Zapisz obraz...</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>&amp;Copy Image</source>
-      <translation type="unfinished">&amp;Copy Image</translation>
+      <translation>&amp;Kopiuj obraz</translation>
     </message>
     <message>
       <location line="+32"/>
       <source>Save QR Code</source>
-      <translation type="unfinished">Save QR Code</translation>
+      <translation>Zapisz Kod QR</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>PNG Image (*.png)</source>
-      <translation type="unfinished">PNG Image (*.png)</translation>
+      <translation>Obraz PNG (*.png)</translation>
     </message>
   </context>
   <context>
@@ -2631,27 +2631,27 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../forms/debugwindow.ui" line="+14"/>
       <source>Tools window</source>
-      <translation type="unfinished">Tools window</translation>
+      <translation>Okno narz&#x119;dzi</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>&amp;Information</source>
-      <translation type="unfinished">&amp;Information</translation>
+      <translation>&amp;Informacje</translation>
     </message>
     <message>
       <location line="+15"/>
       <source>General</source>
-      <translation type="unfinished">General</translation>
+      <translation>Og&#xF3;lne</translation>
     </message>
     <message>
       <location line="+164"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nazwa</translation>
     </message>
     <message>
       <location line="-157"/>
       <source>Client name</source>
-      <translation type="unfinished">Client name</translation>
+      <translation>Nazwa klienta</translation>
     </message>
     <message>
       <location line="+10"/>
@@ -2685,67 +2685,67 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+26"/>
       <location line="+23"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>NIEDOST&#x118;PNE</translation>
     </message>
     <message>
       <location line="-1049"/>
       <source>Number of connections</source>
-      <translation type="unfinished">Number of connections</translation>
+      <translation>Liczba po&#x142;&#x105;cze&#x144;</translation>
     </message>
     <message>
       <location line="+183"/>
       <source>&amp;Open</source>
-      <translation type="unfinished">&amp;Open</translation>
+      <translation>&amp;Otw&#xF3;rz</translation>
     </message>
     <message>
       <location line="-242"/>
       <source>Startup time</source>
-      <translation type="unfinished">Startup time</translation>
+      <translation>Czas uruchomienia</translation>
     </message>
     <message>
       <location line="+29"/>
       <source>Network</source>
-      <translation type="unfinished">Network</translation>
+      <translation>Sie&#x107;</translation>
     </message>
     <message>
       <location line="+103"/>
       <source>Last block time</source>
-      <translation type="unfinished">Last block time</translation>
+      <translation>Czas ostatniego bloku</translation>
     </message>
     <message>
       <location line="+100"/>
       <source>Debug log file</source>
-      <translation type="unfinished">Debug log file</translation>
+      <translation>Plik logowania debugowania</translation>
     </message>
     <message>
       <location line="-255"/>
       <source>Build date</source>
-      <translation type="unfinished">Build date</translation>
+      <translation>Data kompilacji</translation>
     </message>
     <message>
       <location line="+132"/>
       <source>Current number of blocks</source>
-      <translation type="unfinished">Current number of blocks</translation>
+      <translation>Aktualna liczba blok&#xF3;w</translation>
     </message>
     <message>
       <location line="-207"/>
       <source>Client version</source>
-      <translation type="unfinished">Client version</translation>
+      <translation>Wersja klienta</translation>
     </message>
     <message>
       <location line="+49"/>
       <source>Using BerkeleyDB version</source>
-      <translation type="unfinished">Using BerkeleyDB version</translation>
+      <translation>U&#x17C;ywana wersja BerkeleyDB</translation>
     </message>
     <message>
       <location line="+151"/>
       <source>Block chain</source>
-      <translation type="unfinished">Block chain</translation>
+      <translation>Ci&#x105;g blok&#xF3;w</translation>
     </message>
     <message>
       <location line="-20"/>
       <source>Number of Masternodes</source>
-      <translation type="unfinished">Number of Masternodes</translation>
+      <translation>Liczba masternod&#xF3;w</translation>
     </message>
     <message>
       <location line="+79"/>
@@ -2770,44 +2770,44 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+29"/>
       <source>&amp;Console</source>
-      <translation type="unfinished">&amp;Console</translation>
+      <translation>&amp;Konsola</translation>
     </message>
     <message>
       <location line="+49"/>
       <source>Clear console</source>
-      <translation type="unfinished">Clear console</translation>
+      <translation>Wyczy&#x15B;&#x107; konsol&#x119;</translation>
     </message>
     <message>
       <location line="+23"/>
       <source>&amp;Network Traffic</source>
-      <translation type="unfinished">&amp;Network Traffic</translation>
+      <translation>$Ruch sieci</translation>
     </message>
     <message>
       <location line="+52"/>
       <source>&amp;Clear</source>
-      <translation type="unfinished">&amp;Clear</translation>
+      <translation>&amp;Wyczy&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>Totals</source>
-      <translation type="unfinished">Totals</translation>
+      <translation>Kwota og&#xF3;lna</translation>
     </message>
     <message>
       <location line="+64"/>
       <location line="+554"/>
       <source>Received</source>
-      <translation type="unfinished">Received</translation>
+      <translation>Otrzymany</translation>
     </message>
     <message>
       <location line="-474"/>
       <location line="+451"/>
       <source>Sent</source>
-      <translation type="unfinished">Sent</translation>
+      <translation>Wys&#x142;any</translation>
     </message>
     <message>
       <location line="-410"/>
       <source>&amp;Peers</source>
-      <translation type="unfinished">&amp;Peers</translation>
+      <translation>&amp;peery</translation>
     </message>
     <message>
       <location line="+50"/>
@@ -2819,7 +2819,7 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location filename="../rpcconsole.cpp" line="+302"/>
       <location line="+672"/>
       <source>Select a peer to view detailed information.</source>
-      <translation type="unfinished">Select a peer to view detailed information.</translation>
+      <translation>Wybierz peera aby zobaczy&#x107; jego szczeg&#xF3;&#x142;owe informacje.</translation>
     </message>
     <message>
       <location line="+25"/>
@@ -2829,12 +2829,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+23"/>
       <source>Direction</source>
-      <translation type="unfinished">Direction</translation>
+      <translation>Kierunek</translation>
     </message>
     <message>
       <location line="+23"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>Wersja</translation>
     </message>
     <message>
       <location line="+69"/>
@@ -2860,37 +2860,37 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="-1474"/>
       <location line="+871"/>
       <source>User Agent</source>
-      <translation type="unfinished">User Agent</translation>
+      <translation>Agent u&#x17C;ytkownika</translation>
     </message>
     <message>
       <location line="+23"/>
       <source>Services</source>
-      <translation type="unfinished">Services</translation>
+      <translation>Us&#x142;ugi</translation>
     </message>
     <message>
       <location line="+92"/>
       <source>Ban Score</source>
-      <translation type="unfinished">Ban Score</translation>
+      <translation>zablokuj wynik</translation>
     </message>
     <message>
       <location line="+23"/>
       <source>Connection Time</source>
-      <translation type="unfinished">Connection Time</translation>
+      <translation>Czas Po&#x142;&#x105;czenia</translation>
     </message>
     <message>
       <location line="+23"/>
       <source>Last Send</source>
-      <translation type="unfinished">Last Send</translation>
+      <translation>Ostatnio Wys&#x142;ane</translation>
     </message>
     <message>
       <location line="+23"/>
       <source>Last Receive</source>
-      <translation type="unfinished">Last Receive</translation>
+      <translation>Ostatnio Odebrane</translation>
     </message>
     <message>
       <location line="+69"/>
       <source>Ping Time</source>
-      <translation type="unfinished">Ping Time</translation>
+      <translation>czas op&#xF3;&#x17A;nienia sieci</translation>
     </message>
     <message>
       <location line="+23"/>
@@ -2910,87 +2910,87 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+40"/>
       <source>&amp;Wallet Repair</source>
-      <translation type="unfinished">&amp;Wallet Repair</translation>
+      <translation>&amp;Naprawa portfela</translation>
     </message>
     <message>
       <location line="+18"/>
       <source>Salvage wallet</source>
-      <translation type="unfinished">Salvage wallet</translation>
+      <translation>Ratuj portfel</translation>
     </message>
     <message>
       <location line="+19"/>
       <source>Rescan blockchain files</source>
-      <translation type="unfinished">Rescan blockchain files</translation>
+      <translation>Przeskanuj pliki la&#x144;cucha</translation>
     </message>
     <message>
       <location line="+19"/>
       <source>Recover transactions 1</source>
-      <translation type="unfinished">Recover transactions 1</translation>
+      <translation>Odzyskaj transakcj&#x119; 1</translation>
     </message>
     <message>
       <location line="+19"/>
       <source>Recover transactions 2</source>
-      <translation type="unfinished">Recover transactions 2</translation>
+      <translation>Odzyskaj transakcj&#x119; 2</translation>
     </message>
     <message>
       <location line="+19"/>
       <source>Upgrade wallet format</source>
-      <translation type="unfinished">Upgrade wallet format</translation>
+      <translation>Udoskonal format portfela</translation>
     </message>
     <message>
       <location line="+19"/>
       <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockhain files or missing/obsolete transactions.</source>
-      <translation type="unfinished">The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockhain files or missing/obsolete transactions.</translation>
+      <translation>Przycisk poni&#x17C;ej, zrestartuje portfel z opcjami lini komend s&#x142;&#xF3;&#x17C;&#x105;cych do naprawy porfela, rozwi&#x105;zania problem&#xF3;w z plikami &#x142;a&#x144;cucha blok&#xF3;w oraz zgubionych lub niewa&#x17C;nych transakcji .</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>-salvagewallet: Attempt to recover private keys from a corrupt wallet.dat.</source>
-      <translation type="unfinished">-salvagewallet: Attempt to recover private keys from a corrupt wallet.dat.</translation>
+      <translation>-salvagewallet: Pr&#xF3;buje przywr&#xF3;ci&#x107; prywatne klucze z uszkodzonego portfela.</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>-rescan: Rescan the block chain for missing wallet transactions.</source>
-      <translation type="unfinished">-rescan: Rescan the block chain for missing wallet transactions.</translation>
+      <translation>-rescan: Przeskanuje &#x142;a&#x144;cuch w poszukiwaniu brakuj&#x105;cych transakcji portfela.</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>-zapwallettxes=1: Recover transactions from blockchain (keep meta-data, e.g. account owner).</source>
-      <translation type="unfinished">-zapwallettxes=1: Recover transactions from blockchain (keep meta-data, e.g. account owner).</translation>
+      <translation>-zapwallettxes=1: Odzysaj transakcje z blockchainu (nie zmieniaj meta-danych, np. w&#x142;a&#x15B;ciciela konta).</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>-zapwallettxes=2: Recover transactions from blockchain (drop meta-data).</source>
-      <translation type="unfinished">-zapwallettxes=2: Recover transactions from blockchain (drop meta-data).</translation>
+      <translation>-zapwallettxes=2: Odzyskaj transakcje z blockchainu (pozb&#x105;d&#x17A; si&#x119; meta-danych)</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>-upgradewallet: Upgrade wallet to latest format on startup. (Note: this is NOT an update of the wallet itself!)</source>
-      <translation type="unfinished">-upgradewallet: Upgrade wallet to latest format on startup. (Note: this is NOT an update of the wallet itself!)</translation>
+      <translation>-upgradewallet: podnie&#x15B; poziom portfela podczas uruchomienia. (Nie jest to to samo co zaktualizowanie porfela do nowej wersji!)</translation>
     </message>
     <message>
       <location line="+23"/>
       <source>Wallet repair options.</source>
-      <translation type="unfinished">Wallet repair options.</translation>
+      <translation>Opcje naprawy portfela.</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>Rebuild index</source>
-      <translation type="unfinished">Rebuild index</translation>
+      <translation>Przebuduj indeks</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>-reindex: Rebuild block chain index from current blk000??.dat files.</source>
-      <translation type="unfinished">-reindex: Rebuild block chain index from current blk000??.dat files.</translation>
+      <translation>reindex: Odtw&#xF3;rz index &#x142;a&#x144;cucha blok&#xF3;w z najnowszego pliku blk000??.dat </translation>
     </message>
     <message>
       <location filename="../rpcconsole.cpp" line="-348"/>
       <source>In:</source>
-      <translation type="unfinished">In:</translation>
+      <translation>Wej&#x15B;cie:</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Out:</source>
-      <translation type="unfinished">Out:</translation>
+      <translation>Wyj&#x15B;cie:</translation>
     </message>
     <message>
       <location line="-234"/>
@@ -3038,12 +3038,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-      <translation type="unfinished">Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</translation>
+      <translation>U&#x17C;yj strza&#x142;ek do przewijania historii i &lt;b&gt;Ctrl-L&lt;/b&gt; aby wyczy&#x15B;ci&#x107; ekran</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-      <translation type="unfinished">Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</translation>
+      <translation>Wpisz &lt;b&gt;help&lt;/b&gt; aby uzyska&#x107; list&#x119; dost&#x119;pnych komend</translation>
     </message>
     <message>
       <location line="+149"/>
@@ -3073,23 +3073,23 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+2"/>
       <source>via %1</source>
-      <translation type="unfinished">via %1</translation>
+      <translation>przez %1</translation>
     </message>
     <message>
       <location line="+3"/>
       <location line="+1"/>
       <source>never</source>
-      <translation type="unfinished">never</translation>
+      <translation>nigdy</translation>
     </message>
     <message>
       <location line="+9"/>
       <source>Inbound</source>
-      <translation type="unfinished">Inbound</translation>
+      <translation>przychodz&#x105;ce</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>Outbound</source>
-      <translation type="unfinished">Outbound</translation>
+      <translation>wychodz&#x105;ce</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -3105,7 +3105,7 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+12"/>
       <location line="+6"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>nieznane</translation>
     </message>
   </context>
   <context>
@@ -3113,69 +3113,69 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../forms/receivecoinsdialog.ui" line="+34"/>
       <source>Reuse one of the previously used receiving addresses.&lt;br&gt;Reusing addresses has security and privacy issues.&lt;br&gt;Do not use this unless re-generating a payment request made before.</source>
-      <translation type="unfinished">Reuse one of the previously used receiving addresses.&lt;br&gt;Reusing addresses has security and privacy issues.&lt;br&gt;Do not use this unless re-generating a payment request made before.</translation>
+      <translation>U&#x17C;yj jeden z poprzednio u&#x17C;ytych adres&#xF3;w odbiorczych.&lt;br&gt; Podczas ponownego u&#x17C;ywania adres&#xF3;w wyst&#x119;puj&#x105; problemy z bezpiecze&#x144;stwem i prywatno&#x15B;ci&#x105;.&lt;br&gt; Nie korzystaj z tej opcji, chyba &#x17C;e odtwarzasz &#x17C;&#x105;danie p&#x142;atno&#x15B;ci wykonane ju&#x17C; wcze&#x15B;niej.</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>R&amp;euse an existing receiving address (not recommended)</source>
-      <translation type="unfinished">R&amp;euse an existing receiving address (not recommended)</translation>
+      <translation>U&#x17C;yj istniej&#x105;cy adres odbiorczy (nie zalecane)</translation>
     </message>
     <message>
       <location line="+14"/>
       <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Proton network.</source>
-      <translation type="unfinished">An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Proton network.</translation>
+      <translation>Opcjonalna wiadomo&#x15B;&#x107; do &#x17C;&#x105;dania p&#x142;atno&#x15B;ci. Wiadomo&#x15B;&#x107; wy&#x15B;wietli si&#x119; po otwarciu &#x17C;&#x105;dania. Pami&#x119;taj: Wiadomo&#x15B;&#x107; nie zostanie wys&#x142;ana razem z p&#x142;atno&#x15B;ci&#x105; poprzez sie&#x107; Proton.</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>&amp;Message:</source>
-      <translation type="unfinished">&amp;Message:</translation>
+      <translation>&amp;Wiadomo&#x15B;&#x107;:</translation>
     </message>
     <message>
       <location line="+13"/>
       <location line="+21"/>
       <source>An optional label to associate with the new receiving address.</source>
-      <translation type="unfinished">An optional label to associate with the new receiving address.</translation>
+      <translation>Opcjonalna etykieta do skojarzenia z nowym adresem odbiorczym.</translation>
     </message>
     <message>
       <location line="-14"/>
       <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Proton network.</source>
-      <translation type="unfinished">An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Proton network.</translation>
+      <translation>Opcjonalna wiadomo&#x15B;&#x107; do &#x17C;&#x105;dania p&#x142;atno&#x15B;ci. Wiadomo&#x15B;&#x107; wy&#x15B;wietli si&#x119; po otwarciu &#x17C;&#x105;dania.&lt;br&gt; Pami&#x119;taj: Wiadomo&#x15B;&#x107; nie zostanie wys&#x142;ana razem z p&#x142;atno&#x15B;ci&#x105; poprzez sie&#x107; Proton.</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
-      <translation type="unfinished">Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</translation>
+      <translation>U&#x17C;yj tego formularza do za&#x17C;&#x105;dania p&#x142;atno&#x15B;ci. Wszystkie pola s&#x105; &lt;b&gt;opcjonalne&lt;/b&gt;.</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>&amp;Label:</source>
-      <translation type="unfinished">&amp;Label:</translation>
+      <translation>&amp;Etykieta:</translation>
     </message>
     <message>
       <location line="+13"/>
       <location line="+22"/>
       <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
-      <translation type="unfinished">An optional amount to request. Leave this empty or zero to not request a specific amount.</translation>
+      <translation>Opcjonalna kwota &#x17C;&#x105;dania. Pozostaw puste pole lub zero aby nie podawa&#x107; konkretnej kwoty.</translation>
     </message>
     <message>
       <location line="-19"/>
       <source>&amp;Amount:</source>
-      <translation type="unfinished">&amp;Amount:</translation>
+      <translation>&amp;Ilo&#x15B;&#x107;:</translation>
     </message>
     <message>
       <location line="+34"/>
       <source>&amp;Request payment</source>
-      <translation type="unfinished">&amp;Request payment</translation>
+      <translation>&amp;&#x17B;&#x105;daj p&#x142;atno&#x15B;ci</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>Clear all fields of the form.</source>
-      <translation type="unfinished">Clear all fields of the form.</translation>
+      <translation>Wyczy&#x15B;&#x107; pola formularza</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>Wyczy&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+32"/>
@@ -3185,42 +3185,42 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+49"/>
       <source>Requested payments history</source>
-      <translation type="unfinished">Requested payments history</translation>
+      <translation>&#x17B;&#x105;danie historii p&#x142;atno&#x15B;ci</translation>
     </message>
     <message>
       <location line="+25"/>
       <source>Show the selected request (does the same as double clicking an entry)</source>
-      <translation type="unfinished">Show the selected request (does the same as double clicking an entry)</translation>
+      <translation>Poka&#x17C; zaznaczone &#x17C;&#x105;danie (dzia&#x142;a jak podw&#xF3;jne klikni&#x119;cie)</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Show</source>
-      <translation type="unfinished">Show</translation>
+      <translation>Poka&#x17C;</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>Remove the selected entries from the list</source>
-      <translation type="unfinished">Remove the selected entries from the list</translation>
+      <translation>Usu&#x144; zaznaczone z listy</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Usu&#x144;</translation>
     </message>
     <message>
       <location filename="../receivecoinsdialog.cpp" line="+47"/>
       <source>Copy label</source>
-      <translation type="unfinished">Copy label</translation>
+      <translation>Kopiuj etykiet&#x119;</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy message</source>
-      <translation type="unfinished">Copy message</translation>
+      <translation>Kopiuj wiadomo&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy amount</source>
-      <translation type="unfinished">Copy amount</translation>
+      <translation>Kopiuj kwot&#x119;</translation>
     </message>
   </context>
   <context>
@@ -3228,32 +3228,32 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../forms/receiverequestdialog.ui" line="+29"/>
       <source>QR Code</source>
-      <translation type="unfinished">QR Code</translation>
+      <translation>Kod QR</translation>
     </message>
     <message>
       <location line="+46"/>
       <source>Copy &amp;URI</source>
-      <translation type="unfinished">Copy &amp;URI</translation>
+      <translation>Kopiuj &amp;URI</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>Copy &amp;Address</source>
-      <translation type="unfinished">Copy &amp;Address</translation>
+      <translation>Kopiuj &amp;adres</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>&amp;Save Image...</source>
-      <translation type="unfinished">&amp;Save Image...</translation>
+      <translation>&amp;Zapisz obraz...</translation>
     </message>
     <message>
       <location filename="../receiverequestdialog.cpp" line="+65"/>
       <source>Request payment to %1</source>
-      <translation type="unfinished">Request payment to %1</translation>
+      <translation>&#x17B;&#x105;daj p&#x142;atno&#x15B;ci do %1</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Payment information</source>
-      <translation type="unfinished">Payment information</translation>
+      <translation>Informacje o p&#x142;atno&#x15B;ci</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -3263,22 +3263,22 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+2"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Adres</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Amount</source>
-      <translation type="unfinished">Amount</translation>
+      <translation>Kwota</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Label</source>
-      <translation type="unfinished">Label</translation>
+      <translation>Etykieta</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Message</source>
-      <translation type="unfinished">Message</translation>
+      <translation>Wiadomo&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -3289,12 +3289,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+10"/>
       <source>Resulting URI too long, try to reduce the text for label / message.</source>
-      <translation type="unfinished">Resulting URI too long, try to reduce the text for label / message.</translation>
+      <translation>Wynikowy URI jest zbyt d&#x142;ugi, spr&#xF3;buj zmniejszy&#x107; tekst etykiety / wiadomo&#x15B;ci</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>Error encoding URI into QR Code.</source>
-      <translation type="unfinished">Error encoding URI into QR Code.</translation>
+      <translation>B&#x142;&#x105;d kodowania URI w Kodzie QR.</translation>
     </message>
   </context>
   <context>
@@ -3302,37 +3302,37 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../recentrequeststablemodel.cpp" line="+29"/>
       <source>Date</source>
-      <translation type="unfinished">Date</translation>
+      <translation>Data</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>Label</source>
-      <translation type="unfinished">Label</translation>
+      <translation>Etykieta</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>Message</source>
-      <translation type="unfinished">Message</translation>
+      <translation>Wiadomo&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+99"/>
       <source>Amount</source>
-      <translation type="unfinished">Amount</translation>
+      <translation>Kwota</translation>
     </message>
     <message>
       <location line="-59"/>
       <source>(no label)</source>
-      <translation type="unfinished">(no label)</translation>
+      <translation>(brak etykiety)</translation>
     </message>
     <message>
       <location line="+9"/>
       <source>(no message)</source>
-      <translation type="unfinished">(no message)</translation>
+      <translation>(brak wiadomo&#x15B;ci)</translation>
     </message>
     <message>
       <location line="+8"/>
       <source>(no amount)</source>
-      <translation type="unfinished">(no amount)</translation>
+      <translation>(brak kwoty)</translation>
     </message>
   </context>
   <context>
@@ -3341,102 +3341,102 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location filename="../forms/sendcoinsdialog.ui" line="+14"/>
       <location filename="../sendcoinsdialog.cpp" line="+659"/>
       <source>Send Coins</source>
-      <translation type="unfinished">Send Coins</translation>
+      <translation>Wy&#x15B;lij Monety</translation>
     </message>
     <message>
       <location line="+76"/>
       <source>Coin Control Features</source>
-      <translation type="unfinished">Coin Control Features</translation>
+      <translation>Funkcje sterowania monetami</translation>
     </message>
     <message>
       <location line="+20"/>
       <source>Inputs...</source>
-      <translation type="unfinished">Inputs...</translation>
+      <translation>Wej&#x15B;cia...</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>automatically selected</source>
-      <translation type="unfinished">automatically selected</translation>
+      <translation>zaznaczone automatycznie</translation>
     </message>
     <message>
       <location line="+19"/>
       <source>Insufficient funds!</source>
-      <translation type="unfinished">Insufficient funds!</translation>
+      <translation>Niewystarczaj&#x105;ce &#x15B;rodki</translation>
     </message>
     <message>
       <location line="+89"/>
       <source>Quantity:</source>
-      <translation type="unfinished">Quantity:</translation>
+      <translation>Ilo&#x15B;&#x107;:</translation>
     </message>
     <message>
       <location line="+35"/>
       <source>Bytes:</source>
-      <translation type="unfinished">Bytes:</translation>
+      <translation>Bajt&#xF3;w:</translation>
     </message>
     <message>
       <location line="+48"/>
       <source>Amount:</source>
-      <translation type="unfinished">Amount:</translation>
+      <translation>Kwota:</translation>
     </message>
     <message>
       <location line="+32"/>
       <source>Priority:</source>
-      <translation type="unfinished">Priority:</translation>
+      <translation>Priorytet:</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>medium</source>
-      <translation type="unfinished">medium</translation>
+      <translation>&#x15B;rednia</translation>
     </message>
     <message>
       <location line="+35"/>
       <source>Fee:</source>
-      <translation type="unfinished">Fee:</translation>
+      <translation>Op&#x142;ata:</translation>
     </message>
     <message>
       <location line="+32"/>
       <source>Dust:</source>
-      <translation type="unfinished">Dust:</translation>
+      <translation>Py&#x142;:</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>no</source>
-      <translation type="unfinished">no</translation>
+      <translation>nie</translation>
     </message>
     <message>
       <location line="+35"/>
       <source>After Fee:</source>
-      <translation type="unfinished">After Fee:</translation>
+      <translation>Po op&#x142;acie:</translation>
     </message>
     <message>
       <location line="+32"/>
       <source>Change:</source>
-      <translation type="unfinished">Change:</translation>
+      <translation>Reszta:</translation>
     </message>
     <message>
       <location line="+44"/>
       <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-      <translation type="unfinished">If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</translation>
+      <translation>Kiedy ta opcja jest wybrana, ale adres reszty jest pusty lub nieprawid&#x142;owy to reszta b&#x119;dzie wysy&#x142;ana na adres nowo-wygenerowany.</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Custom change address</source>
-      <translation type="unfinished">Custom change address</translation>
+      <translation>Niestandardowe zmiany adresu</translation>
     </message>
     <message>
       <location line="+206"/>
       <source>Transaction Fee:</source>
-      <translation type="unfinished">Transaction Fee:</translation>
+      <translation>Op&#x142;ata za transakcje:</translation>
     </message>
     <message>
       <location line="+14"/>
       <source>Choose...</source>
-      <translation type="unfinished">Choose...</translation>
+      <translation>Wybierz...</translation>
     </message>
     <message>
       <location line="+37"/>
       <source>collapse fee-settings</source>
-      <translation type="unfinished">collapse fee-settings</translation>
+      <translation>zamknij ustawienia op&#x142;at</translation>
     </message>
     <message>
       <location line="+520"/>
@@ -3462,12 +3462,12 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+33"/>
       <location line="+13"/>
       <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for stone transactions than the network can process.</source>
-      <translation type="unfinished">Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for stone transactions than the network can process.</translation>
+      <translation>Uiszczanie minimalnej op&#x142;aty za transakcj&#x119; jest ok dop&#xF3;ki ilo&#x15B;&#x107; transakcji nie przekracza dost&#x119;pnego miejsca w bloku. &lt;br /&gt;Jednak&#x17C;e, je&#x15B;li zaistnieje taka sytuacja w kt&#xF3;rej wys&#x142;anych zostaje wi&#x119;cej transakcji ni&#x17C; sie&#x107; mo&#x17C;e przetworzy&#x107;, to jest mo&#x17C;liwe, &#x17C;e twoja transakcja nigdy nie zostanie potwierdzona.</translation>
     </message>
     <message>
       <location line="-59"/>
       <source>per kilobyte</source>
-      <translation type="unfinished">per kilobyte</translation>
+      <translation>na kilobajt</translation>
     </message>
     <message>
       <location line="-51"/>
@@ -3477,140 +3477,140 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+67"/>
       <source>total at least</source>
-      <translation type="unfinished">total at least</translation>
+      <translation>Ca&#x142;a suma wynosi co najmniej</translation>
     </message>
     <message>
       <location line="+46"/>
       <source>(read the tooltip)</source>
-      <translation type="unfinished">(read the tooltip)</translation>
+      <translation>(przeczytaj powpowied&#x17A; w chmurce)</translation>
     </message>
     <message>
       <location line="+29"/>
       <source>Recommended:</source>
-      <translation type="unfinished">Recommended:</translation>
+      <translation>Polecany:</translation>
     </message>
     <message>
       <location line="+30"/>
       <source>Custom:</source>
-      <translation type="unfinished">Custom:</translation>
+      <translation>Niestandardowo:</translation>
     </message>
     <message>
       <location line="+52"/>
       <source>(Smart fee not initialized yet. This usually takes a few blocks...)</source>
-      <translation type="unfinished">(Smart fee not initialized yet. This usually takes a few blocks...)</translation>
+      <translation>(Op&#x142;ata smart nie zosta&#x142;a jeszcze zainicjonowana. Zazwyczaj zajmuje to kilka blok&#xF3;w...)</translation>
     </message>
     <message>
       <location line="+29"/>
       <source>Confirmation time:</source>
-      <translation type="unfinished">Confirmation time:</translation>
+      <translation>Czas potwierdzenia:</translation>
     </message>
     <message>
       <location line="+60"/>
       <source>normal</source>
-      <translation type="unfinished">normal</translation>
+      <translation>normalny</translation>
     </message>
     <message>
       <location line="+20"/>
       <source>fast</source>
-      <translation type="unfinished">fast</translation>
+      <translation>szybki</translation>
     </message>
     <message>
       <location line="+38"/>
       <source>Send as zero-fee transaction if possible</source>
-      <translation type="unfinished">Send as zero-fee transaction if possible</translation>
+      <translation>Wy&#x15B;lij transakcj&#x119; bez uiszczania op&#x142;at je&#x15B;li jest to mo&#x17C;liwe.</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>(confirmation may take longer)</source>
-      <translation type="unfinished">(confirmation may take longer)</translation>
+      <translation>(potwierdzenie mo&#x17C;e zaj&#x105;&#x107; troch&#x119; wi&#x119;cej czasu)</translation>
     </message>
     <message>
       <location line="+67"/>
       <source>Confirm the send action</source>
-      <translation type="unfinished">Confirm the send action</translation>
+      <translation>Potwierd&#x17A; akcj&#x119; wysy&#x142;ania</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>S&amp;end</source>
-      <translation type="unfinished">S&amp;end</translation>
+      <translation>Wy&amp;sy&#x142;ka</translation>
     </message>
     <message>
       <location line="+19"/>
       <source>Clear all fields of the form.</source>
-      <translation type="unfinished">Clear all fields of the form.</translation>
+      <translation>Wyczy&#x15B;&#x107; pola formularza</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Clear &amp;All</source>
-      <translation type="unfinished">Clear &amp;All</translation>
+      <translation>Wyczy&#x15B;&#x107; &amp;wszystko</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>Send to multiple recipients at once</source>
-      <translation type="unfinished">Send to multiple recipients at once</translation>
+      <translation>Wy&#x15B;lij do wielu odbiorc&#xF3;w na raz</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Add &amp;Recipient</source>
-      <translation type="unfinished">Add &amp;Recipient</translation>
+      <translation>Dodaj Odbio&amp;rce</translation>
     </message>
     <message>
       <location line="+60"/>
       <source>Balance:</source>
-      <translation type="unfinished">Balance:</translation>
+      <translation>Saldo:</translation>
     </message>
     <message>
       <location filename="../sendcoinsdialog.cpp" line="-565"/>
       <source>Copy quantity</source>
-      <translation type="unfinished">Copy quantity</translation>
+      <translation>Skopiuj ilo&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy amount</source>
-      <translation type="unfinished">Copy amount</translation>
+      <translation>Kopiuj kwot&#x119;</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy fee</source>
-      <translation type="unfinished">Copy fee</translation>
+      <translation>Skopiuj op&#x142;at&#x119;</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy after fee</source>
-      <translation type="unfinished">Copy after fee</translation>
+      <translation>Skopiuj ilo&#x15B;&#x107; po op&#x142;acie</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy bytes</source>
-      <translation type="unfinished">Copy bytes</translation>
+      <translation>Skopiuj ilo&#x15B;&#x107; bajt&#xF3;w</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy priority</source>
-      <translation type="unfinished">Copy priority</translation>
+      <translation>Skopiuj priorytet</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy dust</source>
-      <translation type="unfinished">Copy dust</translation>
+      <translation>Kopiuj py&#x142; (kwota poni&#x17C;ej 5460 duff&#xF3;w)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy change</source>
-      <translation type="unfinished">Copy change</translation>
+      <translation>Skopiuj reszt&#x119;</translation>
     </message>
     <message>
       <location line="+155"/>
       <location line="+6"/>
       <location line="+9"/>
       <source>using</source>
-      <translation type="unfinished">using</translation>
+      <translation>u&#x17C;ywaj&#x105;c</translation>
     </message>
     <message>
       <location line="-15"/>
       <location line="+6"/>
       <source>anonymous funds</source>
-      <translation type="unfinished">anonymous funds</translation>
+      <translation>anonimowe &#x15B;rodki</translation>
     </message>
     <message>
       <location line="+4"/>
@@ -3653,42 +3653,42 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+5"/>
       <location line="+4"/>
       <source>%1 to %2</source>
-      <translation type="unfinished">%1 to %2</translation>
+      <translation>%1 do %2</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Are you sure you want to send?</source>
-      <translation type="unfinished">Are you sure you want to send?</translation>
+      <translation>Czy na pewno chcesz wys&#x142;a&#x107;?</translation>
     </message>
     <message>
       <location line="+9"/>
       <source>are added as transaction fee</source>
-      <translation type="unfinished">are added as transaction fee</translation>
+      <translation>dodane s&#x105; jako op&#x142;ata za transakcje</translation>
     </message>
     <message>
       <location line="+19"/>
       <source>Total Amount = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</source>
-      <translation type="unfinished">Total Amount = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</translation>
+      <translation>Ca&#x142;kowita ilo&#x15B;&#x107; = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</translation>
     </message>
     <message>
       <location line="+20"/>
       <source>Confirm send coins</source>
-      <translation type="unfinished">Confirm send coins</translation>
+      <translation>Potwierd&#x17A; wysy&#x142;anie monet</translation>
     </message>
     <message numerus="yes">
       <location line="+354"/>
       <source>Estimated to begin confirmation within %n block(s).</source>
       <translation type="unfinished">
-        <numerusform>Estimated to begin confirmation within %n block(s).</numerusform>
-        <numerusform>Estimated to begin confirmation within %n block(s).</numerusform>
-        <numerusform>Estimated to begin confirmation within %n block(s).</numerusform>
+        <numerusform>Potwierdzenia zaczn&#x105; si&#x119; oko&#x142;o po %n bloku.</numerusform>
+        <numerusform>Potwierdzenia zaczn&#x105; si&#x119;  za oko&#x142;o %n blok&#xF3;w</numerusform>
+        <numerusform>Potwierdzenia zaczn&#x105; si&#x119; za oko&#x142;o %n blok&#xF3;w</numerusform>
         <numerusform>Estimated to begin confirmation within %n block(s).</numerusform>
       </translation>
     </message>
     <message>
       <location line="-357"/>
       <source>&lt;b&gt;(%1 of %2 entries displayed)&lt;/b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;(%1 of %2 entries displayed)&lt;/b&gt;</translation>
+      <translation>&lt;b&gt;(%1 z %2 wy&#x15B;wietlonych wpis&#xF3;w)&lt;/b&gt;</translation>
     </message>
     <message>
       <location line="+215"/>
@@ -3698,42 +3698,42 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+3"/>
       <source>The amount to pay must be larger than 0.</source>
-      <translation type="unfinished">The amount to pay must be larger than 0.</translation>
+      <translation>Kwota do zap&#x142;acenia musi by&#x107; wi&#x119;ksza od 0.</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>The amount exceeds your balance.</source>
-      <translation type="unfinished">The amount exceeds your balance.</translation>
+      <translation>Kwota przekracza twoje saldo.</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-      <translation type="unfinished">The total exceeds your balance when the %1 transaction fee is included.</translation>
+      <translation>Suma przekracza twoje saldo, gdy doliczymy %1 prowizji transakcyjnej.</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Transaction creation failed!</source>
-      <translation type="unfinished">Transaction creation failed!</translation>
+      <translation>Utworzenie transakcji nie powiod&#x142;o si&#x119;!</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-      <translation type="unfinished">The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</translation>
+      <translation>Transakcja zosta&#x142;a odrzucona! Mo&#x17C;e si&#x119; to zdarzy&#x107; je&#x15B;li cz&#x119;&#x15B;&#x107; monet z portfela zosta&#x142;a ju&#x17C; wydana u&#x17C;ywaj&#x105;c kopii pliku wallet.dat i nie zosta&#x142;o to tutaj uwzgl&#x119;dnione.</translation>
     </message>
     <message>
       <location line="+229"/>
       <source>Warning: Invalid Proton address</source>
-      <translation type="unfinished">Warning: Invalid Proton address</translation>
+      <translation>Ostrze&#x17C;enie: adres Proton jest nieprawidlowy </translation>
     </message>
     <message>
       <location line="+8"/>
       <source>Warning: Unknown change address</source>
-      <translation type="unfinished">Warning: Unknown change address</translation>
+      <translation>Ostrze&#x17C;enie: Nieznany adres</translation>
     </message>
     <message>
       <location line="+11"/>
       <source>(no label)</source>
-      <translation type="unfinished">(no label)</translation>
+      <translation>(brak etykiety)</translation>
     </message>
   </context>
   <context>
@@ -3741,22 +3741,22 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../forms/sendcoinsentry.ui" line="+21"/>
       <source>This is a normal payment.</source>
-      <translation type="unfinished">This is a normal payment.</translation>
+      <translation>To jest standardowa p&#x142;atno&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+21"/>
       <source>Pay &amp;To:</source>
-      <translation type="unfinished">Pay &amp;To:</translation>
+      <translation>Zap&#x142;a&#x107; &amp;dla:</translation>
     </message>
     <message>
       <location line="+18"/>
       <source>The Proton address to send the payment to</source>
-      <translation type="unfinished">The Proton address to send the payment to</translation>
+      <translation>Adres Proton na kt&#xF3;ry wys&#x142;a&#x107; fundusze</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Choose previously used address</source>
-      <translation type="unfinished">Choose previously used address</translation>
+      <translation>Wybierz wcze&#x15B;niej u&#x17C;yty adres </translation>
     </message>
     <message>
       <location line="+12"/>
@@ -3766,7 +3766,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+7"/>
       <source>Paste address from clipboard</source>
-      <translation type="unfinished">Paste address from clipboard</translation>
+      <translation>Wklej adres ze schowka</translation>
     </message>
     <message>
       <location line="+12"/>
@@ -3778,24 +3778,24 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+544"/>
       <location line="+529"/>
       <source>Remove this entry</source>
-      <translation type="unfinished">Remove this entry</translation>
+      <translation>Usu&#x144; ten wpis</translation>
     </message>
     <message>
       <location line="-1055"/>
       <source>&amp;Label:</source>
-      <translation type="unfinished">&amp;Label:</translation>
+      <translation>&amp;Etykieta:</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>Enter a label for this address to add it to the list of used addresses</source>
-      <translation type="unfinished">Enter a label for this address to add it to the list of used addresses</translation>
+      <translation>Wprowad&#x17A; etykiet&#x119; dla tego adresu by doda&#x107; go do listy u&#x17C;ytych adres&#xF3;w</translation>
     </message>
     <message>
       <location line="+7"/>
       <location line="+535"/>
       <location line="+529"/>
       <source>A&amp;mount:</source>
-      <translation type="unfinished">A&amp;mount:</translation>
+      <translation>Su&amp;ma:</translation>
     </message>
     <message>
       <location line="-1046"/>
@@ -3810,12 +3810,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+9"/>
       <source>Message:</source>
-      <translation type="unfinished">Message:</translation>
+      <translation>Wiadomo&#x15B;&#x107;:</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Proton network.</source>
-      <translation type="unfinished">A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Proton network.</translation>
+      <translation>Wiadomo&#x15B;&#x107;, kt&#xF3;ra zosta&#x142;a do&#x142;&#x105;czona do stone: Link, kt&#xF3;ry zostanie zapisany wraz z transakcj&#x105; do wgl&#x105;du w przysz&#x142;o&#x15B;ci. Zauwa&#x17C;. &#x17C;e sama wiadomo&#x15B;&#x107; nie zostanie wys&#x142;ana przez sie&#x107; Darkcoina.</translation>
     </message>
     <message>
       <location line="+433"/>
@@ -3831,18 +3831,18 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="-510"/>
       <location line="+525"/>
       <source>Pay To:</source>
-      <translation type="unfinished">Pay To:</translation>
+      <translation>Wp&#x142;a&#x107; do:</translation>
     </message>
     <message>
       <location line="-495"/>
       <location line="+529"/>
       <source>Memo:</source>
-      <translation type="unfinished">Memo:</translation>
+      <translation>Notatka:</translation>
     </message>
     <message>
       <location filename="../sendcoinsentry.cpp" line="+32"/>
       <source>Enter a label for this address to add it to your address book</source>
-      <translation type="unfinished">Enter a label for this address to add it to your address book</translation>
+      <translation>Wprowad&#x17A; etykiet&#x119; dla tego adresu by doda&#x107; go do ksi&#x105;&#x17C;ki adresowej</translation>
     </message>
   </context>
   <context>
@@ -3850,12 +3850,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../utilitydialog.cpp" line="+119"/>
       <source>Stone Core is shutting down...</source>
-      <translation type="unfinished">Stone Core is shutting down...</translation>
+      <translation>Trwa zamykanie Stone Core</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Do not shut down the computer until this window disappears.</source>
-      <translation type="unfinished">Do not shut down the computer until this window disappears.</translation>
+      <translation>Nie wy&#x142;&#x105;czaj komputera dop&#xF3;ki to okno nie zniknie.</translation>
     </message>
   </context>
   <context>
@@ -3863,12 +3863,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../forms/signverifymessagedialog.ui" line="+14"/>
       <source>Signatures - Sign / Verify a Message</source>
-      <translation type="unfinished">Signatures - Sign / Verify a Message</translation>
+      <translation>Podpisy - Podpisz / zweryfikuj wiadomo&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>&amp;Sign Message</source>
-      <translation type="unfinished">&amp;Sign Message</translation>
+      <translation>Podpi&amp;sz Wiadomo&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -3878,13 +3878,13 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+18"/>
       <source>The Proton address to sign the message with</source>
-      <translation type="unfinished">The Proton address to sign the message with</translation>
+      <translation>Adres Proton do podpisu wiadomo&#x15B;ci</translation>
     </message>
     <message>
       <location line="+7"/>
       <location line="+190"/>
       <source>Choose previously used address</source>
-      <translation type="unfinished">Choose previously used address</translation>
+      <translation>Wybierz wcze&#x15B;niej u&#x17C;yty adres </translation>
     </message>
     <message>
       <location line="-184"/>
@@ -3895,7 +3895,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-180"/>
       <source>Paste address from clipboard</source>
-      <translation type="unfinished">Paste address from clipboard</translation>
+      <translation>Wklej adres ze schowka</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -3905,43 +3905,43 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+12"/>
       <source>Enter the message you want to sign here</source>
-      <translation type="unfinished">Enter the message you want to sign here</translation>
+      <translation>Wprowad&#x17A; wiadomo&#x15B;&#x107;, kt&#xF3;r&#x105; chcesz podpisa&#x107;, tutaj</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Signature</source>
-      <translation type="unfinished">Signature</translation>
+      <translation>Podpis</translation>
     </message>
     <message>
       <location line="+27"/>
       <source>Copy the current signature to the system clipboard</source>
-      <translation type="unfinished">Copy the current signature to the system clipboard</translation>
+      <translation>Kopiuje aktualny podpis do schowka systemowego</translation>
     </message>
     <message>
       <location line="+17"/>
       <source>Sign the message to prove you own this Proton address</source>
-      <translation type="unfinished">Sign the message to prove you own this Proton address</translation>
+      <translation>Podpisz wiadomo&#x15B;&#x107; aby udowodni&#x107;, &#x17C;e jeste&#x15B; w&#x142;a&#x15B;cicielem adresu Proton.</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Sign &amp;Message</source>
-      <translation type="unfinished">Sign &amp;Message</translation>
+      <translation>Podpisz Wiado&amp;mo&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>Reset all sign message fields</source>
-      <translation type="unfinished">Reset all sign message fields</translation>
+      <translation>Zresetuj wszystkie pola podpisanej wiadomo&#x15B;ci</translation>
     </message>
     <message>
       <location line="+3"/>
       <location line="+131"/>
       <source>Clear &amp;All</source>
-      <translation type="unfinished">Clear &amp;All</translation>
+      <translation>Wyczy&#x15B;&#x107; &amp;wszystko</translation>
     </message>
     <message>
       <location line="-76"/>
       <source>&amp;Verify Message</source>
-      <translation type="unfinished">&amp;Verify Message</translation>
+      <translation>&amp;Zweryfikuj wiadomo&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -3951,22 +3951,22 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+21"/>
       <source>The Proton address the message was signed with</source>
-      <translation type="unfinished">The Proton address the message was signed with</translation>
+      <translation>Adres Proton kt&#xF3;rym wiadomo&#x15B;&#x107; zosta&#x142;a podpisana</translation>
     </message>
     <message>
       <location line="+33"/>
       <source>Verify the message to ensure it was signed with the specified Proton address</source>
-      <translation type="unfinished">Verify the message to ensure it was signed with the specified Proton address</translation>
+      <translation>Zweryfikuj wiadomo&#x15B;&#x107; aby upewni&#x107; si&#x119;, &#x17C;e zosta&#x142;a zapisana przez konkretny adres Proton</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Verify &amp;Message</source>
-      <translation type="unfinished">Verify &amp;Message</translation>
+      <translation>Zweryfikuj Wiado&amp;mo&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>Reset all verify message fields</source>
-      <translation type="unfinished">Reset all verify message fields</translation>
+      <translation>Resetuje wszystkie pola weryfikacji wiadomo&#x15B;ci</translation>
     </message>
     <message>
       <location filename="../signverifymessagedialog.cpp" line="+33"/>
@@ -3977,7 +3977,7 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+104"/>
       <location line="+80"/>
       <source>The entered address is invalid.</source>
-      <translation type="unfinished">The entered address is invalid.</translation>
+      <translation>Podany adres jest nieprawid&#x142;owy.</translation>
     </message>
     <message>
       <location line="-80"/>
@@ -3985,59 +3985,59 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+72"/>
       <location line="+8"/>
       <source>Please check the address and try again.</source>
-      <translation type="unfinished">Please check the address and try again.</translation>
+      <translation>Prosz&#x119; sprawdzi&#x107; adres i spr&#xF3;bowa&#x107; ponownie.</translation>
     </message>
     <message>
       <location line="-80"/>
       <location line="+80"/>
       <source>The entered address does not refer to a key.</source>
-      <translation type="unfinished">The entered address does not refer to a key.</translation>
+      <translation>Wprowadzony adres nie odnosi si&#x119; do klucza.</translation>
     </message>
     <message>
       <location line="-72"/>
       <source>Wallet unlock was cancelled.</source>
-      <translation type="unfinished">Wallet unlock was cancelled.</translation>
+      <translation>Odblokowanie portfela zosta&#x142;o anulowane.</translation>
     </message>
     <message>
       <location line="+8"/>
       <source>Private key for the entered address is not available.</source>
-      <translation type="unfinished">Private key for the entered address is not available.</translation>
+      <translation>Klucz prywatny dla podanego adresu nie jest dost&#x119;pny</translation>
     </message>
     <message>
       <location line="+12"/>
       <source>Message signing failed.</source>
-      <translation type="unfinished">Message signing failed.</translation>
+      <translation>Podpisanie wiadomo&#x15B;ci nie powiod&#x142;o si&#x119;</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>Message signed.</source>
-      <translation type="unfinished">Message signed.</translation>
+      <translation>Wiadomo&#x15B;&#x107; podpisana.</translation>
     </message>
     <message>
       <location line="+58"/>
       <source>The signature could not be decoded.</source>
-      <translation type="unfinished">The signature could not be decoded.</translation>
+      <translation>Podpis nie mo&#x17C;e zosta&#x107; zdekodowany.</translation>
     </message>
     <message>
       <location line="+0"/>
       <location line="+13"/>
       <source>Please check the signature and try again.</source>
-      <translation type="unfinished">Please check the signature and try again.</translation>
+      <translation>Sprawd&#x17A; podpis i spr&#xF3;buj ponownie.</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>The signature did not match the message digest.</source>
-      <translation type="unfinished">The signature did not match the message digest.</translation>
+      <translation>Podpis nie odpowiada&#x142; streszczeniu wiadomo&#x15B;ci</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Message verification failed.</source>
-      <translation type="unfinished">Message verification failed.</translation>
+      <translation>Weryfikacja wiadomo&#x15B;ci nie powiod&#x142;a si&#x119;.</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>Message verified.</source>
-      <translation type="unfinished">Message verified.</translation>
+      <translation>Wiadomo&#x15B;&#x107; zweryfikowana.</translation>
     </message>
   </context>
   <context>
@@ -4050,17 +4050,17 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Version %1</source>
-      <translation type="unfinished">Version %1</translation>
+      <translation>Wersja %1</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>The Bitcoin Core developers</source>
-      <translation type="unfinished">The Bitcoin Core developers</translation>
+      <translation>Deweloperzy Bitcoin Core</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>The Stone Core developers</source>
-      <translation type="unfinished">The Stone Core developers</translation>
+      <translation>Deweloperzy Stone Core</translation>
     </message>
     <message>
       <location filename="../networkstyle.cpp" line="+21"/>
@@ -4082,21 +4082,21 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location filename="../transactiondesc.cpp" line="+33"/>
       <source>Open for %n more block(s)</source>
       <translation type="unfinished">
-        <numerusform>Open for %n more block(s)</numerusform>
-        <numerusform>Open for %n more block(s)</numerusform>
-        <numerusform>Open for %n more block(s)</numerusform>
+        <numerusform>Otw&#xF3;rz na %n blok</numerusform>
+        <numerusform>Otw&#xF3;rz na %n wi&#x119;cej blok&#xF3;w</numerusform>
+        <numerusform>Otw&#xF3;rz na %n wi&#x119;cej blok&#xF3;w</numerusform>
         <numerusform>Open for %n more block(s)</numerusform>
       </translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Open until %1</source>
-      <translation type="unfinished">Open until %1</translation>
+      <translation>Otw&#xF3;rz do %1</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>conflicted</source>
-      <translation type="unfinished">conflicted</translation>
+      <translation>konflikt</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -4106,12 +4106,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+2"/>
       <source>%1/unconfirmed</source>
-      <translation type="unfinished">%1/unconfirmed</translation>
+      <translation>%1/niezatwierdzone</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>%1 confirmations</source>
-      <translation type="unfinished">%1 confirmations</translation>
+      <translation>%1 potwierdze&#x144;</translation>
     </message>
     <message>
       <location line="+10"/>
@@ -4136,67 +4136,67 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+5"/>
       <source>, has not been successfully broadcast yet</source>
-      <translation type="unfinished">, has not been successfully broadcast yet</translation>
+      <translation>, nie zosta&#x142; jeszcze pomy&#x15B;lnie wyemitowany</translation>
     </message>
     <message numerus="yes">
       <location line="+2"/>
       <source>, broadcast through %n node(s)</source>
       <translation type="unfinished">
-        <numerusform>, broadcast through %n node(s)</numerusform>
-        <numerusform>, broadcast through %n node(s)</numerusform>
-        <numerusform>, broadcast through %n node(s)</numerusform>
+        <numerusform>Nadaj przez %n w&#x119;ze&#x142;.</numerusform>
+        <numerusform>Nadaj przez %n w&#x119;z&#x142;&#xF3;w.</numerusform>
+        <numerusform>Nadaj przez %n w&#x119;z&#x142;&#xF3;w.</numerusform>
         <numerusform>, broadcast through %n node(s)</numerusform>
       </translation>
     </message>
     <message>
       <location line="+4"/>
       <source>Date</source>
-      <translation type="unfinished">Date</translation>
+      <translation>Data</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Source</source>
-      <translation type="unfinished">Source</translation>
+      <translation>&#x179;r&#xF3;d&#x142;o</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>Generated</source>
-      <translation type="unfinished">Generated</translation>
+      <translation>Wygenerowano</translation>
     </message>
     <message>
       <location line="+5"/>
       <location line="+13"/>
       <location line="+72"/>
       <source>From</source>
-      <translation type="unfinished">From</translation>
+      <translation>Od</translation>
     </message>
     <message>
       <location line="-72"/>
       <source>unknown</source>
-      <translation type="unfinished">unknown</translation>
+      <translation>nieznany</translation>
     </message>
     <message>
       <location line="+1"/>
       <location line="+20"/>
       <location line="+69"/>
       <source>To</source>
-      <translation type="unfinished">To</translation>
+      <translation>Do</translation>
     </message>
     <message>
       <location line="-87"/>
       <source>own address</source>
-      <translation type="unfinished">own address</translation>
+      <translation>w&#x142;asny adres</translation>
     </message>
     <message>
       <location line="+0"/>
       <location line="+69"/>
       <source>watch-only</source>
-      <translation type="unfinished">watch-only</translation>
+      <translation>Tylko do podgl&#x105;du</translation>
     </message>
     <message>
       <location line="-67"/>
       <source>label</source>
-      <translation type="unfinished">label</translation>
+      <translation>etykieta</translation>
     </message>
     <message>
       <location line="+34"/>
@@ -4205,70 +4205,70 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+26"/>
       <location line="+53"/>
       <source>Credit</source>
-      <translation type="unfinished">Credit</translation>
+      <translation>Przypisy</translation>
     </message>
     <message numerus="yes">
       <location line="-142"/>
       <source>matures in %n more block(s)</source>
       <translation type="unfinished">
-        <numerusform>matures in %n more block(s)</numerusform>
-        <numerusform>matures in %n more block(s)</numerusform>
-        <numerusform>matures in %n more block(s)</numerusform>
+        <numerusform>Dojrzewa w %n blok</numerusform>
+        <numerusform>Dojrzewa w %n blok&#xF3;w</numerusform>
+        <numerusform>Dojrzewa w %n blok&#xF3;w</numerusform>
         <numerusform>matures in %n more block(s)</numerusform>
       </translation>
     </message>
     <message>
       <location line="+2"/>
       <source>not accepted</source>
-      <translation type="unfinished">not accepted</translation>
+      <translation>niezaakceptowane</translation>
     </message>
     <message>
       <location line="+59"/>
       <location line="+25"/>
       <location line="+53"/>
       <source>Debit</source>
-      <translation type="unfinished">Debit</translation>
+      <translation>Debet</translation>
     </message>
     <message>
       <location line="-68"/>
       <source>Total debit</source>
-      <translation type="unfinished">Total debit</translation>
+      <translation>Ca&#x142;kowity debet</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Total credit</source>
-      <translation type="unfinished">Total credit</translation>
+      <translation>Ca&#x142;kowity kredyt</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>Transaction fee</source>
-      <translation type="unfinished">Transaction fee</translation>
+      <translation>Prowizja transakcji</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>Net amount</source>
-      <translation type="unfinished">Net amount</translation>
+      <translation>Kwota netto</translation>
     </message>
     <message>
       <location line="+6"/>
       <location line="+9"/>
       <source>Message</source>
-      <translation type="unfinished">Message</translation>
+      <translation>Wiadomo&#x15B;&#x107;</translation>
     </message>
     <message>
       <location line="-7"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Komentarz</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Transaction ID</source>
-      <translation type="unfinished">Transaction ID</translation>
+      <translation>ID transakcji</translation>
     </message>
     <message>
       <location line="+18"/>
       <source>Merchant</source>
-      <translation type="unfinished">Merchant</translation>
+      <translation>Kupiec</translation>
     </message>
     <message>
       <location line="+7"/>
@@ -4278,34 +4278,34 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+8"/>
       <source>Debug information</source>
-      <translation type="unfinished">Debug information</translation>
+      <translation>Informacje debugowania</translation>
     </message>
     <message>
       <location line="+8"/>
       <source>Transaction</source>
-      <translation type="unfinished">Transaction</translation>
+      <translation>Transakcja</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Inputs</source>
-      <translation type="unfinished">Inputs</translation>
+      <translation>Wej&#x15B;cia</translation>
     </message>
     <message>
       <location line="+21"/>
       <source>Amount</source>
-      <translation type="unfinished">Amount</translation>
+      <translation>Kwota</translation>
     </message>
     <message>
       <location line="+1"/>
       <location line="+1"/>
       <source>true</source>
-      <translation type="unfinished">true</translation>
+      <translation>prawda</translation>
     </message>
     <message>
       <location line="-1"/>
       <location line="+1"/>
       <source>false</source>
-      <translation type="unfinished">false</translation>
+      <translation>fa&#x142;sz</translation>
     </message>
   </context>
   <context>
@@ -4313,12 +4313,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../forms/transactiondescdialog.ui" line="+14"/>
       <source>Transaction details</source>
-      <translation type="unfinished">Transaction details</translation>
+      <translation>Szczeg&#xF3;&#x142;y transakcji</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>This pane shows a detailed description of the transaction</source>
-      <translation type="unfinished">This pane shows a detailed description of the transaction</translation>
+      <translation>Ten panel pokazuje szczeg&#xF3;&#x142;owy opis transakcji</translation>
     </message>
   </context>
   <context>
@@ -4326,12 +4326,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../transactiontablemodel.cpp" line="+246"/>
       <source>Date</source>
-      <translation type="unfinished">Date</translation>
+      <translation>Data</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Typ</translation>
     </message>
     <message>
       <location line="+0"/>
@@ -4342,16 +4342,16 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+58"/>
       <source>Open for %n more block(s)</source>
       <translation type="unfinished">
-        <numerusform>Open for %n more block(s)</numerusform>
-        <numerusform>Open for %n more block(s)</numerusform>
-        <numerusform>Open for %n more block(s)</numerusform>
+        <numerusform>Otw&#xF3;rz na %n blok</numerusform>
+        <numerusform>Otw&#xF3;rz na %n wi&#x119;cej blok&#xF3;w</numerusform>
+        <numerusform>Otw&#xF3;rz na %n wi&#x119;cej blok&#xF3;w</numerusform>
         <numerusform>Open for %n more block(s)</numerusform>
       </translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Open until %1</source>
-      <translation type="unfinished">Open until %1</translation>
+      <translation>Otw&#xF3;rz do %1</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -4361,47 +4361,47 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+3"/>
       <source>Unconfirmed</source>
-      <translation type="unfinished">Unconfirmed</translation>
+      <translation>Niepotwierdzone:</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Confirming (%1 of %2 recommended confirmations)</source>
-      <translation type="unfinished">Confirming (%1 of %2 recommended confirmations)</translation>
+      <translation>Potwierdzanie (%1 z %2 rekomendowanych potwierdze&#x144;)</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Confirmed (%1 confirmations)</source>
-      <translation type="unfinished">Confirmed (%1 confirmations)</translation>
+      <translation>Zatwierdzony (%1 potwierdze&#x144;)</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Conflicted</source>
-      <translation type="unfinished">Conflicted</translation>
+      <translation>Konflikt</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Immature (%1 confirmations, will be available after %2)</source>
-      <translation type="unfinished">Immature (%1 confirmations, will be available after %2)</translation>
+      <translation>Niedojrza&#x142;y (%1 potwierdzenia, b&#x119;dzie dost&#x119;pny po %2)</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>This block was not received by any other nodes and will probably not be accepted!</source>
-      <translation type="unfinished">This block was not received by any other nodes and will probably not be accepted!</translation>
+      <translation>Ten blok nie zosta&#x142; odebrany przez jakikolwiek inny w&#x119;ze&#x142; i prawdopodobnie nie zostanie zaakceptowany!</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Generated but not accepted</source>
-      <translation type="unfinished">Generated but not accepted</translation>
+      <translation>Wygenerowano ale nie zaakceptowano</translation>
     </message>
     <message>
       <location line="+39"/>
       <source>Received with</source>
-      <translation type="unfinished">Received with</translation>
+      <translation>Otrzymane przez</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Received from</source>
-      <translation type="unfinished">Received from</translation>
+      <translation>Odebrano od</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -4441,52 +4441,52 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-295"/>
       <source>Sent to</source>
-      <translation type="unfinished">Sent to</translation>
+      <translation>Wys&#x142;ano do</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Payment to yourself</source>
-      <translation type="unfinished">Payment to yourself</translation>
+      <translation>P&#x142;atno&#x15B;&#x107; do siebie</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Mined</source>
-      <translation type="unfinished">Mined</translation>
+      <translation>Wydobyto</translation>
     </message>
     <message>
       <location line="+42"/>
       <source>watch-only</source>
-      <translation type="unfinished">watch-only</translation>
+      <translation>Tylko do podgl&#x105;du</translation>
     </message>
     <message>
       <location line="+17"/>
       <source>(n/a)</source>
-      <translation type="unfinished">(n/a)</translation>
+      <translation>(brak)</translation>
     </message>
     <message>
       <location line="+224"/>
       <source>Transaction status. Hover over this field to show number of confirmations.</source>
-      <translation type="unfinished">Transaction status. Hover over this field to show number of confirmations.</translation>
+      <translation>Status transakcji. Najed&#x17A; na pole, aby zobaczy&#x107; liczb&#x119; potwierdze&#x144;.</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Date and time that the transaction was received.</source>
-      <translation type="unfinished">Date and time that the transaction was received.</translation>
+      <translation>Data i czas odebrania transakcji.</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Type of transaction.</source>
-      <translation type="unfinished">Type of transaction.</translation>
+      <translation>Rodzaj transakcji.</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Whether or not a watch-only address is involved in this transaction.</source>
-      <translation type="unfinished">Whether or not a watch-only address is involved in this transaction.</translation>
+      <translation>Bez wzgl&#x119;du na to czy adres tylko do odczytu jest zawarty w tej transakcji.</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>Amount removed from or added to balance.</source>
-      <translation type="unfinished">Amount removed from or added to balance.</translation>
+      <translation>Kwota usuni&#x119;ta z lub dodana do konta.</translation>
     </message>
   </context>
   <context>
@@ -4495,52 +4495,52 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location filename="../transactionview.cpp" line="+73"/>
       <location line="+17"/>
       <source>All</source>
-      <translation type="unfinished">All</translation>
+      <translation>Wszystko</translation>
     </message>
     <message>
       <location line="-16"/>
       <source>Today</source>
-      <translation type="unfinished">Today</translation>
+      <translation>Dzisiaj</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>This week</source>
-      <translation type="unfinished">This week</translation>
+      <translation>W tym tygodniu</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>This month</source>
-      <translation type="unfinished">This month</translation>
+      <translation>W tym miesi&#x105;cu</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Last month</source>
-      <translation type="unfinished">Last month</translation>
+      <translation>W zesz&#x142;ym miesi&#x105;cu</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>This year</source>
-      <translation type="unfinished">This year</translation>
+      <translation>W tym roku</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Range...</source>
-      <translation type="unfinished">Range...</translation>
+      <translation>Zakres...</translation>
     </message>
     <message>
       <location line="+12"/>
       <source>Most Common</source>
-      <translation type="unfinished">Most Common</translation>
+      <translation>Najbardziej powszechne</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Received with</source>
-      <translation type="unfinished">Received with</translation>
+      <translation>Otrzymane przez</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Sent to</source>
-      <translation type="unfinished">Sent to</translation>
+      <translation>Wys&#x142;ano do</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -4570,47 +4570,47 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>To yourself</source>
-      <translation type="unfinished">To yourself</translation>
+      <translation>Do siebie</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Mined</source>
-      <translation type="unfinished">Mined</translation>
+      <translation>Wydobyto</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Other</source>
-      <translation type="unfinished">Other</translation>
+      <translation>Inne</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Enter address or label to search</source>
-      <translation type="unfinished">Enter address or label to search</translation>
+      <translation>Wprowad&#x17A; adres albo etykiet&#x119; &#x17C;eby wyszuka&#x107;</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Min amount</source>
-      <translation type="unfinished">Min amount</translation>
+      <translation>Min suma</translation>
     </message>
     <message>
       <location line="+37"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>Kopiuj adres</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy label</source>
-      <translation type="unfinished">Copy label</translation>
+      <translation>Kopiuj etykiet&#x119;</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy amount</source>
-      <translation type="unfinished">Copy amount</translation>
+      <translation>Kopiuj kwot&#x119;</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copy transaction ID</source>
-      <translation type="unfinished">Copy transaction ID</translation>
+      <translation>Skopiuj ID transakcji</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -4620,52 +4620,52 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Edit label</source>
-      <translation type="unfinished">Edit label</translation>
+      <translation>Zmie&#x144; etykiet&#x119;</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Show transaction details</source>
-      <translation type="unfinished">Show transaction details</translation>
+      <translation>Poka&#x17C; szczeg&#xF3;&#x142;y transakcji</translation>
     </message>
     <message>
       <location line="+206"/>
       <source>Export Transaction History</source>
-      <translation type="unfinished">Export Transaction History</translation>
+      <translation>Eksport historii transakcji</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Comma separated file (*.csv)</source>
-      <translation type="unfinished">Comma separated file (*.csv)</translation>
+      <translation>Plik porozdzielany przecinkami (*.csv)</translation>
     </message>
     <message>
       <location line="+9"/>
       <source>Confirmed</source>
-      <translation type="unfinished">Confirmed</translation>
+      <translation>Potwierdzony</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Watch-only</source>
-      <translation type="unfinished">Watch-only</translation>
+      <translation>Tylko do odczytu</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Date</source>
-      <translation type="unfinished">Date</translation>
+      <translation>Data</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Typ</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Label</source>
-      <translation type="unfinished">Label</translation>
+      <translation>Etykieta</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Adres</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -4675,32 +4675,32 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+3"/>
       <source>Exporting Failed</source>
-      <translation type="unfinished">Exporting Failed</translation>
+      <translation>Pr&#xF3;ba eksportu nie powiod&#x142;a si&#x119;</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>There was an error trying to save the transaction history to %1.</source>
-      <translation type="unfinished">There was an error trying to save the transaction history to %1.</translation>
+      <translation>Wyst&#x105;pi&#x142; b&#x142;&#x105;d przy pr&#xF3;bie zapisu historii transakcji do %1.</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>Exporting Successful</source>
-      <translation type="unfinished">Exporting Successful</translation>
+      <translation>Eksport powi&#xF3;d&#x142; si&#x119;</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>The transaction history was successfully saved to %1.</source>
-      <translation type="unfinished">The transaction history was successfully saved to %1.</translation>
+      <translation>Historia transakcji zosta&#x142;a zapisana do %1.</translation>
     </message>
     <message>
       <location line="+136"/>
       <source>Range:</source>
-      <translation type="unfinished">Range:</translation>
+      <translation>Zakres:</translation>
     </message>
     <message>
       <location line="+9"/>
       <source>to</source>
-      <translation type="unfinished">to</translation>
+      <translation>do</translation>
     </message>
   </context>
   <context>
@@ -4708,7 +4708,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../bitcoingui.cpp" line="+115"/>
       <source>Unit to show amounts in. Click to select another unit.</source>
-      <translation type="unfinished">Unit to show amounts in. Click to select another unit.</translation>
+      <translation>Jednostki w kt&#xF3;rych wyra&#x17C;ane s&#x105; kwoty. Kliknij aby wybra&#x107; inn&#x105; jednostk&#x119;. </translation>
     </message>
   </context>
   <context>
@@ -4716,7 +4716,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../walletframe.cpp" line="+27"/>
       <source>No wallet has been loaded.</source>
-      <translation type="unfinished">No wallet has been loaded.</translation>
+      <translation>Nie za&#x142;adowano &#x17C;adnego portfela.</translation>
     </message>
   </context>
   <context>
@@ -4727,7 +4727,7 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+5"/>
       <location line="+11"/>
       <source>Send Coins</source>
-      <translation type="unfinished">Send Coins</translation>
+      <translation>Wy&#x15B;lij Monety</translation>
     </message>
     <message>
       <location line="-28"/>
@@ -4746,47 +4746,47 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../walletview.cpp" line="+49"/>
       <source>&amp;Export</source>
-      <translation type="unfinished">&amp;Export</translation>
+      <translation>&amp;Eksportuj</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Export the data in the current tab to a file</source>
-      <translation type="unfinished">Export the data in the current tab to a file</translation>
+      <translation>Eksportuj dane z aktywnej karty do pliku</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>Selected amount:</source>
-      <translation type="unfinished">Selected amount:</translation>
+      <translation>Zaznaczona ilo&#x15B;&#x107;:</translation>
     </message>
     <message>
       <location line="+224"/>
       <source>Backup Wallet</source>
-      <translation type="unfinished">Backup Wallet</translation>
+      <translation>Kopia Zapasowa Portfela</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Wallet Data (*.dat)</source>
-      <translation type="unfinished">Wallet Data (*.dat)</translation>
+      <translation>Dane Portfela (*.dat)</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Backup Failed</source>
-      <translation type="unfinished">Backup Failed</translation>
+      <translation>Nie uda&#x142;o si&#x119; wykona&#x107; kopii zapasowej</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>There was an error trying to save the wallet data to %1.</source>
-      <translation type="unfinished">There was an error trying to save the wallet data to %1.</translation>
+      <translation>Wyst&#x105;pi&#x142; b&#x142;&#x105;d przy pr&#xF3;bie zapisu pliku portfela do %1.</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>Backup Successful</source>
-      <translation type="unfinished">Backup Successful</translation>
+      <translation>Wykonano Kopi&#x119; Zapasow&#x105;</translation>
     </message>
     <message>
       <location line="+0"/>
       <source>The wallet data was successfully saved to %1.</source>
-      <translation type="unfinished">The wallet data was successfully saved to %1.</translation>
+      <translation>Plik portfela zosta&#x142; zapisany do %1.</translation>
     </message>
   </context>
   <context>
@@ -4794,112 +4794,112 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../stonestrings.cpp" line="+34"/>
       <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
-      <translation type="unfinished">Bind to given address and always listen on it. Use [host]:port notation for IPv6</translation>
+      <translation>Zwi&#x105;zany z danym adresem oraz zawsze prowadz&#x105;cy na nim nas&#x142;uch.  U&#x17C;yj [host]:oznaczenie dla IPv6</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>Cannot obtain a lock on data directory %s. Stone Core is probably already running.</source>
-      <translation type="unfinished">Cannot obtain a lock on data directory %s. Stone Core is probably already running.</translation>
+      <translation>Nie mo&#x17C;na zablokowa&#x107; katalogu danych %s. Prawdopodobnie Proton jest ju&#x17C; uruchomiony. </translation>
     </message>
     <message>
       <location line="+32"/>
       <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
-      <translation type="unfinished">Error: Listening for incoming connections failed (listen returned error %s)</translation>
+      <translation>B&#x142;&#x105;d: Nie powiod&#x142;o si&#x119; nas&#x142;uchiwanie po&#x142;&#x105;cze&#x144; przychodz&#x105;cych (nas&#x142;uch zwr&#xF3;ci&#x142; b&#x142;&#x105;d %s)</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
-      <translation type="unfinished">Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</translation>
+      <translation>Wykonaj komend&#x119; po otrzymaniu odpowiedniego zawiadomienia lub po obserwacji bardzo d&#x142;ugiego rozszczepienia (%s w konsoli jest zast&#x105;piony przez wiadomo&#x15B;&#x107;)</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-      <translation type="unfinished">Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</translation>
+      <translation>Wykonaj komend&#x119; kiedy zmienia si&#x119; transakcja portfela (%s w konsoli jest zast&#x105;pione przez TxID)</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-      <translation type="unfinished">Execute command when the best block changes (%s in cmd is replaced by block hash)</translation>
+      <translation>Wykonaj komend&#x119; przy zmianie najlepszego bloku (%s w konsoli jest zast&#x105;pione przez hasz bloku)</translation>
     </message>
     <message>
       <location line="+57"/>
       <source>Name to construct url for KeePass entry that stores the wallet passphrase</source>
-      <translation type="unfinished">Name to construct url for KeePass entry that stores the wallet passphrase</translation>
+      <translation>Nazwa s&#x142;u&#x17C;&#x105;ca do stworzenia linka do KeePass w kt&#xF3;rym trzymane jest has&#x142;o portfela</translation>
     </message>
     <message>
       <location line="+21"/>
       <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>
-      <translation type="unfinished">Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</translation>
+      <translation>Je&#x15B;li pula adres&#xF3;w jest niska, pytaj o adresy peer przez podgl&#x105;d DNS (domy&#x15B;lnie: 1 chyba &#x17C;e -connect)</translation>
     </message>
     <message>
       <location line="+14"/>
       <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>
-      <translation type="unfinished">Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</translation>
+      <translation>Ustaw maksymalny rozmiar transakcji o wysokim/niskim priorytecie w bajtach (domy&#x15B;lny: %d)</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>
-      <translation type="unfinished">Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</translation>
+      <translation>Ustaw liczb&#x119; w&#x105;tk&#xF3;w weryfikacji skryptu (%u do %d, 0 = auto, &lt;0 = zostaw tyle rdzeni wolnych, domy&#x15B;lnie: %d)</translation>
     </message>
     <message>
       <location line="+20"/>
       <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-      <translation type="unfinished">This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</translation>
+      <translation>Ta wersja nie jest jeszcze gotowa na oficjalne wydanie - u&#x17C;ywaj jej na w&#x142;asne ryzyko - nie u&#x17C;ywaj tej wersji do kopania monet lub do &#x15B;wiadczenia us&#x142;ug komercyjnych.</translation>
     </message>
     <message>
       <location line="+13"/>
       <source>Unable to bind to %s on this computer. Stone Core is probably already running.</source>
-      <translation type="unfinished">Unable to bind to %s on this computer. Stone Core is probably already running.</translation>
+      <translation>Niezdolny do zwi&#x105;zania z %s na tym komputerze. Prawdopodobnie Proton jest ju&#x17C; uruchomiony. </translation>
     </message>
     <message>
       <location line="+39"/>
       <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
-      <translation type="unfinished">Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</translation>
+      <translation>Uwaga: Wygl&#x105;da na to, &#x17C;e istniej&#x105; pewne rozbie&#x17C;no&#x15B;ci w sieci! Mo&#x17C;liwe, &#x17C;e niekt&#xF3;rzy kopacze do&#x15B;wiadczaj&#x105; problem&#xF3;w technicznych. </translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>
-      <translation type="unfinished">Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</translation>
+      <translation>dadf</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-      <translation type="unfinished">Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</translation>
+      <translation>Uwaga: plik wallet.dat jest uszkodzony, ale dane zosta&#x142;y odzyskane! Oryginalny plik wallet.dat zosta&#x142; zapisany jako wallet.{timestamp}.bak w %s; je&#x17C;eli twoje saldo lub transakcje s&#x105; nieprawid&#x142;owe powiniene&#x15B; przwyr&#xF3;ci&#x107; ten plik z kopi zapasowej.</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>You must specify a masternodeprivkey in the configuration. Please see documentation for help.</source>
-      <translation type="unfinished">You must specify a masternodeprivkey in the configuration. Please see documentation for help.</translation>
+      <translation>Musisz sprecyzowa&#x107; masternodeprivkey w konfiguracji. Prosz&#x119; przegl&#x105;dnij dokumentacje w celu pomocy.</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>Accept command line and JSON-RPC commands</source>
-      <translation type="unfinished">Accept command line and JSON-RPC commands</translation>
+      <translation>Zaakceptuj linie polece&#x144; oraz polecenia JSON-RPC </translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-      <translation type="unfinished">Accept connections from outside (default: 1 if no -proxy or -connect)</translation>
+      <translation>Pozw&#xF3;l na po&#x142;&#x105;czenia z zewn&#x105;trz (domy&#x15B;lnie: 1 je&#x15B;li nie -proxy lub -connect)</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Add a node to connect to and attempt to keep the connection open</source>
-      <translation type="unfinished">Add a node to connect to and attempt to keep the connection open</translation>
+      <translation>Dodaj w&#x119;ze&#x142; do po&#x142;&#x105;czenia si&#x119; oraz spr&#xF3;buj utrzyma&#x107; po&#x142;&#x105;czenie otwarte</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-      <translation type="unfinished">Allow DNS lookups for -addnode, -seednode and -connect</translation>
+      <translation>Pozw&#xF3;l na wyszukiwanie DNS dla -addnode, -seednode oraz -connect</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Already have that input.</source>
-      <translation type="unfinished">Already have that input.</translation>
+      <translation>Ta warto&#x15B;&#x107; wej&#x15B;ciowa ju&#x17C; istnieje</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Block creation options:</source>
-      <translation type="unfinished">Block creation options:</translation>
+      <translation>Opcje tworzenia bloku</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -4909,7 +4909,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+3"/>
       <source>Cannot downgrade wallet</source>
-      <translation type="unfinished">Cannot downgrade wallet</translation>
+      <translation>Nie mo&#x17C;na obni&#x17C;y&#x107; wersji portfela</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -4924,112 +4924,112 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+2"/>
       <source>Cannot write default address</source>
-      <translation type="unfinished">Cannot write default address</translation>
+      <translation>Nie mo&#x17C;na zapisa&#x107; domy&#x15B;lnych adres&#xF3;w</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Collateral not valid.</source>
-      <translation type="unfinished">Collateral not valid.</translation>
+      <translation>Transakcja pod zastaw jest nie niew&#x142;a&#x15B;ciwa.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Connect only to the specified node(s)</source>
-      <translation type="unfinished">Connect only to the specified node(s)</translation>
+      <translation>Pod&#x142;&#x105;cz tylko do wyszczeg&#xF3;lnionych w&#x119;z&#x142;a(&#xF3;w)</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-      <translation type="unfinished">Connect to a node to retrieve peer addresses, and disconnect</translation>
+      <translation>Pod&#x142;&#x105;cz do w&#x119;z&#x142;a aby odzyska&#x107; adresy peer&#xF3;w, a potem od&#x142;&#x105;cz</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Connection options:</source>
-      <translation type="unfinished">Connection options:</translation>
+      <translation>Opcje po&#x142;&#x105;czenia:</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Corrupted block database detected</source>
-      <translation type="unfinished">Corrupted block database detected</translation>
+      <translation>Wykryto uszkodzon&#x105; baz&#x119; danych blok&#xF3;w</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Debugging/Testing options:</source>
-      <translation type="unfinished">Debugging/Testing options:</translation>
+      <translation>Opcje debugowania/testowania:</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Do not load the wallet and disable wallet RPC calls</source>
-      <translation type="unfinished">Do not load the wallet and disable wallet RPC calls</translation>
+      <translation>Nie wczytuj portfela oraz wy&#x142;&#x105;cz po&#x142;&#x105;czenia RPC</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Do you want to rebuild the block database now?</source>
-      <translation type="unfinished">Do you want to rebuild the block database now?</translation>
+      <translation>Czy chcesz teraz przebudowa&#x107; baz&#x119; danych blok&#xF3;w?</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Done loading</source>
-      <translation type="unfinished">Done loading</translation>
+      <translation>Wczytywanie zako&#x144;czone</translation>
     </message>
     <message>
       <location line="+10"/>
       <source>Entries are full.</source>
-      <translation type="unfinished">Entries are full.</translation>
+      <translation>Wpisy s&#x105; pe&#x142;ne.</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Error initializing block database</source>
-      <translation type="unfinished">Error initializing block database</translation>
+      <translation>B&#x142;&#x105;d podczas inicjowania bazy dancyh bloku</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Error initializing wallet database environment %s!</source>
-      <translation type="unfinished">Error initializing wallet database environment %s!</translation>
+      <translation>B&#x142;&#x105;d podczas inicjowania &#x15B;rodowiska bazy danych portfela %s!</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Error loading block database</source>
-      <translation type="unfinished">Error loading block database</translation>
+      <translation>B&#x142;&#x105;d wczytywania bloku bazy danych</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Error loading wallet.dat</source>
-      <translation type="unfinished">Error loading wallet.dat</translation>
+      <translation>B&#x142;&#x105;d wczytywania wallet.dat</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Error loading wallet.dat: Wallet corrupted</source>
-      <translation type="unfinished">Error loading wallet.dat: Wallet corrupted</translation>
+      <translation>B&#x142;&#x105;d wczytywania wallet.dat: Portfel uszkodzony</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Error opening block database</source>
-      <translation type="unfinished">Error opening block database</translation>
+      <translation>B&#x142;&#x105;d otwarcia bloku bazy danych</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Error reading from database, shutting down.</source>
-      <translation type="unfinished">Error reading from database, shutting down.</translation>
+      <translation>B&#x142;&#x105;d odczytu bazy danych, nast&#x119;puje zamkni&#x119;cie.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>B&#x142;&#x105;d</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Error: Disk space is low!</source>
-      <translation type="unfinished">Error: Disk space is low!</translation>
+      <translation>B&#x142;&#x105;d: Przestrze&#x144; dyskowa jest niska!</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-      <translation type="unfinished">Failed to listen on any port. Use -listen=0 if you want this.</translation>
+      <translation>Nie powi&#xF3;d&#x142; si&#x119; nas&#x142;uch &#x17C;adnego z port&#xF3;w. U&#x17C;yj -listen=0 je&#x15B;li chcesz.</translation>
     </message>
     <message>
       <location line="-336"/>
       <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
-      <translation type="unfinished">(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</translation>
+      <translation>(1 = zaochwaj metadane np. informacje w&#x142;a&#x15B;ciciela konta oraz &#x17C;&#x105;dania zap&#x142;at, 2 = pozb&#x105;d&#x17A; si&#x119; matadanych tx)</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5059,47 +5059,47 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+3"/>
       <source>Allow JSON-RPC connections from specified source. Valid for &lt;ip&gt; are a single IP (e.g. 1.2.3.4), a network/netmask (e.g. 1.2.3.4/255.255.255.0) or a network/CIDR (e.g. 1.2.3.4/24). This option can be specified multiple times</source>
-      <translation type="unfinished">Allow JSON-RPC connections from specified source. Valid for &lt;ip&gt; are a single IP (e.g. 1.2.3.4), a network/netmask (e.g. 1.2.3.4/255.255.255.0) or a network/CIDR (e.g. 1.2.3.4/24). This option can be specified multiple times</translation>
+      <translation>Pozw&#xF3;l na po&#x142;&#x105;czenia JSON-RPC z konkretnego &#x17A;r&#xF3;d&#x142;a. Wa&#x17C;ne dla &lt;ip&gt; pojedy&#x144;czego IP (np. 1.2.3.4), sieci/maski sieci (np. 1.2.3.4/255.255.255.0) lub  sieci/CIDR (np. 1.2.3.4/24). Opcja to mo&#x17C;e by&#x107; ustawiana wielokrotnie</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6</source>
-      <translation type="unfinished">Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6</translation>
+      <translation>Zwi&#x105;&#x17C; z danym adresem oraz wpisz &#x142;&#x105;cz&#x105;cych si&#x119; peer&#xF3;w na bia&#x142;&#x105; liste. U&#x17C;yj notacji [host]:port dla IPv6</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Bind to given address to listen for JSON-RPC connections. Use [host]:port notation for IPv6. This option can be specified multiple times (default: bind to all interfaces)</source>
-      <translation type="unfinished">Bind to given address to listen for JSON-RPC connections. Use [host]:port notation for IPv6. This option can be specified multiple times (default: bind to all interfaces)</translation>
+      <translation>Zwi&#x105;&#x17C; z danym adresem oraz wpisz &#x142;&#x105;cz&#x105;cych si&#x119; peer&#xF3;w na bia&#x142;&#x105; liste. U&#x17C;yj notacji [host]:port dla IPv6. Opcja ta mo&#x17C;e by&#x107; ustawiana wielokrotnie (domy&#x15B;lnie: po&#x142;&#x105;cz z wszystkimi interfejsami)</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
-      <translation type="unfinished">Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</translation>
+      <translation>Zamiast demaskowania 077, stw&#xF3;rz nowe pliki z domy&#x15B;lnymi pozwoleniami systemu (mo&#x17C;liwe tylko z wy&#x142;&#x105;czon&#x105; funkcj&#x105; porfela)</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>
-      <translation type="unfinished">Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</translation>
+      <translation>Usu&#x144; wszystkie transakcje portfela i odzyskaj tylko te cz&#x119;&#x15B;ci blockchainu - zeskanuj powonie na starcie.</translation>
     </message>
     <message>
       <location line="+9"/>
       <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
-      <translation type="unfinished">Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>
+      <translation>Rozpowszechniane na licencji MIT. Je&#x15B;li chcesz si&#x119; dowiedzie&#x107; wi&#x119;cej otw&#xF3;rz towarzysz&#x105;cy plik o nzwie COPYING lub odwied&#x17A; &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>
     </message>
     <message>
       <location line="+44"/>
       <source>Found unconfirmed denominated outputs, will wait till they confirm to continue.</source>
-      <translation type="unfinished">Found unconfirmed denominated outputs, will wait till they confirm to continue.</translation>
+      <translation>Znaleziono niepotwierdzone denominowane transakcje wyj&#x15B;ciowe, poczekam a&#x17C; zostan&#x105; one potwierdzone aby m&#xF3;c kontynuowa&#x107; dalej.</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>How thorough the block verification of -checkblocks is (0-4, default: %u)</source>
-      <translation type="unfinished">How thorough the block verification of -checkblocks is (0-4, default: %u)</translation>
+      <translation>Jak dok&#x142;adna ma by&#x107; weryfikacja bloku -chceckblocks (0-4, domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
-      <translation type="unfinished">If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</translation>
+      <translation>Je&#x15B;li op&#x142;ata za transakcj&#x119; (paytxfee) nie jest ustawiona, dodaj wystarczaj&#x105;c&#x105; op&#x142;at&#x119; aby proces potwierdzenia rozpocz&#x105;&#x142; si&#x119; &#x15B;rednio w przeci&#x105;gu n blok&#xF3;w (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+9"/>
@@ -5109,72 +5109,72 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+9"/>
       <source>Maintain a full transaction index, used by the getrawtransaction rpc call (default: %u)</source>
-      <translation type="unfinished">Maintain a full transaction index, used by the getrawtransaction rpc call (default: %u)</translation>
+      <translation>Utrzymuj pe&#x142;ny index transakcji u&#x17C;ywany przez getrawtransaction rpc call (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+9"/>
       <source>Maximum size of data in data carrier transactions we relay and mine (default: %u)</source>
-      <translation type="unfinished">Maximum size of data in data carrier transactions we relay and mine (default: %u)</translation>
+      <translation>Maksymalny rozmiar danych w wykopanych i retransmitowanych transakcjach przesy&#x142;anych przez operatora (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+8"/>
       <source>Number of seconds to keep misbehaving peers from reconnecting (default: %u)</source>
-      <translation type="unfinished">Number of seconds to keep misbehaving peers from reconnecting (default: %u)</translation>
+      <translation>Ilo&#x15B;&#x107; czasu liczonego w sekundach jaki musi up&#x142;yn&#x105;&#x107; zanim wadliwy peer znowu mo&#x17C;e spr&#xF3;bowa&#x107; nawi&#x105;za&#x107; po&#x142;&#x105;czenie (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>
-      <translation type="unfinished">Output debugging information (default: %u, supplying &lt;category&gt; is optional)</translation>
+      <translation>Informacje na temat debugowania danych wyj&#x15B;ciowych (domy&#x15B;lnie: %u, podanie &lt;category&gt; jest opcjonalne)</translation>
     </message>
     <message>
       <location line="+36"/>
       <source>Set the number of threads for coin generation if enabled (-1 = all cores, default: %d)</source>
-      <translation type="unfinished">Set the number of threads for coin generation if enabled (-1 = all cores, default: %d)</translation>
+      <translation>Ustaw liczb&#x119; w&#x105;tk&#xF3;w do generowania monet, je&#x15B;li jest ono w&#x142;&#x105;czone (-1 = wszystkie rdzenie. domy&#x15B;lnie: %d)</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Show N confirmations for a successfully locked transaction (0-9999, default: %u)</source>
-      <translation type="unfinished">Show N confirmations for a successfully locked transaction (0-9999, default: %u)</translation>
+      <translation>Poka&#x17C; N potwierdze&#x144; dla skutecznie zamkni&#x119;tej transakcji (0-9999, domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+17"/>
       <source>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit &lt;https://www.openssl.org/&gt; and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard.</source>
-      <translation type="unfinished">This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit &lt;https://www.openssl.org/&gt; and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard.</translation>
+      <translation>Produkt ten zawiera oprogramowanie stworzone przez OpenSSL Project do u&#x17C;ytku w OpenSSL Toolkit &lt;https://www.openssl.org/&gt;, oprogramowanie krptograficzne napisane przez Eric Young oraz oprogramowanie UPnP napisane przez Thomas Bernard.</translation>
     </message>
     <message>
       <location line="+17"/>
       <source>Unable to locate enough funds for this transaction that are not equal 1000 STONE.</source>
-      <translation type="unfinished">Unable to locate enough funds for this transaction that are not equal 1000 STONE.</translation>
+      <translation>Niemo&#x17C;liwe jest zlokalizowanie wystarczaj&#x105;cej ilo&#x15B;ci &#x15B;rodk&#xF3;w dla tej transakcji, kt&#xF3;re nie s&#x105; r&#xF3;wne 1000 STONE.</translation>
     </message>
     <message>
       <location line="+14"/>
       <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
-      <translation type="unfinished">Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</translation>
+      <translation>U&#x17C;yj osobnego proxy SOCK5 aby po&#x142;&#x105;czy&#x107; si&#x119; z peerami przez sie&#x107; Tor (domy&#x15B;lnie: %s)</translation>
     </message>
     <message>
       <location line="+31"/>
       <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>
-      <translation type="unfinished">Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</translation>
+      <translation>Peery z bia&#x142;ej listy &#x142;&#x105;cz&#x105;ce si&#x119; z danej maski sieci lub adresu IP. Mo&#x17C;e byc ustawiane wielokrotnie.</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
-      <translation type="unfinished">Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</translation>
+      <translation>Peery z bia&#x142;ej listy nie mog&#x105; zosta&#x107; zbanowane a ich transakcje s&#x105; zawsze retransmitowane, nawet je&#x15B;li ju&#x17C; s&#x105; w pami&#x119;ci zbiorowej (mempool). Jest to przydatne np. dla bramek wyj&#x15B;ciowych</translation>
     </message>
     <message>
       <location line="+14"/>
       <source>(default: %s)</source>
-      <translation type="unfinished">(default: %s)</translation>
+      <translation>(domy&#x15B;lnie: %s)</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Accept public REST requests (default: %u)</source>
-      <translation type="unfinished">Accept public REST requests (default: %u)</translation>
+      <translation>Akceptuj publiczne &#x17C;&#x105;dania REST (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>Always query for peer addresses via DNS lookup (default: %u)</source>
-      <translation type="unfinished">Always query for peer addresses via DNS lookup (default: %u)</translation>
+      <translation>Zawsze wysy&#x142;aj zapytanie o adres peera przez podgl&#x105;d DNS (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+12"/>
@@ -5184,102 +5184,102 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+4"/>
       <source>Connect through SOCKS5 proxy</source>
-      <translation type="unfinished">Connect through SOCKS5 proxy</translation>
+      <translation>Po&#x142;&#x105;czenie poprzez SOCKS5 proxy</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Connect to KeePassHttp on port &lt;port&gt; (default: %u)</source>
-      <translation type="unfinished">Connect to KeePassHttp on port &lt;port&gt; (default: %u)</translation>
+      <translation>Pod&#x142;&#x105;cz do KeePassHttp na porcie &lt;port&gt; (domy&#x15B;lny: %u)</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-      <translation type="unfinished">Copyright (C) 2009-%i The Bitcoin Core Developers</translation>
+      <translation>Prawo autorskie (c) 2009-%i deweloperzy Bitcoin</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Copyright (C) 2014-%i The Stone Core Developers</source>
-      <translation type="unfinished">Copyright (C) 2014-%i The Stone Core Developers</translation>
+      <translation>Prawa autorskie (C) 2014-%i deweloperzy Proton</translation>
     </message>
     <message>
       <location line="+14"/>
       <source>Enable the client to act as a masternode (0-1, default: %u)</source>
-      <translation type="unfinished">Enable the client to act as a masternode (0-1, default: %u)</translation>
+      <translation>Upowa&#x17C;nia klienta aby dzia&#x142;a&#x142; jako masternode (0-1, domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Error connecting to Masternode.</source>
-      <translation type="unfinished">Error connecting to Masternode.</translation>
+      <translation>B&#x142;&#x105;d w po&#x142;&#x105;czeniu z Masternodem.</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Error loading wallet.dat: Wallet requires newer version of Stone Core</source>
-      <translation type="unfinished">Error loading wallet.dat: Wallet requires newer version of Stone Core</translation>
+      <translation>B&#x142;&#x105; wczytywania wallet.dat: Portfel wymaga nowszej wersji Proton</translation>
     </message>
     <message>
       <location line="+12"/>
       <source>Found enough users, signing ( waiting %s )</source>
-      <translation type="unfinished">Found enough users, signing ( waiting %s )</translation>
+      <translation>Znaleziono wystarczaj&#x105;c&#x105; ilo&#x15B;&#x107; u&#x17C;ytkownik&#xF3;w, trwa podoposywanie ( poczekaj %s )</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Found enough users, signing ...</source>
-      <translation type="unfinished">Found enough users, signing ...</translation>
+      <translation>Znaleziono wystarczaj&#x105;c&#x105; ilo&#x15B;&#x107; u&#x17C;ytkownik&#xF3;w, zapisuje ...</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Generate coins (default: %u)</source>
-      <translation type="unfinished">Generate coins (default: %u)</translation>
+      <translation>Generuj monety (domy&#x15B;lny: %u)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>How many blocks to check at startup (default: %u, 0 = all)</source>
-      <translation type="unfinished">How many blocks to check at startup (default: %u, 0 = all)</translation>
+      <translation>Ile blok&#xF3;w sprawdzi&#x107; podczas uruchomienia (domy&#x15B;lnie: %u, 0 = wszystkie)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Importing...</source>
-      <translation type="unfinished">Importing...</translation>
+      <translation>Importuje...</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Include IP addresses in debug output (default: %u)</source>
-      <translation type="unfinished">Include IP addresses in debug output (default: %u)</translation>
+      <translation>Za&#x142;&#x105;cz adres IP do wynik&#xF3;w debugowania (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Incompatible mode.</source>
-      <translation type="unfinished">Incompatible mode.</translation>
+      <translation>Niekompatybilny tryb.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Incompatible version.</source>
-      <translation type="unfinished">Incompatible version.</translation>
+      <translation>Niekompatybilna wersja.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Incorrect or no genesis block found. Wrong datadir for network?</source>
-      <translation type="unfinished">Incorrect or no genesis block found. Wrong datadir for network?</translation>
+      <translation>Znaleziono nieprawid&#x142;owy blok lub brak bloku pocz&#x105;tkowego. Nieprawid&#x142;owy katalog danych dla sieci</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Information</source>
-      <translation type="unfinished">Information</translation>
+      <translation>Informacja</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Initialization sanity check failed. Stone Core is shutting down.</source>
-      <translation type="unfinished">Initialization sanity check failed. Stone Core is shutting down.</translation>
+      <translation>Inicjalizacja kontroli poprawno&#x15B;ci nie powiod&#x142;a si&#x119;. Trwa zamykanie Stone Core</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Input is not valid.</source>
-      <translation type="unfinished">Input is not valid.</translation>
+      <translation>Transakcja wej&#x15B;ciowa jest niew&#x142;a&#x15B;ciwa.</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Insufficient funds.</source>
-      <translation type="unfinished">Insufficient funds.</translation>
+      <translation>Niewystarczaj&#x105;ce &#x15B;rodki</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -5319,47 +5319,47 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+13"/>
       <source>Listen for JSON-RPC connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-      <translation type="unfinished">Listen for JSON-RPC connections on &lt;port&gt; (default: %u or testnet: %u)</translation>
+      <translation>Nas&#x142;uchuj po&#x142;&#x105;cze&#x144; JSON-RPC na &lt;port&gt; (domy&#x15B;lnie: %u lub testnet: %u)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Listen for connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-      <translation type="unfinished">Listen for connections on &lt;port&gt; (default: %u or testnet: %u)</translation>
+      <translation>Nas&#x142;uchuj po&#x142;&#x105;cze&#x144; na &lt;port&gt; (domy&#x15B;lnie: %u lub testnet: %u)</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>Loading masternode cache...</source>
-      <translation type="unfinished">Loading masternode cache...</translation>
+      <translation>&#x141;aduj&#x119; pami&#x119;&#x107; podr&#x119;czn&#x105; masternoda...</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Loading masternode payment cache...</source>
-      <translation type="unfinished">Loading masternode payment cache...</translation>
+      <translation>&#x141;aduj&#x119; pami&#x119;&#x107; podr&#x119;czn&#x105; p&#x142;atno&#x15B;ci masternod&#xF3;w...</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>Lock is already in place.</source>
-      <translation type="unfinished">Lock is already in place.</translation>
+      <translation>Transakcja zosta&#x142;a ju&#x17C; zamkni&#x119;ta.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Lock masternodes from masternode configuration file (default: %u)</source>
-      <translation type="unfinished">Lock masternodes from masternode configuration file (default: %u)</translation>
+      <translation>Zamknij masternody z pliku konfiguracji (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
-      <translation type="unfinished">Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: %u)</translation>
+      <translation>Maksymalny bufor odbieraj&#x105;cy na ka&#x17C;de po&#x142;&#x105;czenie, &lt;n&gt;*1000 bajt&#xF3;w (domy&#x15B;lny: %u)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
-      <translation type="unfinished">Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: %u)</translation>
+      <translation>Maksymalny bufor wysy&#x142;ania na ka&#x17C;de po&#x142;&#x105;czenie, &lt;n&gt;*1000 bajt&#xF3;w (domy&#x15B;lny: %u)</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Mixing in progress...</source>
-      <translation type="unfinished">Mixing in progress...</translation>
+      <translation>W trakcie mieszania...</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -5369,22 +5369,22 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>No Masternodes detected.</source>
-      <translation type="unfinished">No Masternodes detected.</translation>
+      <translation>Nie wykryto &#x17C;adnego Masternoda.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>No compatible Masternode found.</source>
-      <translation type="unfinished">No compatible Masternode found.</translation>
+      <translation>Nie znalezione zadnego kompatybilnego Masternoda.</translation>
     </message>
     <message>
       <location line="+9"/>
       <source>Not in the Masternode list.</source>
-      <translation type="unfinished">Not in the Masternode list.</translation>
+      <translation>Nie istnieje na li&#x15B;cie masternod&#xF3;w.</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Only connect to nodes in network &lt;net&gt; (ipv4, ipv6 or onion)</source>
-      <translation type="unfinished">Only connect to nodes in network &lt;net&gt; (ipv4, ipv6 or onion)</translation>
+      <translation>&#x141;&#x105;cz si&#x119; tylko z w&#x119;z&#x142;ami w sieci &lt;net&gt; (ipv4, ipv6 lub onion)</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5394,102 +5394,102 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Prepend debug output with timestamp (default: %u)</source>
-      <translation type="unfinished">Prepend debug output with timestamp (default: %u)</translation>
+      <translation>Poprzed&#x17A; wyniki debugowania dat&#x105; i godzin&#x105; (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+19"/>
       <source>Send trace/debug info to debug.log file (default: %u)</source>
-      <translation type="unfinished">Send trace/debug info to debug.log file (default: %u)</translation>
+      <translation>Wy&#x15B;lij informacje o debugowaniu/&#x15B;ladach do pliku debug.log (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Send transactions as zero-fee transactions if possible (default: %u)</source>
-      <translation type="unfinished">Send transactions as zero-fee transactions if possible (default: %u)</translation>
+      <translation>Wy&#x15B;lij transakcje jako darmowe je&#x15B;li istnieje taka mo&#x17C;liwo&#x15B;&#x107; (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>Set key pool size to &lt;n&gt; (default: %u)</source>
-      <translation type="unfinished">Set key pool size to &lt;n&gt; (default: %u)</translation>
+      <translation>Ustaw ilo&#x15B;&#x107; kluczy w key pool na &lt;n&gt; (domy&#x15B;lny: %u)</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Set minimum block size in bytes (default: %u)</source>
-      <translation type="unfinished">Set minimum block size in bytes (default: %u)</translation>
+      <translation>Ustaw minimalny rozmiar bloku w bajtach (domy&#x15B;lny: %u)</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Set the number of threads to service RPC calls (default: %d)</source>
-      <translation type="unfinished">Set the number of threads to service RPC calls (default: %d)</translation>
+      <translation>Ustaw liczb&#x119; w&#x105;tk&#xF3;w dla us&#x142;ugi po&#x142;&#x105;czen RPC (domy&#x15B;lny: %d)</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>Specify configuration file (default: %s)</source>
-      <translation type="unfinished">Specify configuration file (default: %s)</translation>
+      <translation>Ustaw plik konfiguracji (domy&#x15B;lnie: %s)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Specify connection timeout in milliseconds (minimum: 1, default: %d)</source>
-      <translation type="unfinished">Specify connection timeout in milliseconds (minimum: 1, default: %d)</translation>
+      <translation>ustaw limit czasu po&#x142;&#x105;czenia w milisekundach (minimum: 1, domy&#x15B;lnie: %d)</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Specify masternode configuration file (default: %s)</source>
-      <translation type="unfinished">Specify masternode configuration file (default: %s)</translation>
+      <translation>Ustaw plik konfiguracji masternoda (domy&#x15B;lnie: %s)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Specify pid file (default: %s)</source>
-      <translation type="unfinished">Specify pid file (default: %s)</translation>
+      <translation>Sprecyjzuj plik pid (domy&#x15B;lny: %s)</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Spend unconfirmed change when sending transactions (default: %u)</source>
-      <translation type="unfinished">Spend unconfirmed change when sending transactions (default: %u)</translation>
+      <translation>Wydaj niepotwierdzon&#x105; reszt&#x119; podczas wysy&#x142;ania transakcji (domu&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Submitted following entries to masternode: %u / %d</source>
-      <translation type="unfinished">Submitted following entries to masternode: %u / %d</translation>
+      <translation>Nast&#x119;puj&#x105;ce wpisy zosta&#x142;y przes&#x142;ane do masternoda: %u / %d</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Submitted to masternode, waiting for more entries ( %u / %d ) %s</source>
-      <translation type="unfinished">Submitted to masternode, waiting for more entries ( %u / %d ) %s</translation>
+      <translation>Zapisano do masternoda, czekam na wi&#x119;cej wej&#x15B;&#x107; ( %u / %d ) %s</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Submitted to masternode, waiting in queue %s</source>
-      <translation type="unfinished">Submitted to masternode, waiting in queue %s</translation>
+      <translation>Przes&#x142;ano do masterdnoda, czekaj na swoj&#x105; kolej %s</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Synchronization failed</source>
-      <translation type="unfinished">Synchronization failed</translation>
+      <translation>Synchronizacja nie powiod&#x142;a si&#x119;</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Synchronization finished</source>
-      <translation type="unfinished">Synchronization finished</translation>
+      <translation>Synchronizacja zako&#x144;czona</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>Synchronizing masternodes...</source>
-      <translation type="unfinished">Synchronizing masternodes...</translation>
+      <translation>Synchronizuj&#x119; masternody...</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Synchronizing sporks...</source>
-      <translation type="unfinished">Synchronizing sporks...</translation>
+      <translation>Synchronizuj&#x119; sporki...</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>This is not a Masternode.</source>
-      <translation type="unfinished">This is not a Masternode.</translation>
+      <translation>To nie jest Masternode.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Threshold for disconnecting misbehaving peers (default: %u)</source>
-      <translation type="unfinished">Threshold for disconnecting misbehaving peers (default: %u)</translation>
+      <translation>Pr&#xF3;g dla niew&#x142;a&#x15B;ciwie dzia&#x142;aj&#x105;cych, od&#x142;&#x105;czaj&#x105;cych sie peer&#xF3;w (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -5539,12 +5539,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Use KeePass 2 integration using KeePassHttp plugin (default: %u)</source>
-      <translation type="unfinished">Use KeePass 2 integration using KeePassHttp plugin (default: %u)</translation>
+      <translation>U&#x17C;yj integracji KeePass 2 z wtyczk&#x105; KeePass Http (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Use UPnP to map the listening port (default: %u)</source>
-      <translation type="unfinished">Use UPnP to map the listening port (default: %u)</translation>
+      <translation>U&#x17C;yj UPnP aby zmapowa&#x107; port nas&#x142;uchu (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -5559,17 +5559,17 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+6"/>
       <source>Wallet needed to be rewritten: restart Stone Core to complete</source>
-      <translation type="unfinished">Wallet needed to be rewritten: restart Stone Core to complete</translation>
+      <translation>Portfel potrzebuje by&#x107; przepisany: uruchom ponownie Stone Core aby zako&#x144;czy&#x107;.</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Will retry...</source>
-      <translation type="unfinished">Will retry...</translation>
+      <translation>Spr&#xF3;buje ponownie...</translation>
     </message>
     <message>
       <location line="-144"/>
       <source>Invalid masternodeprivkey. Please see documenation.</source>
-      <translation type="unfinished">Invalid masternodeprivkey. Please see documenation.</translation>
+      <translation>Nieprawid&#x142;owy klucz prywatny masternoda. Przeczytaj dokumentacj&#x119;.</translation>
     </message>
     <message>
       <location line="-72"/>
@@ -5584,7 +5584,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+15"/>
       <source>Could not parse masternode.conf</source>
-      <translation type="unfinished">Could not parse masternode.conf</translation>
+      <translation>Nie mo&#x17C;na analizowa&#x107; masternode.conf</translation>
     </message>
     <message>
       <location line="+57"/>
@@ -5594,32 +5594,32 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Invalid port detected in masternode.conf</source>
-      <translation type="unfinished">Invalid port detected in masternode.conf</translation>
+      <translation>Wykryto niew&#x142;a&#x15B;ciwy port w masternode.conf</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid script detected.</source>
-      <translation type="unfinished">Invalid script detected.</translation>
+      <translation>Wykryto nieprawid&#x142;owy skrypt.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>KeePassHttp id for the established association</source>
-      <translation type="unfinished">KeePassHttp id for the established association</translation>
+      <translation>ID KeePassHttp dla ustanowionego skoja&#x17C;enia</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>KeePassHttp key for AES encrypted communication with KeePass</source>
-      <translation type="unfinished">KeePassHttp key for AES encrypted communication with KeePass</translation>
+      <translation>Klucz KeePassHttp dla zaszyfrowanego metod&#x105; AES po&#x142;&#x105;czenia z KeePass</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Keep N STONE anonymized (default: %u)</source>
-      <translation type="unfinished">Keep N STONE anonymized (default: %u)</translation>
+      <translation>Utrzymuj N zanonimizowanych stone (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
-      <translation type="unfinished">Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</translation>
+      <translation>Utrzymuj najwy&#x17C;ej &lt;n&gt; niepod&#x142;&#x105;czalnych transakcji w pami&#x119;ci (domy&#x15B;lny: %u)</translation>
     </message>
     <message>
       <location line="-328"/>
@@ -6019,17 +6019,17 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Line: %d</source>
-      <translation type="unfinished">Line: %d</translation>
+      <translation>Linia: %d</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Loading addresses...</source>
-      <translation type="unfinished">Loading addresses...</translation>
+      <translation>Wczytuje adresy...</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Loading block index...</source>
-      <translation type="unfinished">Loading block index...</translation>
+      <translation>Wczytuje indeks blok&#xF3;w</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -6044,12 +6044,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+3"/>
       <source>Loading wallet... (%3.2f %%)</source>
-      <translation type="unfinished">Loading wallet... (%3.2f %%)</translation>
+      <translation>&#x141;aduje portfel... (%3.2f %%)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Loading wallet...</source>
-      <translation type="unfinished">Loading wallet...</translation>
+      <translation>&#x141;aduje portfel...</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -6069,17 +6069,17 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Masternode options:</source>
-      <translation type="unfinished">Masternode options:</translation>
+      <translation>Opcje masternod&#xF3;w:</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Masternode queue is full.</source>
-      <translation type="unfinished">Masternode queue is full.</translation>
+      <translation>Kolejka masternod&#xF3;w jest pe&#x142;na.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Masternode:</source>
-      <translation type="unfinished">Masternode:</translation>
+      <translation>Masternod:</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -6089,7 +6089,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Missing input transaction information.</source>
-      <translation type="unfinished">Missing input transaction information.</translation>
+      <translation>Brak informacji o transakcji wej&#x15B;ciowej.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -6099,32 +6099,32 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>No funds detected in need of denominating.</source>
-      <translation type="unfinished">No funds detected in need of denominating.</translation>
+      <translation>Nie odnaleziono &#x15B;rodk&#xF3;w w celu denominacji.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>No matching denominations found for mixing.</source>
-      <translation type="unfinished">No matching denominations found for mixing.</translation>
+      <translation>Nie znaleziono pasuj&#x105;cych denominacji w celu miksowania.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Node relay options:</source>
-      <translation type="unfinished">Node relay options:</translation>
+      <translation>Opcje retransmituj&#x105;cych w&#x119;z&#x142;&#xF3;w:</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Non-standard public key detected.</source>
-      <translation type="unfinished">Non-standard public key detected.</translation>
+      <translation>Wykryto niestandardowy klucz publiczny.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Not compatible with existing transactions.</source>
-      <translation type="unfinished">Not compatible with existing transactions.</translation>
+      <translation>Nie kompatybilny z istniej&#x105;cymi transakcjami.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Not enough file descriptors available.</source>
-      <translation type="unfinished">Not enough file descriptors available.</translation>
+      <translation>Dost&#x119;pny niewystarczaj&#x105;cy opis pliku.</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -6139,12 +6139,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+2"/>
       <source>Options:</source>
-      <translation type="unfinished">Options:</translation>
+      <translation>Opcje:</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Password for JSON-RPC connections</source>
-      <translation type="unfinished">Password for JSON-RPC connections</translation>
+      <translation>Has&#x142;o dla po&#x142;&#x105;cze&#x144; JSON-RPC</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -6229,12 +6229,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-90"/>
       <source>RPC server options:</source>
-      <translation type="unfinished">RPC server options:</translation>
+      <translation>Opcje serwera RPC:</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Receive and display P2P network alerts (default: %u)</source>
-      <translation type="unfinished">Receive and display P2P network alerts (default: %u)</translation>
+      <translation>Odbiera i wy&#x15B;wietla P2P alarmy sieci (standardowo: %u)</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -6244,22 +6244,22 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Relay and mine data carrier transactions (default: %u)</source>
-      <translation type="unfinished">Relay and mine data carrier transactions (default: %u)</translation>
+      <translation>Retransmituj i przejrzyj transakcje operatora danych (domy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Relay non-P2SH multisig (default: %u)</source>
-      <translation type="unfinished">Relay non-P2SH multisig (default: %u)</translation>
+      <translation>Retransmituj non-P2SH multisig (doy&#x15B;lnie: %u)</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Rescanning...</source>
-      <translation type="unfinished">Rescanning...</translation>
+      <translation>Ponowne skanowanie...</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Run in the background as a daemon and accept commands</source>
-      <translation type="unfinished">Run in the background as a daemon and accept commands</translation>
+      <translation>Dzia&#x142;aj w tle jako daemon i akceptuj polecenia</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -6269,62 +6269,62 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+3"/>
       <source>Session not complete!</source>
-      <translation type="unfinished">Session not complete!</translation>
+      <translation>Sesja nie zosta&#x142;a uko&#x144;czona!</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Session timed out.</source>
-      <translation type="unfinished">Session timed out.</translation>
+      <translation>Sesja wygas&#x142;a</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Set database cache size in megabytes (%d to %d, default: %d)</source>
-      <translation type="unfinished">Set database cache size in megabytes (%d to %d, default: %d)</translation>
+      <translation>Ustaw pami&#x119;&#x107; podr&#x119;czn&#x105; bazy danych w megabajtach (%d to %d, domy&#x15B;lny: %d)</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Set maximum block size in bytes (default: %d)</source>
-      <translation type="unfinished">Set maximum block size in bytes (default: %d)</translation>
+      <translation>Ustaw maksymalny rozmiar bloku w bajtach (domy&#x15B;lny: %d)</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Set the masternode private key</source>
-      <translation type="unfinished">Set the masternode private key</translation>
+      <translation>Ustaw klucz prywatny masternoda</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Show all debugging options (usage: --help -help-debug)</source>
-      <translation type="unfinished">Show all debugging options (usage: --help -help-debug)</translation>
+      <translation>Poka&#x17C; wszystkie opcje debugowania (u&#x17C;yj: --help -help-debug)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-      <translation type="unfinished">Shrink debug.log file on client startup (default: 1 when no -debug)</translation>
+      <translation>Zmniejsz plik debug.log podczas w&#x142;&#x105;czania klienta (domy&#x15B;lny: 1 kiedy nie ma -debug)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Signing transaction failed</source>
-      <translation type="unfinished">Signing transaction failed</translation>
+      <translation>Podpisywanie transakcji nie powiod&#x142;o si&#x119;</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Specify data directory</source>
-      <translation type="unfinished">Specify data directory</translation>
+      <translation>Sprecyzuj katalog danych</translation>
     </message>
     <message>
       <location line="+3"/>
       <source>Specify wallet file (within data directory)</source>
-      <translation type="unfinished">Specify wallet file (within data directory)</translation>
+      <translation>Sprecyzuj plik wallet (w katalogu danych)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Specify your own public address</source>
-      <translation type="unfinished">Specify your own public address</translation>
+      <translation>Sprecyzuj sw&#xF3;j adres publiczny</translation>
     </message>
     <message>
       <location line="+7"/>
       <source>Synchronization pending...</source>
-      <translation type="unfinished">Synchronization pending...</translation>
+      <translation>Synchronizacja w toku...</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -6344,57 +6344,57 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>This help message</source>
-      <translation type="unfinished">This help message</translation>
+      <translation>Ten komunikat pomocny</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>This is experimental software.</source>
-      <translation type="unfinished">This is experimental software.</translation>
+      <translation>Jest to oprogramowanie testowe.</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Transaction amount too small</source>
-      <translation type="unfinished">Transaction amount too small</translation>
+      <translation>Zbyt ma&#x142;a kwota</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Transaction amounts must be positive</source>
-      <translation type="unfinished">Transaction amounts must be positive</translation>
+      <translation>Kwota musi by&#x107; dodatnia</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Transaction created successfully.</source>
-      <translation type="unfinished">Transaction created successfully.</translation>
+      <translation>Skutecznie utworzono transakcj&#x119;.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Transaction fees are too high.</source>
-      <translation type="unfinished">Transaction fees are too high.</translation>
+      <translation>Op&#x142;aty za transakcj&#x119; s&#x105; zbyt wysokie.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Transaction not valid.</source>
-      <translation type="unfinished">Transaction not valid.</translation>
+      <translation>Transakcja niew&#x142;a&#x15B;ciwa.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Transaction too large for fee policy</source>
-      <translation type="unfinished">Transaction too large for fee policy</translation>
+      <translation>Transakcja nie mie&#x15B;ci si&#x119; w ramach wyznaczaj&#x105;cych wielko&#x15B;&#x107; op&#x142;aty za transakcj&#x119;</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Transaction too large</source>
-      <translation type="unfinished">Transaction too large</translation>
+      <translation>Za du&#x17C;a transakcja</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Unable to bind to %s on this computer (bind returned error %s)</source>
-      <translation type="unfinished">Unable to bind to %s on this computer (bind returned error %s)</translation>
+      <translation>Nie uda&#x142;o si&#x119; powi&#x105;za&#x107; do %s na tym komputerze (powi&#x105;zanie zwr&#xF3;ci&#x142;o b&#x142;&#x105;d %s)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Unable to sign spork message, wrong key?</source>
-      <translation type="unfinished">Unable to sign spork message, wrong key?</translation>
+      <translation>Niemo&#x17C;liwe podpisanie wiadomo&#x15B;ci spork, nieprawid&#x142;owy klucz?</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -6404,22 +6404,22 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+2"/>
       <source>Unknown state: id = %u</source>
-      <translation type="unfinished">Unknown state: id = %u</translation>
+      <translation>Status nieznany: id = %u</translation>
     </message>
     <message>
       <location line="+8"/>
       <source>Username for JSON-RPC connections</source>
-      <translation type="unfinished">Username for JSON-RPC connections</translation>
+      <translation>Nazwa u&#x17C;ytkownika dla po&#x142;&#x105;cze&#x144; JSON-RPC </translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Verifying blocks...</source>
-      <translation type="unfinished">Verifying blocks...</translation>
+      <translation>Weryfikacja blok&#xF3;w...</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Verifying wallet...</source>
-      <translation type="unfinished">Verifying wallet...</translation>
+      <translation>Weryfikacja portfela...</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -6429,52 +6429,52 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Wallet %s resides outside data directory %s</source>
-      <translation type="unfinished">Wallet %s resides outside data directory %s</translation>
+      <translation>Plik wallet %s znajduje si&#x119; poza katalogiem danych %s</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Wallet is locked.</source>
-      <translation type="unfinished">Wallet is locked.</translation>
+      <translation>Portfel jest zamkni&#x119;ty.</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Wallet options:</source>
-      <translation type="unfinished">Wallet options:</translation>
+      <translation>Opcje portfela:</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Wallet window title</source>
-      <translation type="unfinished">Wallet window title</translation>
+      <translation>Nazwa okna portfela</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Warning</source>
-      <translation type="unfinished">Warning</translation>
+      <translation>Ostrze&#x17C;enie</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>You need to rebuild the database using -reindex to change -txindex</source>
-      <translation type="unfinished">You need to rebuild the database using -reindex to change -txindex</translation>
+      <translation>Musisz odnowi&#x107; baz&#x119; danych u&#x17C;ywaj&#x105;c -reindex aby zmieni&#x107; -txindex</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Your entries added successfully.</source>
-      <translation type="unfinished">Your entries added successfully.</translation>
+      <translation>Twoje wej&#x15B;cia zosta&#x142;y dodane z powodzeniem.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Your transaction was accepted into the pool!</source>
-      <translation type="unfinished">Your transaction was accepted into the pool!</translation>
+      <translation>Twoja transakcja zosta&#x142;a do&#x142;&#x105;czona do poola!</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Zapping all transactions from wallet...</source>
-      <translation type="unfinished">Zapping all transactions from wallet...</translation>
+      <translation>Zappowanie wszystkich transakcji z portfela</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>wallet.dat corrupt, salvage failed</source>
-      <translation type="unfinished">wallet.dat corrupt, salvage failed</translation>
+      <translation>Plik wallet.dat zepsuty, odzyskiwanie nie powiod&#x142;o si&#x119;</translation>
     </message>
   </context>
 </TS>
