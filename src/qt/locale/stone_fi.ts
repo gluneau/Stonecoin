@@ -1022,8 +1022,8 @@
     </message>
     <message>
       <location line="+163"/>
-      <source>Please switch to &quot;List mode&quot; to use this function.</source>
-      <translation type="unfinished">Please switch to &quot;List mode&quot; to use this function.</translation>
+      <source>Please switch to "List mode" to use this function.</source>
+      <translation>Vaihda "Lista tilaan" k&#xE4;ytt&#xE4;&#xE4;ksesi t&#xE4;t&#xE4; toimintoa.</translation>
     </message>
     <message>
       <location line="+205"/>
@@ -1057,8 +1057,8 @@
     </message>
     <message>
       <location line="+5"/>
-      <source>This label turns red if the priority is smaller than &quot;medium&quot;.</source>
-      <translation type="unfinished">This label turns red if the priority is smaller than &quot;medium&quot;.</translation>
+      <source>This label turns red if the priority is smaller than "medium".</source>
+      <translation>T&#xE4;m&#xE4; nimi vaihtuu punaiseksi jos prioriteetti on pienempi kuin "keskisuuri".</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -1226,18 +1226,18 @@
     </message>
     <message>
       <location line="-29"/>
-      <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton&apos;s configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton&apos;s configuration screen.</translation>
+      <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</source>
+      <translation>PrivateSend on asetettu perusasetuksiin (%1 and 2 kierrosta). Voit muuttaa asetuksia milloin vain Proton asetuksista.</translation>
     </message>
     <message>
       <location line="+15"/>
-      <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton&apos;s configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton&apos;s configuration screen.</translation>
+      <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</source>
+      <translation>PrivateSend on asetettu korkean tason asetuksiin (%1 and 8 kierrosta). Voit muuttaa asetuksia milloin vain Proton asetuksista.</translation>
     </message>
     <message>
       <location line="+15"/>
-      <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton&apos;s configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton&apos;s configuration screen.</translation>
+      <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</source>
+      <translation>PrivateSend on asetettu maksimitason asetuksiin (%1 and 16 kierrosta). Voit muuttaa asetuksia milloin vain Proton asetuksista.</translation>
     </message>
   </context>
   <context>
@@ -1289,13 +1289,13 @@
     </message>
     <message>
       <location line="+71"/>
-      <source>The entered address &quot;%1&quot; is not a valid Proton address.</source>
-      <translation type="unfinished">The entered address &quot;%1&quot; is not a valid Proton address.</translation>
+      <source>The entered address "%1" is not a valid Proton address.</source>
+      <translation>Annettu osoite "%1" ei ole p&#xE4;tev&#xE4; Proton osoite.</translation>
     </message>
     <message>
       <location line="+5"/>
-      <source>The entered address &quot;%1&quot; is already in the address book.</source>
-      <translation type="unfinished">The entered address &quot;%1&quot; is already in the address book.</translation>
+      <source>The entered address "%1" is already in the address book.</source>
+      <translation>Osoite "%1" on jo osoitekirjassa.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -1401,13 +1401,13 @@
     </message>
     <message>
       <location line="+4"/>
-      <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Proton in your wallet is comprised of different &quot;inputs&quot; which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type=&quot;1&quot;&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called &quot;masternodes.&quot; These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know &quot;who&quot; you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users&apos; wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it&apos;s called a &quot;round.&quot; Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these &quot;change addresses.&quot; Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href=&quot;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&quot;&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
-      <translation type="unfinished">&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Proton in your wallet is comprised of different &quot;inputs&quot; which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type=&quot;1&quot;&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called &quot;masternodes.&quot; These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know &quot;who&quot; you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users&apos; wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it&apos;s called a &quot;round.&quot; Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these &quot;change addresses.&quot; Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href=&quot;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&quot;&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </translation>
+      <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Proton in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
+      <translation>&lt;h3&gt;PrivateSend perusteet&lt;/h3&gt; PrivateSend tarjoaa yksityisyyden h&#xE4;m&#xE4;rt&#xE4;m&#xE4;ll&#xE4; varojesi alkuper&#xE4;isen osoitteen. Kaikki Proton:it lompakossasi muodostuvat erillisist&#xE4; "sy&#xF6;tteist&#xE4;", joita voit ajatella erillisin&#xE4; kolikkoina.&lt;br&gt; PrivateSend k&#xE4;ytt&#xE4;&#xE4; stonetiivista prosessia sekoittaakseen lompakkosi sy&#xF6;tteet kahden muun ihmisen sy&#xF6;tteisiin, siirt&#xE4;m&#xE4;tt&#xE4; varoja pois lompakostasi. Varojesi kontrolli pysyy aina sinulla.&lt;hr&gt; &lt;b&gt; PrivateSend prosessi toimii seuraavasti:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend aloittaa pilkkomalla siirtotapahtumiesi sy&#xF6;tteet pienemmiksi standardi arvoiksi. N&#xE4;m&#xE4; arvot ovat 0.01 STONE, 0.1 STONE, 1 STONE ja 10 STONE.&lt;/li&gt; &lt;li&gt;Sitten lompakkosi l&#xE4;hett&#xE4;&#xE4; pyynn&#xF6;n verkon palvelimille, joita kutsutaan "masternode:iksi". Masternodet saavat tiedon ett&#xE4; haluat sekoittaa pilkottuja standardi arvoja. Mit&#xE4;&#xE4;n tunnistetietoja ei l&#xE4;hetet&#xE4; masternode:ille, ne eiv&#xE4;t koskaan tied&#xE4; "kuka" olet.&lt;/li&gt; &lt;li&gt;Kun 2 muuta k&#xE4;ytt&#xE4;j&#xE4;&#xE4; ilmoittaa ett&#xE4; he haluavat my&#xF6;s sekoittaa varoja, alkaa sekoitus-sessio. Masternodet sekoittavat standardi arvot ja ilmoittavat kaikille 3:lle k&#xE4;ytt&#xE4;j&#xE4;n lompakoille ett&#xE4; maksavat sekoitetut arvot takaisin itselleen. Lompakkosi maksaa nuo sekoitetut arvot suoraan itselleen, mutta eri osoitteeseen (vaihto-osoite).&lt;/li&gt; &lt;li&gt;Jotta varojesi alkuper&#xE4;inen l&#xE4;hde h&#xE4;m&#xE4;rret&#xE4;&#xE4;n, lompakkosi suorittaa t&#xE4;m&#xE4;n prosessin useita kertoja kaikilla standardi arvoilla. Aina kun prosessi on valmis, sit&#xE4; kutsutaan "kierrokseksi". Jokainen PrivateSend kierros tekee eksponentiaalisesti vaikeammaksi l&#xF6;yt&#xE4;&#xE4; varojesi alkuper&#xE4;isen osoiteen.&lt;/li&gt; &lt;li&gt;T&#xE4;m&#xE4; sekoitusprosessi tapahtuu taustalla ilman k&#xE4;ytt&#xE4;j&#xE4;n toimenpiteit&#xE4;. Kun haluat my&#xF6;hemmin tehd&#xE4; anonyymin varojen siirron, on varasi valmiiksi sekoitettu (anonymisoitu). Erillist&#xE4; sekoitusta/odotusta ei tarvita.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;T&#xC4;RKE&#xC4;&#xC4;:&lt;/b&gt; Lompakkosi sis&#xE4;lt&#xE4;&#xE4; vain 1000 "vaihto-osoitetta". Aina kun sekoitustapahtuma tehd&#xE4;&#xE4;n, max 9 osoitetta k&#xE4;ytet&#xE4;&#xE4;n. T&#xE4;m&#xE4; tarkoittaa sit&#xE4; ett&#xE4; nuo 1000 osoitetta kest&#xE4;&#xE4; noin 100 sekoitustapahtumaa. Kun 900 osoitetta on k&#xE4;ytetty, lompakkosi t&#xE4;ytyy tehd&#xE4; lis&#xE4;&#xE4; osoitteita. Se voi tehd&#xE4; niit&#xE4; vain jos automaattinen varmistus on k&#xE4;yt&#xF6;ss&#xE4;.&lt;br&gt; T&#xE4;st&#xE4; seuraa ett&#xE4; jos varmistus ei ole k&#xE4;yt&#xF6;ss&#xE4;, my&#xF6;s PrivateSend on pois k&#xE4;yt&#xF6;st&#xE4;. &lt;hr&gt;Lis&#xE4;tietoja &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt; </translation>
     </message>
     <message>
       <location line="-50"/>
-      <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-      <translation type="unfinished">Set language, for example &quot;de_DE&quot; (default: system locale)</translation>
+      <source>Set language, for example "de_DE" (default: system locale)</source>
+      <translation>Aseta kieli, esim. "fi_FI" (oletus: sama kuin j&#xE4;rjestelm&#xE4;n)</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -1460,8 +1460,8 @@ Varoitus: Jos k&#xE4;yt&#xE4;t k&#xE4;ytt&#xF6;j&#xE4;rjestelm&#xE4;&#xE4; (Live
     </message>
     <message>
       <location line="+1"/>
-      <source>Error: Specified data directory &quot;%1&quot; cannot be created.</source>
-      <translation type="unfinished">Error: Specified data directory &quot;%1&quot; cannot be created.</translation>
+      <source>Error: Specified data directory "%1" cannot be created.</source>
+      <translation>Virhe: Annettua datahakemistoa "%1" ei voida luoda.</translation>
     </message>
     <message>
       <location line="+25"/>
@@ -1493,8 +1493,8 @@ Varoitus: Jos k&#xE4;yt&#xE4;t k&#xE4;ytt&#xF6;j&#xE4;rjestelm&#xE4;&#xE4; (Live
     </message>
     <message>
       <location line="+16"/>
-      <source>Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your masternode should be running but you still do not see &quot;ENABLED&quot; in &quot;Status&quot; field.</source>
-      <translation type="unfinished">Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your masternode should be running but you still do not see &quot;ENABLED&quot; in &quot;Status&quot; field.</translation>
+      <source>Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your masternode should be running but you still do not see "ENABLED" in "Status" field.</source>
+      <translation>Huom: Masternoden status paikallisessa lompakossa saattaa olla v&#xE4;&#xE4;r&#xE4;.&lt;br /&gt;Odota ett&#xE4; lompakko on synkronoinut lis&#xE4;tiedot ja tarkista sitten toisesta nodesta&lt;br /&gt;jos nodesi pit&#xE4;isi olla k&#xE4;ynniss&#xE4; mutta et n&#xE4;e silti "K&#xC4;YT&#xD6;SS&#xC4;" "Tila" kent&#xE4;ss&#xE4;.</translation>
     </message>
     <message>
       <location line="+37"/>
@@ -1620,8 +1620,8 @@ Varoitus: Jos k&#xE4;yt&#xE4;t k&#xE4;ytt&#xF6;j&#xE4;rjestelm&#xE4;&#xE4; (Live
     </message>
     <message>
       <location line="+1"/>
-      <source>You can&apos;t use this command until masternode list is synced</source>
-      <translation type="unfinished">You can&apos;t use this command until masternode list is synced</translation>
+      <source>You can't use this command until masternode list is synced</source>
+      <translation>Et voi k&#xE4;ytt&#xE4;&#xE4; t&#xE4;t&#xE4; komentoa ennen kuin masternode lista on synkronissa</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -1766,8 +1766,8 @@ Varoitus: Jos k&#xE4;yt&#xE4;t k&#xE4;ytt&#xF6;j&#xE4;rjestelm&#xE4;&#xE4; (Live
     </message>
     <message>
       <location line="+24"/>
-      <source>This amount acts as a threshold to turn off PrivateSend once it&apos;s reached.</source>
-      <translation type="unfinished">This amount acts as a threshold to turn off PrivateSend once it&apos;s reached.</translation>
+      <source>This amount acts as a threshold to turn off PrivateSend once it's reached.</source>
+      <translation>T&#xE4;m&#xE4; m&#xE4;&#xE4;r&#xE4; toimii rajana sekoituksen keskeytykselle kun PrivateSend sen saavuttaa.</translation>
     </message>
     <message>
       <location line="+60"/>
@@ -2153,8 +2153,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+16"/>
-      <source>Reset the current status of PrivateSend (can interrupt PrivateSend if it&apos;s in the process of Mixing, which can cost you money!)</source>
-      <translation type="unfinished">Reset the current status of PrivateSend (can interrupt PrivateSend if it&apos;s in the process of Mixing, which can cost you money!)</translation>
+      <source>Reset the current status of PrivateSend (can interrupt PrivateSend if it's in the process of Mixing, which can cost you money!)</source>
+      <translation>Nollaa nykyinen PrivateSend tila (voi keskeytt&#xE4;&#xE4; PrivateSend sekoituksen, joka voi maksaa ylim&#xE4;&#xE4;r&#xE4;isi&#xE4; kuluja)</translation>
     </message>
     <message>
       <location line="+19"/>
@@ -2256,8 +2256,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="-7"/>
-      <source>Not enough compatible inputs to anonymize &lt;span style=&apos;color:red;&apos;&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style=&apos;color:red;&apos;&gt;%2&lt;/span&gt; instead</source>
-      <translation type="unfinished">Not enough compatible inputs to anonymize &lt;span style=&apos;color:red;&apos;&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style=&apos;color:red;&apos;&gt;%2&lt;/span&gt; instead</translation>
+      <source>Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</source>
+      <translation>Ei tarpeeksi yhteensopivia sy&#xF6;tteit&#xE4; anonymisointiin &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;anonymisoidaan &lt;span style='color:red;'&gt;%2&lt;/span&gt; sen sijaan</translation>
     </message>
     <message>
       <location line="+46"/>
@@ -2322,8 +2322,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+1"/>
-      <source>We are about to create a new automatic backup for you, however &lt;span style=&apos;color:red;&apos;&gt; you should always make sure you have backups saved in some safe place&lt;/span&gt;!</source>
-      <translation type="unfinished">We are about to create a new automatic backup for you, however &lt;span style=&apos;color:red;&apos;&gt; you should always make sure you have backups saved in some safe place&lt;/span&gt;!</translation>
+      <source>We are about to create a new automatic backup for you, however &lt;span style='color:red;'&gt; you should always make sure you have backups saved in some safe place&lt;/span&gt;!</source>
+      <translation>Olemme tekem&#xE4;ss&#xE4; uutta automaattista varmistusta, mutta&lt;span style='color:red;'&gt; varmista aina ett&#xE4; olet tallettanut varmistuksen turvalliseen paikkaan&lt;/span&gt;!</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -2376,8 +2376,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+15"/>
-      <source>If you don&apos;t want to see internal PrivateSend fees/transactions select &quot;Most Common&quot; as Type on the &quot;Transactions&quot; tab.</source>
-      <translation type="unfinished">If you don&apos;t want to see internal PrivateSend fees/transactions select &quot;Most Common&quot; as Type on the &quot;Transactions&quot; tab.</translation>
+      <source>If you don't want to see internal PrivateSend fees/transactions select "Most Common" as Type on the "Transactions" tab.</source>
+      <translation>Jos et halua n&#xE4;hd&#xE4; sis&#xE4;isi&#xE4; PrivateSend sekoituksen kuluja/tapahtumia, valitse "Yleiset" tyypiksi siirtotapahtumissa.</translation>
     </message>
     <message>
       <location line="+9"/>
@@ -2461,8 +2461,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="-155"/>
-      <source>Payment request network doesn&apos;t match client network.</source>
-      <translation type="unfinished">Payment request network doesn&apos;t match client network.</translation>
+      <source>Payment request network doesn't match client network.</source>
+      <translation>Maksupyynnon verkko ei t&#xE4;sm&#xE4;&#xE4; asiakasverkkon kanssa.</translation>
     </message>
     <message>
       <location line="+15"/>
@@ -3439,13 +3439,13 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     </message>
     <message>
       <location line="-488"/>
-      <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 duffs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation type="unfinished">If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 duffs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+      <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+      <translation>Jos mukautettu siirtomaksu on asetettu 1000 duff ja siirtotapahtuma on vain 250 tavua,&lt;br /&gt;t&#xE4;ll&#xF6;in "per kilotavu" maksaa vain 250 duffs siirtomaksun, kun taas "v&#xE4;hint&#xE4;&#xE4;n" maksaa 1000 duffs.&lt;br /&gt;Siirtotapahtumat jotka ovat isompia kuin kilotavu, molemmat maksaa "per kilotavu".</translation>
     </message>
     <message>
       <location line="+16"/>
-      <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 duffs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation type="unfinished">If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 duffs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+      <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "total at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+      <translation>Jos mukautettu siirtomaksu on asetettu 1000 duff ja siirtotapahtuma on vain 250 tavua,&lt;br /&gt;t&#xE4;ll&#xF6;in "per kilotavu" maksaa vain 250 duffs siirtomaksun, kun taas "yhteens&#xE4; v&#xE4;hint&#xE4;&#xE4;n" maksaa 1000 duffs.&lt;br /&gt;Siirtotapahtumat jotka ovat isompia kuin kilotavu, molemmat maksaa "per kilotavu".</translation>
     </message>
     <message>
       <location line="+33"/>
@@ -3932,8 +3932,8 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     </message>
     <message>
       <location line="+6"/>
-      <source>Enter the receiver&apos;s address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</source>
-      <translation type="unfinished">Enter the receiver&apos;s address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</translation>
+      <source>Enter the receiver's address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</source>
+      <translation>Sy&#xF6;t&#xE4; allekirjoittava osoite, viesti (varmista ett&#xE4; kopioit rivinvaihdot, v&#xE4;lily&#xF6;nnit, tabulaattorit, jne t&#xE4;sm&#xE4;lleen oikein) ja allekirjoitus alla oleviin kenttiin varmistaaksesi allekirjoituksen aitouden. Varo lukemasta enemp&#xE4;&#xE4; allekirjoitukseen kuin kuin mit&#xE4; itse viestiss&#xE4; on, v&#xE4;ltt&#xE4;&#xE4;ksesi man-in-the-middle hy&#xF6;kk&#xE4;yksen. Huom. t&#xE4;m&#xE4; todistaa vain ett&#xE4; allekirjoittava osapuoli vastaanottaa osoitteella, se ei voi todistaa l&#xE4;hett&#xE4;j&#xE4;&#xE4;.</translation>
     </message>
     <message>
       <location line="+21"/>
@@ -3957,8 +3957,8 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     </message>
     <message>
       <location filename="../signverifymessagedialog.cpp" line="+33"/>
-      <source>Click &quot;Sign Message&quot; to generate signature</source>
-      <translation type="unfinished">Click &quot;Sign Message&quot; to generate signature</translation>
+      <source>Click "Sign Message" to generate signature</source>
+      <translation>Klikkaa "Allekirjoita Viesti" luodaksesi allekirjoituksen</translation>
     </message>
     <message>
       <location line="+104"/>
@@ -4253,8 +4253,8 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     </message>
     <message>
       <location line="+7"/>
-      <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-      <translation type="unfinished">Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</translation>
+      <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+      <translation>Luodut (louhitut) varat t&#xE4;ytyy kypsy&#xE4; %1 lohkon ajan kunnes ne voidaan k&#xE4;ytt&#xE4;&#xE4;. Kun generoit t&#xE4;m&#xE4;n lohkon, se l&#xE4;hetettiin verkkoon lohkoketjuun. Jos se ep&#xE4;onnistuu p&#xE4;&#xE4;sem&#xE4;&#xE4;n lohkoketjuun sen tila tulee muuttumaan "ei hyv&#xE4;ksytty" ja sit&#xE4; ei voida k&#xE4;ytt&#xE4;&#xE4;. N&#xE4;in voi ajoittain tapahtua kun toisen solmun lohko luodaan samanaikaisesti omasi kanssa.</translation>
     </message>
     <message>
       <location line="+8"/>
@@ -4711,8 +4711,8 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     <message>
       <location line="-28"/>
       <location line="+12"/>
-      <source>InstantSend doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 STONE.</source>
-      <translation type="unfinished">InstantSend doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 STONE.</translation>
+      <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</source>
+      <translation>InstantSend ei tue n&#xE4;in korkeaa l&#xE4;hetysm&#xE4;&#xE4;r&#xE4;&#xE4; viel&#xE4;. Siirtotapahtumat on t&#xE4;ll&#xE4; hetkell&#xE4; rajoitettu %1 STONE.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -4882,8 +4882,8 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     </message>
     <message>
       <location line="+1"/>
-      <source>Can&apos;t denominate: no compatible inputs left.</source>
-      <translation type="unfinished">Can&apos;t denominate: no compatible inputs left.</translation>
+      <source>Can't denominate: no compatible inputs left.</source>
+      <translation>Ei voida denominoida: yhteensopivia sy&#xF6;tteit&#xE4; ei ole j&#xE4;ljell&#xE4;.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -4892,13 +4892,13 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     </message>
     <message>
       <location line="+1"/>
-      <source>Cannot resolve -bind address: &apos;%s&apos;</source>
-      <translation type="unfinished">Cannot resolve -bind address: &apos;%s&apos;</translation>
+      <source>Cannot resolve -bind address: '%s'</source>
+      <translation>-bind osoitteen '%s' selvitt&#xE4;minen ep&#xE4;onnistui</translation>
     </message>
     <message>
       <location line="+1"/>
-      <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
-      <translation type="unfinished">Cannot resolve -externalip address: &apos;%s&apos;</translation>
+      <source>Cannot resolve -externalip address: '%s'</source>
+      <translation>-externalip osoitteen '%s' selvitt&#xE4;minen ep&#xE4;onnistui</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -5082,8 +5082,8 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     </message>
     <message>
       <location line="+9"/>
-      <source>Invalid amount for -maxtxfee=&lt;amount&gt;: &apos;%s&apos; (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
-      <translation type="unfinished">Invalid amount for -maxtxfee=&lt;amount&gt;: &apos;%s&apos; (must be at least the minrelay fee of %s to prevent stuck transactions)</translation>
+      <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
+      <translation>Virheellinen m&#xE4;&#xE4;r&#xE4; -maxtxfee=&lt;amount&gt;: '%s' (oltava v&#xE4;hint&#xE4;&#xE4;n minimi v&#xE4;litysmaksun verran %s:sta v&#xE4;ltt&#xE4;&#xE4;ksesi jumissa olevia siirtotapahtumia)</translation>
     </message>
     <message>
       <location line="+9"/>
@@ -5161,8 +5161,8 @@ K&#xE4;&#xE4;nn&#xF6;s p&#xE4;ivitetty: 11.3.2017 by AjM.</translation>
     </message>
     <message>
       <location line="+12"/>
-      <source>Cannot resolve -whitebind address: &apos;%s&apos;</source>
-      <translation type="unfinished">Cannot resolve -whitebind address: &apos;%s&apos;</translation>
+      <source>Cannot resolve -whitebind address: '%s'</source>
+      <translation>Ei voida selvitt&#xE4;&#xE4; -whitebind osoitetta: '%s'</translation>
     </message>
     <message>
       <location line="+4"/>
@@ -5266,38 +5266,38 @@ K&#xE4;&#xE4;nn&#xF6;s p&#xE4;ivitetty: 11.3.2017 by AjM.</translation>
     </message>
     <message>
       <location line="+1"/>
-      <source>Invalid -onion address: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid -onion address: &apos;%s&apos;</translation>
+      <source>Invalid -onion address: '%s'</source>
+      <translation>Virheellinen -onion osoite: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
-      <source>Invalid -proxy address: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid -proxy address: &apos;%s&apos;</translation>
+      <source>Invalid -proxy address: '%s'</source>
+      <translation>Virheellinen proxyn osoite '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
-      <source>Invalid amount for -maxtxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid amount for -maxtxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+      <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
+      <translation>Virheellinen m&#xE4;&#xE4;r&#xE4; -maxtxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
-      <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid amount for -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+      <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
+      <translation>Virheellinen m&#xE4;&#xE4;r&#xE4; -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
-      <source>Invalid amount for -mintxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid amount for -mintxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+      <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
+      <translation>Virheellinen m&#xE4;&#xE4;r&#xE4; -mintxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
-      <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos; (must be at least %s)</source>
-      <translation type="unfinished">Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos; (must be at least %s)</translation>
+      <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
+      <translation>Virheellinen m&#xE4;&#xE4;r&#xE4; -maxtxfee=&lt;amount&gt;: '%s' (oltava v&#xE4;hint&#xE4;&#xE4;n %s)</translation>
     </message>
     <message>
       <location line="+1"/>
-      <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+      <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
+      <translation>Virheellinen m&#xE4;&#xE4;r&#xE4; -paytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+13"/>
@@ -5346,8 +5346,8 @@ K&#xE4;&#xE4;nn&#xF6;s p&#xE4;ivitetty: 11.3.2017 by AjM.</translation>
     </message>
     <message>
       <location line="+1"/>
-      <source>Need to specify a port with -whitebind: &apos;%s&apos;</source>
-      <translation type="unfinished">Need to specify a port with -whitebind: &apos;%s&apos;</translation>
+      <source>Need to specify a port with -whitebind: '%s'</source>
+      <translation>Tarvitaan m&#xE4;&#xE4;ritell&#xE4; portti -whitebind: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -5556,13 +5556,13 @@ K&#xE4;&#xE4;nn&#xF6;s p&#xE4;ivitetty: 11.3.2017 by AjM.</translation>
     </message>
     <message>
       <location line="-72"/>
-      <source>Can&apos;t find random Masternode.</source>
-      <translation type="unfinished">Can&apos;t find random Masternode.</translation>
+      <source>Can't find random Masternode.</source>
+      <translation>Satunnaista Masternodea ei l&#xF6;ydy.</translation>
     </message>
     <message>
       <location line="+1"/>
-      <source>Can&apos;t mix while sync in progress.</source>
-      <translation type="unfinished">Can&apos;t mix while sync in progress.</translation>
+      <source>Can't mix while sync in progress.</source>
+      <translation>Ei voida sekoittaa synkronoinnin aikana.</translation>
     </message>
     <message>
       <location line="+15"/>
@@ -5571,8 +5571,8 @@ K&#xE4;&#xE4;nn&#xF6;s p&#xE4;ivitetty: 11.3.2017 by AjM.</translation>
     </message>
     <message>
       <location line="+57"/>
-      <source>Invalid netmask specified in -whitelist: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid netmask specified in -whitelist: &apos;%s&apos;</translation>
+      <source>Invalid netmask specified in -whitelist: '%s'</source>
+      <translation>Virheellinen verkkomaski m&#xE4;&#xE4;ritelty -whitelist: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -5671,8 +5671,8 @@ K&#xE4;&#xE4;nn&#xF6;s p&#xE4;ivitetty: 11.3.2017 by AjM.</translation>
     </message>
     <message>
       <location line="+6"/>
-      <source>InstantSend doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 STONE.</source>
-      <translation type="unfinished">InstantSend doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 STONE.</translation>
+      <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</source>
+      <translation>InstantSend ei tue n&#xE4;in korkeaa l&#xE4;hetysm&#xE4;&#xE4;r&#xE4;&#xE4; viel&#xE4;. Siirtotapahtumat on t&#xE4;ll&#xE4; hetkell&#xE4; rajoitettu %1 STONE.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5706,8 +5706,8 @@ K&#xE4;&#xE4;nn&#xF6;s p&#xE4;ivitetty: 11.3.2017 by AjM.</translation>
     </message>
     <message>
       <location line="+9"/>
-      <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong Stone Core will not work properly.</source>
-      <translation type="unfinished">Please check that your computer&apos;s date and time are correct! If your clock is wrong Stone Core will not work properly.</translation>
+      <source>Please check that your computer's date and time are correct! If your clock is wrong Stone Core will not work properly.</source>
+      <translation>Tarkista ett&#xE4; tietokoneesi kellonaika ja p&#xE4;iv&#xE4;m&#xE4;&#xE4;r&#xE4; ovat oikein! Proton ei toimi oikein v&#xE4;&#xE4;r&#xE4;ll&#xE4; p&#xE4;iv&#xE4;m&#xE4;&#xE4;r&#xE4;ll&#xE4; ja/tai kellonajalla.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5756,8 +5756,8 @@ K&#xE4;&#xE4;nn&#xF6;s p&#xE4;ivitetty: 11.3.2017 by AjM.</translation>
     </message>
     <message>
       <location line="+2"/>
-      <source>The block database contains a block which appears to be from the future. This may be due to your computer&apos;s date and time being set incorrectly. Only rebuild the block database if you are sure that your computer&apos;s date and time are correct</source>
-      <translation type="unfinished">The block database contains a block which appears to be from the future. This may be due to your computer&apos;s date and time being set incorrectly. Only rebuild the block database if you are sure that your computer&apos;s date and time are correct</translation>
+      <source>The block database contains a block which appears to be from the future. This may be due to your computer's date and time being set incorrectly. Only rebuild the block database if you are sure that your computer's date and time are correct</source>
+      <translation>Lohkotietokanta sis&#xE4;lt&#xE4;&#xE4; lohkon joka n&#xE4;ytt&#xE4;isi olevan tulevaisuudesta. T&#xE4;m&#xE4; voi johtua siit&#xE4; ett&#xE4; tietokoneesi kello/p&#xE4;iv&#xE4;m&#xE4;&#xE4;r&#xE4; on v&#xE4;&#xE4;rin asetettu. Uudelleen rakenna lohkotietokanta vain jos olet varma ett&#xE4; kello/p&#xE4;iv&#xE4;m&#xE4;&#xE4;r&#xE4; on oikein.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -5787,8 +5787,8 @@ V&#xE4;henn&#xE4; uakommenttien m&#xE4;&#xE4;r&#xE4;&#xE4; tai kokoa.</translati
     </message>
     <message>
       <location line="+6"/>
-      <source>Unsupported argument -socks found. Setting SOCKS version isn&apos;t possible anymore, only SOCKS5 proxies are supported.</source>
-      <translation type="unfinished">Unsupported argument -socks found. Setting SOCKS version isn&apos;t possible anymore, only SOCKS5 proxies are supported.</translation>
+      <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
+      <translation>Ei tuettu argumentti -socks l&#xF6;ydetty. SOCKS version asettaminen ei ole en&#xE4;&#xE4; mahdollista, vain SOCKS5 proxyt ovat tuettuja.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5827,13 +5827,13 @@ V&#xE4;henn&#xE4; uakommenttien m&#xE4;&#xE4;r&#xE4;&#xE4; tai kokoa.</translati
     </message>
     <message>
       <location line="+3"/>
-      <source>Wallet is locked, can&apos;t replenish keypool! Automatic backups and mixing are disabled, please unlock your wallet to replenish keypool.</source>
-      <translation type="unfinished">Wallet is locked, can&apos;t replenish keypool! Automatic backups and mixing are disabled, please unlock your wallet to replenish keypool.</translation>
+      <source>Wallet is locked, can't replenish keypool! Automatic backups and mixing are disabled, please unlock your wallet to replenish keypool.</source>
+      <translation>Lompakko on lukittu, osoitevaraston t&#xE4;ydent&#xE4;minen ei onnistu! Automaattinen varmistus ja sekoitus ei ole k&#xE4;yt&#xF6;ss&#xE4;, avaa lompakon lukitus t&#xE4;ydent&#xE4;&#xE4;ksesi osoitevaraston.</translation>
     </message>
     <message>
       <location line="+6"/>
-      <source>Warning: Unknown block versions being mined! It&apos;s possible unknown rules are in effect</source>
-      <translation type="unfinished">Warning: Unknown block versions being mined! It&apos;s possible unknown rules are in effect</translation>
+      <source>Warning: Unknown block versions being mined! It's possible unknown rules are in effect</source>
+      <translation>Varoitus: Tuntemattomia lohkoversioita louhitaan! On mahdollista ett&#xE4; tuntemattomia s&#xE4;&#xE4;nt&#xF6;j&#xE4; on k&#xE4;yt&#xF6;ss&#xE4;</translation>
     </message>
     <message>
       <location line="+19"/>
@@ -5982,8 +5982,8 @@ V&#xE4;henn&#xE4; uakommenttien m&#xE4;&#xE4;r&#xE4;&#xE4; tai kokoa.</translati
     </message>
     <message>
       <location line="+4"/>
-      <source>Invalid amount for -fallbackfee=&lt;amount&gt;: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid amount for -fallbackfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+      <source>Invalid amount for -fallbackfee=&lt;amount&gt;: '%s'</source>
+      <translation>Virheellinen m&#xE4;&#xE4;r&#xE4; -fallbackfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -6187,8 +6187,8 @@ V&#xE4;henn&#xE4; uakommenttien m&#xE4;&#xE4;r&#xE4;&#xE4; tai kokoa.</translati
     </message>
     <message>
       <location line="+1"/>
-      <source>Wasn&apos;t able to create wallet backup folder %s!</source>
-      <translation type="unfinished">Wasn&apos;t able to create wallet backup folder %s!</translation>
+      <source>Wasn't able to create wallet backup folder %s!</source>
+      <translation>Varmistushakemiston luonti ep&#xE4;onnistui %s!</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -6382,8 +6382,8 @@ V&#xE4;henn&#xE4; uakommenttien m&#xE4;&#xE4;r&#xE4;&#xE4; tai kokoa.</translati
     </message>
     <message>
       <location line="+2"/>
-      <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
-      <translation type="unfinished">Unknown network specified in -onlynet: &apos;%s&apos;</translation>
+      <source>Unknown network specified in -onlynet: '%s'</source>
+      <translation>Tuntematon verkkom&#xE4;&#xE4;ritys -onlynet parametrissa: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
