@@ -1035,7 +1035,7 @@
     <message>
       <location line="+163"/>
       <source>Please switch to "List mode" to use this function.</source>
-      <translation type="unfinished">Please switch to "List mode" to use this function.</translation>
+      <translation>&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x43F;&#x435;&#x440;&#x435;&#x43A;&#x43B;&#x44E;&#x447;&#x438;&#x442;&#x435;&#x441;&#x44C; &#x432; &#x440;&#x435;&#x436;&#x438;&#x43C; &#x441;&#x43F;&#x438;&#x441;&#x43A;&#x430; &#x434;&#x43B;&#x44F; &#x438;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F; &#x44D;&#x442;&#x43E;&#x439; &#x444;&#x443;&#x43D;&#x43A;&#x446;&#x438;&#x438;.</translation>
     </message>
     <message>
       <location line="+205"/>
@@ -1070,7 +1070,7 @@
     <message>
       <location line="+5"/>
       <source>This label turns red if the priority is smaller than "medium".</source>
-      <translation type="unfinished">This label turns red if the priority is smaller than "medium".</translation>
+      <translation>&#x42D;&#x442;&#x430; &#x43C;&#x435;&#x442;&#x43A;&#x430; &#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x438;&#x442;&#x441;&#x44F; &#x43A;&#x440;&#x430;&#x441;&#x43D;&#x43E;&#x439;, &#x435;&#x441;&#x43B;&#x438; &#x43F;&#x440;&#x438;&#x43E;&#x440;&#x438;&#x442;&#x435;&#x442; &#x43D;&#x438;&#x436;&#x435;, &#x447;&#x435;&#x43C; "&#x441;&#x440;&#x435;&#x434;&#x43D;&#x438;&#x439;".</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -1239,17 +1239,17 @@
     <message>
       <location line="-29"/>
       <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
+      <translation>PrivateSend &#x443;&#x441;&#x43F;&#x435;&#x448;&#x43D;&#x43E; &#x443;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43B;&#x435;&#x43D; &#x432; &#x440;&#x435;&#x436;&#x438;&#x43C; &#x431;&#x430;&#x437;&#x43E;&#x432;&#x43E;&#x439; &#x43F;&#x440;&#x438;&#x432;&#x430;&#x442;&#x43D;&#x43E;&#x441;&#x442;&#x438; (%1 &#x438; 2 &#x440;&#x430;&#x443;&#x43D;&#x434;&#x430;). &#x412;&#x44B; &#x43C;&#x43E;&#x436;&#x435;&#x442;&#x435; &#x438;&#x437;&#x43C;&#x435;&#x43D;&#x438;&#x442;&#x44C; &#x44D;&#x442;&#x43E; &#x432; &#x43B;&#x44E;&#x431;&#x43E;&#x435; &#x432;&#x440;&#x435;&#x43C;&#x44F;, &#x438;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x443;&#x44F; &#x43E;&#x43A;&#x43D;&#x43E; &#x43D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x435;&#x43A;.</translation>
     </message>
     <message>
       <location line="+15"/>
       <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
+      <translation>PrivateSend &#x443;&#x441;&#x43F;&#x435;&#x448;&#x43D;&#x43E; &#x443;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43B;&#x435;&#x43D; &#x432; &#x440;&#x435;&#x436;&#x438;&#x43C; &#x432;&#x44B;&#x441;&#x43E;&#x43A;&#x43E;&#x439; &#x43F;&#x440;&#x438;&#x432;&#x430;&#x442;&#x43D;&#x43E;&#x441;&#x442;&#x438; (%1 &#x438; 8 &#x440;&#x430;&#x443;&#x43D;&#x434;&#x43E;&#x432;). &#x412;&#x44B; &#x43C;&#x43E;&#x436;&#x435;&#x442;&#x435; &#x438;&#x437;&#x43C;&#x435;&#x43D;&#x438;&#x442;&#x44C; &#x44D;&#x442;&#x43E; &#x432; &#x43B;&#x44E;&#x431;&#x43E;&#x435; &#x432;&#x440;&#x435;&#x43C;&#x44F;, &#x438;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x443;&#x44F; &#x43E;&#x43A;&#x43D;&#x43E; &#x43D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x435;&#x43A;.</translation>
     </message>
     <message>
       <location line="+15"/>
       <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
+      <translation>PrivateSend &#x443;&#x441;&#x43F;&#x435;&#x448;&#x43D;&#x43E; &#x443;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43B;&#x435;&#x43D; &#x432; &#x440;&#x435;&#x436;&#x438;&#x43C; &#x43C;&#x430;&#x43A;&#x441;&#x438;&#x43C;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;&#x439; &#x43F;&#x440;&#x438;&#x432;&#x430;&#x442;&#x43D;&#x43E;&#x441;&#x442;&#x438; (%1 &#x438; 16 &#x440;&#x430;&#x443;&#x43D;&#x434;&#x43E;&#x432;). &#x412;&#x44B; &#x43C;&#x43E;&#x436;&#x435;&#x442;&#x435; &#x438;&#x437;&#x43C;&#x435;&#x43D;&#x438;&#x442;&#x44C; &#x44D;&#x442;&#x43E; &#x432; &#x43B;&#x44E;&#x431;&#x43E;&#x435; &#x432;&#x440;&#x435;&#x43C;&#x44F;, &#x438;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x443;&#x44F; &#x43E;&#x43A;&#x43D;&#x43E; &#x43D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x435;&#x43A;.</translation>
     </message>
   </context>
   <context>
@@ -1302,12 +1302,12 @@
     <message>
       <location line="+71"/>
       <source>The entered address "%1" is not a valid Proton address.</source>
-      <translation type="unfinished">The entered address "%1" is not a valid Proton address.</translation>
+      <translation>&#x412;&#x432;&#x435;&#x434;&#x451;&#x43D;&#x43D;&#x44B;&#x439; &#x430;&#x434;&#x440;&#x435;&#x441; "%1" &#x43D;&#x435; &#x44F;&#x432;&#x43B;&#x44F;&#x435;&#x442;&#x441;&#x44F; &#x43F;&#x440;&#x430;&#x432;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x43C; &#x430;&#x434;&#x440;&#x435;&#x441;&#x43E;&#x43C; Proton.</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>The entered address "%1" is already in the address book.</source>
-      <translation type="unfinished">The entered address "%1" is already in the address book.</translation>
+      <translation>&#x412;&#x432;&#x435;&#x434;&#x451;&#x43D;&#x43D;&#x44B;&#x439; &#x430;&#x434;&#x440;&#x435;&#x441; "%1" &#x443;&#x436;&#x435; &#x43D;&#x430;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x441;&#x44F; &#x432; &#x430;&#x434;&#x440;&#x435;&#x441;&#x43D;&#x43E;&#x439; &#x43A;&#x43D;&#x438;&#x433;&#x435;.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -1414,12 +1414,12 @@
     <message>
       <location line="+4"/>
       <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Proton in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
-      <translation type="unfinished">&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Proton in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </translation>
+      <translation>&lt;h3&gt;&#x41E;&#x441;&#x43D;&#x43E;&#x432;&#x44B; PrivateSend&lt;/h3&gt;PrivateSend &#x43F;&#x43E;&#x437;&#x432;&#x43E;&#x43B;&#x44F;&#x435;&#x442; &#x412;&#x430;&#x43C; &#x43F;&#x43E;&#x43B;&#x443;&#x447;&#x438;&#x442;&#x44C; &#x43D;&#x430;&#x441;&#x442;&#x43E;&#x44F;&#x449;&#x443;&#x44E; &#x444;&#x438;&#x43D;&#x430;&#x43D;&#x441;&#x43E;&#x432;&#x443;&#x44E; &#x43A;&#x43E;&#x43D;&#x444;&#x438;&#x434;&#x435;&#x43D;&#x446;&#x438;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;&#x441;&#x442;&#x44C; &#x437;&#x430; &#x441;&#x447;&#x435;&#x442; &#x441;&#x43A;&#x440;&#x44B;&#x442;&#x438;&#x44F; &#x438;&#x441;&#x442;&#x43E;&#x447;&#x43D;&#x438;&#x43A;&#x43E;&#x432; &#x412;&#x430;&#x448;&#x438;&#x445; &#x441;&#x440;&#x435;&#x434;&#x441;&#x442;&#x432;. &#x412;&#x441;&#x435; Proton &#x432;  &#x412;&#x430;&#x448;&#x435;&#x43C; &#x43A;&#x43E;&#x448;&#x435;&#x43B;&#x44C;&#x43A;&#x435; &#x441;&#x43E;&#x441;&#x442;&#x43E;&#x44F;&#x442; &#x438;&#x437; &#x440;&#x430;&#x437;&#x43B;&#x438;&#x447;&#x43D;&#x44B;&#x445; ""&#x432;&#x445;&#x43E;&#x434;&#x43E;&#x432;", &#x412;&#x44B; &#x43C;&#x43E;&#x436;&#x435;&#x442;&#x435; &#x434;&#x443;&#x43C;&#x430;&#x442;&#x44C; &#x43E; &#x43D;&#x438;&#x445; &#x43A;&#x430;&#x43A; &#x43E;&#x431; &#x43E;&#x442;&#x434;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x445; &#x43C;&#x43E;&#x43D;&#x435;&#x442;&#x430;&#x445;.&lt;br&gt;PrivateSend &#x438;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x443;&#x435;&#x442; &#x438;&#x43D;&#x43D;&#x43E;&#x432;&#x430;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x44B;&#x439; &#x43F;&#x440;&#x43E;&#x446;&#x435;&#x441;&#x441; &#x434;&#x43B;&#x44F; &#x43F;&#x435;&#x440;&#x435;&#x43C;&#x435;&#x448;&#x438;&#x432;&#x430;&#x43D;&#x438;&#x44F; &#x412;&#x430;&#x448;&#x438;&#x445; &#x432;&#x445;&#x43E;&#x434;&#x43E;&#x432; &#x441;&#x43E; &#x432;&#x445;&#x43E;&#x434;&#x430;&#x43C;&#x438; &#x435;&#x449;&#x435; &#x434;&#x432;&#x43E;&#x438;&#x445; &#x447;&#x435;&#x43B;&#x43E;&#x432;&#x435;&#x43A;, &#x43D;&#x43E; &#x43F;&#x440;&#x438; &#x44D;&#x442;&#x43E;&#x43C; &#x412;&#x430;&#x448;&#x438; &#x43C;&#x43E;&#x43D;&#x435;&#x442;&#x44B; &#x43D;&#x438;&#x43A;&#x43E;&#x433;&#x434;&#x430; &#x43D;&#x435; &#x43F;&#x43E;&#x43A;&#x438;&#x434;&#x430;&#x44E;&#x442; &#x412;&#x430;&#x448; &#x43A;&#x43E;&#x448;&#x435;&#x43B;&#x435;&#x43A;. &#x412;&#x44B; &#x441;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x44F;&#x435;&#x442;&#x435; &#x43A;&#x43E;&#x43D;&#x442;&#x440;&#x43E;&#x43B;&#x44C; &#x43D;&#x430;&#x434; &#x412;&#x430;&#x448;&#x438;&#x43C;&#x438; &#x434;&#x435;&#x43D;&#x44C;&#x433;&#x430;&#x43C;&#x438; &#x43D;&#x430; &#x43F;&#x440;&#x43E;&#x442;&#x44F;&#x436;&#x435;&#x43D;&#x438;&#x438; &#x432;&#x441;&#x435;&#x433;&#x43E; &#x432;&#x440;&#x435;&#x43C;&#x435;&#x43D;&#x438;.&lt;hr&gt; &lt;b&gt;PrivateSend &#x440;&#x430;&#x431;&#x43E;&#x442;&#x430;&#x435;&#x442; &#x442;&#x430;&#x43A;:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend &#x43D;&#x430;&#x447;&#x438;&#x43D;&#x430;&#x435;&#x442;&#x441;&#x44F; &#x441; &#x440;&#x430;&#x437;&#x431;&#x438;&#x435;&#x43D;&#x438;&#x44F; &#x412;&#x430;&#x448;&#x438;&#x445; &#x432;&#x445;&#x43E;&#x434;&#x43E;&#x432; &#x442;&#x440;&#x430;&#x43D;&#x437;&#x430;&#x43A;&#x446;&#x438;&#x439; &#x43D;&#x430; &#x441;&#x442;&#x430;&#x43D;&#x434;&#x430;&#x440;&#x442;&#x43D;&#x44B;&#x435; &#x43D;&#x43E;&#x43C;&#x438;&#x43D;&#x430;&#x43B;&#x44B;. &#x422;&#x430;&#x43A;&#x438;&#x43C;&#x438; &#x43D;&#x43E;&#x43C;&#x438;&#x43D;&#x430;&#x43B;&#x430;&#x43C;&#x438; &#x44F;&#x432;&#x43B;&#x44F;&#x44E;&#x442;&#x441;&#x44F; 0.01 STONE, 0.1 STONE, 1 STONE &#x438; 10 STONE -- &#x447;&#x442;&#x43E;-&#x442;&#x43E; &#x432;&#x440;&#x43E;&#x434;&#x435; &#x43A;&#x443;&#x43F;&#x44E;&#x440;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x43C;&#x438; &#x432;&#x44B; &#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x443;&#x435;&#x442;&#x435;&#x441;&#x44C; &#x43A;&#x430;&#x436;&#x434;&#x44B;&#x439; &#x434;&#x435;&#x43D;&#x44C;.&lt;/li&gt; &lt;li&gt;&#x412;&#x430;&#x448; &#x43A;&#x43E;&#x448;&#x435;&#x43B;&#x435;&#x43A; &#x437;&#x430;&#x442;&#x435;&#x43C; &#x43E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x44F;&#x435;&#x442; &#x437;&#x430;&#x43F;&#x440;&#x43E;&#x441;&#x44B; &#x43A; &#x43E;&#x441;&#x43E;&#x431;&#x44B;&#x43C; &#x43E;&#x431;&#x440;&#x430;&#x437;&#x43E;&#x43C; &#x43D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x435;&#x43D;&#x43D;&#x44B;&#x43C; &#x441;&#x435;&#x442;&#x435;&#x432;&#x44B;&#x43C; &#x443;&#x437;&#x43B;&#x430;&#x43C;, &#x43D;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x43C;&#x44B;&#x43C; "&#x43C;&#x430;&#x441;&#x442;&#x435;&#x440;&#x43D;&#x43E;&#x434;&#x430;&#x43C;&#x438;". &#x42D;&#x442;&#x438; &#x43C;&#x430;&#x441;&#x442;&#x435;&#x440;&#x43D;&#x43E;&#x434;&#x44B; &#x437;&#x43D;&#x430;&#x44E;&#x442; &#x442;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E; &#x442;&#x43E;, &#x447;&#x442;&#x43E; &#x412;&#x44B; &#x445;&#x43E;&#x442;&#x438;&#x442;&#x435; &#x43F;&#x435;&#x440;&#x435;&#x43C;&#x435;&#x448;&#x430;&#x442;&#x44C; &#x43E;&#x43F;&#x440;&#x435;&#x434;&#x435;&#x43B;&#x435;&#x43D;&#x43D;&#x44B;&#x435; &#x43D;&#x43E;&#x43C;&#x438;&#x43D;&#x430;&#x43B;&#x44B;. &#x41D;&#x438;&#x43A;&#x430;&#x43A;&#x43E;&#x439; &#x438;&#x434;&#x435;&#x43D;&#x442;&#x438;&#x444;&#x438;&#x446;&#x438;&#x440;&#x443;&#x44E;&#x449;&#x435;&#x439; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x438; &#x43C;&#x430;&#x441;&#x442;&#x435;&#x440;&#x43D;&#x43E;&#x434;&#x430;&#x43C; &#x43D;&#x435; &#x43E;&#x442;&#x440;&#x430;&#x432;&#x43B;&#x44F;&#x435;&#x442;&#x441;&#x44F;, &#x442;&#x430;&#x43A; &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x438; &#x43D;&#x435; &#x437;&#x43D;&#x430;&#x44E;&#x442; "&#x43A;&#x442;&#x43E;" &#x412;&#x44B; &#x43A;&#x43E;&#x43D;&#x43A;&#x440;&#x435;&#x442;&#x43D;&#x43E;.&lt;/li&gt; &lt;li&gt;&#x421;&#x435;&#x441;&#x441;&#x438;&#x44F; &#x43F;&#x435;&#x440;&#x435;&#x43C;&#x435;&#x448;&#x438;&#x432;&#x430;&#x43D;&#x438;&#x44F; &#x43D;&#x430;&#x447;&#x438;&#x43D;&#x430;&#x435;&#x442;&#x441;&#x44F; &#x442;&#x43E;&#x433;&#x434;&#x430;, &#x43A;&#x43E;&#x433;&#x434;&#x430; &#x435;&#x449;&#x435; &#x434;&#x432;&#x43E;&#x435; &#x447;&#x435;&#x43B;&#x43E;&#x432;&#x435;&#x43A; &#x43E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x44F;&#x44E;&#x442; &#x441;&#x445;&#x43E;&#x436;&#x435;&#x435; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;, &#x43F;&#x43E;&#x434;&#x442;&#x432;&#x435;&#x440;&#x436;&#x434;&#x430;&#x44E;&#x449;&#x435;&#x435;, &#x447;&#x442;&#x43E; &#x43E;&#x43D;&#x438; &#x445;&#x43E;&#x442;&#x44F;&#x442; &#x43F;&#x435;&#x440;&#x435;&#x43C;&#x435;&#x448;&#x430;&#x442;&#x44C; &#x442;&#x43E;&#x447;&#x43D;&#x43E; &#x442;&#x430;&#x43A;&#x43E;&#x439; &#x436;&#x435; &#x43D;&#x43E;&#x43C;&#x438;&#x43D;&#x430;&#x43B;. &#x41C;&#x430;&#x441;&#x442;&#x435;&#x440;&#x43D;&#x43E;&#x434;&#x430; &#x43F;&#x435;&#x440;&#x435;&#x43C;&#x435;&#x448;&#x438;&#x432;&#x430;&#x435;&#x442; &#x432;&#x445;&#x43E;&#x434;&#x44B; &#x438; &#x43F;&#x440;&#x43E;&#x441;&#x438;&#x442; &#x43A;&#x43E;&#x448;&#x435;&#x43B;&#x44C;&#x43A;&#x438; &#x432;&#x441;&#x435;&#x445; &#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x435;&#x439; &#x43E;&#x441;&#x443;&#x449;&#x435;&#x441;&#x442;&#x432;&#x438;&#x442;&#x44C; &#x43F;&#x43B;&#x430;&#x442;&#x435;&#x436;&#x438; &#x43F;&#x43E; &#x43D;&#x438;&#x43C;. &#x412;&#x430;&#x448; &#x43A;&#x43E;&#x448;&#x435;&#x43B;&#x435;&#x43A; &#x43E;&#x441;&#x443;&#x449;&#x435;&#x441;&#x442;&#x432;&#x43B;&#x44F;&#x435;&#x442; &#x432;&#x44B;&#x43F;&#x43B;&#x430;&#x442;&#x443; &#x441;&#x430;&#x43C;&#x43E;&#x43C;&#x443; &#x441;&#x435;&#x431;&#x435;, &#x43D;&#x43E; &#x43D;&#x430; &#x434;&#x440;&#x443;&#x433;&#x43E;&#x439; &#x430;&#x434;&#x440;&#x435;&#x441; (&#x442;&#x43E;&#x436;&#x435; &#x438;&#x437; &#x432;&#x430;&#x448;&#x435;&#x433;&#x43E; &#x43A;&#x43E;&#x448;&#x435;&#x43B;&#x44C;&#x43A;&#x430;).&lt;/li&gt; &lt;li&gt;&#x414;&#x43B;&#x44F; &#x441;&#x43A;&#x440;&#x44B;&#x442;&#x438;&#x44F; &#x412;&#x430;&#x448;&#x438;&#x445; &#x441;&#x440;&#x435;&#x434;&#x441;&#x442;&#x432; &#x43A;&#x43E;&#x448;&#x435;&#x43B;&#x435;&#x43A; &#x434;&#x43E;&#x43B;&#x436;&#x435;&#x43D; &#x43F;&#x43E;&#x432;&#x442;&#x43E;&#x440;&#x438;&#x442;&#x44C; &#x44D;&#x442;&#x43E;&#x442; &#x43F;&#x440;&#x43E;&#x446;&#x435;&#x441;&#x441; &#x43D;&#x435;&#x441;&#x43A;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E; &#x440;&#x430;&#x437; &#x441; &#x43A;&#x430;&#x436;&#x434;&#x44B;&#x43C; &#x43D;&#x43E;&#x43C;&#x438;&#x43D;&#x430;&#x43B;&#x43E;&#x43C;. &#x41A;&#x430;&#x436;&#x434;&#x44B;&#x439; &#x440;&#x430;&#x437;, &#x43A;&#x43E;&#x433;&#x434;&#x430; &#x442;&#x430;&#x43A;&#x43E;&#x439; &#x43F;&#x440;&#x43E;&#x446;&#x435;&#x441;&#x441; &#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x430;&#x435;&#x442;&#x441;&#x44F;, &#x43D;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x442;&#x441;&#x44F; "&#x440;&#x430;&#x443;&#x43D;&#x434;&#x43E;&#x43C;". &#x421; &#x43A;&#x430;&#x436;&#x434;&#x44B;&#x43C; &#x440;&#x430;&#x443;&#x43D;&#x434;&#x43E;&#x43C; PrivateSend &#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x438;&#x442;&#x441;&#x44F; &#x44D;&#x43A;&#x441;&#x43F;&#x43E;&#x43D;&#x435;&#x43D;&#x446;&#x438;&#x430;&#x43B;&#x44C;&#x43D;&#x43E; &#x441;&#x43B;&#x43E;&#x436;&#x43D;&#x435;&#x435; &#x43E;&#x43F;&#x440;&#x435;&#x434;&#x435;&#x43B;&#x438;&#x442;&#x44C; &#x43E;&#x442;&#x43A;&#x443;&#x434;&#x430; &#x43F;&#x43E;&#x441;&#x442;&#x443;&#x43F;&#x438;&#x43B;&#x438; &#x441;&#x440;&#x435;&#x434;&#x441;&#x442;&#x432;&#x430;.&lt;/li&gt; &lt;li&gt;&#x41F;&#x440;&#x43E;&#x446;&#x435;&#x441;&#x441; &#x43F;&#x435;&#x440;&#x435;&#x43C;&#x435;&#x448;&#x438;&#x432;&#x430;&#x43D;&#x438;&#x44F; &#x432;&#x44B;&#x43F;&#x43E;&#x43B;&#x43D;&#x44F;&#x435;&#x442;&#x441;&#x44F; &#x432; &#x444;&#x43E;&#x43D;&#x435;, &#x431;&#x435;&#x437; &#x443;&#x447;&#x430;&#x441;&#x442;&#x438;&#x44F; &#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44F;. &#x41A;&#x43E;&#x433;&#x434;&#x430; &#x412;&#x44B; &#x437;&#x430;&#x445;&#x43E;&#x442;&#x438;&#x442;&#x435; &#x43F;&#x440;&#x43E;&#x432;&#x435;&#x441;&#x442;&#x438; &#x442;&#x440;&#x430;&#x43D;&#x437;&#x430;&#x43A;&#x446;&#x438;&#x44E;, &#x441;&#x440;&#x435;&#x434;&#x441;&#x442;&#x432;&#x430; &#x443;&#x436;&#x435; &#x431;&#x443;&#x434;&#x443;&#x442; &#x430;&#x43D;&#x43E;&#x43D;&#x438;&#x43C;&#x438;&#x437;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x44B;. &#x414;&#x43E;&#x43F;&#x43E;&#x43B;&#x43D;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x43E; &#x436;&#x434;&#x430;&#x442;&#x44C; &#x43D;&#x435; &#x442;&#x440;&#x435;&#x431;&#x443;&#x435;&#x442;&#x441;&#x44F;.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;&#x412;&#x410;&#x416;&#x41D;&#x41E;:&lt;/b&gt; &#x412;&#x430;&#x448; &#x43A;&#x43E;&#x448;&#x435;&#x43B;&#x435;&#x43A; &#x441;&#x43E;&#x434;&#x435;&#x440;&#x436;&#x438;&#x442; 1000 &#x430;&#x434;&#x440;&#x435;&#x441;&#x43E;&#x432;. &#x41A;&#x430;&#x436;&#x434;&#x43E;&#x435; &#x43F;&#x435;&#x440;&#x435;&#x43C;&#x435;&#x448;&#x438;&#x432;&#x430;&#x43D;&#x438;&#x435; &#x438;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x443;&#x435;&#x442; &#x434;&#x43E; 9 &#x438;&#x437; &#x44D;&#x442;&#x438;&#x445; &#x430;&#x434;&#x440;&#x435;&#x441;&#x43E;&#x432;. &#x42D;&#x442;&#x43E; &#x43E;&#x437;&#x43D;&#x430;&#x447;&#x430;&#x435;&#x442;, &#x447;&#x442;&#x43E; 1000 &#x430;&#x434;&#x440;&#x435;&#x441;&#x43E;&#x432; &#x445;&#x432;&#x430;&#x442;&#x438;&#x442; &#x43F;&#x440;&#x438;&#x43C;&#x435;&#x440;&#x43D;&#x43E; &#x43D;&#x430; 100 &#x43F;&#x435;&#x440;&#x435;&#x43C;&#x435;&#x448;&#x438;&#x432;&#x430;&#x43D;&#x438;&#x439;. &#x41A;&#x43E;&#x433;&#x434;&#x430; 900 &#x430;&#x434;&#x440;&#x435;&#x441;&#x43E;&#x432; &#x431;&#x443;&#x434;&#x443;&#x442; &#x443;&#x436;&#x435; &#x438;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x43D;&#x44B;, &#x412;&#x430;&#x448; &#x43A;&#x43E;&#x448;&#x435;&#x43B;&#x435;&#x43A; &#x434;&#x43E;&#x43B;&#x436;&#x435;&#x43D; &#x441;&#x43E;&#x437;&#x434;&#x430;&#x442;&#x44C; &#x43D;&#x43E;&#x432;&#x44B;&#x435; &#x430;&#x434;&#x440;&#x435;&#x441;&#x430;. &#x41E;&#x434;&#x43D;&#x430;&#x43A;&#x43E;, &#x43E;&#x43D; &#x43C;&#x43E;&#x436;&#x435;&#x442; &#x441;&#x434;&#x435;&#x43B;&#x430;&#x442;&#x44C; &#x44D;&#x442;&#x43E;, &#x442;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E; &#x435;&#x441;&#x43B;&#x438; &#x443; &#x412;&#x430;&#x441; &#x432;&#x43A;&#x43B;&#x44E;&#x447;&#x435;&#x43D;&#x44B; &#x430;&#x432;&#x442;&#x43E;&#x43C;&#x430;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x440;&#x435;&#x437;&#x435;&#x440;&#x432;&#x43D;&#x44B;&#x435; &#x43A;&#x43E;&#x43F;&#x438;&#x438;.&lt;br&gt;&#x421;&#x43E;&#x43E;&#x442;&#x432;&#x435;&#x442;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;, &#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44F;&#x43C; &#x441; &#x43E;&#x442;&#x43A;&#x43B;&#x44E;&#x447;&#x435;&#x43D;&#x43D;&#x44B;&#x43C; &#x440;&#x435;&#x437;&#x435;&#x440;&#x432;&#x43D;&#x44B;&#x43C; &#x43A;&#x43E;&#x43F;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x435;&#x43C; PrivateSend &#x43D;&#x435; &#x434;&#x43E;&#x441;&#x442;&#x443;&#x43F;&#x435;&#x43D;. &lt;hr&gt;&#x414;&#x43E;&#x43F;&#x43E;&#x43B;&#x43D;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x430;&#x44F; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F; &#x434;&#x43E;&#x441;&#x442;&#x443;&#x43F;&#x43D;&#x430; &#x43F;&#x43E; &#x441;&#x441;&#x44B;&#x43B;&#x43A;&#x435; &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </translation>
     </message>
     <message>
       <location line="-50"/>
       <source>Set language, for example "de_DE" (default: system locale)</source>
-      <translation type="unfinished">Set language, for example "de_DE" (default: system locale)</translation>
+      <translation>&#x412;&#x44B;&#x431;&#x435;&#x440;&#x438;&#x442;&#x435; &#x44F;&#x437;&#x44B;&#x43A;, &#x43D;&#x430;&#x43F;&#x440;&#x438;&#x43C;&#x435;&#x440; "de_DE" (&#x43F;&#x43E; &#x443;&#x43C;&#x43E;&#x43B;&#x447;&#x430;&#x43D;&#x438;&#x44E;: &#x43A;&#x430;&#x43A; &#x432; &#x441;&#x438;&#x441;&#x442;&#x435;&#x43C;&#x435;)</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -1472,7 +1472,7 @@
     <message>
       <location line="+1"/>
       <source>Error: Specified data directory "%1" cannot be created.</source>
-      <translation type="unfinished">Error: Specified data directory "%1" cannot be created.</translation>
+      <translation>&#x41E;&#x448;&#x438;&#x431;&#x43A;&#x430;: &#x43D;&#x435; &#x443;&#x434;&#x430;&#x43B;&#x43E;&#x441;&#x44C; &#x441;&#x43E;&#x437;&#x434;&#x430;&#x442;&#x44C; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x43D;&#x44B;&#x439; &#x43A;&#x430;&#x442;&#x430;&#x43B;&#x43E;&#x433; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x445; "%1".</translation>
     </message>
     <message>
       <location line="+25"/>
@@ -1505,7 +1505,7 @@
     <message>
       <location line="+16"/>
       <source>Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your masternode should be running but you still do not see "ENABLED" in "Status" field.</source>
-      <translation type="unfinished">Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your masternode should be running but you still do not see "ENABLED" in "Status" field.</translation>
+      <translation>&#x41F;&#x440;&#x438;&#x43C;&#x435;&#x447;&#x430;&#x43D;&#x438;&#x435;: &#x421;&#x442;&#x430;&#x442;&#x443;&#x441; &#x412;&#x430;&#x448;&#x438;&#x445; &#x43C;&#x430;&#x441;&#x442;&#x435;&#x440;&#x43D;&#x43E;&#x434; &#x432; &#x43B;&#x43E;&#x43A;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;&#x43C; &#x43A;&#x43E;&#x448;&#x435;&#x43B;&#x44C;&#x43A;&#x435; &#x43C;&#x43E;&#x436;&#x435;&#x442; &#x431;&#x44B;&#x442;&#x44C; &#x43D;&#x435; &#x441;&#x43E;&#x432;&#x441;&#x435;&#x43C; &#x43A;&#x43E;&#x440;&#x440;&#x435;&#x43A;&#x442;&#x43D;&#x44B;&#x43C;.&lt;br /&gt;&#x412;&#x441;&#x435;&#x433;&#x434;&#x430; &#x434;&#x43E;&#x436;&#x438;&#x434;&#x430;&#x439;&#x442;&#x435;&#x441;&#x44C; &#x43E;&#x43A;&#x43E;&#x43D;&#x447;&#x430;&#x43D;&#x438;&#x44F; &#x441;&#x438;&#x43D;&#x445;&#x440;&#x43E;&#x43D;&#x438;&#x437;&#x430;&#x446;&#x438;&#x438; &#x434;&#x43E;&#x43F;&#x43E;&#x43B;&#x43D;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x445; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x445; &#x438; &#x43F;&#x435;&#x440;&#x435;&#x43F;&#x440;&#x43E;&#x432;&#x435;&#x440;&#x44F;&#x439;&#x442;&#x435; &#x441; &#x434;&#x440;&#x443;&#x433;&#x43E;&#x439; &#x43D;&#x43E;&#x434;&#x44B;,&lt;br /&gt;&#x435;&#x441;&#x43B;&#x438; &#x412;&#x430;&#x448;&#x430; &#x44C;&#x430;&#x441;&#x442;&#x435;&#x440;&#x43D;&#x43E;&#x434;&#x430; &#x434;&#x43E;&#x43B;&#x436;&#x43D;&#x430; &#x431;&#x44B;&#x442;&#x44C; &#x430;&#x43A;&#x442;&#x438;&#x432;&#x43D;&#x430;, &#x43D;&#x43E; &#x412;&#x44B; &#x435;&#x435; &#x441;&#x442;&#x430;&#x442;&#x443;&#x441; &#x432;&#x441;&#x435; &#x440;&#x430;&#x432;&#x43D;&#x43E; &#x43D;&#x435; &#x43E;&#x442;&#x43E;&#x431;&#x440;&#x430;&#x436;&#x430;&#x435;&#x442;&#x441;&#x44F; &#x43A;&#x430;&#x43A; "ENABLED".</translation>
     </message>
     <message>
       <location line="+37"/>
@@ -1632,7 +1632,7 @@
     <message>
       <location line="+1"/>
       <source>You can't use this command until masternode list is synced</source>
-      <translation type="unfinished">You can't use this command until masternode list is synced</translation>
+      <translation>&#x412;&#x44B; &#x43D;&#x435; &#x43C;&#x43E;&#x436;&#x435;&#x442;&#x435; &#x438;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x44C; &#x434;&#x430;&#x43D;&#x43D;&#x443;&#x44E; &#x43A;&#x43E;&#x43C;&#x430;&#x43D;&#x434;&#x443; &#x434;&#x43E; &#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x435;&#x43D;&#x438;&#x44F; &#x441;&#x438;&#x43D;&#x445;&#x440;&#x43E;&#x43D;&#x438;&#x437;&#x430;&#x446;&#x438;&#x438; &#x441;&#x43F;&#x438;&#x441;&#x43A;&#x430; &#x43C;&#x430;&#x441;&#x442;&#x435;&#x440;&#x43D;&#x43E;&#x434;</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -1778,7 +1778,7 @@
     <message>
       <location line="+24"/>
       <source>This amount acts as a threshold to turn off PrivateSend once it's reached.</source>
-      <translation type="unfinished">This amount acts as a threshold to turn off PrivateSend once it's reached.</translation>
+      <translation>&#x42D;&#x442;&#x43E; &#x43F;&#x43E;&#x440;&#x43E;&#x433;&#x43E;&#x432;&#x43E;&#x435; &#x437;&#x43D;&#x430;&#x447;&#x435;&#x43D;&#x438;&#x435;, &#x43F;&#x440;&#x438; &#x434;&#x43E;&#x441;&#x442;&#x438;&#x436;&#x435;&#x43D;&#x438;&#x438; &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x433;&#x43E; PrivateSend &#x43E;&#x442;&#x43A;&#x43B;&#x44E;&#x447;&#x430;&#x435;&#x442;&#x441;&#x44F;.</translation>
     </message>
     <message>
       <location line="+60"/>
@@ -2165,7 +2165,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+16"/>
       <source>Reset the current status of PrivateSend (can interrupt PrivateSend if it's in the process of Mixing, which can cost you money!)</source>
-      <translation type="unfinished">Reset the current status of PrivateSend (can interrupt PrivateSend if it's in the process of Mixing, which can cost you money!)</translation>
+      <translation>&#x421;&#x431;&#x440;&#x43E;&#x441;&#x438;&#x442;&#x44C; &#x442;&#x435;&#x43A;&#x443;&#x449;&#x438;&#x439; &#x441;&#x442;&#x430;&#x442;&#x443;&#x441; PrivateSend (&#x43C;&#x43E;&#x436;&#x43D;&#x43E; &#x43F;&#x440;&#x435;&#x440;&#x432;&#x430;&#x442;&#x44C; &#x43F;&#x440;&#x43E;&#x446;&#x435;&#x441;&#x441; &#x43F;&#x435;&#x440;&#x435;&#x43C;&#x435;&#x448;&#x438;&#x432;&#x430;&#x43D;&#x438;&#x44F; PrivateSend, &#x43D;&#x43E; &#x44D;&#x442;&#x43E; &#x43C;&#x43E;&#x436;&#x435;&#x442; &#x441;&#x442;&#x43E;&#x438;&#x442;&#x44C; &#x412;&#x430;&#x43C; &#x43D;&#x435;&#x43C;&#x43D;&#x43E;&#x433;&#x43E; &#x434;&#x435;&#x43D;&#x435;&#x433;!)</translation>
     </message>
     <message>
       <location line="+19"/>
@@ -2270,7 +2270,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-7"/>
       <source>Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</source>
-      <translation type="unfinished">Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</translation>
+      <translation>&#x41D;&#x435; &#x434;&#x43E;&#x441;&#x442;&#x430;&#x442;&#x43E;&#x447;&#x43D;&#x43E; &#x441;&#x43E;&#x432;&#x43C;&#x435;&#x441;&#x442;&#x438;&#x43C;&#x44B;&#x445; &#x441;&#x440;&#x435;&#x434;&#x441;&#x442;&#x432; &#x434;&#x43B;&#x44F; &#x430;&#x43D;&#x43E;&#x43D;&#x438;&#x43C;&#x438;&#x437;&#x430;&#x446;&#x438;&#x438; &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br/&gt;&#x431;&#x443;&#x434;&#x435;&#x442; &#x430;&#x43D;&#x43E;&#x43D;&#x438;&#x43C;&#x438;&#x437;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x43E; &#x442;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E; &lt;span style='color:red;'&gt;%2&lt;/span&gt;</translation>
     </message>
     <message>
       <location line="+46"/>
@@ -2338,7 +2338,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>We are about to create a new automatic backup for you, however &lt;span style='color:red;'&gt; you should always make sure you have backups saved in some safe place&lt;/span&gt;!</source>
-      <translation type="unfinished">We are about to create a new automatic backup for you, however &lt;span style='color:red;'&gt; you should always make sure you have backups saved in some safe place&lt;/span&gt;!</translation>
+      <translation>&#x41C;&#x44B; &#x441;&#x43E;&#x431;&#x438;&#x440;&#x430;&#x435;&#x43C;&#x441;&#x44F; &#x441;&#x43E;&#x437;&#x434;&#x430;&#x442;&#x44C; &#x430;&#x432;&#x442;&#x43E;&#x43C;&#x430;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x439; &#x431;&#x44D;&#x43A;&#x430;&#x43F;, &#x43E;&#x434;&#x43D;&#x430;&#x43A;&#x43E; &lt;span style='color:red;'&gt; &#x432;&#x441;&#x435;&#x433;&#x434;&#x430; &#x43F;&#x440;&#x43E;&#x432;&#x435;&#x440;&#x44F;&#x439;&#x442;&#x435;, &#x447;&#x442;&#x43E; &#x432;&#x44B; &#x441;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x44F;&#x435;&#x442;&#x435; &#x438;&#x445; &#x432; &#x431;&#x435;&#x437;&#x43E;&#x43F;&#x430;&#x441;&#x43D;&#x43E;&#x43C; &#x43C;&#x435;&#x441;&#x442;&#x435;&lt;/span&gt;!</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -2392,7 +2392,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+15"/>
       <source>If you don't want to see internal PrivateSend fees/transactions select "Most Common" as Type on the "Transactions" tab.</source>
-      <translation type="unfinished">If you don't want to see internal PrivateSend fees/transactions select "Most Common" as Type on the "Transactions" tab.</translation>
+      <translation>&#x415;&#x441;&#x43B;&#x438; &#x412;&#x44B; &#x43D;&#x435; &#x445;&#x43E;&#x442;&#x438;&#x442;&#x435; &#x432;&#x438;&#x434;&#x435;&#x442;&#x44C; &#x432;&#x43D;&#x443;&#x442;&#x440;&#x435;&#x43D;&#x43D;&#x438;&#x435; &#x442;&#x440;&#x430;&#x43D;&#x437;&#x430;&#x43A;&#x446;&#x438;&#x438;/&#x43A;&#x43E;&#x43C;&#x438;&#x441;&#x441;&#x438;&#x438; &#x43E;&#x442; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x44B; PrivateSend, &#x432;&#x44B;&#x431;&#x435;&#x440;&#x438;&#x442;&#x435; &#x422;&#x438;&#x43F; "&#x41D;&#x430;&#x438;&#x431;&#x43E;&#x43B;&#x435;&#x435; &#x43E;&#x431;&#x449;&#x438;&#x435;" &#x43D;&#x430; &#x437;&#x430;&#x43A;&#x43B;&#x430;&#x434;&#x43A;&#x435; "&#x422;&#x440;&#x430;&#x43D;&#x437;&#x430;&#x43A;&#x446;&#x438;&#x438;".</translation>
     </message>
     <message>
       <location line="+9"/>
@@ -2477,7 +2477,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-155"/>
       <source>Payment request network doesn't match client network.</source>
-      <translation type="unfinished">Payment request network doesn't match client network.</translation>
+      <translation>&#x421;&#x435;&#x442;&#x44C; &#x437;&#x430;&#x43F;&#x440;&#x43E;&#x441;&#x430; &#x43F;&#x43B;&#x430;&#x442;&#x435;&#x436;&#x430; &#x43D;&#x435; &#x441;&#x43E;&#x43E;&#x442;&#x432;&#x435;&#x442;&#x441;&#x442;&#x432;&#x443;&#x435;&#x442; &#x441;&#x435;&#x442;&#x438; &#x43A;&#x43B;&#x438;&#x435;&#x43D;&#x442;&#x430;.</translation>
     </message>
     <message>
       <location line="+15"/>
@@ -3451,12 +3451,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-488"/>
       <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation type="unfinished">If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+      <translation>&#x415;&#x441;&#x43B;&#x438; &#x440;&#x443;&#x447;&#x43D;&#x430;&#x44F; &#x43A;&#x43E;&#x43C;&#x438;&#x441;&#x441;&#x438;&#x44F;  &#x443;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43B;&#x435;&#x43D;&#x430; &#x432; 1000 duff, &#x430; &#x442;&#x440;&#x430;&#x43D;&#x437;&#x430;&#x43A;&#x446;&#x438;&#x44F; &#x43F;&#x43E; &#x440;&#x430;&#x437;&#x43C;&#x435;&#x440;&#x443; &#x442;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E; 250 &#x431;&#x430;&#x439;&#x442;, &#x442;&#x43E; &#x43F;&#x43B;&#x430;&#x442;&#x430; "&#x437;&#x430; &#x43A;&#x438;&#x43B;&#x43E;&#x431;&#x430;&#x439;&#x442;" &#x441;&#x43E;&#x441;&#x442;&#x430;&#x432;&#x438;&#x442; &#x43B;&#x438;&#x448;&#x44C; 250 duff,&lt;br&gt;&#x432; &#x442;&#x43E; &#x432;&#x440;&#x435;&#x43C;&#x44F; &#x43A;&#x430;&#x43A; "&#x43C;&#x438;&#x43D;&#x438;&#x43C;&#x443;&#x43C;" &#x431;&#x443;&#x434;&#x435;&#x442; &#x440;&#x430;&#x432;&#x43D;&#x430; 1000 duff. &#x414;&#x43B;&#x44F; &#x442;&#x440;&#x430;&#x43D;&#x437;&#x430;&#x43A;&#x446;&#x438;&#x439; &#x431;&#x43E;&#x43B;&#x44C;&#x448;&#x435; &#x43A;&#x438;&#x43B;&#x43E;&#x431;&#x430;&#x439;&#x442;&#x430; &#x432; &#x43B;&#x44E;&#x431;&#x43E;&#x43C; &#x441;&#x43B;&#x443;&#x447;&#x430;&#x435; &#x438;&#x434;&#x435;&#x442; &#x440;&#x430;&#x441;&#x447;&#x435;&#x442; "&#x437;&#x430; &#x43A;&#x438;&#x43B;&#x43E;&#x431;&#x430;&#x439;&#x442;".</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "total at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation type="unfinished">If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "total at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+      <translation>&#x415;&#x441;&#x43B;&#x438; &#x440;&#x443;&#x447;&#x43D;&#x430;&#x44F; &#x43A;&#x43E;&#x43C;&#x438;&#x441;&#x441;&#x438;&#x44F;  &#x443;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43B;&#x435;&#x43D;&#x430; &#x432; 1000 duff, &#x430; &#x442;&#x440;&#x430;&#x43D;&#x437;&#x430;&#x43A;&#x446;&#x438;&#x44F; &#x43F;&#x43E; &#x440;&#x430;&#x437;&#x43C;&#x435;&#x440;&#x443; &#x442;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E; 250 &#x431;&#x430;&#x439;&#x442;, &#x442;&#x43E; &#x43F;&#x43B;&#x430;&#x442;&#x430; "&#x437;&#x430; &#x43A;&#x438;&#x43B;&#x43E;&#x431;&#x430;&#x439;&#x442;" &#x441;&#x43E;&#x441;&#x442;&#x430;&#x432;&#x438;&#x442; &#x43B;&#x438;&#x448;&#x44C; 250 duff,&lt;br&gt;&#x432; &#x442;&#x43E; &#x432;&#x440;&#x435;&#x43C;&#x44F; &#x43A;&#x430;&#x43A; "&#x438;&#x442;&#x43E;&#x433;&#x43E; &#x43C;&#x438;&#x43D;&#x438;&#x43C;&#x443;&#x43C;" &#x431;&#x443;&#x434;&#x435;&#x442; &#x440;&#x430;&#x432;&#x43D;&#x430; 1000 duff. &#x414;&#x43B;&#x44F; &#x442;&#x440;&#x430;&#x437;&#x430;&#x43A;&#x446;&#x438;&#x439; &#x431;&#x43E;&#x43B;&#x44C;&#x448;&#x435; &#x43A;&#x438;&#x43B;&#x43E;&#x431;&#x430;&#x439;&#x442;&#x430; &#x432; &#x43B;&#x44E;&#x431;&#x43E;&#x43C; &#x441;&#x43B;&#x443;&#x447;&#x430;&#x435; &#x438;&#x434;&#x435;&#x442; &#x440;&#x430;&#x441;&#x447;&#x435;&#x442; "&#x437;&#x430; &#x43A;&#x438;&#x43B;&#x43E;&#x431;&#x430;&#x439;&#x442;".</translation>
     </message>
     <message>
       <location line="+33"/>
@@ -3946,7 +3946,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+6"/>
       <source>Enter the receiver's address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</source>
-      <translation type="unfinished">Enter the receiver's address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</translation>
+      <translation>&#x412;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x43D;&#x438;&#x436;&#x435; &#x430;&#x434;&#x440;&#x435;&#x441; &#x434;&#x43B;&#x44F; &#x43F;&#x43E;&#x434;&#x43F;&#x438;&#x441;&#x438;, &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435; (&#x443;&#x431;&#x435;&#x434;&#x438;&#x442;&#x435;&#x441;&#x44C;, &#x447;&#x442;&#x43E; &#x43F;&#x435;&#x440;&#x435;&#x432;&#x43E;&#x434;&#x44B; &#x441;&#x442;&#x440;&#x43E;&#x43A;, &#x43F;&#x440;&#x43E;&#x431;&#x435;&#x43B;&#x44B;, &#x442;&#x430;&#x431;&#x44B; &#x438; &#x442;.&#x43F;. &#x432; &#x442;&#x43E;&#x447;&#x43D;&#x43E;&#x441;&#x442;&#x438; &#x441;&#x43A;&#x43E;&#x43F;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x44B;) &#x438; &#x43F;&#x43E;&#x434;&#x43F;&#x438;&#x441;&#x44C;, &#x447;&#x442;&#x43E;&#x431;&#x44B; &#x43F;&#x440;&#x43E;&#x432;&#x435;&#x440;&#x438;&#x442;&#x44C; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;. &#x423;&#x431;&#x435;&#x434;&#x438;&#x442;&#x435;&#x441;&#x44C;, &#x447;&#x442;&#x43E; &#x43D;&#x435; &#x441;&#x43A;&#x43E;&#x43F;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43B;&#x438; &#x43B;&#x438;&#x448;&#x43D;&#x435;&#x433;&#x43E; &#x432; &#x43F;&#x43E;&#x434;&#x43F;&#x438;&#x441;&#x44C;, &#x43A;&#x440;&#x43E;&#x43C;&#x435; &#x441;&#x430;&#x43C;&#x43E;&#x433;&#x43E; &#x43F;&#x43E;&#x434;&#x43F;&#x438;&#x441;&#x44B;&#x432;&#x430;&#x435;&#x43C;&#x43E;&#x433;&#x43E; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x44F;, &#x447;&#x442;&#x43E;&#x431;&#x44B; &#x43D;&#x435; &#x441;&#x442;&#x430;&#x442;&#x44C; &#x436;&#x435;&#x440;&#x442;&#x432;&#x43E;&#x439; &#x430;&#x442;&#x430;&#x43A;&#x438; "man-in-the-middle". &#x41E;&#x431;&#x440;&#x430;&#x442;&#x438;&#x442;&#x435; &#x432;&#x43D;&#x438;&#x43C;&#x430;&#x43D;&#x438;&#x435;, &#x447;&#x442;&#x43E; &#x44D;&#x442;&#x43E; &#x43B;&#x438;&#x448;&#x44C; &#x43F;&#x43E;&#x434;&#x442;&#x432;&#x435;&#x440;&#x436;&#x434;&#x430;&#x435;&#x442;, &#x447;&#x442;&#x43E; &#x43F;&#x43E;&#x434;&#x43F;&#x438;&#x441;&#x44B;&#x432;&#x430;&#x44E;&#x449;&#x438;&#x439; &#x43C;&#x43E;&#x436;&#x435;&#x442; &#x43F;&#x43E;&#x43B;&#x443;&#x447;&#x438;&#x442;&#x44C; &#x441;&#x440;&#x435;&#x434;&#x441;&#x442;&#x432;&#x430; &#x43D;&#x430; &#x44D;&#x442;&#x43E;&#x442; &#x430;&#x434;&#x440;&#x435;&#x441;, &#x44D;&#x442;&#x43E; &#x43D;&#x435; &#x43F;&#x43E;&#x434;&#x442;&#x432;&#x435;&#x440;&#x436;&#x434;&#x430;&#x435;&#x442;, &#x447;&#x442;&#x43E; &#x43E;&#x43D; &#x44F;&#x432;&#x43B;&#x44F;&#x435;&#x442;&#x441;&#x44F; &#x43E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x438;&#x442;&#x435;&#x43B;&#x435;&#x43C; &#x43A;&#x430;&#x43A;&#x43E;&#x439;-&#x43B;&#x438;&#x431;&#x43E; &#x442;&#x440;&#x430;&#x43D;&#x437;&#x430;&#x43A;&#x446;&#x438;&#x438;!</translation>
     </message>
     <message>
       <location line="+21"/>
@@ -3971,7 +3971,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../signverifymessagedialog.cpp" line="+33"/>
       <source>Click "Sign Message" to generate signature</source>
-      <translation type="unfinished">Click "Sign Message" to generate signature</translation>
+      <translation>&#x41D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; "&#x41F;&#x43E;&#x434;&#x43F;&#x438;&#x441;&#x430;&#x442;&#x44C; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;" &#x434;&#x43B;&#x44F; &#x441;&#x43E;&#x437;&#x434;&#x430;&#x43D;&#x438;&#x44F; &#x43F;&#x43E;&#x434;&#x43F;&#x438;&#x441;&#x438;</translation>
     </message>
     <message>
       <location line="+104"/>
@@ -4273,7 +4273,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+7"/>
       <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-      <translation type="unfinished">Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</translation>
+      <translation>&#x421;&#x433;&#x435;&#x43D;&#x435;&#x440;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x43D;&#x44B;&#x435; &#x43C;&#x43E;&#x43D;&#x435;&#x442;&#x44B; &#x434;&#x43E;&#x43B;&#x436;&#x43D;&#x44B; &#x43F;&#x43E;&#x434;&#x43E;&#x436;&#x434;&#x430;&#x442;&#x44C; %1 &#x431;&#x43B;&#x43E;&#x43A;&#x43E;&#x432;, &#x43F;&#x440;&#x435;&#x436;&#x434;&#x435; &#x447;&#x435;&#x43C; &#x43E;&#x43D;&#x438; &#x43C;&#x43E;&#x433;&#x443;&#x442; &#x431;&#x44B;&#x442;&#x44C; &#x43F;&#x43E;&#x442;&#x440;&#x430;&#x447;&#x435;&#x43D;&#x44B;. &#x41A;&#x43E;&#x433;&#x434;&#x430; &#x412;&#x44B; &#x441;&#x433;&#x435;&#x43D;&#x435;&#x440;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43B;&#x438; &#x44D;&#x442;&#x43E;&#x442; &#x431;&#x43B;&#x43E;&#x43A;, &#x43E;&#x43D; &#x431;&#x44B;&#x43B; &#x43E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D; &#x432; &#x441;&#x435;&#x442;&#x44C; &#x434;&#x43B;&#x44F; &#x434;&#x43E;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x44F; &#x432; &#x446;&#x435;&#x43F;&#x43E;&#x447;&#x43A;&#x443; &#x431;&#x43B;&#x43E;&#x43A;&#x43E;&#x432;. &#x415;&#x441;&#x43B;&#x438; &#x43E;&#x43D; &#x43D;&#x435; &#x43F;&#x43E;&#x43F;&#x430;&#x434;&#x451;&#x442; &#x432; &#x446;&#x435;&#x43F;&#x43E;&#x447;&#x43A;&#x443;, &#x435;&#x433;&#x43E; &#x441;&#x442;&#x430;&#x442;&#x443;&#x441; &#x438;&#x437;&#x43C;&#x435;&#x43D;&#x438;&#x442;&#x441;&#x44F; &#x43D;&#x430; "&#x43D;&#x435; &#x43F;&#x440;&#x438;&#x43D;&#x44F;&#x442;", &#x438; &#x43C;&#x43E;&#x43D;&#x435;&#x442;&#x44B; &#x431;&#x443;&#x434;&#x443;&#x442; &#x43D;&#x435;&#x434;&#x435;&#x439;&#x441;&#x442;&#x432;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;. &#x42D;&#x442;&#x43E; &#x438;&#x43D;&#x43E;&#x433;&#x434;&#x430; &#x43F;&#x440;&#x43E;&#x438;&#x441;&#x445;&#x43E;&#x434;&#x438;&#x442; &#x432; &#x441;&#x43B;&#x443;&#x447;&#x430;&#x435;, &#x435;&#x441;&#x43B;&#x438; &#x434;&#x440;&#x443;&#x433;&#x43E;&#x439; &#x443;&#x437;&#x435;&#x43B; &#x441;&#x433;&#x435;&#x43D;&#x435;&#x440;&#x438;&#x440;&#x443;&#x435;&#x442; &#x431;&#x43B;&#x43E;&#x43A; &#x43D;&#x430; &#x43D;&#x435;&#x441;&#x43A;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E; &#x441;&#x435;&#x43A;&#x443;&#x43D;&#x434; &#x440;&#x430;&#x43D;&#x44C;&#x448;&#x435; &#x432;&#x430;&#x441;.</translation>
     </message>
     <message>
       <location line="+8"/>
@@ -4733,7 +4733,7 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="-28"/>
       <location line="+12"/>
       <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</source>
-      <translation type="unfinished">InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</translation>
+      <translation>InstantSend &#x43F;&#x43E;&#x43A;&#x430; &#x447;&#x442;&#x43E; &#x43D;&#x435; &#x43F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x438;&#x432;&#x430;&#x435;&#x442; &#x442;&#x430;&#x43A;&#x438;&#x435; &#x431;&#x43E;&#x43B;&#x44C;&#x448;&#x438;&#x435; &#x441;&#x443;&#x43C;&#x43C;&#x44B;. &#x41D;&#x430; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43C;&#x435;&#x43D;&#x442; &#x442;&#x440;&#x430;&#x43D;&#x437;&#x430;&#x43A;&#x446;&#x438;&#x438; &#x43E;&#x433;&#x440;&#x430;&#x43D;&#x438;&#x447;&#x435;&#x43D;&#x44B; &#x441;&#x443;&#x43C;&#x43C;&#x430;&#x43C;&#x438; &#x434;&#x43E; %1 STONE.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -4904,7 +4904,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Can't denominate: no compatible inputs left.</source>
-      <translation type="unfinished">Can't denominate: no compatible inputs left.</translation>
+      <translation>&#x420;&#x430;&#x437;&#x431;&#x438;&#x435;&#x43D;&#x438;&#x435; &#x43D;&#x430; &#x43D;&#x43E;&#x43C;&#x438;&#x43D;&#x430;&#x43B;&#x44B; &#x43D;&#x435;&#x432;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;: &#x43D;&#x435; &#x43E;&#x441;&#x442;&#x430;&#x43B;&#x43E;&#x441;&#x44C; &#x441;&#x43E;&#x432;&#x43C;&#x435;&#x441;&#x442;&#x438;&#x43C;&#x44B;&#x445; &#x43C;&#x43E;&#x43D;&#x435;&#x442;.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -4914,12 +4914,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Cannot resolve -bind address: '%s'</source>
-      <translation type="unfinished">Cannot resolve -bind address: '%s'</translation>
+      <translation>&#x41D;&#x435; &#x443;&#x434;&#x430;&#x451;&#x442;&#x441;&#x44F; &#x440;&#x430;&#x437;&#x440;&#x435;&#x448;&#x438;&#x442;&#x44C; &#x430;&#x434;&#x440;&#x435;&#x441; &#x432; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x435; -bind: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Cannot resolve -externalip address: '%s'</source>
-      <translation type="unfinished">Cannot resolve -externalip address: '%s'</translation>
+      <translation>&#x41D;&#x435; &#x443;&#x434;&#x430;&#x451;&#x442;&#x441;&#x44F; &#x440;&#x430;&#x437;&#x440;&#x435;&#x448;&#x438;&#x442;&#x44C; &#x430;&#x434;&#x440;&#x435;&#x441; &#x432; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x435; -externalip: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -5104,7 +5104,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+9"/>
       <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
-      <translation type="unfinished">Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</translation>
+      <translation>&#x41D;&#x435;&#x43A;&#x43E;&#x440;&#x440;&#x435;&#x43A;&#x442;&#x43D;&#x430;&#x44F; &#x441;&#x443;&#x43C;&#x43C;&#x430; &#x434;&#x43B;&#x44F; -maxtxfee=&lt;amount&gt;: '%s' (&#x434;&#x43E;&#x43B;&#x436;&#x43D;&#x430; &#x431;&#x44B;&#x442;&#x44C; &#x43C;&#x438;&#x43D;&#x438;&#x43C;&#x443;&#x43C; &#x43A;&#x430;&#x43A; &#x43A;&#x43E;&#x43C;&#x438;&#x441;&#x441;&#x438;&#x44F; minrelay - %s, &#x447;&#x442;&#x43E;&#x431;&#x44B; &#x43F;&#x440;&#x435;&#x434;&#x43E;&#x442;&#x432;&#x440;&#x430;&#x442;&#x438;&#x442;&#x44C; &#x437;&#x430;&#x441;&#x442;&#x440;&#x435;&#x432;&#x430;&#x43D;&#x438;&#x435; &#x442;&#x440;&#x430;&#x43D;&#x437;&#x430;&#x43A;&#x446;&#x438;&#x439;)</translation>
     </message>
     <message>
       <location line="+9"/>
@@ -5179,7 +5179,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+12"/>
       <source>Cannot resolve -whitebind address: '%s'</source>
-      <translation type="unfinished">Cannot resolve -whitebind address: '%s'</translation>
+      <translation>&#x41D;&#x435; &#x443;&#x434;&#x430;&#x451;&#x442;&#x441;&#x44F; &#x440;&#x430;&#x437;&#x440;&#x435;&#x448;&#x438;&#x442;&#x44C; &#x430;&#x434;&#x440;&#x435;&#x441; &#x432; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x435; -whitebind: '%s'</translation>
     </message>
     <message>
       <location line="+4"/>
@@ -5284,37 +5284,37 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Invalid -onion address: '%s'</source>
-      <translation type="unfinished">Invalid -onion address: '%s'</translation>
+      <translation>&#x41D;&#x435;&#x432;&#x435;&#x440;&#x43D;&#x44B;&#x439; -onion &#x430;&#x434;&#x440;&#x435;&#x441;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid -proxy address: '%s'</source>
-      <translation type="unfinished">Invalid -proxy address: '%s'</translation>
+      <translation>&#x41D;&#x435;&#x432;&#x435;&#x440;&#x43D;&#x44B;&#x439; &#x430;&#x434;&#x440;&#x435;&#x441; -proxy: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>&#x41D;&#x435;&#x432;&#x435;&#x440;&#x43D;&#x430;&#x44F; &#x441;&#x443;&#x43C;&#x43C;&#x430; &#x432; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x435; -maxtxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>&#x41D;&#x435;&#x432;&#x435;&#x440;&#x43D;&#x430;&#x44F; &#x441;&#x443;&#x43C;&#x43C;&#x430; &#x432; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x435; -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>&#x41D;&#x435;&#x432;&#x435;&#x440;&#x43D;&#x430;&#x44F; &#x441;&#x443;&#x43C;&#x43C;&#x430; &#x432; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x435; -mintxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
-      <translation type="unfinished">Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</translation>
+      <translation>&#x41D;&#x435;&#x432;&#x435;&#x440;&#x43D;&#x430;&#x44F; &#x441;&#x443;&#x43C;&#x43C;&#x430; &#x432; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x435; -paytxfee=&lt;amount&gt;: '%s' (&#x434;&#x43E;&#x43B;&#x436;&#x43D;&#x430; &#x431;&#x44B;&#x442;&#x44C; &#x43C;&#x438;&#x43D;&#x438;&#x43C;&#x443;&#x43C; %s)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>&#x41D;&#x435;&#x432;&#x435;&#x440;&#x43D;&#x430;&#x44F; &#x441;&#x443;&#x43C;&#x43C;&#x430; &#x432; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x435; -paytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+13"/>
@@ -5364,7 +5364,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Need to specify a port with -whitebind: '%s'</source>
-      <translation type="unfinished">Need to specify a port with -whitebind: '%s'</translation>
+      <translation>&#x414;&#x43B;&#x44F; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x430; -whitebind &#x43D;&#x443;&#x436;&#x43D;&#x43E; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x442;&#x44C; &#x43F;&#x43E;&#x440;&#x442;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -5574,12 +5574,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-72"/>
       <source>Can't find random Masternode.</source>
-      <translation type="unfinished">Can't find random Masternode.</translation>
+      <translation>&#x41D;&#x435; &#x43F;&#x43E;&#x43B;&#x443;&#x447;&#x438;&#x43B;&#x43E;&#x441;&#x44C; &#x432;&#x44B;&#x431;&#x440;&#x430;&#x442;&#x44C; &#x441;&#x43B;&#x443;&#x447;&#x430;&#x439;&#x43D;&#x443;&#x44E; &#x41C;&#x430;&#x441;&#x442;&#x435;&#x440;&#x43D;&#x43E;&#x434;&#x443;.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Can't mix while sync in progress.</source>
-      <translation type="unfinished">Can't mix while sync in progress.</translation>
+      <translation>&#x41F;&#x435;&#x440;&#x435;&#x43C;&#x435;&#x448;&#x438;&#x432;&#x430;&#x43D;&#x438;&#x435; &#x434;&#x43E; &#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x435;&#x43D;&#x438;&#x44F; &#x441;&#x438;&#x43D;&#x445;&#x440;&#x43E;&#x43D;&#x438;&#x437;&#x430;&#x446;&#x438;&#x438; &#x43D;&#x435;&#x432;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;.</translation>
     </message>
     <message>
       <location line="+15"/>
@@ -5589,7 +5589,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+57"/>
       <source>Invalid netmask specified in -whitelist: '%s'</source>
-      <translation type="unfinished">Invalid netmask specified in -whitelist: '%s'</translation>
+      <translation>&#x412; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x435; -whitelist &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x430; &#x43D;&#x435;&#x43A;&#x43E;&#x440;&#x440;&#x435;&#x43A;&#x442;&#x43D;&#x430;&#x44F; &#x43C;&#x430;&#x441;&#x43A;&#x430;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -5689,7 +5689,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+6"/>
       <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</source>
-      <translation type="unfinished">InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</translation>
+      <translation>InstantSend &#x43F;&#x43E;&#x43A;&#x430; &#x447;&#x442;&#x43E; &#x43D;&#x435; &#x43F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x438;&#x432;&#x430;&#x435;&#x442; &#x442;&#x430;&#x43A;&#x438;&#x435; &#x431;&#x43E;&#x43B;&#x44C;&#x448;&#x438;&#x435; &#x441;&#x443;&#x43C;&#x43C;&#x44B;. &#x41D;&#x430; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43C;&#x435;&#x43D;&#x442; &#x442;&#x440;&#x430;&#x43D;&#x437;&#x430;&#x43A;&#x446;&#x438;&#x438; &#x43E;&#x433;&#x440;&#x430;&#x43D;&#x438;&#x447;&#x435;&#x43D;&#x44B; &#x441;&#x443;&#x43C;&#x43C;&#x430;&#x43C;&#x438; &#x434;&#x43E; %1 STONE.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5724,7 +5724,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+9"/>
       <source>Please check that your computer's date and time are correct! If your clock is wrong Stone Core will not work properly.</source>
-      <translation type="unfinished">Please check that your computer's date and time are correct! If your clock is wrong Stone Core will not work properly.</translation>
+      <translation>&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x443;&#x431;&#x435;&#x434;&#x438;&#x442;&#x435;&#x441;&#x44C; &#x447;&#x442;&#x43E; &#x434;&#x430;&#x442;&#x430; &#x438; &#x432;&#x440;&#x435;&#x43C;&#x44F; &#x43D;&#x430; &#x412;&#x430;&#x448;&#x435;&#x43C; &#x43A;&#x43E;&#x43C;&#x43F;&#x44C;&#x44E;&#x442;&#x435;&#x440;&#x435; &#x432;&#x44B;&#x441;&#x442;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x44B; &#x43F;&#x440;&#x430;&#x432;&#x438;&#x43B;&#x44C;&#x43D;&#x43E;! Stone Core &#x43D;&#x435; &#x441;&#x43C;&#x43E;&#x436;&#x435;&#x442; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x430;&#x442;&#x44C; &#x43A;&#x43E;&#x440;&#x440;&#x435;&#x43A;&#x442;&#x43D;&#x43E;, &#x435;&#x441;&#x43B;&#x438; &#x447;&#x430;&#x441;&#x44B; &#x43D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x435;&#x43D;&#x44B; &#x43D;&#x435;&#x432;&#x435;&#x440;&#x43D;&#x43E;.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5774,7 +5774,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+2"/>
       <source>The block database contains a block which appears to be from the future. This may be due to your computer's date and time being set incorrectly. Only rebuild the block database if you are sure that your computer's date and time are correct</source>
-      <translation type="unfinished">The block database contains a block which appears to be from the future. This may be due to your computer's date and time being set incorrectly. Only rebuild the block database if you are sure that your computer's date and time are correct</translation>
+      <translation>&#x411;&#x430;&#x437;&#x430; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x445; &#x431;&#x43B;&#x43E;&#x43A;&#x43E;&#x432; &#x441;&#x43E;&#x434;&#x435;&#x440;&#x436;&#x438;&#x442; &#x431;&#x43B;&#x43E;&#x43A;, &#x441;&#x43E;&#x437;&#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x439; &#x432; &#x431;&#x443;&#x434;&#x443;&#x449;&#x435;&#x43C;. &#x422;&#x430;&#x43A;&#x43E;&#x435; &#x43C;&#x43E;&#x436;&#x435;&#x442; &#x441;&#x43B;&#x443;&#x447;&#x438;&#x442;&#x44C;&#x441;&#x44F; &#x438;&#x437;-&#x437;&#x430; &#x43D;&#x435;&#x43A;&#x43E;&#x440;&#x440;&#x435;&#x43A;&#x442;&#x43D;&#x43E; &#x443;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43B;&#x435;&#x43D;&#x43D;&#x44B;&#x445; &#x434;&#x430;&#x442;&#x44B; &#x438; &#x432;&#x440;&#x435;&#x43C;&#x435;&#x43D;&#x438; &#x43D;&#x430; &#x412;&#x430;&#x448;&#x435;&#x43C; &#x43A;&#x43E;&#x43C;&#x43F;&#x44C;&#x44E;&#x442;&#x435;&#x440;&#x435;. &#x41F;&#x435;&#x440;&#x435;&#x441;&#x442;&#x440;&#x43E;&#x439;&#x442;&#x435; &#x431;&#x430;&#x437;&#x443; &#x431;&#x43B;&#x43E;&#x43A;&#x43E;&#x432;, &#x442;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E; &#x435;&#x441;&#x43B;&#x438; &#x432;&#x44B; &#x443;&#x432;&#x435;&#x440;&#x435;&#x43D;&#x44B;, &#x447;&#x442;&#x43E; &#x434;&#x430;&#x442;&#x430; &#x438; &#x432;&#x440;&#x435;&#x43C;&#x44F; &#x43A;&#x43E;&#x440;&#x440;&#x435;&#x43A;&#x442;&#x43D;&#x44B;.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -5804,7 +5804,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+6"/>
       <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
-      <translation type="unfinished">Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</translation>
+      <translation>&#x41E;&#x431;&#x43D;&#x430;&#x440;&#x443;&#x436;&#x435;&#x43D; &#x43D;&#x435;&#x43F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x438;&#x432;&#x430;&#x435;&#x43C;&#x44B;&#x439; &#x430;&#x440;&#x433;&#x443;&#x43C;&#x435;&#x43D;&#x442; -socks. &#x412;&#x44B;&#x431;&#x43E;&#x440; &#x432;&#x435;&#x440;&#x441;&#x438;&#x438; SOCKS &#x431;&#x43E;&#x43B;&#x44C;&#x448;&#x435; &#x43D;&#x435;&#x432;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x435;&#x43D;, &#x43F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x438;&#x432;&#x430;&#x44E;&#x442;&#x441;&#x44F; &#x442;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E; &#x43F;&#x440;&#x43E;&#x43A;&#x441;&#x438; &#x432;&#x435;&#x440;&#x441;&#x438;&#x438; SOCKS5.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5844,12 +5844,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+3"/>
       <source>Wallet is locked, can't replenish keypool! Automatic backups and mixing are disabled, please unlock your wallet to replenish keypool.</source>
-      <translation type="unfinished">Wallet is locked, can't replenish keypool! Automatic backups and mixing are disabled, please unlock your wallet to replenish keypool.</translation>
+      <translation>&#x41A;&#x43E;&#x448;&#x435;&#x43B;&#x435;&#x43A; &#x437;&#x430;&#x431;&#x43B;&#x43E;&#x43A;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;, &#x43D;&#x435;&#x432;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E; &#x43F;&#x43E;&#x43F;&#x43E;&#x43B;&#x43D;&#x438;&#x442;&#x44C; &#x43F;&#x443;&#x43B; &#x43A;&#x43B;&#x44E;&#x447;&#x435;&#x439;! &#x410;&#x432;&#x442;&#x43E;&#x43C;&#x430;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x440;&#x435;&#x437;&#x435;&#x440;&#x432;&#x43D;&#x44B;&#x435; &#x43A;&#x43E;&#x43F;&#x438;&#x438; &#x438; &#x43F;&#x435;&#x440;&#x435;&#x43C;&#x435;&#x448;&#x438;&#x432;&#x430;&#x43D;&#x438;&#x435; &#x43E;&#x442;&#x43A;&#x43B;&#x44E;&#x447;&#x435;&#x43D;&#x44B;. &#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x440;&#x430;&#x437;&#x431;&#x43B;&#x43E;&#x43A;&#x438;&#x440;&#x443;&#x439;&#x442;&#x435; &#x43A;&#x43E;&#x448;&#x435;&#x43B;&#x435;&#x43A; &#x434;&#x43B;&#x44F; &#x43F;&#x43E;&#x43F;&#x43E;&#x43B;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x43F;&#x443;&#x43B;&#x430; &#x43A;&#x43B;&#x44E;&#x447;&#x435;&#x439;.</translation>
     </message>
     <message>
       <location line="+6"/>
       <source>Warning: Unknown block versions being mined! It's possible unknown rules are in effect</source>
-      <translation type="unfinished">Warning: Unknown block versions being mined! It's possible unknown rules are in effect</translation>
+      <translation>&#x412;&#x43D;&#x438;&#x43C;&#x430;&#x43D;&#x438;&#x435;: &#x441;&#x43E;&#x437;&#x434;&#x430;&#x44E;&#x442;&#x441;&#x44F; &#x431;&#x43B;&#x43E;&#x43A;&#x438; &#x43D;&#x435;&#x438;&#x437;&#x432;&#x435;&#x441;&#x442;&#x43D;&#x43E;&#x439; &#x432;&#x435;&#x440;&#x441;&#x438;&#x438;! &#x412;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E; &#x430;&#x43A;&#x442;&#x438;&#x432;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x44B; &#x43D;&#x435;&#x438;&#x437;&#x432;&#x435;&#x441;&#x442;&#x43D;&#x44B;&#x435; &#x43F;&#x440;&#x430;&#x432;&#x438;&#x43B;&#x430;</translation>
     </message>
     <message>
       <location line="+19"/>
@@ -5999,7 +5999,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+4"/>
       <source>Invalid amount for -fallbackfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -fallbackfee=&lt;amount&gt;: '%s'</translation>
+      <translation>&#x41D;&#x435;&#x432;&#x435;&#x440;&#x43D;&#x430;&#x44F; &#x441;&#x443;&#x43C;&#x43C;&#x430; &#x432; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x435; -fallbackfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -6204,7 +6204,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Wasn't able to create wallet backup folder %s!</source>
-      <translation type="unfinished">Wasn't able to create wallet backup folder %s!</translation>
+      <translation>&#x41D;&#x435; &#x443;&#x434;&#x430;&#x43B;&#x43E;&#x441;&#x44C; &#x441;&#x43E;&#x437;&#x434;&#x430;&#x442;&#x44C; &#x43F;&#x430;&#x43F;&#x43A;&#x443; &#x434;&#x43B;&#x44F; &#x440;&#x435;&#x437;&#x435;&#x440;&#x432;&#x43D;&#x43E;&#x439; &#x43A;&#x43E;&#x43F;&#x438;&#x438; &#x43A;&#x43E;&#x448;&#x435;&#x43B;&#x44C;&#x43A;&#x430; %s!</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -6399,7 +6399,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+2"/>
       <source>Unknown network specified in -onlynet: '%s'</source>
-      <translation type="unfinished">Unknown network specified in -onlynet: '%s'</translation>
+      <translation>&#x412; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x435; -onlynet &#x443;&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x430; &#x43D;&#x435;&#x438;&#x437;&#x432;&#x435;&#x441;&#x442;&#x43D;&#x430;&#x44F; &#x441;&#x435;&#x442;&#x44C;: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
