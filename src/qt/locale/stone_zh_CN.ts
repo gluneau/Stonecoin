@@ -1284,12 +1284,12 @@
     <message>
       <location line="+71"/>
       <source>The entered address "%1" is not a valid Proton address.</source>
-      <translation type="unfinished">The entered address "%1" is not a valid Proton address.</translation>
+      <translation>&#x8F93;&#x5165;&#x7684;&#x5730;&#x5740;"%1"&#x4E0D;&#x662F;&#x6709;&#x6548;&#x7684;&#x8FBE;&#x4E16;&#x5E01;&#x5730;&#x5740;&#x3002;</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>The entered address "%1" is already in the address book.</source>
-      <translation type="unfinished">The entered address "%1" is already in the address book.</translation>
+      <translation>&#x8F93;&#x5165;&#x7684;&#x5730;&#x5740;&#x201C;%1&#x201D;&#x5DF2;&#x7ECF;&#x5B58;&#x5728;&#x4E8E;&#x5730;&#x5740;&#x7C3F;&#x4E2D;&#x3002;</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -1401,7 +1401,7 @@
     <message>
       <location line="-50"/>
       <source>Set language, for example "de_DE" (default: system locale)</source>
-      <translation type="unfinished">Set language, for example "de_DE" (default: system locale)</translation>
+      <translation>&#x8BBE;&#x7F6E;&#x8BED;&#x8A00;, &#x4F8B;&#x5982;&#x201C;zh-TW&#x201D;&#xFF08;&#x9ED8;&#x8BA4;&#x4E3A;&#x7CFB;&#x7EDF;&#x8BED;&#x8A00;&#xFF09;</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -1455,7 +1455,7 @@
     <message>
       <location line="+1"/>
       <source>Error: Specified data directory "%1" cannot be created.</source>
-      <translation type="unfinished">Error: Specified data directory "%1" cannot be created.</translation>
+      <translation>&#x9519;&#x8BEF;:&#x6307;&#x5B9A;&#x7684;&#x6570;&#x636E;&#x76EE;&#x5F55;&#x201C;%1&#x201D;&#x65E0;&#x6CD5;&#x88AB;&#x521B;&#x5EFA;.</translation>
     </message>
     <message>
       <location line="+25"/>
@@ -2250,7 +2250,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-7"/>
       <source>Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</source>
-      <translation type="unfinished">Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</translation>
+      <translation>&#x6CA1;&#x6709;&#x8DB3;&#x591F;&#x76F8;&#x5BB9;&#x7684;&#x8F93;&#x5165;&#x6765;&#x8FDB;&#x884C;&#x533F;&#x540D;&#x5904;&#x7406;&lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;&#x5C06;&#x533F;&#x540D;&#x5904;&#x7406; &lt;span style='color:red;'&gt;%2&lt;/span&gt; &#x4F5C;&#x4E3A;&#x4EE3;&#x66FF;</translation>
     </message>
     <message>
       <location line="+46"/>
@@ -2454,7 +2454,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-155"/>
       <source>Payment request network doesn't match client network.</source>
-      <translation type="unfinished">Payment request network doesn't match client network.</translation>
+      <translation>&#x4ED8;&#x6B3E;&#x8BF7;&#x6C42;&#x7F51;&#x7EDC;&#x4E0E;&#x5BA2;&#x6237;&#x7AEF;&#x7F51;&#x7EDC;&#x4E0D;&#x7B26;.</translation>
     </message>
     <message>
       <location line="+15"/>
@@ -3428,12 +3428,16 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-488"/>
       <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation type="unfinished">If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+      <translation>
+&#x5982;&#x679C;&#x81EA;&#x5B9A;&#x624B;&#x7EED;&#x8D39;&#x8BBE;&#x5B9A;&#x4E3A;1000 duffs,&#x800C;&#x4EA4;&#x6613;&#x4FE1;&#x606F;&#x53EA;&#x6709;250&#x5B57;&#x8282;&#x7684;&#x8BDD;,&#x90A3;&#x4E48;&#x9009;&#x62E9;"&#x6BCF;&#x5343;&#x4F4D;&#x5B57;&#x8282;"&#x5C31;&#x53EA;&#x4F1A;&#x652F;&#x4ED8;250 duffs&#x7684;&#x624B;&#x7EED;&#x8D39;,&lt;br /&gt;&#x800C;"&#x81F3;&#x5C11;"&#x4F1A;&#x652F;&#x4ED8;1000 duffs.
+&#x4F46;&#x5982;&#x679C;&#x4EA4;&#x6613;&#x4FE1;&#x606F;&#x5927;&#x4E8E;&#x4E00;&#x5343;&#x5B57;&#x8282;,&#x90A3;&#x4E48;&#x4E24;&#x8005;&#x90FD;&#x8981;&#x652F;&#x4ED8;&#x5343;&#x5B57;&#x8282;&#x8D39;&#x7528;.</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "total at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation type="unfinished">If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "total at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+      <translation>
+&#x5982;&#x679C;&#x81EA;&#x5B9A;&#x624B;&#x7EED;&#x8D39;&#x8BBE;&#x5B9A;&#x4E3A;1000 duffs,&#x800C;&#x4EA4;&#x6613;&#x4FE1;&#x606F;&#x53EA;&#x6709;250&#x5B57;&#x8282;&#x7684;&#x8BDD;,&#x90A3;&#x4E48;&#x9009;&#x62E9;"&#x6BCF;&#x5343;&#x4F4D;&#x5B57;&#x8282;"&#x5C31;&#x53EA;&#x4F1A;&#x652F;&#x4ED8;250 duffs&#x7684;&#x624B;&#x7EED;&#x8D39;,&lt;br /&gt;&#x800C;"&#x603B;&#x5171;&#x81F3;&#x5C11;"&#x4F1A;&#x652F;&#x4ED8;1000 duffs.
+&#x4F46;&#x5982;&#x679C;&#x4EA4;&#x6613;&#x4FE1;&#x606F;&#x5927;&#x4E8E;&#x4E00;&#x5343;&#x5B57;&#x8282;,&#x90A3;&#x4E48;&#x4E24;&#x8005;&#x90FD;&#x8981;&#x652F;&#x4ED8;&#x5343;&#x5B57;&#x8282;&#x8D39;&#x7528;.</translation>
     </message>
     <message>
       <location line="+33"/>
@@ -3945,7 +3949,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../signverifymessagedialog.cpp" line="+33"/>
       <source>Click "Sign Message" to generate signature</source>
-      <translation type="unfinished">Click "Sign Message" to generate signature</translation>
+      <translation>&#x5355;&#x51FB;&#x201C;&#x7B7E;&#x540D;&#x6D88;&#x606F;&#x201C;&#x4EA7;&#x751F;&#x7B7E;&#x540D;&#x3002;</translation>
     </message>
     <message>
       <location line="+104"/>
@@ -4238,7 +4242,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+7"/>
       <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-      <translation type="unfinished">Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</translation>
+      <translation>&#x751F;&#x6210;&#x7684;&#x8FBE;&#x4E16;&#x5E01;&#x5728;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;&#x524D;&#x5FC5;&#x987B;&#x6709; %1 &#x4E2A;&#x6210;&#x719F;&#x7684;&#x533A;&#x5757;&#x3002;&#x5F53;&#x60A8;&#x751F;&#x6210;&#x4E86;&#x6B64;&#x533A;&#x5757;&#x540E;&#xFF0C;&#x5B83;&#x5C06;&#x88AB;&#x5E7F;&#x64AD;&#x5230;&#x7F51;&#x7EDC;&#x4E2D;&#x4EE5;&#x52A0;&#x5165;&#x533A;&#x5757;&#x94FE;&#x3002;&#x5982;&#x679C;&#x5B83;&#x672A;&#x6210;&#x529F;&#x8FDB;&#x5165;&#x533A;&#x5757;&#x94FE;&#xFF0C;&#x5176;&#x72B6;&#x6001;&#x5C06;&#x53D8;&#x66F4;&#x4E3A;&#x201C;&#x4E0D;&#x63A5;&#x53D7;&#x201D;&#x5E76;&#x4E14;&#x4E0D;&#x53EF;&#x4F7F;&#x7528;&#x3002;&#x8FD9;&#x53EF;&#x80FD;&#x5076;&#x5C14;&#x4F1A;&#x53D1;&#x751F;&#xFF0C;&#x5982;&#x679C;&#x53E6;&#x4E00;&#x4E2A;&#x8282;&#x70B9;&#x6BD4;&#x4F60;&#x65E9;&#x51E0;&#x79D2;&#x949F;&#x6210;&#x529F;&#x751F;&#x6210;&#x4E00;&#x4E2A;&#x533A;&#x5757;&#x3002;</translation>
     </message>
     <message>
       <location line="+8"/>
@@ -4866,7 +4870,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Can't denominate: no compatible inputs left.</source>
-      <translation type="unfinished">Can't denominate: no compatible inputs left.</translation>
+      <translation>&#x4E0D;&#x80FD;&#x9762;&#x989D;&#x5316;&#xFF1A;&#x6CA1;&#x6709;&#x53EF;&#x5339;&#x914D;&#x7684;&#x8F93;&#x5165;&#x3002;</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -4876,12 +4880,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Cannot resolve -bind address: '%s'</source>
-      <translation type="unfinished">Cannot resolve -bind address: '%s'</translation>
+      <translation>&#x4E0D;&#x80FD;&#x89E3;&#x51B3; -&#x7ED1;&#x5B9A;&#x5730;&#x5740;&#xFF1A;'%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Cannot resolve -externalip address: '%s'</source>
-      <translation type="unfinished">Cannot resolve -externalip address: '%s'</translation>
+      <translation>&#x4E0D;&#x80FD;&#x89E3;&#x51B3; -&#x5916;&#x90E8;ip&#x5730;&#x5740;&#xFF1A;'%s'</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -5066,7 +5070,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+9"/>
       <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
-      <translation type="unfinished">Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</translation>
+      <translation>&#x8BBE;&#x5B9A; -maxtxfee=&lt;&#x91D1;&#x989D;&gt;  &#x7684;&#x91D1;&#x989D;&#x65E0;&#x6548;: '%s' (&#x5FC5;&#x987B;&#x5927;&#x4E8E;&#x6700;&#x4F4E;&#x8F6C;&#x53D1;&#x624B;&#x7EED;&#x8D39;%s &#x4EE5;&#x907F;&#x514D;&#x4EA4;&#x6613;&#x65E0;&#x6CD5;&#x88AB;&#x786E;&#x8BA4;)</translation>
     </message>
     <message>
       <location line="+9"/>
@@ -5141,7 +5145,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+12"/>
       <source>Cannot resolve -whitebind address: '%s'</source>
-      <translation type="unfinished">Cannot resolve -whitebind address: '%s'</translation>
+      <translation>&#x4E0D;&#x80FD;&#x89E3;&#x51B3; -whitebind &#x5730;&#x5740;: '%s'</translation>
     </message>
     <message>
       <location line="+4"/>
@@ -5246,37 +5250,37 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Invalid -onion address: '%s'</source>
-      <translation type="unfinished">Invalid -onion address: '%s'</translation>
+      <translation>&#x65E0;&#x6548;-&#x6D0B;&#x8471;&#x5934;&#x5730;&#x5740;&#xFF1A;'%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid -proxy address: '%s'</source>
-      <translation type="unfinished">Invalid -proxy address: '%s'</translation>
+      <translation>&#x65E0;&#x6548;-&#x4EE3;&#x7406;&#x5730;&#x5740;&#xFF1A;'%s'</translation>
     </message>
     <message>
       <location line="+2"/>
       <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>&#x8BBE;&#x5B9A; -maxtxfee=&lt;&#x91D1;&#x989D;&gt; &#x7684;&#x91D1;&#x989D;&#x65E0;&#x6548;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>&#x8BBE;&#x5B9A; --minrelaytxfee=&lt;&#x91D1;&#x989D;&gt; &#x7684;&#x91D1;&#x989D;&#x65E0;&#x6548;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>&#x8BBE;&#x5B9A; -mintxfee=&lt;&#x91D1;&#x989D;&gt; &#x7684;&#x91D1;&#x989D;&#x65E0;&#x6548;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
-      <translation type="unfinished">Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</translation>
+      <translation>&#x8BBE;&#x5B9A; -paytxfee=&lt;&#x91D1;&#x989D;&gt;  &#x7684;&#x91D1;&#x989D;&#x65E0;&#x6548;: '%s' (&#x81F3;&#x5C11;&#x8981;&#x6709;%s)</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>&#x8BBE;&#x5B9A; -paytxfee=&lt;&#x91D1;&#x989D;&gt; &#x7684;&#x91D1;&#x989D;&#x65E0;&#x6548;: '%s'</translation>
     </message>
     <message>
       <location line="+13"/>
@@ -5537,12 +5541,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-72"/>
       <source>Can't find random Masternode.</source>
-      <translation type="unfinished">Can't find random Masternode.</translation>
+      <translation>&#x65E0;&#x6CD5;&#x627E;&#x5230;&#x968F;&#x673A;&#x4E3B;&#x8282;&#x70B9;.</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Can't mix while sync in progress.</source>
-      <translation type="unfinished">Can't mix while sync in progress.</translation>
+      <translation>&#x65E0;&#x6CD5;&#x5728;&#x540C;&#x6B65;&#x8FC7;&#x7A0B;&#x4E2D;&#x8FDB;&#x884C;&#x6DF7;&#x6DC6;.</translation>
     </message>
     <message>
       <location line="+15"/>
@@ -6362,7 +6366,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+2"/>
       <source>Unknown network specified in -onlynet: '%s'</source>
-      <translation type="unfinished">Unknown network specified in -onlynet: '%s'</translation>
+      <translation>&#x5728; -onlynet &#x6307;&#x5B9A;&#x4E86;&#x4E0D;&#x660E;&#x7684;&#x7F51;&#x8DEF;&#x522B;: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
