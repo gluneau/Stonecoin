@@ -1292,12 +1292,12 @@
     <message>
       <location line="+71"/>
       <source>The entered address "%1" is not a valid Proton address.</source>
-      <translation type="unfinished">The entered address "%1" is not a valid Proton address.</translation>
+      <translation>Den angivna adressen "%1" &#xE4;r inte en giltig Proton-adress.</translation>
     </message>
     <message>
       <location line="+5"/>
       <source>The entered address "%1" is already in the address book.</source>
-      <translation type="unfinished">The entered address "%1" is already in the address book.</translation>
+      <translation>Den angivna adressen "%1" finns redan i adressboken.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -1410,7 +1410,7 @@
     <message>
       <location line="-50"/>
       <source>Set language, for example "de_DE" (default: system locale)</source>
-      <translation type="unfinished">Set language, for example "de_DE" (default: system locale)</translation>
+      <translation>St&#xE4;ll in spr&#xE5;k, till exempel "de_DE" (standardv&#xE4;rde: system locale)</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -3957,7 +3957,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../signverifymessagedialog.cpp" line="+33"/>
       <source>Click "Sign Message" to generate signature</source>
-      <translation type="unfinished">Click "Sign Message" to generate signature</translation>
+      <translation>Klicka p&#xE5; "Signera Meddelande" f&#xF6;r att generera en signatur</translation>
     </message>
     <message>
       <location line="+104"/>
@@ -4254,7 +4254,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+7"/>
       <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-      <translation type="unfinished">Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</translation>
+      <translation>Genererade mynt m&#xE5;ste v&#xE4;nta %1 block innan de kan anv&#xE4;ndas. N&#xE4;r du genererade detta block uts&#xE4;ndes det till n&#xE4;tverket f&#xF6;r att l&#xE4;ggas till i blockkedjan. Om blocket inte kommer in i kedjan kommer dess tillst&#xE5;nd att &#xE4;ndras till "ej accepterad" och kommer inte att kunna spenderas. Detta kan ibland h&#xE4;nda om en annan nod genererar ett block inom ett par sekunder fr&#xE5;n ditt.</translation>
     </message>
     <message>
       <location line="+8"/>
@@ -4883,7 +4883,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Can't denominate: no compatible inputs left.</source>
-      <translation type="unfinished">Can't denominate: no compatible inputs left.</translation>
+      <translation>Kan inte denominera: Inga kompatibla indatan kvar.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -4893,12 +4893,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Cannot resolve -bind address: '%s'</source>
-      <translation type="unfinished">Cannot resolve -bind address: '%s'</translation>
+      <translation>Kan inte l&#xF6;sa -bind address: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Cannot resolve -externalip address: '%s'</source>
-      <translation type="unfinished">Cannot resolve -externalip address: '%s'</translation>
+      <translation>Kan inte l&#xF6;sa -externalip address: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -5263,12 +5263,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Invalid -onion address: '%s'</source>
-      <translation type="unfinished">Invalid -onion address: '%s'</translation>
+      <translation>Ogiltig -onion-adress: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid -proxy address: '%s'</source>
-      <translation type="unfinished">Invalid -proxy address: '%s'</translation>
+      <translation>Ogiltig -proxy-adress: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -5278,12 +5278,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>Ogiltig m&#xE4;ngd f&#xF6;r -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>Ogiltig m&#xE4;ngd f&#xF6;r -mintxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -5293,7 +5293,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
-      <translation type="unfinished">Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</translation>
+      <translation>Ogiltig m&#xE4;ngd f&#xF6;r -paytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+13"/>
@@ -6378,7 +6378,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+2"/>
       <source>Unknown network specified in -onlynet: '%s'</source>
-      <translation type="unfinished">Unknown network specified in -onlynet: '%s'</translation>
+      <translation>Ok&#xE4;nt specificerat n&#xE4;tverk i -onlynet: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
