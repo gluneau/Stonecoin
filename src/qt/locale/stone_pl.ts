@@ -81,12 +81,12 @@
     <message>
       <location line="+7"/>
       <source>These are your Stone addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-      <translation type="unfinished">These are your Stone addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+      <translation>To s&#x105; twoje adresy Stone na kt&#xF3;re wysy&#x142;asz p&#x142;atno&#x15B;ci. Zawsze upewnij si&#x119;, &#x17C;e kwota i adres s&#x105; prawid&#x142;owe zanim wy&#x15B;lesz monety.</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>These are your Stone addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-      <translation type="unfinished">These are your Stone addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
+      <translation>To s&#x105; twoje adresy do otrzymywania Stone&#xF3;w. Zaleca si&#x119; aby stworzy&#x107; nowy adres dla ka&#x17C;dej transakcji</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -342,7 +342,7 @@
     <message>
       <location line="+1"/>
       <source>Send coins to a Stone address</source>
-      <translation type="unfinished">Send coins to a Stone address</translation>
+      <translation>Wy&#x15B;lij monety na adres Stone</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -472,7 +472,7 @@
     <message>
       <location line="+1"/>
       <source>Sign messages with your Stone addresses to prove you own them</source>
-      <translation type="unfinished">Sign messages with your Stone addresses to prove you own them</translation>
+      <translation>Podpisz wiadomo&#x15B;ci swoim adresem Stone aby udowodni&#x107;, &#x17C;e jeste&#x15B; ich w&#x142;a&#x15B;cicielem. </translation>
     </message>
     <message>
       <location line="+1"/>
@@ -482,7 +482,7 @@
     <message>
       <location line="+1"/>
       <source>Verify messages to ensure they were signed with specified Stone addresses</source>
-      <translation type="unfinished">Verify messages to ensure they were signed with specified Stone addresses</translation>
+      <translation>Zweryfikuj wiadomo&#x15B;ci aby upewni&#x107; si&#x119;, &#x17C;e zosta&#x142;y one podpisane wybranym adresem Stone</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -623,9 +623,9 @@
       <location line="+347"/>
       <source>%n active connection(s) to Stone network</source>
       <translation type="unfinished">
-        <numerusform>%n active connection(s) to Stone network</numerusform>
-        <numerusform>%n active connection(s) to Stone network</numerusform>
-        <numerusform>%n active connection(s) to Stone network</numerusform>
+        <numerusform>%n aktywne po&#x142;&#x105;czenie do sieci Stone</numerusform>
+        <numerusform>%n aktywne po&#x142;&#x105;czenia do sieci Stone</numerusform>
+        <numerusform>%n aktywne po&#x142;&#x105;czenia do sieci Stone</numerusform>
         <numerusform>%n active connection(s) to Stone network</numerusform>
       </translation>
     </message>
@@ -1025,7 +1025,7 @@
     <message>
       <location line="+1"/>
       <source>Copy dust</source>
-      <translation>Kopiuj py&#x142; (kwota poni&#x17C;ej 5460 duff&#xF3;w)</translation>
+      <translation>Kopiuj py&#x142; (kwota poni&#x17C;ej 5460 pebble&#xF3;w)</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -1080,7 +1080,7 @@
     <message>
       <location line="+9"/>
       <source>Can vary +/- %1 pebble(s) per input.</source>
-      <translation type="unfinished">Can vary +/- %1 pebble(s) per input.</translation>
+      <translation>Mo&#x17C;e si&#x119; r&#xF3;&#x17C;ni&#x107; oko&#x142;o +/- %1 pebble(&#xF3;w) na transacj&#x119;.</translation>
     </message>
     <message>
       <location line="+131"/>
@@ -1302,7 +1302,7 @@
     <message>
       <location line="+71"/>
       <source>The entered address "%1" is not a valid Stone address.</source>
-      <translation type="unfinished">The entered address "%1" is not a valid Stone address.</translation>
+      <translation>Wprowadzony adres "%1" nie jest w&#x142;a&#x15B;ciwym adresem Stone.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -1452,7 +1452,7 @@
     <message>
       <location line="+10"/>
       <source>Stone Core will download and store a copy of the Stone block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-      <translation type="unfinished">Stone Core will download and store a copy of the Stone block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+      <translation>Stone Core &#x15B;ci&#x105;gnie i przechowa  kopi&#x119; blockchain na twoim dysku. Co najmniej %1GB danych zostanie zapisanych w tym katalogu, a wraz z up&#x142;ywem czasu blockchain b&#x119;dzie stopniowo wymaga&#x142; coraz wi&#x119;cej miejsca. Tw&#xF3;j portfel r&#xF3;wnie&#x17C; zostanie zapisany w tym katalogu.</translation>
     </message>
     <message>
       <location line="+10"/>
@@ -1708,7 +1708,7 @@
     <message>
       <location line="+155"/>
       <source>Amount of Stone to keep anonymized</source>
-      <translation type="unfinished">Amount of Stone to keep anonymized</translation>
+      <translation>Ilo&#x15B;&#x107; Stone&#xF3;w, kt&#xF3;re maj&#x105; pozosta&#x107; anonimowe.</translation>
     </message>
     <message>
       <location line="-119"/>
@@ -1798,7 +1798,7 @@
     <message>
       <location line="+7"/>
       <source>Connect to the Stone network through a SOCKS5 proxy.</source>
-      <translation type="unfinished">Connect to the Stone network through a SOCKS5 proxy.</translation>
+      <translation>Po&#x142;&#x105;cz si&#x119; z sieci&#x105; Stone przez proxy SOCKS5.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -2053,7 +2053,7 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+355"/>
       <location line="+258"/>
       <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Stone network after a connection is established, but this process has not completed yet.</source>
-      <translation type="unfinished">The displayed information may be out of date. Your wallet automatically synchronizes with the Stone network after a connection is established, but this process has not completed yet.</translation>
+      <translation>Wy&#x15B;wietlona informacja mo&#x17C;e by&#x107; przedawniona. Tw&#xF3;j portfel automatycznie zsynchronizuje sie z sieci&#x105; Stone jak tylko zostanie ustanowione po&#x142;&#x105;czenie, jednak&#x17C;e proces ten jeszcze si&#x119; nie zako&#x144;czy&#x142;.</translation>
     </message>
     <message>
       <location line="-364"/>
@@ -2457,7 +2457,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+8"/>
       <source>URI cannot be parsed! This can be caused by an invalid Stone address or malformed URI parameters.</source>
-      <translation type="unfinished">URI cannot be parsed! This can be caused by an invalid Stone address or malformed URI parameters.</translation>
+      <translation>URI nie mo&#x17C;e zosta&#x107; przeanalizowany! Mog&#x142;o to by&#x107; spowodowane przez niew&#x142;a&#x15B;ciwy adres Stone lub niew&#x142;a&#x15B;ciwe parametry URI</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -2564,7 +2564,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../guiutil.cpp" line="+119"/>
       <source>Enter a Stone address (e.g. %1)</source>
-      <translation type="unfinished">Enter a Stone address (e.g. %1)</translation>
+      <translation>Wpisz adres Stone (np. %1)</translation>
     </message>
     <message>
       <location line="+857"/>
@@ -3123,7 +3123,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+14"/>
       <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Stone network.</source>
-      <translation type="unfinished">An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Stone network.</translation>
+      <translation>Opcjonalna wiadomo&#x15B;&#x107; do &#x17C;&#x105;dania p&#x142;atno&#x15B;ci. Wiadomo&#x15B;&#x107; wy&#x15B;wietli si&#x119; po otwarciu &#x17C;&#x105;dania. Pami&#x119;taj: Wiadomo&#x15B;&#x107; nie zostanie wys&#x142;ana razem z p&#x142;atno&#x15B;ci&#x105; poprzez sie&#x107; Stone.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3139,7 +3139,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-14"/>
       <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Stone network.</source>
-      <translation type="unfinished">An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Stone network.</translation>
+      <translation>Opcjonalna wiadomo&#x15B;&#x107; do &#x17C;&#x105;dania p&#x142;atno&#x15B;ci. Wiadomo&#x15B;&#x107; wy&#x15B;wietli si&#x119; po otwarciu &#x17C;&#x105;dania.&lt;br&gt; Pami&#x119;taj: Wiadomo&#x15B;&#x107; nie zostanie wys&#x142;ana razem z p&#x142;atno&#x15B;ci&#x105; poprzez sie&#x107; Stone.</translation>
     </message>
     <message>
       <location line="+7"/>
@@ -3451,12 +3451,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-488"/>
       <source>If the custom fee is set to 1000 pebbles and the transaction is only 250 bytes, then "per kilobyte" only pays 250 pebbles in fee,&lt;br /&gt;while "at least" pays 1000 pebbles. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation type="unfinished">If the custom fee is set to 1000 pebbles and the transaction is only 250 bytes, then "per kilobyte" only pays 250 pebbles in fee,&lt;br /&gt;while "at least" pays 1000 pebbles. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+      <translation>Je&#x15B;li r&#x119;cznie ustalona op&#x142;ata wynosi 1000 pebble&#xF3;w a sama transakcja ma tylko 250 bajt&#xF3;w, to op&#x142;ata jako "za kilobajt" wynosi tylko 250 pebble&#xF3;w. &lt;br/&gt;Dzieje si&#x119; tak dla ka&#x17C;dej transakcji poni&#x17C;ej 1000 pebble&#xF3;w. W przypadku transakcji wi&#x119;kszych ni&#x17C; jedn kilobajt op&#x142;ata jest naliczana od kilobajta. </translation>
     </message>
     <message>
       <location line="+16"/>
       <source>If the custom fee is set to 1000 pebbles and the transaction is only 250 bytes, then "per kilobyte" only pays 250 pebbles in fee,&lt;br /&gt;while "total at least" pays 1000 pebbles. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation type="unfinished">If the custom fee is set to 1000 pebbles and the transaction is only 250 bytes, then "per kilobyte" only pays 250 pebbles in fee,&lt;br /&gt;while "total at least" pays 1000 pebbles. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+      <translation>Je&#x15B;li r&#x119;cznie ustalona op&#x142;ata wynosi 1000 pebble&#xF3;w a sama transakcja ma tylko 250 bit&#xF3;w, to op&#x142;ata jako "za kilobajt" wynosi tylko 250 pebble&#xF3;w.&lt;br/&gt; Dzieje si&#x119; tak dla ka&#x17C;dej transakcji poni&#x17C;ej 1000 pebble&#xF3;w. W przypadku transakcji wi&#x119;kszych ni&#x17C; jedn kilobajt op&#x142;ata jest naliczana od kilobajta.</translation>
     </message>
     <message>
       <location line="+33"/>
@@ -3592,7 +3592,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Copy dust</source>
-      <translation>Kopiuj py&#x142; (kwota poni&#x17C;ej 5460 duff&#xF3;w)</translation>
+      <translation>Kopiuj py&#x142; (kwota poni&#x17C;ej 5460 pebble&#xF3;w)</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -3723,7 +3723,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+229"/>
       <source>Warning: Invalid Stone address</source>
-      <translation type="unfinished">Warning: Invalid Stone address</translation>
+      <translation>Ostrze&#x17C;enie: adres Stone jest nieprawidlowy </translation>
     </message>
     <message>
       <location line="+8"/>
@@ -3751,7 +3751,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+18"/>
       <source>The Stone address to send the payment to</source>
-      <translation type="unfinished">The Stone address to send the payment to</translation>
+      <translation>Adres Stone na kt&#xF3;ry wys&#x142;a&#x107; fundusze</translation>
     </message>
     <message>
       <location line="+7"/>
@@ -3815,7 +3815,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+10"/>
       <source>A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Stone network.</source>
-      <translation type="unfinished">A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Stone network.</translation>
+      <translation>Wiadomo&#x15B;&#x107;, kt&#xF3;ra zosta&#x142;a do&#x142;&#x105;czona do stone: Link, kt&#xF3;ry zostanie zapisany wraz z transakcj&#x105; do wgl&#x105;du w przysz&#x142;o&#x15B;ci. Zauwa&#x17C;. &#x17C;e sama wiadomo&#x15B;&#x107; nie zostanie wys&#x142;ana przez sie&#x107; Darkcoina.</translation>
     </message>
     <message>
       <location line="+433"/>
@@ -3878,7 +3878,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+18"/>
       <source>The Stone address to sign the message with</source>
-      <translation type="unfinished">The Stone address to sign the message with</translation>
+      <translation>Adres Stone do podpisu wiadomo&#x15B;ci</translation>
     </message>
     <message>
       <location line="+7"/>
@@ -3920,7 +3920,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+17"/>
       <source>Sign the message to prove you own this Stone address</source>
-      <translation type="unfinished">Sign the message to prove you own this Stone address</translation>
+      <translation>Podpisz wiadomo&#x15B;&#x107; aby udowodni&#x107;, &#x17C;e jeste&#x15B; w&#x142;a&#x15B;cicielem adresu Stone.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3951,12 +3951,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+21"/>
       <source>The Stone address the message was signed with</source>
-      <translation type="unfinished">The Stone address the message was signed with</translation>
+      <translation>Adres Stone kt&#xF3;rym wiadomo&#x15B;&#x107; zosta&#x142;a podpisana</translation>
     </message>
     <message>
       <location line="+33"/>
       <source>Verify the message to ensure it was signed with the specified Stone address</source>
-      <translation type="unfinished">Verify the message to ensure it was signed with the specified Stone address</translation>
+      <translation>Zweryfikuj wiadomo&#x15B;&#x107; aby upewni&#x107; si&#x119;, &#x17C;e zosta&#x142;a zapisana przez konkretny adres Stone</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -4799,7 +4799,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+10"/>
       <source>Cannot obtain a lock on data directory %s. Stone Core is probably already running.</source>
-      <translation>Nie mo&#x17C;na zablokowa&#x107; katalogu danych %s. Prawdopodobnie Proton jest ju&#x17C; uruchomiony. </translation>
+      <translation>Nie mo&#x17C;na zablokowa&#x107; katalogu danych %s. Prawdopodobnie Stone jest ju&#x17C; uruchomiony. </translation>
     </message>
     <message>
       <location line="+32"/>
@@ -4849,7 +4849,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+13"/>
       <source>Unable to bind to %s on this computer. Stone Core is probably already running.</source>
-      <translation>Niezdolny do zwi&#x105;zania z %s na tym komputerze. Prawdopodobnie Proton jest ju&#x17C; uruchomiony. </translation>
+      <translation>Niezdolny do zwi&#x105;zania z %s na tym komputerze. Prawdopodobnie Stone jest ju&#x17C; uruchomiony. </translation>
     </message>
     <message>
       <location line="+39"/>
@@ -5199,7 +5199,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+1"/>
       <source>Copyright (C) 2014-%i The Stone Core Developers</source>
-      <translation>Prawa autorskie (C) 2014-%i deweloperzy Proton</translation>
+      <translation>Prawa autorskie (C) 2014-%i deweloperzy Stone</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -5214,7 +5214,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+6"/>
       <source>Error loading wallet.dat: Wallet requires newer version of Stone Core</source>
-      <translation>B&#x142;&#x105; wczytywania wallet.dat: Portfel wymaga nowszej wersji Proton</translation>
+      <translation>B&#x142;&#x105; wczytywania wallet.dat: Portfel wymaga nowszej wersji Stone</translation>
     </message>
     <message>
       <location line="+12"/>
