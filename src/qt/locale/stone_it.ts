@@ -81,12 +81,12 @@
     <message>
       <location line="+7"/>
       <source>These are your Stone addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-      <translation type="unfinished">These are your Stone addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+      <translation>Questi sono i tuoi indirizzi Stone per inviare i pagamenti. Controlla sempre l'ammontare e l'indirizzo destinatario prima di inviare i stone.</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>These are your Stone addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-      <translation type="unfinished">These are your Stone addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
+      <translation>Questi sono i tuoi indirizzi di Stone per ricevere i pagamenti. Si raccomanda di usare un nuovo indirizzo di ricezione per ogni operazione.</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -342,7 +342,7 @@
     <message>
       <location line="+1"/>
       <source>Send coins to a Stone address</source>
-      <translation type="unfinished">Send coins to a Stone address</translation>
+      <translation>Spedire stone ad un indirizzo Stone</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -472,7 +472,7 @@
     <message>
       <location line="+1"/>
       <source>Sign messages with your Stone addresses to prove you own them</source>
-      <translation type="unfinished">Sign messages with your Stone addresses to prove you own them</translation>
+      <translation>Firma i messaggi con il tuo indirizzo Stone per dimostrarne che li possiedi</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -482,7 +482,7 @@
     <message>
       <location line="+1"/>
       <source>Verify messages to ensure they were signed with specified Stone addresses</source>
-      <translation type="unfinished">Verify messages to ensure they were signed with specified Stone addresses</translation>
+      <translation>Verificare i messaggi per assicurarsi che sono firmati con gli indirizzi specificati di Stone</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -622,9 +622,9 @@
     <message numerus="yes">
       <location line="+347"/>
       <source>%n active connection(s) to Stone network</source>
-      <translation type="unfinished">
-        <numerusform>%n active connection(s) to Stone network</numerusform>
-        <numerusform>%n active connection(s) to Stone network</numerusform>
+      <translation>
+        <numerusform>%n connessione attiva alla rete Stone</numerusform>
+        <numerusform>%n connessioni attive alla rete Stone</numerusform>
       </translation>
     </message>
     <message>
@@ -1290,7 +1290,7 @@
     <message>
       <location line="+71"/>
       <source>The entered address "%1" is not a valid Stone address.</source>
-      <translation type="unfinished">The entered address "%1" is not a valid Stone address.</translation>
+      <translation>L'indirizzo inserito "%1" non &#xE9; un indirizzo Stone valido</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -1440,7 +1440,7 @@
     <message>
       <location line="+10"/>
       <source>Stone Core will download and store a copy of the Stone block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-      <translation type="unfinished">Stone Core will download and store a copy of the Stone block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+      <translation>Stone Core scaricher&#xE0; e salver&#xE0; una copia della blocco catena. Almeno %1GB di dati sar&#xE0; immagazzinato in questa cartella e aumenter&#xE0; col tempo. Anche il portafoglio sar&#xE0; conservato in questa cartella.</translation>
     </message>
     <message>
       <location line="+10"/>
@@ -1696,7 +1696,7 @@
     <message>
       <location line="+155"/>
       <source>Amount of Stone to keep anonymized</source>
-      <translation type="unfinished">Amount of Stone to keep anonymized</translation>
+      <translation>Quantit&#xE1; di Stone da mantenere anonima.</translation>
     </message>
     <message>
       <location line="-119"/>
@@ -1786,7 +1786,7 @@
     <message>
       <location line="+7"/>
       <source>Connect to the Stone network through a SOCKS5 proxy.</source>
-      <translation type="unfinished">Connect to the Stone network through a SOCKS5 proxy.</translation>
+      <translation>Connetta a la rete Stone attraverso un SOCKS5 proxy</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -2041,7 +2041,7 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+355"/>
       <location line="+258"/>
       <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Stone network after a connection is established, but this process has not completed yet.</source>
-      <translation type="unfinished">The displayed information may be out of date. Your wallet automatically synchronizes with the Stone network after a connection is established, but this process has not completed yet.</translation>
+      <translation>Le informazioni visualizzate potrebbero essere datate. Il portafoglio si sincronizza automaticamente con il Stone rete dopo che una connessione viene stabilizzata, ma questo processo non &#xE8; stato ancora completato.</translation>
     </message>
     <message>
       <location line="-364"/>
@@ -2441,7 +2441,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+8"/>
       <source>URI cannot be parsed! This can be caused by an invalid Stone address or malformed URI parameters.</source>
-      <translation type="unfinished">URI cannot be parsed! This can be caused by an invalid Stone address or malformed URI parameters.</translation>
+      <translation>Impossibile interpretare l'URI! La causa pu&#xF3; essere un indirizzo Stone non valido o parametri URI non corretti.</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -2548,7 +2548,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../guiutil.cpp" line="+119"/>
       <source>Enter a Stone address (e.g. %1)</source>
-      <translation type="unfinished">Enter a Stone address (e.g. %1)</translation>
+      <translation>Inserire un indirizzo Stone (e.g. %1)</translation>
     </message>
     <message>
       <location line="+857"/>
@@ -3107,7 +3107,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+14"/>
       <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Stone network.</source>
-      <translation type="unfinished">An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Stone network.</translation>
+      <translation>Messaggio opzionale da allegare alla richiesta di pagamento, che verr&#xE0; visualizzato quando la richiesta verr&#xE0; aperta. Nota: il messaggio non sar&#xE0; inviato insieme al pagamento nel network Stone.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3705,7 +3705,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+229"/>
       <source>Warning: Invalid Stone address</source>
-      <translation type="unfinished">Warning: Invalid Stone address</translation>
+      <translation>ATTENZIONE: Indirizzo Stone non valido</translation>
     </message>
     <message>
       <location line="+8"/>
@@ -3733,7 +3733,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+18"/>
       <source>The Stone address to send the payment to</source>
-      <translation type="unfinished">The Stone address to send the payment to</translation>
+      <translation>L'indirizzo Stone per inviare il pagamento a </translation>
     </message>
     <message>
       <location line="+7"/>
@@ -3797,7 +3797,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+10"/>
       <source>A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Stone network.</source>
-      <translation type="unfinished">A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Stone network.</translation>
+      <translation>Un messaggio allegato con l'URI stone che verr&#xE0; memorizzato nella transazione per il tuo referente. Nota: questo messaggio non verr&#xE0; inviato attraverso il network Stone.</translation>
     </message>
     <message>
       <location line="+433"/>
@@ -3860,7 +3860,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+18"/>
       <source>The Stone address to sign the message with</source>
-      <translation type="unfinished">The Stone address to sign the message with</translation>
+      <translation>L'indirizzo Stone con cui firmare il messaggio</translation>
     </message>
     <message>
       <location line="+7"/>
@@ -3902,7 +3902,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+17"/>
       <source>Sign the message to prove you own this Stone address</source>
-      <translation type="unfinished">Sign the message to prove you own this Stone address</translation>
+      <translation>Firma il mssaggio per dimostrare il possesso di questo indirizzo Stone</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3933,12 +3933,12 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+21"/>
       <source>The Stone address the message was signed with</source>
-      <translation type="unfinished">The Stone address the message was signed with</translation>
+      <translation>L'indirizzo Stone con cui era firmato il messaggio</translation>
     </message>
     <message>
       <location line="+33"/>
       <source>Verify the message to ensure it was signed with the specified Stone address</source>
-      <translation type="unfinished">Verify the message to ensure it was signed with the specified Stone address</translation>
+      <translation>Verifica il messaggio per assicurarti sia stato firmato con l'indirizzo Stone specificato</translation>
     </message>
     <message>
       <location line="+3"/>
