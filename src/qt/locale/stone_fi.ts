@@ -81,12 +81,12 @@
     <message>
       <location line="+7"/>
       <source>These are your Stone addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-      <translation type="unfinished">These are your Stone addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+      <translation>N&#xE4;m&#xE4; ovat Stone osoitteesi maksujen l&#xE4;hetykseen. Tarkista aina l&#xE4;hetett&#xE4;v&#xE4; m&#xE4;&#xE4;r&#xE4; ja vastaanottajan osoite ennen kuin l&#xE4;het&#xE4;t varoja.</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>These are your Stone addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-      <translation type="unfinished">These are your Stone addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
+      <translation>N&#xE4;m&#xE4; ovat Stone osoitteesi suoritusten vastaanottamiseen. Suositellaan ett&#xE4; annat uuden osoitteen kullekin siirtotapahtumalle.</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -238,7 +238,7 @@
     <message>
       <location line="+57"/>
       <source>Stone Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your stones from being stolen by malware infecting your computer.</source>
-      <translation>Stone Core sulkeutuu nyt salauksen viimeistely&#xE4; varten. Muista ett&#xE4; salaus pelk&#xE4;st&#xE4;&#xE4;n ei voi est&#xE4;&#xE4; Protoniesi varastamista jos koneesi saastuu haittaohjelmilla tai viruksilla.</translation>
+      <translation>Stone Core sulkeutuu nyt salauksen viimeistely&#xE4; varten. Muista ett&#xE4; salaus pelk&#xE4;st&#xE4;&#xE4;n ei voi est&#xE4;&#xE4; Stoneiesi varastamista jos koneesi saastuu haittaohjelmilla tai viruksilla.</translation>
     </message>
     <message>
       <location line="+4"/>
@@ -342,7 +342,7 @@
     <message>
       <location line="+1"/>
       <source>Send coins to a Stone address</source>
-      <translation type="unfinished">Send coins to a Stone address</translation>
+      <translation>L&#xE4;het&#xE4; varoja Stone osoitteeseen</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -352,7 +352,7 @@
     <message>
       <location line="+1"/>
       <source>Request payments (generates QR codes and stone: URIs)</source>
-      <translation>Pyyd&#xE4; maksuja (Luo QR koodit ja Proton: URIt)</translation>
+      <translation>Pyyd&#xE4; maksuja (Luo QR koodit ja Stone: URIt)</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -417,7 +417,7 @@
     <message>
       <location line="+1"/>
       <source>Show or hide the main Window</source>
-      <translation>N&#xE4;yt&#xE4; tai piilota Proton p&#xE4;&#xE4;ikkuna</translation>
+      <translation>N&#xE4;yt&#xE4; tai piilota Stone p&#xE4;&#xE4;ikkuna</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -472,7 +472,7 @@
     <message>
       <location line="+1"/>
       <source>Sign messages with your Stone addresses to prove you own them</source>
-      <translation type="unfinished">Sign messages with your Stone addresses to prove you own them</translation>
+      <translation>Allekirjoita viestit Stone osoitteillasi todistaaksesi ett&#xE4; omistat ne</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -482,7 +482,7 @@
     <message>
       <location line="+1"/>
       <source>Verify messages to ensure they were signed with specified Stone addresses</source>
-      <translation type="unfinished">Verify messages to ensure they were signed with specified Stone addresses</translation>
+      <translation>Tarkista viestit ollaksesi varma ett&#xE4; ne on allekirjoitettu m&#xE4;&#xE4;ritetyill&#xE4; Stone osoitteilla</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -577,7 +577,7 @@
     <message>
       <location line="+1"/>
       <source>Open a stone: URI or payment request</source>
-      <translation>Avaa Proton: URI tai maksupyynt&#xF6;</translation>
+      <translation>Avaa Stone: URI tai maksupyynt&#xF6;</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -622,9 +622,9 @@
     <message numerus="yes">
       <location line="+347"/>
       <source>%n active connection(s) to Stone network</source>
-      <translation type="unfinished">
-        <numerusform>%n active connection(s) to Stone network</numerusform>
-        <numerusform>%n active connection(s) to Stone network</numerusform>
+      <translation>
+        <numerusform>%n aktiivinen yhteys Stone verkkoon</numerusform>
+        <numerusform>%n aktiivista yhteytt&#xE4; Stone verkkoon</numerusform>
       </translation>
     </message>
     <message>
@@ -1068,7 +1068,7 @@
     <message>
       <location line="+9"/>
       <source>Can vary +/- %1 pebble(s) per input.</source>
-      <translation type="unfinished">Can vary +/- %1 pebble(s) per input.</translation>
+      <translation>Voi vaihdella +/- %1 pebbles per sy&#xF6;te.</translation>
     </message>
     <message>
       <location line="+131"/>
@@ -1227,17 +1227,17 @@
     <message>
       <location line="-29"/>
       <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Stone's configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Stone's configuration screen.</translation>
+      <translation>PrivateSend on asetettu perusasetuksiin (%1 and 2 kierrosta). Voit muuttaa asetuksia milloin vain Stone asetuksista.</translation>
     </message>
     <message>
       <location line="+15"/>
       <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Stone's configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Stone's configuration screen.</translation>
+      <translation>PrivateSend on asetettu korkean tason asetuksiin (%1 and 8 kierrosta). Voit muuttaa asetuksia milloin vain Stone asetuksista.</translation>
     </message>
     <message>
       <location line="+15"/>
       <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Stone's configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Stone's configuration screen.</translation>
+      <translation>PrivateSend on asetettu maksimitason asetuksiin (%1 and 16 kierrosta). Voit muuttaa asetuksia milloin vain Stone asetuksista.</translation>
     </message>
   </context>
   <context>
@@ -1290,7 +1290,7 @@
     <message>
       <location line="+71"/>
       <source>The entered address "%1" is not a valid Stone address.</source>
-      <translation type="unfinished">The entered address "%1" is not a valid Stone address.</translation>
+      <translation>Annettu osoite "%1" ei ole p&#xE4;tev&#xE4; Stone osoite.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -1402,7 +1402,7 @@
     <message>
       <location line="+4"/>
       <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Stone in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
-      <translation type="unfinished">&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Stone in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </translation>
+      <translation>&lt;h3&gt;PrivateSend perusteet&lt;/h3&gt; PrivateSend tarjoaa yksityisyyden h&#xE4;m&#xE4;rt&#xE4;m&#xE4;ll&#xE4; varojesi alkuper&#xE4;isen osoitteen. Kaikki Stone:it lompakossasi muodostuvat erillisist&#xE4; "sy&#xF6;tteist&#xE4;", joita voit ajatella erillisin&#xE4; kolikkoina.&lt;br&gt; PrivateSend k&#xE4;ytt&#xE4;&#xE4; stonetiivista prosessia sekoittaakseen lompakkosi sy&#xF6;tteet kahden muun ihmisen sy&#xF6;tteisiin, siirt&#xE4;m&#xE4;tt&#xE4; varoja pois lompakostasi. Varojesi kontrolli pysyy aina sinulla.&lt;hr&gt; &lt;b&gt; PrivateSend prosessi toimii seuraavasti:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend aloittaa pilkkomalla siirtotapahtumiesi sy&#xF6;tteet pienemmiksi standardi arvoiksi. N&#xE4;m&#xE4; arvot ovat 0.01 STONE, 0.1 STONE, 1 STONE ja 10 STONE.&lt;/li&gt; &lt;li&gt;Sitten lompakkosi l&#xE4;hett&#xE4;&#xE4; pyynn&#xF6;n verkon palvelimille, joita kutsutaan "masternode:iksi". Masternodet saavat tiedon ett&#xE4; haluat sekoittaa pilkottuja standardi arvoja. Mit&#xE4;&#xE4;n tunnistetietoja ei l&#xE4;hetet&#xE4; masternode:ille, ne eiv&#xE4;t koskaan tied&#xE4; "kuka" olet.&lt;/li&gt; &lt;li&gt;Kun 2 muuta k&#xE4;ytt&#xE4;j&#xE4;&#xE4; ilmoittaa ett&#xE4; he haluavat my&#xF6;s sekoittaa varoja, alkaa sekoitus-sessio. Masternodet sekoittavat standardi arvot ja ilmoittavat kaikille 3:lle k&#xE4;ytt&#xE4;j&#xE4;n lompakoille ett&#xE4; maksavat sekoitetut arvot takaisin itselleen. Lompakkosi maksaa nuo sekoitetut arvot suoraan itselleen, mutta eri osoitteeseen (vaihto-osoite).&lt;/li&gt; &lt;li&gt;Jotta varojesi alkuper&#xE4;inen l&#xE4;hde h&#xE4;m&#xE4;rret&#xE4;&#xE4;n, lompakkosi suorittaa t&#xE4;m&#xE4;n prosessin useita kertoja kaikilla standardi arvoilla. Aina kun prosessi on valmis, sit&#xE4; kutsutaan "kierrokseksi". Jokainen PrivateSend kierros tekee eksponentiaalisesti vaikeammaksi l&#xF6;yt&#xE4;&#xE4; varojesi alkuper&#xE4;isen osoiteen.&lt;/li&gt; &lt;li&gt;T&#xE4;m&#xE4; sekoitusprosessi tapahtuu taustalla ilman k&#xE4;ytt&#xE4;j&#xE4;n toimenpiteit&#xE4;. Kun haluat my&#xF6;hemmin tehd&#xE4; anonyymin varojen siirron, on varasi valmiiksi sekoitettu (anonymisoitu). Erillist&#xE4; sekoitusta/odotusta ei tarvita.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;T&#xC4;RKE&#xC4;&#xC4;:&lt;/b&gt; Lompakkosi sis&#xE4;lt&#xE4;&#xE4; vain 1000 "vaihto-osoitetta". Aina kun sekoitustapahtuma tehd&#xE4;&#xE4;n, max 9 osoitetta k&#xE4;ytet&#xE4;&#xE4;n. T&#xE4;m&#xE4; tarkoittaa sit&#xE4; ett&#xE4; nuo 1000 osoitetta kest&#xE4;&#xE4; noin 100 sekoitustapahtumaa. Kun 900 osoitetta on k&#xE4;ytetty, lompakkosi t&#xE4;ytyy tehd&#xE4; lis&#xE4;&#xE4; osoitteita. Se voi tehd&#xE4; niit&#xE4; vain jos automaattinen varmistus on k&#xE4;yt&#xF6;ss&#xE4;.&lt;br&gt; T&#xE4;st&#xE4; seuraa ett&#xE4; jos varmistus ei ole k&#xE4;yt&#xF6;ss&#xE4;, my&#xF6;s PrivateSend on pois k&#xE4;yt&#xF6;st&#xE4;. &lt;hr&gt;Lis&#xE4;tietoja &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt; </translation>
     </message>
     <message>
       <location line="-50"/>
@@ -1441,7 +1441,7 @@ Varoitus: Jos k&#xE4;yt&#xE4;t k&#xE4;ytt&#xF6;j&#xE4;rjestelm&#xE4;&#xE4; (Live
     <message>
       <location line="+10"/>
       <source>Stone Core will download and store a copy of the Stone block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-      <translation type="unfinished">Stone Core will download and store a copy of the Stone block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+      <translation>Stone Core lataa ja tallettaa kopion lohkoketjusta. V&#xE4;hint&#xE4;&#xE4;n %1GB dataa talletetaan t&#xE4;h&#xE4;n hakemistoon, ja se my&#xF6;s kasvaa ajan my&#xF6;t&#xE4;. My&#xF6;s lompakko talletetaan t&#xE4;h&#xE4;n hakemistoon.</translation>
     </message>
     <message>
       <location line="+10"/>
@@ -1697,7 +1697,7 @@ Varoitus: Jos k&#xE4;yt&#xE4;t k&#xE4;ytt&#xF6;j&#xE4;rjestelm&#xE4;&#xE4; (Live
     <message>
       <location line="+155"/>
       <source>Amount of Stone to keep anonymized</source>
-      <translation type="unfinished">Amount of Stone to keep anonymized</translation>
+      <translation>Stone m&#xE4;&#xE4;r&#xE4; joka pidet&#xE4;&#xE4;n anonymisoituna</translation>
     </message>
     <message>
       <location line="-119"/>
@@ -1787,7 +1787,7 @@ Varoitus: Jos k&#xE4;yt&#xE4;t k&#xE4;ytt&#xF6;j&#xE4;rjestelm&#xE4;&#xE4; (Live
     <message>
       <location line="+7"/>
       <source>Connect to the Stone network through a SOCKS5 proxy.</source>
-      <translation type="unfinished">Connect to the Stone network through a SOCKS5 proxy.</translation>
+      <translation>Kytkeydy Stone verkkoon k&#xE4;ytt&#xE4;en SOCKS5 proxy:a.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -1899,7 +1899,7 @@ Varoitus: Jos k&#xE4;yt&#xE4;t k&#xE4;ytt&#xF6;j&#xE4;rjestelm&#xE4;&#xE4; (Live
     <message>
       <location line="+25"/>
       <source>Connect to the Stone network through a separate SOCKS5 proxy for Tor hidden services.</source>
-      <translation type="unfinished">Connect to the Stone network through a separate SOCKS5 proxy for Tor hidden services.</translation>
+      <translation>Kytkeydy Stone verkkoon k&#xE4;ytt&#xE4;en erillist&#xE4; SOCKS5 proxy:a Tor piilopalveluihin.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -2042,7 +2042,7 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+355"/>
       <location line="+258"/>
       <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Stone network after a connection is established, but this process has not completed yet.</source>
-      <translation type="unfinished">The displayed information may be out of date. Your wallet automatically synchronizes with the Stone network after a connection is established, but this process has not completed yet.</translation>
+      <translation>N&#xE4;ytetyt tiedot eiv&#xE4;t v&#xE4;ltt&#xE4;m&#xE4;tt&#xE4; ole ajan tasalla.&lt;br&gt;Lompakkosi synkronoituu automaattisesti Stone verkkoon kun&lt;br&gt;yhteys on muodostettu, mutta t&#xE4;m&#xE4; prosessi ei viel&#xE4; ole valmis.</translation>
     </message>
     <message>
       <location line="-364"/>
@@ -2410,7 +2410,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="-402"/>
       <source>Cannot start stone: click-to-pay handler</source>
-      <translation>Ei voi k&#xE4;ynnist&#xE4;&#xE4; Protonia: click-to-pay handler</translation>
+      <translation>Ei voi k&#xE4;ynnist&#xE4;&#xE4; Stoneia: click-to-pay handler</translation>
     </message>
     <message>
       <location line="+103"/>
@@ -2442,7 +2442,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+8"/>
       <source>URI cannot be parsed! This can be caused by an invalid Stone address or malformed URI parameters.</source>
-      <translation type="unfinished">URI cannot be parsed! This can be caused by an invalid Stone address or malformed URI parameters.</translation>
+      <translation>URI:a ei voida j&#xE4;sent&#xE4;&#xE4;! T&#xE4;m&#xE4; voi johtua virheellisest&#xE4; Stone osoitteesta tai virheellisest&#xE4; URI:n muuttujasta. </translation>
     </message>
     <message>
       <location line="+14"/>
@@ -2549,7 +2549,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location filename="../guiutil.cpp" line="+119"/>
       <source>Enter a Stone address (e.g. %1)</source>
-      <translation type="unfinished">Enter a Stone address (e.g. %1)</translation>
+      <translation>Sy&#xF6;t&#xE4; Stone osoite (esim. %1)</translation>
     </message>
     <message>
       <location line="+857"/>
@@ -3112,7 +3112,7 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     <message>
       <location line="+14"/>
       <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Stone network.</source>
-      <translation type="unfinished">An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Stone network.</translation>
+      <translation>Valinnainen viesti liitett&#xE4;v&#xE4;ksi maksupyynt&#xF6;&#xF6;n, joka n&#xE4;ytet&#xE4;&#xE4;n kun pyynt&#xF6; on avattu.&lt;br&gt;Huomio: Viesti&#xE4; ei l&#xE4;hetet&#xE4; maksun mukana Stone verkkoon.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3128,7 +3128,7 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     <message>
       <location line="-14"/>
       <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Stone network.</source>
-      <translation type="unfinished">An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Stone network.</translation>
+      <translation>Valinnainen viesti liitett&#xE4;v&#xE4;ksi maksupyynt&#xF6;&#xF6;n, joka n&#xE4;ytet&#xE4;&#xE4;n kun pyynt&#xF6; on avattu.&lt;br&gt;Huomio: Viesti&#xE4; ei l&#xE4;hetet&#xE4; maksun mukana Stone verkkoon.</translation>
     </message>
     <message>
       <location line="+7"/>
@@ -3440,12 +3440,12 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     <message>
       <location line="-488"/>
       <source>If the custom fee is set to 1000 pebbles and the transaction is only 250 bytes, then "per kilobyte" only pays 250 pebbles in fee,&lt;br /&gt;while "at least" pays 1000 pebbles. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation type="unfinished">If the custom fee is set to 1000 pebbles and the transaction is only 250 bytes, then "per kilobyte" only pays 250 pebbles in fee,&lt;br /&gt;while "at least" pays 1000 pebbles. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+      <translation>Jos mukautettu siirtomaksu on asetettu 1000 pebble ja siirtotapahtuma on vain 250 tavua,&lt;br /&gt;t&#xE4;ll&#xF6;in "per kilotavu" maksaa vain 250 pebbles siirtomaksun, kun taas "v&#xE4;hint&#xE4;&#xE4;n" maksaa 1000 pebbles.&lt;br /&gt;Siirtotapahtumat jotka ovat isompia kuin kilotavu, molemmat maksaa "per kilotavu".</translation>
     </message>
     <message>
       <location line="+16"/>
       <source>If the custom fee is set to 1000 pebbles and the transaction is only 250 bytes, then "per kilobyte" only pays 250 pebbles in fee,&lt;br /&gt;while "total at least" pays 1000 pebbles. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation type="unfinished">If the custom fee is set to 1000 pebbles and the transaction is only 250 bytes, then "per kilobyte" only pays 250 pebbles in fee,&lt;br /&gt;while "total at least" pays 1000 pebbles. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+      <translation>Jos mukautettu siirtomaksu on asetettu 1000 pebble ja siirtotapahtuma on vain 250 tavua,&lt;br /&gt;t&#xE4;ll&#xF6;in "per kilotavu" maksaa vain 250 pebbles siirtomaksun, kun taas "yhteens&#xE4; v&#xE4;hint&#xE4;&#xE4;n" maksaa 1000 pebbles.&lt;br /&gt;Siirtotapahtumat jotka ovat isompia kuin kilotavu, molemmat maksaa "per kilotavu".</translation>
     </message>
     <message>
       <location line="+33"/>
@@ -3710,7 +3710,7 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     <message>
       <location line="+229"/>
       <source>Warning: Invalid Stone address</source>
-      <translation type="unfinished">Warning: Invalid Stone address</translation>
+      <translation>Varoitus: Virheellinen Stone osoite</translation>
     </message>
     <message>
       <location line="+8"/>
@@ -3738,7 +3738,7 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     <message>
       <location line="+18"/>
       <source>The Stone address to send the payment to</source>
-      <translation type="unfinished">The Stone address to send the payment to</translation>
+      <translation>Stone osoite johon maksu l&#xE4;hetet&#xE4;&#xE4;n</translation>
     </message>
     <message>
       <location line="+7"/>
@@ -3787,7 +3787,7 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     <message>
       <location line="-1046"/>
       <source>The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Stone than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-      <translation type="unfinished">The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Stone than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</translation>
+      <translation>Siirtomaksu v&#xE4;hennet&#xE4;&#xE4;n l&#xE4;hetett&#xE4;v&#xE4;st&#xE4; summasta. Vastaanottaja saa pienemm&#xE4;n summan kuin mit&#xE4; laitoit m&#xE4;&#xE4;r&#xE4; kentt&#xE4;&#xE4;n. Jos useampia vastaanottajia on valittu, siirtomaksu jaetaan tasan.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3802,7 +3802,7 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     <message>
       <location line="+10"/>
       <source>A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Stone network.</source>
-      <translation type="unfinished">A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Stone network.</translation>
+      <translation>Viesti joka liitettiin Stone: URI joka talletetaan siirtotapahtuman kanssa viitteeksi sinulle. Huomio: T&#xE4;t&#xE4; viesti&#xE4; ei l&#xE4;hetet&#xE4; Stone verkkoon.</translation>
     </message>
     <message>
       <location line="+433"/>
@@ -3860,12 +3860,12 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     <message>
       <location line="+6"/>
       <source>You can sign messages/agreements with your addresses to prove you can receive Stone sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-      <translation type="unfinished">You can sign messages/agreements with your addresses to prove you can receive Stone sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</translation>
+      <translation>Voit allekirjoittaa viestit/sopimukset omilla osoitteillasi todistaaksesi ett&#xE4; omistat ne. Ole huolellinen ett&#xE4; et allekirjoita mit&#xE4;&#xE4;n ep&#xE4;m&#xE4;&#xE4;r&#xE4;ist&#xE4;, satunnaista, phishing-hy&#xF6;kk&#xE4;j&#xE4; voi huijata sinua allekirjoittamaan henkil&#xF6;llisyytesi omasta puolestaan. Allekirjoita vain yksityiskohtaisesti t&#xE4;ytetty selvitys johon sitoudut.</translation>
     </message>
     <message>
       <location line="+18"/>
       <source>The Stone address to sign the message with</source>
-      <translation type="unfinished">The Stone address to sign the message with</translation>
+      <translation>Stone osoite jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
       <location line="+7"/>
@@ -3907,7 +3907,7 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     <message>
       <location line="+17"/>
       <source>Sign the message to prove you own this Stone address</source>
-      <translation type="unfinished">Sign the message to prove you own this Stone address</translation>
+      <translation>Allekirjoita viesti todistaaksesi ett&#xE4; omistat t&#xE4;m&#xE4;n Stone osoitteen</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3938,12 +3938,12 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     <message>
       <location line="+21"/>
       <source>The Stone address the message was signed with</source>
-      <translation type="unfinished">The Stone address the message was signed with</translation>
+      <translation>Stone osoite jolla viesti on allekirjoitettu</translation>
     </message>
     <message>
       <location line="+33"/>
       <source>Verify the message to ensure it was signed with the specified Stone address</source>
-      <translation type="unfinished">Verify the message to ensure it was signed with the specified Stone address</translation>
+      <translation>Tarkista ett&#xE4; viesti on allekirjoitettu m&#xE4;&#xE4;ritetyll&#xE4; Stone osoitteella</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -4833,7 +4833,7 @@ N&#xE4;ill&#xE4; toiminnoilla voit korjata korruptoituneen lohkoketjun tai puutt
     <message>
       <location line="+39"/>
       <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
-      <translation>Varoitus: Proton verkossa on ristiriitoja! Louhijat n&#xE4;ytt&#xE4;v&#xE4;t kokevan virhetilanteita.</translation>
+      <translation>Varoitus: Stone verkossa on ristiriitoja! Louhijat n&#xE4;ytt&#xE4;v&#xE4;t kokevan virhetilanteita.</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -5607,7 +5607,7 @@ K&#xE4;&#xE4;nn&#xF6;s p&#xE4;ivitetty: 11.3.2017 by AjM.</translation>
     <message>
       <location line="-328"/>
       <source>Disable all Stone specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
-      <translation type="unfinished">Disable all Stone specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</translation>
+      <translation>Kytke pois k&#xE4;yt&#xF6;st&#xE4; kaikki Stone:in erityistoiminnot (Masternodet, PrivateSend, InstantSend, Budjetointi) (0-1, oletus: %u)</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5707,7 +5707,7 @@ K&#xE4;&#xE4;nn&#xF6;s p&#xE4;ivitetty: 11.3.2017 by AjM.</translation>
     <message>
       <location line="+9"/>
       <source>Please check that your computer's date and time are correct! If your clock is wrong Stone Core will not work properly.</source>
-      <translation>Tarkista ett&#xE4; tietokoneesi kellonaika ja p&#xE4;iv&#xE4;m&#xE4;&#xE4;r&#xE4; ovat oikein! Proton ei toimi oikein v&#xE4;&#xE4;r&#xE4;ll&#xE4; p&#xE4;iv&#xE4;m&#xE4;&#xE4;r&#xE4;ll&#xE4; ja/tai kellonajalla.</translation>
+      <translation>Tarkista ett&#xE4; tietokoneesi kellonaika ja p&#xE4;iv&#xE4;m&#xE4;&#xE4;r&#xE4; ovat oikein! Stone ei toimi oikein v&#xE4;&#xE4;r&#xE4;ll&#xE4; p&#xE4;iv&#xE4;m&#xE4;&#xE4;r&#xE4;ll&#xE4; ja/tai kellonajalla.</translation>
     </message>
     <message>
       <location line="+3"/>
