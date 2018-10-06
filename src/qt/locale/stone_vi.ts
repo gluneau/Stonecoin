@@ -80,13 +80,13 @@
     </message>
     <message>
       <location line="+7"/>
-      <source>These are your Proton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-      <translation>&#x110;&#xE2;y l&#xE0; c&#xE1;c &#x111;&#x1ECB;a ch&#x1EC9; Proton c&#x1EE7;a b&#x1EA1;n &#x111;&#x1EC3; g&#x1EED;i thanh to&#xE1;n. Lu&#xF4;n lu&#xF4;n ki&#x1EC3;m tra s&#x1ED1; ti&#x1EC1;n v&#xE0; &#x111;&#x1ECB;a ch&#x1EC9; nh&#x1EAD;n tr&#x1B0;&#x1EDB;c khi b&#x1EA1;n g&#x1EED;i ti&#x1EC1;n.</translation>
+      <source>These are your Stone addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+      <translation>&#x110;&#xE2;y l&#xE0; c&#xE1;c &#x111;&#x1ECB;a ch&#x1EC9; Stone c&#x1EE7;a b&#x1EA1;n &#x111;&#x1EC3; g&#x1EED;i thanh to&#xE1;n. Lu&#xF4;n lu&#xF4;n ki&#x1EC3;m tra s&#x1ED1; ti&#x1EC1;n v&#xE0; &#x111;&#x1ECB;a ch&#x1EC9; nh&#x1EAD;n tr&#x1B0;&#x1EDB;c khi b&#x1EA1;n g&#x1EED;i ti&#x1EC1;n.</translation>
     </message>
     <message>
       <location line="+4"/>
-      <source>These are your Proton addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-      <translation>&#x110;&#xE2;y l&#xE0; c&#xE1;c &#x111;&#x1ECB;a ch&#x1EC9; Proton c&#x1EE7;a b&#x1EA1;n &#x111;&#x1EC3; nh&#x1EAD;n thanh to&#xE1;n. G&#x1EE3;i &#xFD; l&#xE0; s&#x1EED; d&#x1EE5;ng m&#x1ED9;t &#x111;&#x1ECB;a ch&#x1EC9; nh&#x1EAD;n m&#x1EDB;i cho m&#x1ED7;i giao d&#x1ECB;ch.</translation>
+      <source>These are your Stone addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+      <translation>&#x110;&#xE2;y l&#xE0; c&#xE1;c &#x111;&#x1ECB;a ch&#x1EC9; Stone c&#x1EE7;a b&#x1EA1;n &#x111;&#x1EC3; nh&#x1EAD;n thanh to&#xE1;n. G&#x1EE3;i &#xFD; l&#xE0; s&#x1EED; d&#x1EE5;ng m&#x1ED9;t &#x111;&#x1ECB;a ch&#x1EC9; nh&#x1EAD;n m&#x1EDB;i cho m&#x1ED7;i giao d&#x1ECB;ch.</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -341,8 +341,8 @@
     </message>
     <message>
       <location line="+1"/>
-      <source>Send coins to a Proton address</source>
-      <translation>G&#x1EED;i ti&#x1EC1;n v&#xE0;o &#x111;&#x1ECB;a ch&#x1EC9; Proton</translation>
+      <source>Send coins to a Stone address</source>
+      <translation>G&#x1EED;i ti&#x1EC1;n v&#xE0;o &#x111;&#x1ECB;a ch&#x1EC9; Stone</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -471,8 +471,8 @@
     </message>
     <message>
       <location line="+1"/>
-      <source>Sign messages with your Proton addresses to prove you own them</source>
-      <translation>K&#xFD; v&#xE0;o th&#xF4;ng &#x111;i&#x1EC7;p v&#x1EDB;i &#x111;&#x1ECB;a ch&#x1EC9; Proton &#x111;&#x1EC3; ch&#x1EE9;ng minh b&#x1EA1;n l&#xE0; ch&#x1EE7; c&#x1EE7;a ch&#xFA;ng</translation>
+      <source>Sign messages with your Stone addresses to prove you own them</source>
+      <translation>K&#xFD; v&#xE0;o th&#xF4;ng &#x111;i&#x1EC7;p v&#x1EDB;i &#x111;&#x1ECB;a ch&#x1EC9; Stone &#x111;&#x1EC3; ch&#x1EE9;ng minh b&#x1EA1;n l&#xE0; ch&#x1EE7; c&#x1EE7;a ch&#xFA;ng</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -481,8 +481,8 @@
     </message>
     <message>
       <location line="+1"/>
-      <source>Verify messages to ensure they were signed with specified Proton addresses</source>
-      <translation>Ki&#x1EC3;m tra th&#xF4;ng &#x111;i&#x1EC7;p &#x111;&#x1EC3; &#x111;&#x1EA3;m b&#x1EA3;o r&#x1EB1;ng n&#xF3; &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c k&#xFD; b&#x1EB1;ng &#x111;&#x1ECB;a ch&#x1EC9; Proton nh&#x1EA5;t &#x111;&#x1ECB;nh</translation>
+      <source>Verify messages to ensure they were signed with specified Stone addresses</source>
+      <translation>Ki&#x1EC3;m tra th&#xF4;ng &#x111;i&#x1EC7;p &#x111;&#x1EC3; &#x111;&#x1EA3;m b&#x1EA3;o r&#x1EB1;ng n&#xF3; &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c k&#xFD; b&#x1EB1;ng &#x111;&#x1ECB;a ch&#x1EC9; Stone nh&#x1EA5;t &#x111;&#x1ECB;nh</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -621,9 +621,9 @@
     </message>
     <message numerus="yes">
       <location line="+347"/>
-      <source>%n active connection(s) to Proton network</source>
+      <source>%n active connection(s) to Stone network</source>
       <translation>
-        <numerusform>%n k&#x1EBF;t n&#x1ED1;i hi&#x1EC7;n th&#x1EDD;i t&#x1EDB;i m&#x1EA1;ng l&#x1B0;&#x1EDB;i c&#x1EE7;a Proton</numerusform>
+        <numerusform>%n k&#x1EBF;t n&#x1ED1;i hi&#x1EC7;n th&#x1EDD;i t&#x1EDB;i m&#x1EA1;ng l&#x1B0;&#x1EDB;i c&#x1EE7;a Stone</numerusform>
       </translation>
     </message>
     <message>
@@ -1061,8 +1061,8 @@
     </message>
     <message>
       <location line="+9"/>
-      <source>Can vary +/- %1 duff(s) per input.</source>
-      <translation>C&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i +/- %1 duff(s) cho m&#x1ED7;i &#x111;&#x1EA7;u v&#xE0;o.</translation>
+      <source>Can vary +/- %1 pebble(s) per input.</source>
+      <translation>C&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i +/- %1 pebble(s) cho m&#x1ED7;i &#x111;&#x1EA7;u v&#xE0;o.</translation>
     </message>
     <message>
       <location line="+131"/>
@@ -1220,18 +1220,18 @@
     </message>
     <message>
       <location line="-29"/>
-      <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-      <translation>PrivateSend &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t l&#x1EAD;p th&#xE0;nh c&#xF4;ng v&#x1EC1; m&#x1EE9;c c&#x1A1; b&#x1EA3;n (%1 v&#xE0; 2 v&#xF2;ng). B&#x1EA1;n c&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i n&#xF3; b&#x1EA5;t c&#x1EE9; th&#x1EDD;i gian n&#xE0;o b&#x1EB1;ng c&#xE1;ch m&#x1EDF; ch&#x1EE9;c n&#x103;ng c&#x1EA5;u h&#xEC;nh c&#x1EE7;a Proton.</translation>
+      <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Stone's configuration screen.</source>
+      <translation>PrivateSend &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t l&#x1EAD;p th&#xE0;nh c&#xF4;ng v&#x1EC1; m&#x1EE9;c c&#x1A1; b&#x1EA3;n (%1 v&#xE0; 2 v&#xF2;ng). B&#x1EA1;n c&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i n&#xF3; b&#x1EA5;t c&#x1EE9; th&#x1EDD;i gian n&#xE0;o b&#x1EB1;ng c&#xE1;ch m&#x1EDF; ch&#x1EE9;c n&#x103;ng c&#x1EA5;u h&#xEC;nh c&#x1EE7;a Stone.</translation>
     </message>
     <message>
       <location line="+15"/>
-      <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-      <translation>PrivateSend &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t l&#x1EAD;p th&#xE0;nh c&#xF4;ng &#x1EDF; m&#x1EE9;c cao (%1 v&#xE0; 8 v&#xF2;ng). B&#x1EA1;n c&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i n&#xF3; b&#x1EA5;t c&#x1EE9; l&#xFA;c n&#xE0;o b&#x1EB1;ng c&#xE1;ch m&#x1EDF; ch&#x1EE9;c n&#x103;ng c&#x1EA5;u h&#xEC;nh Proton.</translation>
+      <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Stone's configuration screen.</source>
+      <translation>PrivateSend &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t l&#x1EAD;p th&#xE0;nh c&#xF4;ng &#x1EDF; m&#x1EE9;c cao (%1 v&#xE0; 8 v&#xF2;ng). B&#x1EA1;n c&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i n&#xF3; b&#x1EA5;t c&#x1EE9; l&#xFA;c n&#xE0;o b&#x1EB1;ng c&#xE1;ch m&#x1EDF; ch&#x1EE9;c n&#x103;ng c&#x1EA5;u h&#xEC;nh Stone.</translation>
     </message>
     <message>
       <location line="+15"/>
-      <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-      <translation>PrivateSend &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t l&#x1EAD;p th&#xE0;nh c&#xF4;ng &#x1EDF; m&#x1EE9;c t&#x1ED1;i &#x111;a (%1 v&#xE0; 16 v&#xF2;ng). B&#x1EA1;n c&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i n&#xF3; b&#x1EA5;t c&#x1EE9; th&#x1EDD;i gian n&#xE0;o b&#x1EB1;ng c&#xE1;ch m&#x1EDF; ch&#x1EE9;c n&#x103;ng c&#x1EA5;u h&#xEC;nh c&#x1EE7;a Proton.</translation>
+      <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Stone's configuration screen.</source>
+      <translation>PrivateSend &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t l&#x1EAD;p th&#xE0;nh c&#xF4;ng &#x1EDF; m&#x1EE9;c t&#x1ED1;i &#x111;a (%1 v&#xE0; 16 v&#xF2;ng). B&#x1EA1;n c&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i n&#xF3; b&#x1EA5;t c&#x1EE9; th&#x1EDD;i gian n&#xE0;o b&#x1EB1;ng c&#xE1;ch m&#x1EDF; ch&#x1EE9;c n&#x103;ng c&#x1EA5;u h&#xEC;nh c&#x1EE7;a Stone.</translation>
     </message>
   </context>
   <context>
@@ -1283,8 +1283,8 @@
     </message>
     <message>
       <location line="+71"/>
-      <source>The entered address "%1" is not a valid Proton address.</source>
-      <translation>&#x110;&#x1ECB;a ch&#x1EC9; v&#x1EEB;a nh&#x1EAD;p "%1" kh&#xF4;ng ph&#x1EA3;i &#x111;&#x1ECB;a ch&#x1EC9; Proton h&#x1EE3;p l&#x1EC7;.</translation>
+      <source>The entered address "%1" is not a valid Stone address.</source>
+      <translation>&#x110;&#x1ECB;a ch&#x1EC9; v&#x1EEB;a nh&#x1EAD;p "%1" kh&#xF4;ng ph&#x1EA3;i &#x111;&#x1ECB;a ch&#x1EC9; Stone h&#x1EE3;p l&#x1EC7;.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -1395,8 +1395,8 @@
     </message>
     <message>
       <location line="+4"/>
-      <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Proton in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
-      <translation>&lt;h3&gt;C&#x1A1; b&#x1EA3;n v&#x1EC1; PrivateSend&lt;/h3&gt; PrivateSend cho b&#x1EA1;n s&#x1EF1; th&#x1EF1;c s&#x1EF1; ri&#xEA;ng t&#x1B0; v&#x1EC1; t&#xE0;i ch&#xED;nh b&#x1EB1;ng vi&#x1EC7;c che d&#x1EA5;u nh&#x1EEF;ng ngu&#x1ED3;n cung. T&#x1EA5;t c&#x1EA3; Proton trong v&#xED; c&#x1EE7;a b&#x1EA1;n bao g&#x1ED3;m nh&#x1EEF;ng "ngu&#x1ED3;n" kh&#xE1;c nhau m&#xE0; b&#x1EA1;n ngh&#x129; &#x111;&#xF3; l&#xE0; c&#xE1;c coin ri&#xEA;ng bi&#x1EC7;t v&#xE0; r&#x1EDD;i r&#x1EA1;c.&lt;br&gt; PrivateSend s&#x1EED; d&#x1EE5;ng m&#x1ED9;t ti&#x1EBF;n tr&#xEC;nh &#x111;&#x1ED9;c &#x111;&#xE1;o &#x111;&#x1EC3; tr&#x1ED9;n c&#xE1;c &#x111;&#x1EA7;u v&#xE0;o c&#x1EE7;a b&#x1EA1;n v&#x1EDB;i &#x111;&#x1EA7;u v&#xE0;o c&#x1EE7;a nh&#x1EEF;ng ng&#x1B0;&#x1EDD;i kh&#xE1;c, m&#xE0; kh&#xF4;ng l&#xE0;m cho c&#xE1;c coin r&#x1EDD;i kh&#x1ECF;i v&#xED; c&#x1EE7;a b&#x1EA1;n. B&#x1EA1;n v&#x1EAB;n gi&#x1EEF; quy&#x1EC1;n ki&#x1EC3;m so&#xE1;t ti&#x1EC1;n c&#x1EE7;a b&#x1EA1;n b&#x1EA5;t c&#x1EE9; l&#xFA;c n&#xE0;o..&lt;hr&gt; &lt;b&gt;Qu&#xE1; tr&#xEC;nh PrivateSend l&#xE0;m vi&#x1EC7;c nh&#x1B0; sau: &lt;/b&gt; &lt;ol type="1"&gt; &lt;li&gt;PrivateSend b&#x1EAF;t &#x111;&#x1EA7;u b&#x1EB1;ng vi&#x1EC7;c chia c&#xE1;c giao d&#x1ECB;ch &#x111;&#x1EA7;u v&#xE0;o c&#x1EE7;a b&#x1EA1;n th&#xE0;nh nh&#x1EEF;ng m&#x1EC7;nh gi&#xE1; chu&#x1EA9;n. Nh&#x1EEF;ng m&#x1EC7;nh gi&#xE1; &#x111;&#xF3; l&#xE0; 0.01 STONE, 0.1 STONE, 1 STONE, v&#xE0; 10 STONE -- c&#x169;ng gi&#x1ED1;ng nh&#x1B0; c&#xE1;c m&#x1EC7;nh gi&#xE1; tr&#xEA;n ti&#x1EC1;n gi&#x1EA5;y m&#xE0; b&#x1EA1;n s&#x1EED; d&#x1EE5;ng h&#xE0;ng ng&#xE0;y.&lt;li&gt; &lt;li&gt;V&#xED; c&#x1EE7;a b&#x1EA1;n sau &#x111;&#xF3; g&#x1EED;i y&#xEA;u c&#x1EA7;u &#x111;&#x1EBF;n nh&#x1EEF;ng n&#xFA;t ph&#x1EA7;n m&#x1EC1;m &#x111;&#x1B0;&#x1EE3;c c&#x1EA5;u h&#xEC;nh &#x111;&#x1EB7;c bi&#x1EC7;t tr&#xEA;n m&#x1EA1;ng g&#x1ECD;i l&#xE0; c&#xE1;c "masternode". Nh&#x1EEF;ng masternode &#x111;&#x1B0;&#x1EE3;c b&#xE1;o r&#x1EB1;ng b&#x1EA1;n quan t&#xE2;m &#x111;&#x1EBF;n vi&#x1EC7;c x&#xE1;o tr&#x1ED9;n m&#x1ED9;t m&#x1EC7;nh gi&#xE1; n&#xE0;o &#x111;&#xF3;. Kh&#xF4;ng c&#xF3; th&#xF4;ng tin &#x111;&#x1ECB;nh danh n&#xE0;o &#x111;&#x1B0;&#x1EE3;c g&#x1EED;i &#x111;&#x1EBF;n cho c&#xE1;c masternode, v&#xE0; nh&#x1B0; v&#x1EAD;y h&#x1ECD; kh&#xF4;ng bao gi&#x1EDD; bi&#x1EBF;t b&#x1EA1;n "l&#xE0; ai".&lt;/li&gt; &lt;li&gt;Khi hai ng&#x1B0;&#x1EDD;i kh&#xE1;c nhau g&#x1EED;i nh&#x1EEF;ng th&#xF4;ng &#x111;i&#x1EC7;p t&#x1B0;&#x1A1;ng t&#x1EF1;, c&#xF3; ngh&#x129;a l&#xE0; h&#x1ECD; mu&#x1ED1;n x&#xE1;o tr&#x1ED9;n c&#xF9;ng lo&#x1EA1;i m&#x1EC7;nh gi&#xE1;, m&#x1ED9;t phi&#xEA;n x&#xE1;o tr&#x1ED9;n b&#x1EAF;t &#x111;&#x1EA7;u.Masternode x&#xE1;o tr&#x1ED9;n c&#xE1;c &#x111;&#x1EA7;u v&#xE0;o v&#xE0; h&#x1B0;&#x1EDB;ng d&#x1EAB;n t&#x1EA5;t c&#x1EA3; v&#xED; c&#x1EE7;a t&#x1EA5;t c&#x1EA3; ba ng&#x1B0;&#x1EDD;i d&#xF9;ng &#x111;&#x1EC3; tr&#x1EA3; &#x111;&#x1EA7;u v&#xE0;o &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c chuy&#x1EC3;n &#x111;&#x1ED5;i tr&#x1EDF; l&#x1EA1;i cho ch&#xED;nh h&#x1ECD;. V&#xED; c&#x1EE7;a b&#x1EA1;n s&#x1EBD; tr&#x1EA3; m&#x1EC7;nh gi&#xE1; &#x111;&#xF3; tr&#x1EF1;c ti&#x1EBF;p cho n&#xF3;, nh&#x1B0;ng v&#x1EDB;i m&#x1ED9;t &#x111;&#x1ECB;a ch&#x1EC9; kh&#xE1;c (&#x111;&#x1B0;&#x1EE3;c g&#x1ECD;i l&#xE0; &#x111;&#x1ECB;a ch&#x1EC9; tr&#x1EA3; ti&#x1EC1;n l&#x1EBB;).&lt;/li&gt; &lt;/li&gt;&#x110;&#x1EC3; th&#x1EF1;c s&#x1EF1; che khu&#x1EA5;t ngu&#x1ED3;n ti&#x1EC1;n c&#x1EE7;a b&#x1EA1;n, v&#xED; c&#x1EE7;a b&#x1EA1;n ph&#x1EA3;i l&#x1EB7;p l&#x1EA1;i quy tr&#xEC;nh &#x111;&#xF3; m&#x1ED9;t s&#x1ED1; l&#x1EA7;n v&#x1EDB;i m&#x1ED7;i m&#x1EC7;nh gi&#xE1; nh&#x1EA5;t &#x111;&#x1ECB;nh. M&#x1ED7;i l&#x1EA7;n ti&#x1EBF;n tr&#xEC;nh ho&#xE0;n t&#x1EA5;t, n&#xF3; &#x111;&#x1B0;&#x1EE3;c g&#x1ECD;i l&#xE0; m&#x1ED9;t "v&#xF2;ng". M&#x1ED7;i v&#xF2;ng c&#x1EE7;a PrivateSend l&#xE0;m n&#xEA;n &#x111;&#x1ED9; kh&#xF3; b&#x1EAD;c s&#x1ED1; m&#x169; &#x111;&#x1EC3; x&#xE1;c &#x111;&#x1ECB;nh ngu&#x1ED3;n ti&#x1EC1;n c&#x1EE7;a b&#x1EA1;n &#x111;&#x1EBF;n t&#x1EEB; &#x111;&#xE2;u.&lt;/li&gt; &lt;li&gt;Qu&#xE1; tr&#xEC;nh x&#xE1;o tr&#x1ED9;n n&#xE0;y x&#x1EA3;y ra trong ch&#x1EBF; &#x111;&#x1ED9; n&#x1EC1;n m&#xE0; kh&#xF4;ng xen v&#xE0;o nh&#x1EEF;ng vi&#x1EC7;c kh&#xE1;c c&#x1EE7;a b&#x1EA1;n. Khi b&#x1EA1;n mu&#x1ED1;n l&#xE0;m m&#x1ED9;t giao d&#x1ECB;ch, ngu&#x1ED3;n ti&#x1EC1;n c&#x1EE7;a b&#x1EA1;n &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c &#x1EA9;n danh ho&#xE1; r&#x1ED3;i. Do &#x111;&#xF3; b&#x1EA1;n kh&#xF4;ng c&#x1EA7;n ph&#x1EA3;i &#x111;&#x1EE3;i th&#xEA;m g&#xEC; n&#x1EEF;a.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt; &lt;b&gt;QUAN TR&#x1ECC;NG:&lt;/b&gt; V&#xED; c&#x1EE7;a b&#x1EA1;n ch&#x1EC9; c&#xF3; ch&#x1EE9;a 1000 "&#x111;&#x1ECB;a ch&#x1EC9; ti&#x1EC1;n tr&#x1EA3; l&#x1EA1;i". M&#x1ED7;i l&#x1EA7;n m&#x1ED9;t s&#x1EF1; ki&#x1EC7;n x&#xE1;o tr&#x1ED9;n x&#x1EA3;y ra, c&#xF3; &#x111;&#x1EBF;n 9 &#x111;&#x1ECB;a ch&#x1EC9; s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng. &#x110;i&#x1EC1;u &#x111;&#xF3; c&#xF3; ngh&#x129;a v&#x1EDB;i v&#xED; m&#x1EDB;i v&#x1EDB;i 1000 &#x111;&#x1ECB;a ch&#x1EC9; th&#xEC; d&#xF9;ng cho 100 l&#x1EA7;n tr&#x1ED9;n. Khi 900 &#x111;&#x1ECB;a ch&#x1EC9; &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng, v&#xED; c&#x1EE7;a b&#x1EA1;n ph&#x1EA3;i t&#x1EA1;o th&#xEA;m c&#xE1;c &#x111;&#x1ECB;a ch&#x1EC9; m&#x1EDB;i. N&#xF3; ch&#x1EC9; c&#xF3; th&#x1EC3; l&#xE0;m vi&#x1EC7;c &#x111;&#xF3;, tuy nhi&#xEA;n, n&#x1EBF;u b&#x1EA1;n c&#xF3; ch&#x1EBF; &#x111;&#x1ED9; t&#x1EF1; &#x111;&#x1ED9;ng backup &#x111;&#x1B0;&#x1EE3;c b&#x1EAD;t&lt;br&gt; K&#x1EBF;t qu&#x1EA3; l&#xE0;, nh&#x1EEF;ng ng&#x1B0;&#x1EDD;i d&#xF9;ng m&#xE0; ch&#x1EBF; &#x111;&#x1ED9; backup b&#x1ECB; t&#x1EAF;t s&#x1EBD; c&#xF3; ch&#x1EBF; &#x111;&#x1ED9; PrivateSend c&#x169;ng b&#x1ECB; t&#x1EAF;t.&lt;hr&gt; &#x110;&#x1EC3; bi&#x1EBF;t th&#xEA;m th&#xF4;ng tin h&#xE3;y xem &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;</translation>
+      <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Stone in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
+      <translation>&lt;h3&gt;C&#x1A1; b&#x1EA3;n v&#x1EC1; PrivateSend&lt;/h3&gt; PrivateSend cho b&#x1EA1;n s&#x1EF1; th&#x1EF1;c s&#x1EF1; ri&#xEA;ng t&#x1B0; v&#x1EC1; t&#xE0;i ch&#xED;nh b&#x1EB1;ng vi&#x1EC7;c che d&#x1EA5;u nh&#x1EEF;ng ngu&#x1ED3;n cung. T&#x1EA5;t c&#x1EA3; Stone trong v&#xED; c&#x1EE7;a b&#x1EA1;n bao g&#x1ED3;m nh&#x1EEF;ng "ngu&#x1ED3;n" kh&#xE1;c nhau m&#xE0; b&#x1EA1;n ngh&#x129; &#x111;&#xF3; l&#xE0; c&#xE1;c coin ri&#xEA;ng bi&#x1EC7;t v&#xE0; r&#x1EDD;i r&#x1EA1;c.&lt;br&gt; PrivateSend s&#x1EED; d&#x1EE5;ng m&#x1ED9;t ti&#x1EBF;n tr&#xEC;nh &#x111;&#x1ED9;c &#x111;&#xE1;o &#x111;&#x1EC3; tr&#x1ED9;n c&#xE1;c &#x111;&#x1EA7;u v&#xE0;o c&#x1EE7;a b&#x1EA1;n v&#x1EDB;i &#x111;&#x1EA7;u v&#xE0;o c&#x1EE7;a nh&#x1EEF;ng ng&#x1B0;&#x1EDD;i kh&#xE1;c, m&#xE0; kh&#xF4;ng l&#xE0;m cho c&#xE1;c coin r&#x1EDD;i kh&#x1ECF;i v&#xED; c&#x1EE7;a b&#x1EA1;n. B&#x1EA1;n v&#x1EAB;n gi&#x1EEF; quy&#x1EC1;n ki&#x1EC3;m so&#xE1;t ti&#x1EC1;n c&#x1EE7;a b&#x1EA1;n b&#x1EA5;t c&#x1EE9; l&#xFA;c n&#xE0;o..&lt;hr&gt; &lt;b&gt;Qu&#xE1; tr&#xEC;nh PrivateSend l&#xE0;m vi&#x1EC7;c nh&#x1B0; sau: &lt;/b&gt; &lt;ol type="1"&gt; &lt;li&gt;PrivateSend b&#x1EAF;t &#x111;&#x1EA7;u b&#x1EB1;ng vi&#x1EC7;c chia c&#xE1;c giao d&#x1ECB;ch &#x111;&#x1EA7;u v&#xE0;o c&#x1EE7;a b&#x1EA1;n th&#xE0;nh nh&#x1EEF;ng m&#x1EC7;nh gi&#xE1; chu&#x1EA9;n. Nh&#x1EEF;ng m&#x1EC7;nh gi&#xE1; &#x111;&#xF3; l&#xE0; 0.01 STONE, 0.1 STONE, 1 STONE, v&#xE0; 10 STONE -- c&#x169;ng gi&#x1ED1;ng nh&#x1B0; c&#xE1;c m&#x1EC7;nh gi&#xE1; tr&#xEA;n ti&#x1EC1;n gi&#x1EA5;y m&#xE0; b&#x1EA1;n s&#x1EED; d&#x1EE5;ng h&#xE0;ng ng&#xE0;y.&lt;li&gt; &lt;li&gt;V&#xED; c&#x1EE7;a b&#x1EA1;n sau &#x111;&#xF3; g&#x1EED;i y&#xEA;u c&#x1EA7;u &#x111;&#x1EBF;n nh&#x1EEF;ng n&#xFA;t ph&#x1EA7;n m&#x1EC1;m &#x111;&#x1B0;&#x1EE3;c c&#x1EA5;u h&#xEC;nh &#x111;&#x1EB7;c bi&#x1EC7;t tr&#xEA;n m&#x1EA1;ng g&#x1ECD;i l&#xE0; c&#xE1;c "masternode". Nh&#x1EEF;ng masternode &#x111;&#x1B0;&#x1EE3;c b&#xE1;o r&#x1EB1;ng b&#x1EA1;n quan t&#xE2;m &#x111;&#x1EBF;n vi&#x1EC7;c x&#xE1;o tr&#x1ED9;n m&#x1ED9;t m&#x1EC7;nh gi&#xE1; n&#xE0;o &#x111;&#xF3;. Kh&#xF4;ng c&#xF3; th&#xF4;ng tin &#x111;&#x1ECB;nh danh n&#xE0;o &#x111;&#x1B0;&#x1EE3;c g&#x1EED;i &#x111;&#x1EBF;n cho c&#xE1;c masternode, v&#xE0; nh&#x1B0; v&#x1EAD;y h&#x1ECD; kh&#xF4;ng bao gi&#x1EDD; bi&#x1EBF;t b&#x1EA1;n "l&#xE0; ai".&lt;/li&gt; &lt;li&gt;Khi hai ng&#x1B0;&#x1EDD;i kh&#xE1;c nhau g&#x1EED;i nh&#x1EEF;ng th&#xF4;ng &#x111;i&#x1EC7;p t&#x1B0;&#x1A1;ng t&#x1EF1;, c&#xF3; ngh&#x129;a l&#xE0; h&#x1ECD; mu&#x1ED1;n x&#xE1;o tr&#x1ED9;n c&#xF9;ng lo&#x1EA1;i m&#x1EC7;nh gi&#xE1;, m&#x1ED9;t phi&#xEA;n x&#xE1;o tr&#x1ED9;n b&#x1EAF;t &#x111;&#x1EA7;u.Masternode x&#xE1;o tr&#x1ED9;n c&#xE1;c &#x111;&#x1EA7;u v&#xE0;o v&#xE0; h&#x1B0;&#x1EDB;ng d&#x1EAB;n t&#x1EA5;t c&#x1EA3; v&#xED; c&#x1EE7;a t&#x1EA5;t c&#x1EA3; ba ng&#x1B0;&#x1EDD;i d&#xF9;ng &#x111;&#x1EC3; tr&#x1EA3; &#x111;&#x1EA7;u v&#xE0;o &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c chuy&#x1EC3;n &#x111;&#x1ED5;i tr&#x1EDF; l&#x1EA1;i cho ch&#xED;nh h&#x1ECD;. V&#xED; c&#x1EE7;a b&#x1EA1;n s&#x1EBD; tr&#x1EA3; m&#x1EC7;nh gi&#xE1; &#x111;&#xF3; tr&#x1EF1;c ti&#x1EBF;p cho n&#xF3;, nh&#x1B0;ng v&#x1EDB;i m&#x1ED9;t &#x111;&#x1ECB;a ch&#x1EC9; kh&#xE1;c (&#x111;&#x1B0;&#x1EE3;c g&#x1ECD;i l&#xE0; &#x111;&#x1ECB;a ch&#x1EC9; tr&#x1EA3; ti&#x1EC1;n l&#x1EBB;).&lt;/li&gt; &lt;/li&gt;&#x110;&#x1EC3; th&#x1EF1;c s&#x1EF1; che khu&#x1EA5;t ngu&#x1ED3;n ti&#x1EC1;n c&#x1EE7;a b&#x1EA1;n, v&#xED; c&#x1EE7;a b&#x1EA1;n ph&#x1EA3;i l&#x1EB7;p l&#x1EA1;i quy tr&#xEC;nh &#x111;&#xF3; m&#x1ED9;t s&#x1ED1; l&#x1EA7;n v&#x1EDB;i m&#x1ED7;i m&#x1EC7;nh gi&#xE1; nh&#x1EA5;t &#x111;&#x1ECB;nh. M&#x1ED7;i l&#x1EA7;n ti&#x1EBF;n tr&#xEC;nh ho&#xE0;n t&#x1EA5;t, n&#xF3; &#x111;&#x1B0;&#x1EE3;c g&#x1ECD;i l&#xE0; m&#x1ED9;t "v&#xF2;ng". M&#x1ED7;i v&#xF2;ng c&#x1EE7;a PrivateSend l&#xE0;m n&#xEA;n &#x111;&#x1ED9; kh&#xF3; b&#x1EAD;c s&#x1ED1; m&#x169; &#x111;&#x1EC3; x&#xE1;c &#x111;&#x1ECB;nh ngu&#x1ED3;n ti&#x1EC1;n c&#x1EE7;a b&#x1EA1;n &#x111;&#x1EBF;n t&#x1EEB; &#x111;&#xE2;u.&lt;/li&gt; &lt;li&gt;Qu&#xE1; tr&#xEC;nh x&#xE1;o tr&#x1ED9;n n&#xE0;y x&#x1EA3;y ra trong ch&#x1EBF; &#x111;&#x1ED9; n&#x1EC1;n m&#xE0; kh&#xF4;ng xen v&#xE0;o nh&#x1EEF;ng vi&#x1EC7;c kh&#xE1;c c&#x1EE7;a b&#x1EA1;n. Khi b&#x1EA1;n mu&#x1ED1;n l&#xE0;m m&#x1ED9;t giao d&#x1ECB;ch, ngu&#x1ED3;n ti&#x1EC1;n c&#x1EE7;a b&#x1EA1;n &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c &#x1EA9;n danh ho&#xE1; r&#x1ED3;i. Do &#x111;&#xF3; b&#x1EA1;n kh&#xF4;ng c&#x1EA7;n ph&#x1EA3;i &#x111;&#x1EE3;i th&#xEA;m g&#xEC; n&#x1EEF;a.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt; &lt;b&gt;QUAN TR&#x1ECC;NG:&lt;/b&gt; V&#xED; c&#x1EE7;a b&#x1EA1;n ch&#x1EC9; c&#xF3; ch&#x1EE9;a 1000 "&#x111;&#x1ECB;a ch&#x1EC9; ti&#x1EC1;n tr&#x1EA3; l&#x1EA1;i". M&#x1ED7;i l&#x1EA7;n m&#x1ED9;t s&#x1EF1; ki&#x1EC7;n x&#xE1;o tr&#x1ED9;n x&#x1EA3;y ra, c&#xF3; &#x111;&#x1EBF;n 9 &#x111;&#x1ECB;a ch&#x1EC9; s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng. &#x110;i&#x1EC1;u &#x111;&#xF3; c&#xF3; ngh&#x129;a v&#x1EDB;i v&#xED; m&#x1EDB;i v&#x1EDB;i 1000 &#x111;&#x1ECB;a ch&#x1EC9; th&#xEC; d&#xF9;ng cho 100 l&#x1EA7;n tr&#x1ED9;n. Khi 900 &#x111;&#x1ECB;a ch&#x1EC9; &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng, v&#xED; c&#x1EE7;a b&#x1EA1;n ph&#x1EA3;i t&#x1EA1;o th&#xEA;m c&#xE1;c &#x111;&#x1ECB;a ch&#x1EC9; m&#x1EDB;i. N&#xF3; ch&#x1EC9; c&#xF3; th&#x1EC3; l&#xE0;m vi&#x1EC7;c &#x111;&#xF3;, tuy nhi&#xEA;n, n&#x1EBF;u b&#x1EA1;n c&#xF3; ch&#x1EBF; &#x111;&#x1ED9; t&#x1EF1; &#x111;&#x1ED9;ng backup &#x111;&#x1B0;&#x1EE3;c b&#x1EAD;t&lt;br&gt; K&#x1EBF;t qu&#x1EA3; l&#xE0;, nh&#x1EEF;ng ng&#x1B0;&#x1EDD;i d&#xF9;ng m&#xE0; ch&#x1EBF; &#x111;&#x1ED9; backup b&#x1ECB; t&#x1EAF;t s&#x1EBD; c&#xF3; ch&#x1EBF; &#x111;&#x1ED9; PrivateSend c&#x169;ng b&#x1ECB; t&#x1EAF;t.&lt;hr&gt; &#x110;&#x1EC3; bi&#x1EBF;t th&#xEA;m th&#xF4;ng tin h&#xE3;y xem &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;</translation>
     </message>
     <message>
       <location line="-50"/>
@@ -1433,8 +1433,8 @@
     </message>
     <message>
       <location line="+10"/>
-      <source>Stone Core will download and store a copy of the Proton block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-      <translation>Stone Core s&#x1EBD; t&#x1EA3;i v&#xE0; l&#x1B0;u m&#x1ED9;t b&#x1EA3;n c&#x1EE7;a s&#x1ED5; c&#xE1;i Proton. &#xCD;t nh&#x1EA5;t %1GB d&#x1EEF; li&#x1EC7;u s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c l&#x1B0;u trong th&#x1B0; m&#x1EE5;c n&#xE0;y, v&#xE0; n&#xF3; s&#x1EBD; t&#x103;ng l&#xEA;n theo th&#x1EDD;i gian. V&#xED; c&#x1EE7;a b&#x1EA1;n c&#x169;ng s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c l&#x1B0;u trong th&#x1B0; m&#x1EE5;c n&#xE0;y.</translation>
+      <source>Stone Core will download and store a copy of the Stone block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+      <translation>Stone Core s&#x1EBD; t&#x1EA3;i v&#xE0; l&#x1B0;u m&#x1ED9;t b&#x1EA3;n c&#x1EE7;a s&#x1ED5; c&#xE1;i Stone. &#xCD;t nh&#x1EA5;t %1GB d&#x1EEF; li&#x1EC7;u s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c l&#x1B0;u trong th&#x1B0; m&#x1EE5;c n&#xE0;y, v&#xE0; n&#xF3; s&#x1EBD; t&#x103;ng l&#xEA;n theo th&#x1EDD;i gian. V&#xED; c&#x1EE7;a b&#x1EA1;n c&#x169;ng s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c l&#x1B0;u trong th&#x1B0; m&#x1EE5;c n&#xE0;y.</translation>
     </message>
     <message>
       <location line="+10"/>
@@ -1689,8 +1689,8 @@
     </message>
     <message>
       <location line="+155"/>
-      <source>Amount of Proton to keep anonymized</source>
-      <translation>L&#x1B0;&#x1EE3;ng Proton mu&#x1ED1;n gi&#x1EEF; v&#xF4; danh</translation>
+      <source>Amount of Stone to keep anonymized</source>
+      <translation>L&#x1B0;&#x1EE3;ng Stone mu&#x1ED1;n gi&#x1EEF; v&#xF4; danh</translation>
     </message>
     <message>
       <location line="-119"/>
@@ -1779,8 +1779,8 @@
     </message>
     <message>
       <location line="+7"/>
-      <source>Connect to the Proton network through a SOCKS5 proxy.</source>
-      <translation>K&#x1EBF;t n&#x1ED1;i v&#x1EDB;i m&#x1EA1;ng l&#x1B0;&#x1EDB;i Proton th&#xF4;ng qua m&#x1ED9;t SOCK5 proxy.</translation>
+      <source>Connect to the Stone network through a SOCKS5 proxy.</source>
+      <translation>K&#x1EBF;t n&#x1ED1;i v&#x1EDB;i m&#x1EA1;ng l&#x1B0;&#x1EDB;i Stone th&#xF4;ng qua m&#x1ED9;t SOCK5 proxy.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -1891,8 +1891,8 @@
     </message>
     <message>
       <location line="+25"/>
-      <source>Connect to the Proton network through a separate SOCKS5 proxy for Tor hidden services.</source>
-      <translation>K&#x1EBF;t n&#x1ED1;i v&#x1EDB;i m&#x1EA1;ng l&#x1B0;&#x1EDB;i Proton th&#xF4;ng qua c&#xE1;c proxy SOCKS5 ri&#xEA;ng bi&#x1EC7;t cho c&#xE1;c d&#x1ECB;ch v&#x1EE5; &#x1EA9;n danh Tor.</translation>
+      <source>Connect to the Stone network through a separate SOCKS5 proxy for Tor hidden services.</source>
+      <translation>K&#x1EBF;t n&#x1ED1;i v&#x1EDB;i m&#x1EA1;ng l&#x1B0;&#x1EDB;i Stone th&#xF4;ng qua c&#xE1;c proxy SOCKS5 ri&#xEA;ng bi&#x1EC7;t cho c&#xE1;c d&#x1ECB;ch v&#x1EE5; &#x1EA9;n danh Tor.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -2034,8 +2034,8 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+50"/>
       <location line="+355"/>
       <location line="+258"/>
-      <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Proton network after a connection is established, but this process has not completed yet.</source>
-      <translation>Th&#xF4;ng tin &#x111;&#x1B0;&#x1EE3;c hi&#x1EC3;n th&#x1ECB; c&#xF3; th&#x1EC3; &#x111;&#xE3; l&#x1ED7;i th&#x1EDD;i. V&#xED; c&#x1EE7;a b&#x1EA1;n s&#x1EBD; t&#x1EF1; &#x111;&#x1ED9;ng &#x111;&#x1ED3;ng b&#x1ED9; v&#x1EDB;i m&#x1EA1;ng l&#x1B0;&#x1EDB;i Proton sau khi k&#x1EBF;t n&#x1ED1;i &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t l&#x1EAD;p, tuy nhi&#xEA;n qu&#xE1; tr&#xEC;nh n&#xE0;y ch&#x1B0;a ho&#xE0;n th&#xE0;nh.</translation>
+      <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Stone network after a connection is established, but this process has not completed yet.</source>
+      <translation>Th&#xF4;ng tin &#x111;&#x1B0;&#x1EE3;c hi&#x1EC3;n th&#x1ECB; c&#xF3; th&#x1EC3; &#x111;&#xE3; l&#x1ED7;i th&#x1EDD;i. V&#xED; c&#x1EE7;a b&#x1EA1;n s&#x1EBD; t&#x1EF1; &#x111;&#x1ED9;ng &#x111;&#x1ED3;ng b&#x1ED9; v&#x1EDB;i m&#x1EA1;ng l&#x1B0;&#x1EDB;i Stone sau khi k&#x1EBF;t n&#x1ED1;i &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t l&#x1EAD;p, tuy nhi&#xEA;n qu&#xE1; tr&#xEC;nh n&#xE0;y ch&#x1B0;a ho&#xE0;n th&#xE0;nh.</translation>
     </message>
     <message>
       <location line="-364"/>
@@ -2432,8 +2432,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+8"/>
-      <source>URI cannot be parsed! This can be caused by an invalid Proton address or malformed URI parameters.</source>
-      <translation>URI kh&#xF4;ng th&#x1EC3; ph&#xE2;n t&#xED;ch. N&#xF3; c&#xF3; th&#x1EC3; b&#x1EDF;i &#x111;&#x1ECB;a ch&#x1EC9; Proton kh&#xF4;ng h&#x1EE3;p l&#x1EC7; ho&#x1EB7;c th&#xF4;ng s&#x1ED1; URI d&#x1ECB; h&#xEC;nh.</translation>
+      <source>URI cannot be parsed! This can be caused by an invalid Stone address or malformed URI parameters.</source>
+      <translation>URI kh&#xF4;ng th&#x1EC3; ph&#xE2;n t&#xED;ch. N&#xF3; c&#xF3; th&#x1EC3; b&#x1EDF;i &#x111;&#x1ECB;a ch&#x1EC9; Stone kh&#xF4;ng h&#x1EE3;p l&#x1EC7; ho&#x1EB7;c th&#xF4;ng s&#x1ED1; URI d&#x1ECB; h&#xEC;nh.</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -2539,8 +2539,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location filename="../guiutil.cpp" line="+119"/>
-      <source>Enter a Proton address (e.g. %1)</source>
-      <translation>H&#xE3;y nh&#x1EAD;p m&#x1ED9;t &#x111;&#x1ECB;a ch&#x1EC9; Proton (VD: %1)</translation>
+      <source>Enter a Stone address (e.g. %1)</source>
+      <translation>H&#xE3;y nh&#x1EAD;p m&#x1ED9;t &#x111;&#x1ECB;a ch&#x1EC9; Stone (VD: %1)</translation>
     </message>
     <message>
       <location line="+857"/>
@@ -3098,8 +3098,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+14"/>
-      <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Proton network.</source>
-      <translation>M&#x1ED9;t th&#xF4;ng &#x111;i&#x1EC7;p tu&#x1EF3; ch&#x1ECD;n &#x111;&#x1EC3; &#x111;&#xED;nh v&#xE0;o y&#xEA;u c&#x1EA7;u thanh to&#xE1;n, n&#xF3; s&#x1EBD; hi&#x1EC3;n th&#x1ECB; khi y&#xEA;u c&#x1EA7;u &#x111;&#x1B0;&#x1EE3;c m&#x1EDF;. Ch&#xFA; &#xFD;: Th&#xF4;ng &#x111;i&#x1EC7;p s&#x1EBD; kh&#xF4;ng &#x111;&#x1B0;&#x1EE3;c g&#x1EED;i th&#xF4;ng qua m&#x1EA1;ng l&#x1B0;&#x1EDB;i Proton.</translation>
+      <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Stone network.</source>
+      <translation>M&#x1ED9;t th&#xF4;ng &#x111;i&#x1EC7;p tu&#x1EF3; ch&#x1ECD;n &#x111;&#x1EC3; &#x111;&#xED;nh v&#xE0;o y&#xEA;u c&#x1EA7;u thanh to&#xE1;n, n&#xF3; s&#x1EBD; hi&#x1EC3;n th&#x1ECB; khi y&#xEA;u c&#x1EA7;u &#x111;&#x1B0;&#x1EE3;c m&#x1EDF;. Ch&#xFA; &#xFD;: Th&#xF4;ng &#x111;i&#x1EC7;p s&#x1EBD; kh&#xF4;ng &#x111;&#x1B0;&#x1EE3;c g&#x1EED;i th&#xF4;ng qua m&#x1EA1;ng l&#x1B0;&#x1EDB;i Stone.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3114,8 +3114,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="-14"/>
-      <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Proton network.</source>
-      <translation>M&#x1ED9;t th&#xF4;ng &#x111;i&#x1EC7;p tu&#x1EF3; ch&#x1ECD;n &#x111;&#x1EC3; &#x111;&#xED;nh v&#xE0;o y&#xEA;u c&#x1EA7;u thanh to&#xE1;n, n&#xF3; s&#x1EBD; hi&#x1EC3;n th&#x1ECB; khi y&#xEA;u c&#x1EA7;u &#x111;&#x1B0;&#x1EE3;c m&#x1EDF;.&lt;br&gt;Ch&#xFA; &#xFD;: Th&#xF4;ng &#x111;i&#x1EC7;p s&#x1EBD; kh&#xF4;ng &#x111;&#x1B0;&#x1EE3;c g&#x1EED;i th&#xF4;ng qua m&#x1EA1;ng l&#x1B0;&#x1EDB;i Proton.</translation>
+      <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Stone network.</source>
+      <translation>M&#x1ED9;t th&#xF4;ng &#x111;i&#x1EC7;p tu&#x1EF3; ch&#x1ECD;n &#x111;&#x1EC3; &#x111;&#xED;nh v&#xE0;o y&#xEA;u c&#x1EA7;u thanh to&#xE1;n, n&#xF3; s&#x1EBD; hi&#x1EC3;n th&#x1ECB; khi y&#xEA;u c&#x1EA7;u &#x111;&#x1B0;&#x1EE3;c m&#x1EDF;.&lt;br&gt;Ch&#xFA; &#xFD;: Th&#xF4;ng &#x111;i&#x1EC7;p s&#x1EBD; kh&#xF4;ng &#x111;&#x1B0;&#x1EE3;c g&#x1EED;i th&#xF4;ng qua m&#x1EA1;ng l&#x1B0;&#x1EDB;i Stone.</translation>
     </message>
     <message>
       <location line="+7"/>
@@ -3426,13 +3426,13 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="-488"/>
-      <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation>N&#x1EBF;u m&#x1EE9;c ph&#xED; tu&#x1EF3; ch&#x1EC9;nh &#x111;&#x1B0;&#x1EE3;c &#x111;&#x1EB7;t l&#xE0; 1000 duff v&#xE0; giao d&#x1ECB;ch ch&#x1EC9; c&#xF3; 250 byte, th&#xEC; "theo kilobyte" ch&#x1EC9; tr&#x1EA3; 250 duff cho ph&#xED;,&lt;br /&gt;trong khi "&#xED;t nh&#x1EA5;t" ph&#x1EA3;i tr&#x1EA3; 1000 duff. Cho c&#xE1;c giao d&#x1ECB;ch l&#x1EDB;n h&#x1A1;n 1 kilobyte th&#xEC; c&#x1EA3; hai &#x111;&#x1EC1;u tr&#x1EA3; theo kilobyte.</translation>
+      <source>If the custom fee is set to 1000 pebbles and the transaction is only 250 bytes, then "per kilobyte" only pays 250 pebbles in fee,&lt;br /&gt;while "at least" pays 1000 pebbles. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+      <translation>N&#x1EBF;u m&#x1EE9;c ph&#xED; tu&#x1EF3; ch&#x1EC9;nh &#x111;&#x1B0;&#x1EE3;c &#x111;&#x1EB7;t l&#xE0; 1000 pebble v&#xE0; giao d&#x1ECB;ch ch&#x1EC9; c&#xF3; 250 byte, th&#xEC; "theo kilobyte" ch&#x1EC9; tr&#x1EA3; 250 pebble cho ph&#xED;,&lt;br /&gt;trong khi "&#xED;t nh&#x1EA5;t" ph&#x1EA3;i tr&#x1EA3; 1000 pebble. Cho c&#xE1;c giao d&#x1ECB;ch l&#x1EDB;n h&#x1A1;n 1 kilobyte th&#xEC; c&#x1EA3; hai &#x111;&#x1EC1;u tr&#x1EA3; theo kilobyte.</translation>
     </message>
     <message>
       <location line="+16"/>
-      <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "total at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation>N&#x1EBF;u ph&#xED; giao d&#x1ECB;ch tu&#x1EF3; ch&#x1EC9;nh &#x111;&#x1B0;&#x1EE3;c &#x111;&#x1EB7;t l&#xE0; 1000 duff v&#xE0; giao d&#x1ECB;ch ch&#x1EC9; c&#xF3; 250 bytes, th&#xEC; "theo kilobyte" ch&#x1EC9; tr&#x1EA3; 250 duff ph&#xED;,&lt;br /&gt;trong khi "t&#x1ED5;ng &#xED;t nh&#x1EA5;t" tr&#x1EA3; 1000 duff. V&#x1EDB;i c&#xE1;c giao d&#x1ECB;ch l&#x1EDB;n h&#x1A1;n 1 kilobyte th&#xEC; c&#x1EA3; hai &#x111;&#x1EC1;u tr&#x1EA3; theo kilobyte.</translation>
+      <source>If the custom fee is set to 1000 pebbles and the transaction is only 250 bytes, then "per kilobyte" only pays 250 pebbles in fee,&lt;br /&gt;while "total at least" pays 1000 pebbles. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+      <translation>N&#x1EBF;u ph&#xED; giao d&#x1ECB;ch tu&#x1EF3; ch&#x1EC9;nh &#x111;&#x1B0;&#x1EE3;c &#x111;&#x1EB7;t l&#xE0; 1000 pebble v&#xE0; giao d&#x1ECB;ch ch&#x1EC9; c&#xF3; 250 bytes, th&#xEC; "theo kilobyte" ch&#x1EC9; tr&#x1EA3; 250 pebble ph&#xED;,&lt;br /&gt;trong khi "t&#x1ED5;ng &#xED;t nh&#x1EA5;t" tr&#x1EA3; 1000 pebble. V&#x1EDB;i c&#xE1;c giao d&#x1ECB;ch l&#x1EDB;n h&#x1A1;n 1 kilobyte th&#xEC; c&#x1EA3; hai &#x111;&#x1EC1;u tr&#x1EA3; theo kilobyte.</translation>
     </message>
     <message>
       <location line="+33"/>
@@ -3695,8 +3695,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+229"/>
-      <source>Warning: Invalid Proton address</source>
-      <translation>C&#x1EA3;nh b&#xE1;o: &#x110;&#x1ECB;a ch&#x1EC9; Proton kh&#xF4;ng h&#x1EE3;p l&#x1EC7;</translation>
+      <source>Warning: Invalid Stone address</source>
+      <translation>C&#x1EA3;nh b&#xE1;o: &#x110;&#x1ECB;a ch&#x1EC9; Stone kh&#xF4;ng h&#x1EE3;p l&#x1EC7;</translation>
     </message>
     <message>
       <location line="+8"/>
@@ -3723,8 +3723,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+18"/>
-      <source>The Proton address to send the payment to</source>
-      <translation>&#x110;&#x1ECB;a ch&#x1EC9; Proton &#x111;&#x1EC3; g&#x1EED;i thanh to&#xE1;n</translation>
+      <source>The Stone address to send the payment to</source>
+      <translation>&#x110;&#x1ECB;a ch&#x1EC9; Stone &#x111;&#x1EC3; g&#x1EED;i thanh to&#xE1;n</translation>
     </message>
     <message>
       <location line="+7"/>
@@ -3772,8 +3772,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="-1046"/>
-      <source>The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Proton than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-      <translation>Ph&#xED; s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c tr&#x1EEB; trong kho&#x1EA3;n ti&#x1EC1;n m&#xE0; b&#x1EA1;n g&#x1EED;i. B&#xEA;n nh&#x1EAD;n s&#x1EBD; nh&#x1EAD;n &#x111;&#x1B0;&#x1EE3;c m&#x1ED9;t kho&#x1EA3;n nh&#x1ECF; h&#x1A1;n s&#x1ED1; Proton m&#xE0; b&#x1EA1;n nh&#x1EAD;p v&#xE0;o &#x1EDF; trong tr&#x1B0;&#x1EDD;ng s&#x1ED1; l&#x1B0;&#x1EE3;ng. N&#x1EBF;u c&#xF3; nhi&#x1EC1;u ng&#x1B0;&#x1EDD;i nh&#x1EAD;n &#x111;&#x1B0;&#x1EE3;c ch&#x1ECD;n, ph&#xED; &#x111;&#x1B0;&#x1EE3;c chia &#x111;&#x1EC1;u cho m&#x1ECD;i ng&#x1B0;&#x1EDD;i.</translation>
+      <source>The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Stone than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+      <translation>Ph&#xED; s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c tr&#x1EEB; trong kho&#x1EA3;n ti&#x1EC1;n m&#xE0; b&#x1EA1;n g&#x1EED;i. B&#xEA;n nh&#x1EAD;n s&#x1EBD; nh&#x1EAD;n &#x111;&#x1B0;&#x1EE3;c m&#x1ED9;t kho&#x1EA3;n nh&#x1ECF; h&#x1A1;n s&#x1ED1; Stone m&#xE0; b&#x1EA1;n nh&#x1EAD;p v&#xE0;o &#x1EDF; trong tr&#x1B0;&#x1EDD;ng s&#x1ED1; l&#x1B0;&#x1EE3;ng. N&#x1EBF;u c&#xF3; nhi&#x1EC1;u ng&#x1B0;&#x1EDD;i nh&#x1EAD;n &#x111;&#x1B0;&#x1EE3;c ch&#x1ECD;n, ph&#xED; &#x111;&#x1B0;&#x1EE3;c chia &#x111;&#x1EC1;u cho m&#x1ECD;i ng&#x1B0;&#x1EDD;i.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3787,8 +3787,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+10"/>
-      <source>A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Proton network.</source>
-      <translation>M&#x1ED9;t th&#xF4;ng &#x111;i&#x1EC7;p &#x111;&#x1B0;&#x1EE3;c &#x111;&#xED;nh v&#x1EDB;i stone: URI &#x111;&#xF3; s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c l&#x1B0;u tr&#x1EEF; v&#x1EDB;i c&#xE1;c giao d&#x1ECB;ch cho c&#xE1;c b&#x1EA1;n tham kh&#x1EA3;o. L&#x1B0;u &#xFD;: Th&#xF4;ng &#x111;i&#x1EC7;p n&#xE0;y s&#x1EBD; kh&#xF4;ng &#x111;&#x1B0;&#x1EE3;c g&#x1EED;i qua m&#x1EA1;ng Proton. </translation>
+      <source>A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Stone network.</source>
+      <translation>M&#x1ED9;t th&#xF4;ng &#x111;i&#x1EC7;p &#x111;&#x1B0;&#x1EE3;c &#x111;&#xED;nh v&#x1EDB;i stone: URI &#x111;&#xF3; s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c l&#x1B0;u tr&#x1EEF; v&#x1EDB;i c&#xE1;c giao d&#x1ECB;ch cho c&#xE1;c b&#x1EA1;n tham kh&#x1EA3;o. L&#x1B0;u &#xFD;: Th&#xF4;ng &#x111;i&#x1EC7;p n&#xE0;y s&#x1EBD; kh&#xF4;ng &#x111;&#x1B0;&#x1EE3;c g&#x1EED;i qua m&#x1EA1;ng Stone. </translation>
     </message>
     <message>
       <location line="+433"/>
@@ -3845,13 +3845,13 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+6"/>
-      <source>You can sign messages/agreements with your addresses to prove you can receive Proton sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-      <translation>B&#x1EA1;n c&#xF3; th&#x1EC3; k&#xFD; v&#xE0;o th&#xF4;ng &#x111;i&#x1EC7;p/tho&#x1EA3; thu&#x1EAD;n v&#x1EDB;i &#x111;&#x1ECB;a ch&#x1EC9; c&#x1EE7;a b&#x1EA1;n &#x111;&#x1EC3; ch&#x1EE9;ng minh b&#x1EA1;n c&#xF3; th&#x1EC3; nh&#x1EAD;n Proton &#x111;&#xE3; g&#x1EED;i cho h&#x1ECD;. H&#xE3;y c&#x1EA9;n th&#x1EAD;n kh&#xF4;ng k&#xFD; v&#xE0;o nh&#x1EEF;ng g&#xEC; m&#x1A1; h&#x1ED3; hay ng&#x1EAB;u nhi&#xEA;n, nh&#x1B0; l&#xE0; th&#x1EE9; l&#x1EEB;a &#x111;&#x1EA3;o &#x111;&#x1EC3; l&#x1EEB;a b&#x1EA1;n k&#xFD; x&#xE1;c nh&#x1EAD;n c&#x1EE7;a b&#x1EA1;n v&#xE0;o &#x111;&#xF3; cho h&#x1ECD;. Ch&#x1EC9; k&#xFD; v&#xE0;o nh&#x1EEF;ng g&#xEC; m&#xE0; b&#x1EA1;n ho&#xE0;n tho&#xE0;n &#x111;&#x1ED3;ng &#xFD;.</translation>
+      <source>You can sign messages/agreements with your addresses to prove you can receive Stone sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+      <translation>B&#x1EA1;n c&#xF3; th&#x1EC3; k&#xFD; v&#xE0;o th&#xF4;ng &#x111;i&#x1EC7;p/tho&#x1EA3; thu&#x1EAD;n v&#x1EDB;i &#x111;&#x1ECB;a ch&#x1EC9; c&#x1EE7;a b&#x1EA1;n &#x111;&#x1EC3; ch&#x1EE9;ng minh b&#x1EA1;n c&#xF3; th&#x1EC3; nh&#x1EAD;n Stone &#x111;&#xE3; g&#x1EED;i cho h&#x1ECD;. H&#xE3;y c&#x1EA9;n th&#x1EAD;n kh&#xF4;ng k&#xFD; v&#xE0;o nh&#x1EEF;ng g&#xEC; m&#x1A1; h&#x1ED3; hay ng&#x1EAB;u nhi&#xEA;n, nh&#x1B0; l&#xE0; th&#x1EE9; l&#x1EEB;a &#x111;&#x1EA3;o &#x111;&#x1EC3; l&#x1EEB;a b&#x1EA1;n k&#xFD; x&#xE1;c nh&#x1EAD;n c&#x1EE7;a b&#x1EA1;n v&#xE0;o &#x111;&#xF3; cho h&#x1ECD;. Ch&#x1EC9; k&#xFD; v&#xE0;o nh&#x1EEF;ng g&#xEC; m&#xE0; b&#x1EA1;n ho&#xE0;n tho&#xE0;n &#x111;&#x1ED3;ng &#xFD;.</translation>
     </message>
     <message>
       <location line="+18"/>
-      <source>The Proton address to sign the message with</source>
-      <translation>&#x110;&#x1ECB;a ch&#x1EC9; Proton &#x111;&#x1EC3; k&#xFD; cho th&#xF4;ng &#x111;i&#x1EC7;p</translation>
+      <source>The Stone address to sign the message with</source>
+      <translation>&#x110;&#x1ECB;a ch&#x1EC9; Stone &#x111;&#x1EC3; k&#xFD; cho th&#xF4;ng &#x111;i&#x1EC7;p</translation>
     </message>
     <message>
       <location line="+7"/>
@@ -3892,8 +3892,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+17"/>
-      <source>Sign the message to prove you own this Proton address</source>
-      <translation>K&#xFD; v&#xE0;o th&#xF4;ng &#x111;i&#x1EC7;p &#x111;&#x1EC3; ch&#x1EE9;ng t&#x1ECF; b&#x1EA1;n s&#x1EDF; h&#x1EEF;u &#x111;&#x1ECB;a ch&#x1EC9; Proton</translation>
+      <source>Sign the message to prove you own this Stone address</source>
+      <translation>K&#xFD; v&#xE0;o th&#xF4;ng &#x111;i&#x1EC7;p &#x111;&#x1EC3; ch&#x1EE9;ng t&#x1ECF; b&#x1EA1;n s&#x1EDF; h&#x1EEF;u &#x111;&#x1ECB;a ch&#x1EC9; Stone</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3923,13 +3923,13 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+21"/>
-      <source>The Proton address the message was signed with</source>
-      <translation>&#x110;&#x1ECB;a ch&#x1EC9; Proton m&#xE0; th&#xF4;ng &#x111;i&#x1EC7;p &#x111;&#x1B0;&#x1EE3;c k&#xFD; b&#x1EDF;i</translation>
+      <source>The Stone address the message was signed with</source>
+      <translation>&#x110;&#x1ECB;a ch&#x1EC9; Stone m&#xE0; th&#xF4;ng &#x111;i&#x1EC7;p &#x111;&#x1B0;&#x1EE3;c k&#xFD; b&#x1EDF;i</translation>
     </message>
     <message>
       <location line="+33"/>
-      <source>Verify the message to ensure it was signed with the specified Proton address</source>
-      <translation>Ki&#x1EC3;m tra l&#x1EA1;i th&#xF4;ng &#x111;i&#x1EC7;p &#x111;&#x1EC3; &#x111;&#x1EA3;m b&#x1EA3;o r&#x1EB1;ng n&#xF3; &#x111;&#x1B0;&#x1EE3;c k&#xFD; v&#x1EDB;i &#x111;&#x1ECB;a ch&#x1EC9; Proton c&#x1EE5; th&#x1EC3;</translation>
+      <source>Verify the message to ensure it was signed with the specified Stone address</source>
+      <translation>Ki&#x1EC3;m tra l&#x1EA1;i th&#xF4;ng &#x111;i&#x1EC7;p &#x111;&#x1EC3; &#x111;&#x1EA3;m b&#x1EA3;o r&#x1EB1;ng n&#xF3; &#x111;&#x1B0;&#x1EE3;c k&#xFD; v&#x1EDB;i &#x111;&#x1ECB;a ch&#x1EC9; Stone c&#x1EE5; th&#x1EC3;</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5584,8 +5584,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="-328"/>
-      <source>Disable all Proton specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
-      <translation>T&#x1EAF;t t&#x1EA5;t c&#x1EA3; c&#xE1;c ch&#x1EE9;c n&#x103;ng &#x111;&#x1EAF;c tr&#x1B0;ng c&#x1EE7;a Proton (Masternode, PrivateSend, InstantSend, Governance) (0-1, ng&#x1EA7;m &#x111;&#x1ECB;nh: %u)</translation>
+      <source>Disable all Stone specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
+      <translation>T&#x1EAF;t t&#x1EA5;t c&#x1EA3; c&#xE1;c ch&#x1EE9;c n&#x103;ng &#x111;&#x1EAF;c tr&#x1B0;ng c&#x1EE7;a Stone (Masternode, PrivateSend, InstantSend, Governance) (0-1, ng&#x1EA7;m &#x111;&#x1ECB;nh: %u)</translation>
     </message>
     <message>
       <location line="+3"/>
