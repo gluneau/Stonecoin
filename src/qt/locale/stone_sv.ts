@@ -81,12 +81,12 @@
     <message>
       <location line="+7"/>
       <source>These are your Stone addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-      <translation type="unfinished">These are your Stone addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+      <translation>De h&#xE4;r &#xE4;r dina Stone-adresser f&#xF6;r att skicka betalningar. Kontrollera alltid m&#xE4;ngden och mottagaradressen innan du skickar mynt.</translation>
     </message>
     <message>
       <location line="+4"/>
       <source>These are your Stone addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-      <translation type="unfinished">These are your Stone addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
+      <translation>De h&#xE4;r &#xE4;r dina Stone-adresser f&#xF6;r betalningsmottagningar. Det rekommenderas att anv&#xE4;nda en ny mottagaradress f&#xF6;r varje transaktion.</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -343,7 +343,7 @@
     <message>
       <location line="+1"/>
       <source>Send coins to a Stone address</source>
-      <translation type="unfinished">Send coins to a Stone address</translation>
+      <translation>Skicka mynt till en Stone-adress</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -353,7 +353,7 @@
     <message>
       <location line="+1"/>
       <source>Request payments (generates QR codes and stone: URIs)</source>
-      <translation>Beg&#xE4;r betalningar (genererar QR-koder och Proton:-URI:s)</translation>
+      <translation>Beg&#xE4;r betalningar (genererar QR-koder och Stone:-URI:s)</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -473,7 +473,7 @@
     <message>
       <location line="+1"/>
       <source>Sign messages with your Stone addresses to prove you own them</source>
-      <translation type="unfinished">Sign messages with your Stone addresses to prove you own them</translation>
+      <translation>Signera meddelanden med dina Stone-adresser f&#xF6;r att bevisa att du &#xE4;ger dem</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -483,7 +483,7 @@
     <message>
       <location line="+1"/>
       <source>Verify messages to ensure they were signed with specified Stone addresses</source>
-      <translation type="unfinished">Verify messages to ensure they were signed with specified Stone addresses</translation>
+      <translation>Bekr&#xE4;fta meddelanden f&#xF6;r att garantera att de signerades med de angivna Stone-adresserna</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -578,7 +578,7 @@
     <message>
       <location line="+1"/>
       <source>Open a stone: URI or payment request</source>
-      <translation>&#xD6;ppna en Proton-URI eller betalningsbeg&#xE4;ran</translation>
+      <translation>&#xD6;ppna en Stone-URI eller betalningsbeg&#xE4;ran</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -1292,7 +1292,7 @@
     <message>
       <location line="+71"/>
       <source>The entered address "%1" is not a valid Stone address.</source>
-      <translation type="unfinished">The entered address "%1" is not a valid Stone address.</translation>
+      <translation>Den angivna adressen "%1" &#xE4;r inte en giltig Stone-adress.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -1443,7 +1443,7 @@
     <message>
       <location line="+10"/>
       <source>Stone Core will download and store a copy of the Stone block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-      <translation type="unfinished">Stone Core will download and store a copy of the Stone block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+      <translation>Stone Core kommer att laddas ned och lagra en kopia av Stone:s blockkedja. Minst %1 GB data kommer att lagras i denna katalog och den kommer att v&#xE4;xa med tiden. Pl&#xE5;nboken kommer ocks&#xE5; att lagras i denna katalog.</translation>
     </message>
     <message>
       <location line="+10"/>
@@ -1700,7 +1700,7 @@
     <message>
       <location line="+155"/>
       <source>Amount of Stone to keep anonymized</source>
-      <translation type="unfinished">Amount of Stone to keep anonymized</translation>
+      <translation>M&#xE4;ngd Stone att bibeh&#xE5;lla anonymiserade</translation>
     </message>
     <message>
       <location line="-119"/>
@@ -2045,7 +2045,7 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+355"/>
       <location line="+258"/>
       <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Stone network after a connection is established, but this process has not completed yet.</source>
-      <translation type="unfinished">The displayed information may be out of date. Your wallet automatically synchronizes with the Stone network after a connection is established, but this process has not completed yet.</translation>
+      <translation>Den visade informationen kan vara utdaterad. Din pl&#xE5;nbok synkroniseras automatiskt med Stone-n&#xE4;tverket efter att en anslutning har etablerats men denna process har &#xE4;nnu inte slutf&#xF6;rts.</translation>
     </message>
     <message>
       <location line="-364"/>
@@ -3111,7 +3111,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+14"/>
       <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Stone network.</source>
-      <translation type="unfinished">An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Stone network.</translation>
+      <translation>Ett valfritt meddelande att bifoga betalningsbeg&#xE4;randet vilket kommer att visas n&#xE4;r beg&#xE4;randet &#xF6;ppnas. Observera: Meddelandet kommer inte att skickas med betalningen &#xF6;ver Stone-n&#xE4;tverket.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3709,7 +3709,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+229"/>
       <source>Warning: Invalid Stone address</source>
-      <translation type="unfinished">Warning: Invalid Stone address</translation>
+      <translation>Varning: Ogiltig Stone-adress</translation>
     </message>
     <message>
       <location line="+8"/>
@@ -3801,7 +3801,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+10"/>
       <source>A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Stone network.</source>
-      <translation type="unfinished">A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Stone network.</translation>
+      <translation>Ett meddelande som bifogades till Stone: URI vilket kommer att lagras med transaktionen s&#xE5; att du vet. Observera: Meddelandet kommer inte att skickas &#xF6;ver Stone-n&#xE4;tverket.</translation>
     </message>
     <message>
       <location line="+433"/>
@@ -3906,7 +3906,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+17"/>
       <source>Sign the message to prove you own this Stone address</source>
-      <translation type="unfinished">Sign the message to prove you own this Stone address</translation>
+      <translation>Signera meddelandet f&#xF6;r att bevisa att du &#xE4;ger denna Stone-adress</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3942,7 +3942,7 @@ https://www.transifex.com/projects/p/stone/</translation>
     <message>
       <location line="+33"/>
       <source>Verify the message to ensure it was signed with the specified Stone address</source>
-      <translation type="unfinished">Verify the message to ensure it was signed with the specified Stone address</translation>
+      <translation>Bekr&#xE4;fta meddelandet f&#xF6;r att f&#xF6;rs&#xE4;kra dig om att den signerades med den angivna Stone-adressen</translation>
     </message>
     <message>
       <location line="+3"/>
