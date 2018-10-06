@@ -80,13 +80,13 @@
     </message>
     <message>
       <location line="+7"/>
-      <source>These are your Proton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-      <translation>&#x8FD9;&#x4E9B;&#x662F;&#x4F60;&#x8981;&#x4ED8;&#x6B3E;&#x8FC7;&#x53BB;&#x7684;&#x8FBE;&#x4E16;&#x5E01;&#x5730;&#x5740;&#x3002;&#x5728;&#x4ED8;&#x6B3E;&#x4E4B;&#x524D;&#xFF0C;&#x52A1;&#x5FC5;&#x8981;&#x68C0;&#x67E5;&#x91D1;&#x989D;&#x548C;&#x6536;&#x6B3E;&#x5730;&#x5740;&#x662F;&#x5426;&#x6B63;&#x786E;&#x3002;</translation>
+      <source>These are your Stone addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+      <translation type="unfinished">These are your Stone addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
       <location line="+4"/>
-      <source>These are your Proton addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-      <translation>&#x8FD9;&#x4E9B;&#x662F;&#x4F60;&#x7528;&#x6765;&#x6536;&#x6B3E;&#x7684;&#x8FBE;&#x4E16;&#x5E01;&#x5730;&#x5740;&#x3002;&#x5EFA;&#x8BAE;&#x5728;&#x6BCF;&#x6B21;&#x4EA4;&#x6613;&#x65F6;&#xFF0C;&#x90FD;&#x4F7F;&#x7528;&#x4E00;&#x4E2A;&#x65B0;&#x7684;&#x6536;&#x6B3E;&#x5730;&#x5740;&#x3002;</translation>
+      <source>These are your Stone addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+      <translation type="unfinished">These are your Stone addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -341,8 +341,8 @@
     </message>
     <message>
       <location line="+1"/>
-      <source>Send coins to a Proton address</source>
-      <translation>&#x53D1;&#x9001;&#x5E01;&#x81F3;&#x8FBE;&#x4E16;&#x5E01;&#x5730;&#x5740;</translation>
+      <source>Send coins to a Stone address</source>
+      <translation type="unfinished">Send coins to a Stone address</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -471,8 +471,8 @@
     </message>
     <message>
       <location line="+1"/>
-      <source>Sign messages with your Proton addresses to prove you own them</source>
-      <translation>&#x7528;&#x8FBE;&#x4E16;&#x5E01;&#x5730;&#x5740;&#x7B7E;&#x7F72;&#x8BAF;&#x606F;&#x6765;&#x8BC1;&#x660E;&#x5730;&#x5740;&#x662F;&#x4F60;&#x7684;</translation>
+      <source>Sign messages with your Stone addresses to prove you own them</source>
+      <translation type="unfinished">Sign messages with your Stone addresses to prove you own them</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -481,8 +481,8 @@
     </message>
     <message>
       <location line="+1"/>
-      <source>Verify messages to ensure they were signed with specified Proton addresses</source>
-      <translation>&#x9A8C;&#x8BC1;&#x8BAF;&#x606F;&#x662F;&#x7528;&#x6765;&#x786E;&#x5B9A;&#x8BAF;&#x606F;&#x662F;&#x7528;&#x6307;&#x5B9A;&#x7684;&#x8FBE;&#x4E16;&#x5E01;&#x5730;&#x5740;&#x7B7E;&#x7F72;&#x7684;</translation>
+      <source>Verify messages to ensure they were signed with specified Stone addresses</source>
+      <translation type="unfinished">Verify messages to ensure they were signed with specified Stone addresses</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -621,9 +621,9 @@
     </message>
     <message numerus="yes">
       <location line="+347"/>
-      <source>%n active connection(s) to Proton network</source>
-      <translation>
-        <numerusform>%n &#x5DF2;&#x8FDE;&#x63A5;&#x81F3;&#x8FBE;&#x4E16;&#x5E01;&#x7F51;&#x7EDC;</numerusform>
+      <source>%n active connection(s) to Stone network</source>
+      <translation type="unfinished">
+        <numerusform>%n active connection(s) to Stone network</numerusform>
       </translation>
     </message>
     <message>
@@ -1061,8 +1061,8 @@
     </message>
     <message>
       <location line="+9"/>
-      <source>Can vary +/- %1 duff(s) per input.</source>
-      <translation>&#x6BCF;&#x7B14;&#x8F93;&#x5165;&#x53EF;&#x80FD;&#x4F1A;&#x6709; +/- %1&#x4E2A;duff(s)&#x7684;&#x504F;&#x5DEE;.</translation>
+      <source>Can vary +/- %1 pebble(s) per input.</source>
+      <translation type="unfinished">Can vary +/- %1 pebble(s) per input.</translation>
     </message>
     <message>
       <location line="+131"/>
@@ -1220,18 +1220,18 @@
     </message>
     <message>
       <location line="-29"/>
-      <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
+      <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Stone's configuration screen.</source>
+      <translation type="unfinished">PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Stone's configuration screen.</translation>
     </message>
     <message>
       <location line="+15"/>
-      <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
+      <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Stone's configuration screen.</source>
+      <translation type="unfinished">PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Stone's configuration screen.</translation>
     </message>
     <message>
       <location line="+15"/>
-      <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
+      <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Stone's configuration screen.</source>
+      <translation type="unfinished">PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Stone's configuration screen.</translation>
     </message>
   </context>
   <context>
@@ -1283,8 +1283,8 @@
     </message>
     <message>
       <location line="+71"/>
-      <source>The entered address "%1" is not a valid Proton address.</source>
-      <translation>&#x8F93;&#x5165;&#x7684;&#x5730;&#x5740;"%1"&#x4E0D;&#x662F;&#x6709;&#x6548;&#x7684;&#x8FBE;&#x4E16;&#x5E01;&#x5730;&#x5740;&#x3002;</translation>
+      <source>The entered address "%1" is not a valid Stone address.</source>
+      <translation type="unfinished">The entered address "%1" is not a valid Stone address.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -1395,8 +1395,8 @@
     </message>
     <message>
       <location line="+4"/>
-      <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Proton in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
-      <translation type="unfinished">&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Proton in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </translation>
+      <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Stone in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
+      <translation type="unfinished">&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Stone in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </translation>
     </message>
     <message>
       <location line="-50"/>
@@ -1434,8 +1434,8 @@
     </message>
     <message>
       <location line="+10"/>
-      <source>Stone Core will download and store a copy of the Proton block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-      <translation>&#x8FBE;&#x4E16;&#x5E01;&#x6838;&#x5FC3;&#x5C06;&#x4F1A;&#x4E0B;&#x8F7D;&#x5E76;&#x5B58;&#x50A8;&#x8FBE;&#x4E16;&#x5E01;&#x6570;&#x636E;&#x94FE;&#x3002;&#x81F3;&#x5C11;&#x6709;%1GB&#x7684;&#x6570;&#x636E;&#x4F1A;&#x4FDD;&#x5B58;&#x5230;&#x6B64;&#x8DEF;&#x5F84;&#x4E0B;&#xFF0C;&#x5E76;&#x4E14;&#x968F;&#x7740;&#x65F6;&#x95F4;&#x589E;&#x957F;&#x3002;&#x94B1;&#x5305;&#x6587;&#x4EF6;&#x4E5F;&#x5C06;&#x5B58;&#x50A8;&#x5230;&#x6B64;&#x8DEF;&#x5F84;&#x4E0B;&#x3002;</translation>
+      <source>Stone Core will download and store a copy of the Stone block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+      <translation type="unfinished">Stone Core will download and store a copy of the Stone block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
     </message>
     <message>
       <location line="+10"/>
@@ -1690,8 +1690,8 @@
     </message>
     <message>
       <location line="+155"/>
-      <source>Amount of Proton to keep anonymized</source>
-      <translation>&#x4FDD;&#x6301;&#x533F;&#x540D;&#x5316;&#x7684;&#x8FBE;&#x4E16;&#x5E01;&#x6570;</translation>
+      <source>Amount of Stone to keep anonymized</source>
+      <translation type="unfinished">Amount of Stone to keep anonymized</translation>
     </message>
     <message>
       <location line="-119"/>
@@ -1780,8 +1780,8 @@
     </message>
     <message>
       <location line="+7"/>
-      <source>Connect to the Proton network through a SOCKS5 proxy.</source>
-      <translation>&#x901A;&#x8FC7;SOCKS5&#x4EE3;&#x7406;&#x94FE;&#x63A5;&#x8FBE;&#x4E16;&#x5E01;&#x7F51;&#x7EDC;&#x3002;</translation>
+      <source>Connect to the Stone network through a SOCKS5 proxy.</source>
+      <translation type="unfinished">Connect to the Stone network through a SOCKS5 proxy.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -1892,8 +1892,8 @@
     </message>
     <message>
       <location line="+25"/>
-      <source>Connect to the Proton network through a separate SOCKS5 proxy for Tor hidden services.</source>
-      <translation type="unfinished">Connect to the Proton network through a separate SOCKS5 proxy for Tor hidden services.</translation>
+      <source>Connect to the Stone network through a separate SOCKS5 proxy for Tor hidden services.</source>
+      <translation type="unfinished">Connect to the Stone network through a separate SOCKS5 proxy for Tor hidden services.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -2035,8 +2035,8 @@ https://www.transifex.com/projects/p/stone/</translation>
       <location line="+50"/>
       <location line="+355"/>
       <location line="+258"/>
-      <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Proton network after a connection is established, but this process has not completed yet.</source>
-      <translation>&#x663E;&#x793A;&#x4FE1;&#x606F;&#x4E5F;&#x8BB8;&#x5DF2;&#x8FC7;&#x671F;&#x3002;&#x5F53;&#x4E0E;&#x8FBE;&#x4E16;&#x5E01;&#x7F51;&#x7EDC;&#x8FDE;&#x63A5;&#x540E;&#x94B1;&#x5305;&#x7A0B;&#x5E8F;&#x4F1A;&#x81EA;&#x52A8;&#x540C;&#x6B65;&#xFF0C;&#x4F46;&#x73B0;&#x5728;&#x8FD8;&#x672A;&#x5B8C;&#x6210;&#x3002;</translation>
+      <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Stone network after a connection is established, but this process has not completed yet.</source>
+      <translation type="unfinished">The displayed information may be out of date. Your wallet automatically synchronizes with the Stone network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
       <location line="-364"/>
@@ -2433,8 +2433,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+8"/>
-      <source>URI cannot be parsed! This can be caused by an invalid Proton address or malformed URI parameters.</source>
-      <translation>&#x94FE;&#x63A5;&#x4E0D;&#x80FD;&#x88AB;&#x89E3;&#x6790;! &#x539F;&#x56E0;&#x53EF;&#x80FD;&#x662F;&#x65E0;&#x6548;&#x7684;&#x8FBE;&#x4E16;&#x5E01;&#x5730;&#x5740;&#x6216;&#x8F93;&#x5165;&#x7684;&#x94FE;&#x63A5;&#x6709;&#x9519;&#x3002;</translation>
+      <source>URI cannot be parsed! This can be caused by an invalid Stone address or malformed URI parameters.</source>
+      <translation type="unfinished">URI cannot be parsed! This can be caused by an invalid Stone address or malformed URI parameters.</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -2540,8 +2540,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location filename="../guiutil.cpp" line="+119"/>
-      <source>Enter a Proton address (e.g. %1)</source>
-      <translation>&#x8F93;&#x5165;&#x8FBE;&#x4E16;&#x5E01;&#x5730;&#x5740;(e.g. %1)</translation>
+      <source>Enter a Stone address (e.g. %1)</source>
+      <translation type="unfinished">Enter a Stone address (e.g. %1)</translation>
     </message>
     <message>
       <location line="+857"/>
@@ -3099,8 +3099,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+14"/>
-      <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Proton network.</source>
-      <translation>&#x9644;&#x52A0;&#x5728;&#x4ED8;&#x6B3E;&#x8981;&#x6C42;&#x4E2D;&#x7684;&#x8BAF;&#x606F;&#xFF0C;&#x53EF;&#x4EE5;&#x4E0D;&#x586B;&#xFF0C;&#x6253;&#x5F00;&#x8981;&#x6C42;&#x5185;&#x5BB9;&#x65F6;&#x4F1A;&#x663E;&#x793A;&#x3002;&#x6CE8;&#x610F;: &#x8FD9;&#x4E2A;&#x8BAF;&#x606F;&#x4E0D;&#x4F1A;&#x968F;&#x7740;&#x4ED8;&#x6B3E;&#x9001;&#x5230;&#x8FBE;&#x4E16;&#x5E01;&#x7F51;&#x8DEF;&#x4E0A;&#x3002;</translation>
+      <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Stone network.</source>
+      <translation type="unfinished">An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Stone network.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3115,8 +3115,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="-14"/>
-      <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Proton network.</source>
-      <translation>&#x9644;&#x52A0;&#x5728;&#x4ED8;&#x6B3E;&#x8981;&#x6C42;&#x4E2D;&#x7684;&#x8BAF;&#x606F;&#xFF0C;&#x53EF;&#x4EE5;&#x4E0D;&#x586B;&#xFF0C;&#x6253;&#x5F00;&#x8981;&#x6C42;&#x5185;&#x5BB9;&#x65F6;&#x4F1A;&#x663E;&#x793A;&#x3002;&lt;br&gt;&#x6CE8;&#x610F;: &#x8FD9;&#x4E2A;&#x8BAF;&#x606F;&#x4E0D;&#x4F1A;&#x968F;&#x7740;&#x4ED8;&#x6B3E;&#x9001;&#x5230;&#x8FBE;&#x4E16;&#x5E01;&#x7F51;&#x8DEF;&#x4E0A;&#x3002;</translation>
+      <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Stone network.</source>
+      <translation type="unfinished">An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Stone network.</translation>
     </message>
     <message>
       <location line="+7"/>
@@ -3427,17 +3427,13 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="-488"/>
-      <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation>
-&#x5982;&#x679C;&#x81EA;&#x5B9A;&#x624B;&#x7EED;&#x8D39;&#x8BBE;&#x5B9A;&#x4E3A;1000 duffs,&#x800C;&#x4EA4;&#x6613;&#x4FE1;&#x606F;&#x53EA;&#x6709;250&#x5B57;&#x8282;&#x7684;&#x8BDD;,&#x90A3;&#x4E48;&#x9009;&#x62E9;"&#x6BCF;&#x5343;&#x4F4D;&#x5B57;&#x8282;"&#x5C31;&#x53EA;&#x4F1A;&#x652F;&#x4ED8;250 duffs&#x7684;&#x624B;&#x7EED;&#x8D39;,&lt;br /&gt;&#x800C;"&#x81F3;&#x5C11;"&#x4F1A;&#x652F;&#x4ED8;1000 duffs.
-&#x4F46;&#x5982;&#x679C;&#x4EA4;&#x6613;&#x4FE1;&#x606F;&#x5927;&#x4E8E;&#x4E00;&#x5343;&#x5B57;&#x8282;,&#x90A3;&#x4E48;&#x4E24;&#x8005;&#x90FD;&#x8981;&#x652F;&#x4ED8;&#x5343;&#x5B57;&#x8282;&#x8D39;&#x7528;.</translation>
+      <source>If the custom fee is set to 1000 pebbles and the transaction is only 250 bytes, then "per kilobyte" only pays 250 pebbles in fee,&lt;br /&gt;while "at least" pays 1000 pebbles. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+      <translation type="unfinished">If the custom fee is set to 1000 pebbles and the transaction is only 250 bytes, then "per kilobyte" only pays 250 pebbles in fee,&lt;br /&gt;while "at least" pays 1000 pebbles. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
     </message>
     <message>
       <location line="+16"/>
-      <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "total at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation>
-&#x5982;&#x679C;&#x81EA;&#x5B9A;&#x624B;&#x7EED;&#x8D39;&#x8BBE;&#x5B9A;&#x4E3A;1000 duffs,&#x800C;&#x4EA4;&#x6613;&#x4FE1;&#x606F;&#x53EA;&#x6709;250&#x5B57;&#x8282;&#x7684;&#x8BDD;,&#x90A3;&#x4E48;&#x9009;&#x62E9;"&#x6BCF;&#x5343;&#x4F4D;&#x5B57;&#x8282;"&#x5C31;&#x53EA;&#x4F1A;&#x652F;&#x4ED8;250 duffs&#x7684;&#x624B;&#x7EED;&#x8D39;,&lt;br /&gt;&#x800C;"&#x603B;&#x5171;&#x81F3;&#x5C11;"&#x4F1A;&#x652F;&#x4ED8;1000 duffs.
-&#x4F46;&#x5982;&#x679C;&#x4EA4;&#x6613;&#x4FE1;&#x606F;&#x5927;&#x4E8E;&#x4E00;&#x5343;&#x5B57;&#x8282;,&#x90A3;&#x4E48;&#x4E24;&#x8005;&#x90FD;&#x8981;&#x652F;&#x4ED8;&#x5343;&#x5B57;&#x8282;&#x8D39;&#x7528;.</translation>
+      <source>If the custom fee is set to 1000 pebbles and the transaction is only 250 bytes, then "per kilobyte" only pays 250 pebbles in fee,&lt;br /&gt;while "total at least" pays 1000 pebbles. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+      <translation type="unfinished">If the custom fee is set to 1000 pebbles and the transaction is only 250 bytes, then "per kilobyte" only pays 250 pebbles in fee,&lt;br /&gt;while "total at least" pays 1000 pebbles. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
     </message>
     <message>
       <location line="+33"/>
@@ -3700,8 +3696,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+229"/>
-      <source>Warning: Invalid Proton address</source>
-      <translation>&#x8B66;&#x544A;&#xFF1A;&#x65E0;&#x6548;&#x7684;&#x8FBE;&#x4E16;&#x5E01;&#x5730;&#x5740;</translation>
+      <source>Warning: Invalid Stone address</source>
+      <translation type="unfinished">Warning: Invalid Stone address</translation>
     </message>
     <message>
       <location line="+8"/>
@@ -3728,8 +3724,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+18"/>
-      <source>The Proton address to send the payment to</source>
-      <translation>&#x9009;&#x62E9;&#x53D1;&#x6B3E;&#x5730;&#x5740;</translation>
+      <source>The Stone address to send the payment to</source>
+      <translation type="unfinished">The Stone address to send the payment to</translation>
     </message>
     <message>
       <location line="+7"/>
@@ -3777,8 +3773,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="-1046"/>
-      <source>The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Proton than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-      <translation type="unfinished">The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Proton than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</translation>
+      <source>The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Stone than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+      <translation type="unfinished">The fee will be deducted from the amount being sent. The recipient will receive a lower amount of Stone than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3792,8 +3788,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+10"/>
-      <source>A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Proton network.</source>
-      <translation>&#x9644;&#x52A0;&#x5728;&#x8FBE;&#x4E16;&#x5E01;&#x4ED8;&#x6B3E;&#x534F;&#x8BAE;URI&#x4E2D;&#x7684;&#x4FE1;&#x606F;,&#x4F1A;&#x548C;&#x4EA4;&#x6613;&#x5185;&#x5BB9;&#x4E00;&#x5E76;&#x5B58;&#x50A8;,&#x53EF;&#x4F9B;&#x60A8;&#x53C2;&#x8003;.&#x63D0;&#x793A;:&#x6B64;&#x4FE1;&#x606F;&#x4E0D;&#x4F1A;&#x53D1;&#x9001;&#x5230;&#x8FBE;&#x4E16;&#x5E01;&#x7F51;&#x7EDC;&#x4E0A;.</translation>
+      <source>A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Stone network.</source>
+      <translation type="unfinished">A message that was attached to the stone: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Stone network.</translation>
     </message>
     <message>
       <location line="+433"/>
@@ -3850,13 +3846,13 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+6"/>
-      <source>You can sign messages/agreements with your addresses to prove you can receive Proton sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-      <translation type="unfinished">You can sign messages/agreements with your addresses to prove you can receive Proton sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</translation>
+      <source>You can sign messages/agreements with your addresses to prove you can receive Stone sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+      <translation type="unfinished">You can sign messages/agreements with your addresses to prove you can receive Stone sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</translation>
     </message>
     <message>
       <location line="+18"/>
-      <source>The Proton address to sign the message with</source>
-      <translation>&#x5BF9;&#x6B64;&#x5730;&#x5740;&#x8FDB;&#x884C;&#x7B7E;&#x540D;</translation>
+      <source>The Stone address to sign the message with</source>
+      <translation type="unfinished">The Stone address to sign the message with</translation>
     </message>
     <message>
       <location line="+7"/>
@@ -3897,8 +3893,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+17"/>
-      <source>Sign the message to prove you own this Proton address</source>
-      <translation>&#x7B7E;&#x7F72;&#x4FE1;&#x606F;&#x8BC1;&#x660E;&#x4F60;&#x62E5;&#x6709;&#x6B64;&#x8FBE;&#x4E16;&#x5E01;&#x5730;&#x5740;</translation>
+      <source>Sign the message to prove you own this Stone address</source>
+      <translation type="unfinished">Sign the message to prove you own this Stone address</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -3928,13 +3924,13 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="+21"/>
-      <source>The Proton address the message was signed with</source>
-      <translation>&#x5DF2;&#x7B7E;&#x540D;&#x7684;&#x5730;&#x5740;</translation>
+      <source>The Stone address the message was signed with</source>
+      <translation type="unfinished">The Stone address the message was signed with</translation>
     </message>
     <message>
       <location line="+33"/>
-      <source>Verify the message to ensure it was signed with the specified Proton address</source>
-      <translation>&#x9A8C;&#x8BC1;&#x4FE1;&#x606F;&#x7528;&#x6765;&#x786E;&#x4FDD;&#x6B64;&#x88AB;&#x7B7E;&#x7F72;&#x4FE1;&#x606F;&#x5BF9;&#x5E94;&#x76F8;&#x5BF9;&#x7684;&#x8FBE;&#x4E16;&#x5E01;&#x5730;&#x5740;</translation>
+      <source>Verify the message to ensure it was signed with the specified Stone address</source>
+      <translation type="unfinished">Verify the message to ensure it was signed with the specified Stone address</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5590,8 +5586,8 @@ https://www.transifex.com/projects/p/stone/</translation>
     </message>
     <message>
       <location line="-328"/>
-      <source>Disable all Proton specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
-      <translation type="unfinished">Disable all Proton specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</translation>
+      <source>Disable all Stone specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
+      <translation type="unfinished">Disable all Stone specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</translation>
     </message>
     <message>
       <location line="+3"/>
