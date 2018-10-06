@@ -1021,9 +1021,9 @@
       <translation type="unfinished">Copy change</translation>
     </message>
     <message>
-      <location line="+163"/>
-      <source>Please switch to &quot;List mode&quot; to use this function.</source>
-      <translation type="unfinished">Please switch to &quot;List mode&quot; to use this function.</translation>
+        <location line="+163"/>
+        <source>Please switch to "List mode" to use this function.</source>
+        <translation>Please switch to "List mode" to use this function.</translation>
     </message>
     <message>
       <location line="+205"/>
@@ -1056,9 +1056,9 @@
       <translation type="unfinished">This label turns red if the transaction size is greater than 1000 bytes.</translation>
     </message>
     <message>
-      <location line="+5"/>
-      <source>This label turns red if the priority is smaller than &quot;medium&quot;.</source>
-      <translation type="unfinished">This label turns red if the priority is smaller than &quot;medium&quot;.</translation>
+        <location line="+5"/>
+        <source>This label turns red if the priority is smaller than "medium".</source>
+        <translation>This label turns red if the priority is smaller than "medium".</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -1225,19 +1225,19 @@
       <translation type="unfinished">PrivateSend Configuration</translation>
     </message>
     <message>
-      <location line="-29"/>
-      <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton&apos;s configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton&apos;s configuration screen.</translation>
+        <location line="-29"/>
+        <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</source>
+        <translation>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
     </message>
     <message>
-      <location line="+15"/>
-      <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton&apos;s configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton&apos;s configuration screen.</translation>
+        <location line="+15"/>
+        <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</source>
+        <translation>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
     </message>
     <message>
-      <location line="+15"/>
-      <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton&apos;s configuration screen.</source>
-      <translation type="unfinished">PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton&apos;s configuration screen.</translation>
+        <location line="+15"/>
+        <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</source>
+        <translation>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</translation>
     </message>
   </context>
   <context>
@@ -1288,14 +1288,14 @@
       <translation type="unfinished">Edit sending address</translation>
     </message>
     <message>
-      <location line="+71"/>
-      <source>The entered address &quot;%1&quot; is not a valid Proton address.</source>
-      <translation type="unfinished">The entered address &quot;%1&quot; is not a valid Proton address.</translation>
+        <location line="+71"/>
+        <source>The entered address "%1" is not a valid Proton address.</source>
+        <translation>The entered address "%1" is not a valid Proton address.</translation>
     </message>
     <message>
-      <location line="+5"/>
-      <source>The entered address &quot;%1&quot; is already in the address book.</source>
-      <translation type="unfinished">The entered address &quot;%1&quot; is already in the address book.</translation>
+        <location line="+5"/>
+        <source>The entered address "%1" is already in the address book.</source>
+        <translation>The entered address "%1" is already in the address book.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -1400,14 +1400,14 @@
       <translation type="unfinished">PrivateSend information</translation>
     </message>
     <message>
-      <location line="+4"/>
-      <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Proton in your wallet is comprised of different &quot;inputs&quot; which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type=&quot;1&quot;&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called &quot;masternodes.&quot; These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know &quot;who&quot; you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users&apos; wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it&apos;s called a &quot;round.&quot; Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these &quot;change addresses.&quot; Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href=&quot;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&quot;&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
-      <translation type="unfinished">&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Proton in your wallet is comprised of different &quot;inputs&quot; which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type=&quot;1&quot;&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called &quot;masternodes.&quot; These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know &quot;who&quot; you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users&apos; wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it&apos;s called a &quot;round.&quot; Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these &quot;change addresses.&quot; Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href=&quot;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&quot;&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </translation>
+        <location line="+4"/>
+        <source>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Proton in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </source>
+        <translation>&lt;h3&gt;PrivateSend Basics&lt;/h3&gt; PrivateSend gives you true financial privacy by obscuring the origins of your funds. All the Proton in your wallet is comprised of different "inputs" which you can think of as separate, discrete coins.&lt;br&gt; PrivateSend uses an stonetive process to mix your inputs with the inputs of two other people, without having your coins ever leave your wallet. You retain control of your money at all times..&lt;hr&gt; &lt;b&gt;The PrivateSend process works like this:&lt;/b&gt;&lt;ol type="1"&gt; &lt;li&gt;PrivateSend begins by breaking your transaction inputs down into standard denominations. These denominations are 0.01 STONE, 0.1 STONE, 1 STONE and 10 STONE -- sort of like the paper money you use every day.&lt;/li&gt; &lt;li&gt;Your wallet then sends requests to specially configured software nodes on the network, called "masternodes." These masternodes are informed then that you are interested in mixing a certain denomination. No identifiable information is sent to the masternodes, so they never know "who" you are.&lt;/li&gt; &lt;li&gt;When two other people send similar messages, indicating that they wish to mix the same denomination, a mixing session begins. The masternode mixes up the inputs and instructs all three users' wallets to pay the now-transformed input back to themselves. Your wallet pays that denomination directly to itself, but in a different address (called a change address).&lt;/li&gt; &lt;li&gt;In order to fully obscure your funds, your wallet must repeat this process a number of times with each denomination. Each time the process is completed, it's called a "round." Each round of PrivateSend makes it exponentially more difficult to determine where your funds originated.&lt;/li&gt; &lt;li&gt;This mixing process happens in the background without any intervention on your part. When you wish to make a transaction, your funds will already be anonymized. No additional waiting is required.&lt;/li&gt; &lt;/ol&gt; &lt;hr&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt; Your wallet only contains 1000 of these "change addresses." Every time a mixing event happens, up to 9 of your addresses are used up. This means those 1000 addresses last for about 100 mixing events. When 900 of them are used, your wallet must create more addresses. It can only do this, however, if you have automatic backups enabled.&lt;br&gt; Consequently, users who have backups disabled will also have PrivateSend disabled. &lt;hr&gt;For more info see &lt;a href="https://stone.atlassian.net/wiki/display/DOC/PrivateSend"&gt;https://stone.atlassian.net/wiki/display/DOC/PrivateSend&lt;/a&gt;         </translation>
     </message>
     <message>
-      <location line="-50"/>
-      <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-      <translation type="unfinished">Set language, for example &quot;de_DE&quot; (default: system locale)</translation>
+        <location line="-50"/>
+        <source>Set language, for example "de_DE" (default: system locale)</source>
+        <translation>Set language, for example "de_DE" (default: system locale)</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -1458,9 +1458,9 @@
       <translation type="unfinished">Stone Core</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>Error: Specified data directory &quot;%1&quot; cannot be created.</source>
-      <translation type="unfinished">Error: Specified data directory &quot;%1&quot; cannot be created.</translation>
+        <location line="+1"/>
+        <source>Error: Specified data directory "%1" cannot be created.</source>
+        <translation>Error: Specified data directory "%1" cannot be created.</translation>
     </message>
     <message>
       <location line="+25"/>
@@ -1491,9 +1491,9 @@
       <translation type="unfinished">My Masternodes</translation>
     </message>
     <message>
-      <location line="+16"/>
-      <source>Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your masternode should be running but you still do not see &quot;ENABLED&quot; in &quot;Status&quot; field.</source>
-      <translation type="unfinished">Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your masternode should be running but you still do not see &quot;ENABLED&quot; in &quot;Status&quot; field.</translation>
+        <location line="+16"/>
+        <source>Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your masternode should be running but you still do not see "ENABLED" in "Status" field.</source>
+        <translation>Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your masternode should be running but you still do not see "ENABLED" in "Status" field.</translation>
     </message>
     <message>
       <location line="+37"/>
@@ -1618,9 +1618,9 @@
       <translation type="unfinished">Command is not available right now</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>You can&apos;t use this command until masternode list is synced</source>
-      <translation type="unfinished">You can&apos;t use this command until masternode list is synced</translation>
+        <location line="+1"/>
+        <source>You can't use this command until masternode list is synced</source>
+        <translation>You can't use this command until masternode list is synced</translation>
     </message>
     <message>
       <location line="+6"/>
@@ -1764,9 +1764,9 @@
       <translation type="unfinished">PrivateSend rounds to use</translation>
     </message>
     <message>
-      <location line="+24"/>
-      <source>This amount acts as a threshold to turn off PrivateSend once it&apos;s reached.</source>
-      <translation type="unfinished">This amount acts as a threshold to turn off PrivateSend once it&apos;s reached.</translation>
+        <location line="+24"/>
+        <source>This amount acts as a threshold to turn off PrivateSend once it's reached.</source>
+        <translation>This amount acts as a threshold to turn off PrivateSend once it's reached.</translation>
     </message>
     <message>
       <location line="+60"/>
@@ -2151,9 +2151,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Try to manually submit a PrivateSend request.</translation>
     </message>
     <message>
-      <location line="+16"/>
-      <source>Reset the current status of PrivateSend (can interrupt PrivateSend if it&apos;s in the process of Mixing, which can cost you money!)</source>
-      <translation type="unfinished">Reset the current status of PrivateSend (can interrupt PrivateSend if it&apos;s in the process of Mixing, which can cost you money!)</translation>
+        <location line="+16"/>
+        <source>Reset the current status of PrivateSend (can interrupt PrivateSend if it's in the process of Mixing, which can cost you money!)</source>
+        <translation>Reset the current status of PrivateSend (can interrupt PrivateSend if it's in the process of Mixing, which can cost you money!)</translation>
     </message>
     <message>
       <location line="+19"/>
@@ -2254,9 +2254,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       </translation>
     </message>
     <message>
-      <location line="-7"/>
-      <source>Not enough compatible inputs to anonymize &lt;span style=&apos;color:red;&apos;&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style=&apos;color:red;&apos;&gt;%2&lt;/span&gt; instead</source>
-      <translation type="unfinished">Not enough compatible inputs to anonymize &lt;span style=&apos;color:red;&apos;&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style=&apos;color:red;&apos;&gt;%2&lt;/span&gt; instead</translation>
+        <location line="-7"/>
+        <source>Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</source>
+        <translation>Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</translation>
     </message>
     <message>
       <location line="+46"/>
@@ -2320,9 +2320,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Very low number of keys left since last automatic backup!</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>We are about to create a new automatic backup for you, however &lt;span style=&apos;color:red;&apos;&gt; you should always make sure you have backups saved in some safe place&lt;/span&gt;!</source>
-      <translation type="unfinished">We are about to create a new automatic backup for you, however &lt;span style=&apos;color:red;&apos;&gt; you should always make sure you have backups saved in some safe place&lt;/span&gt;!</translation>
+        <location line="+1"/>
+        <source>We are about to create a new automatic backup for you, however &lt;span style='color:red;'&gt; you should always make sure you have backups saved in some safe place&lt;/span&gt;!</source>
+        <translation>We are about to create a new automatic backup for you, however &lt;span style='color:red;'&gt; you should always make sure you have backups saved in some safe place&lt;/span&gt;!</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -2374,9 +2374,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">PrivateSend was successfully reset.</translation>
     </message>
     <message>
-      <location line="+15"/>
-      <source>If you don&apos;t want to see internal PrivateSend fees/transactions select &quot;Most Common&quot; as Type on the &quot;Transactions&quot; tab.</source>
-      <translation type="unfinished">If you don&apos;t want to see internal PrivateSend fees/transactions select &quot;Most Common&quot; as Type on the &quot;Transactions&quot; tab.</translation>
+        <location line="+15"/>
+        <source>If you don't want to see internal PrivateSend fees/transactions select "Most Common" as Type on the "Transactions" tab.</source>
+        <translation>If you don't want to see internal PrivateSend fees/transactions select "Most Common" as Type on the "Transactions" tab.</translation>
     </message>
     <message>
       <location line="+9"/>
@@ -2459,9 +2459,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Payment request rejected</translation>
     </message>
     <message>
-      <location line="-155"/>
-      <source>Payment request network doesn&apos;t match client network.</source>
-      <translation type="unfinished">Payment request network doesn&apos;t match client network.</translation>
+        <location line="-155"/>
+        <source>Payment request network doesn't match client network.</source>
+        <translation>Payment request network doesn't match client network.</translation>
     </message>
     <message>
       <location line="+15"/>
@@ -3433,14 +3433,14 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">InstantSend</translation>
     </message>
     <message>
-      <location line="-488"/>
-      <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 duffs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation type="unfinished">If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 duffs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+        <location line="-488"/>
+        <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
     </message>
     <message>
-      <location line="+16"/>
-      <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 duffs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-      <translation type="unfinished">If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 duffs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+        <location line="+16"/>
+        <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "total at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "total at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
     </message>
     <message>
       <location line="+33"/>
@@ -3926,9 +3926,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">&amp;Verify Message</translation>
     </message>
     <message>
-      <location line="+6"/>
-      <source>Enter the receiver&apos;s address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</source>
-      <translation type="unfinished">Enter the receiver&apos;s address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</translation>
+        <location line="+6"/>
+        <source>Enter the receiver's address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</source>
+        <translation>Enter the receiver's address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack. Note that this only proves the signing party receives with the address, it cannot prove sendership of any transaction!</translation>
     </message>
     <message>
       <location line="+21"/>
@@ -3951,9 +3951,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Reset all verify message fields</translation>
     </message>
     <message>
-      <location filename="../signverifymessagedialog.cpp" line="+33"/>
-      <source>Click &quot;Sign Message&quot; to generate signature</source>
-      <translation type="unfinished">Click &quot;Sign Message&quot; to generate signature</translation>
+        <location filename="../signverifymessagedialog.cpp" line="+33"/>
+        <source>Click "Sign Message" to generate signature</source>
+        <translation>Click "Sign Message" to generate signature</translation>
     </message>
     <message>
       <location line="+104"/>
@@ -4247,9 +4247,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Merchant</translation>
     </message>
     <message>
-      <location line="+7"/>
-      <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-      <translation type="unfinished">Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</translation>
+        <location line="+7"/>
+        <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</translation>
     </message>
     <message>
       <location line="+8"/>
@@ -4704,10 +4704,10 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Send Coins</translation>
     </message>
     <message>
-      <location line="-28"/>
-      <location line="+12"/>
-      <source>InstantSend doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 STONE.</source>
-      <translation type="unfinished">InstantSend doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 STONE.</translation>
+        <location line="-28"/>
+        <location line="+12"/>
+        <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</source>
+        <translation>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -4876,9 +4876,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Block creation options:</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>Can&apos;t denominate: no compatible inputs left.</source>
-      <translation type="unfinished">Can&apos;t denominate: no compatible inputs left.</translation>
+        <location line="+1"/>
+        <source>Can't denominate: no compatible inputs left.</source>
+        <translation>Can't denominate: no compatible inputs left.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -4886,14 +4886,14 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Cannot downgrade wallet</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>Cannot resolve -bind address: &apos;%s&apos;</source>
-      <translation type="unfinished">Cannot resolve -bind address: &apos;%s&apos;</translation>
+        <location line="+1"/>
+        <source>Cannot resolve -bind address: '%s'</source>
+        <translation>Cannot resolve -bind address: '%s'</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
-      <translation type="unfinished">Cannot resolve -externalip address: &apos;%s&apos;</translation>
+        <location line="+1"/>
+        <source>Cannot resolve -externalip address: '%s'</source>
+        <translation>Cannot resolve -externalip address: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -5076,9 +5076,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</translation>
     </message>
     <message>
-      <location line="+9"/>
-      <source>Invalid amount for -maxtxfee=&lt;amount&gt;: &apos;%s&apos; (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
-      <translation type="unfinished">Invalid amount for -maxtxfee=&lt;amount&gt;: &apos;%s&apos; (must be at least the minrelay fee of %s to prevent stuck transactions)</translation>
+        <location line="+9"/>
+        <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
+        <translation>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</translation>
     </message>
     <message>
       <location line="+9"/>
@@ -5151,9 +5151,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Always query for peer addresses via DNS lookup (default: %u)</translation>
     </message>
     <message>
-      <location line="+12"/>
-      <source>Cannot resolve -whitebind address: &apos;%s&apos;</source>
-      <translation type="unfinished">Cannot resolve -whitebind address: &apos;%s&apos;</translation>
+        <location line="+12"/>
+        <source>Cannot resolve -whitebind address: '%s'</source>
+        <translation>Cannot resolve -whitebind address: '%s'</translation>
     </message>
     <message>
       <location line="+4"/>
@@ -5256,39 +5256,39 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Insufficient funds.</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>Invalid -onion address: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid -onion address: &apos;%s&apos;</translation>
+        <location line="+1"/>
+        <source>Invalid -onion address: '%s'</source>
+        <translation>Invalid -onion address: '%s'</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>Invalid -proxy address: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid -proxy address: &apos;%s&apos;</translation>
+        <location line="+1"/>
+        <source>Invalid -proxy address: '%s'</source>
+        <translation>Invalid -proxy address: '%s'</translation>
     </message>
     <message>
-      <location line="+2"/>
-      <source>Invalid amount for -maxtxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid amount for -maxtxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+        <location line="+2"/>
+        <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
+        <translation>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid amount for -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+        <location line="+1"/>
+        <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
+        <translation>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>Invalid amount for -mintxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid amount for -mintxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+        <location line="+1"/>
+        <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
+        <translation>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos; (must be at least %s)</source>
-      <translation type="unfinished">Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos; (must be at least %s)</translation>
+        <location line="+1"/>
+        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
+        <translation>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+        <location line="+1"/>
+        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
+        <translation>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+13"/>
@@ -5336,9 +5336,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Mixing in progress...</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>Need to specify a port with -whitebind: &apos;%s&apos;</source>
-      <translation type="unfinished">Need to specify a port with -whitebind: &apos;%s&apos;</translation>
+        <location line="+1"/>
+        <source>Need to specify a port with -whitebind: '%s'</source>
+        <translation>Need to specify a port with -whitebind: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -5546,14 +5546,14 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Invalid masternodeprivkey. Please see documenation.</translation>
     </message>
     <message>
-      <location line="-72"/>
-      <source>Can&apos;t find random Masternode.</source>
-      <translation type="unfinished">Can&apos;t find random Masternode.</translation>
+        <location line="-72"/>
+        <source>Can't find random Masternode.</source>
+        <translation>Can't find random Masternode.</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>Can&apos;t mix while sync in progress.</source>
-      <translation type="unfinished">Can&apos;t mix while sync in progress.</translation>
+        <location line="+1"/>
+        <source>Can't mix while sync in progress.</source>
+        <translation>Can't mix while sync in progress.</translation>
     </message>
     <message>
       <location line="+15"/>
@@ -5561,9 +5561,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Could not parse masternode.conf</translation>
     </message>
     <message>
-      <location line="+57"/>
-      <source>Invalid netmask specified in -whitelist: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid netmask specified in -whitelist: &apos;%s&apos;</translation>
+        <location line="+57"/>
+        <source>Invalid netmask specified in -whitelist: '%s'</source>
+        <translation>Invalid netmask specified in -whitelist: '%s'</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -5661,9 +5661,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">If &lt;category&gt; is not supplied or if &lt;category&gt; = 1, output all debugging information.</translation>
     </message>
     <message>
-      <location line="+6"/>
-      <source>InstantSend doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 STONE.</source>
-      <translation type="unfinished">InstantSend doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 STONE.</translation>
+        <location line="+6"/>
+        <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</source>
+        <translation>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 STONE.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5696,9 +5696,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Maximum total fees (in %s) to use in a single wallet transaction; setting this too low may abort large transactions (default: %s)</translation>
     </message>
     <message>
-      <location line="+9"/>
-      <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong Stone Core will not work properly.</source>
-      <translation type="unfinished">Please check that your computer&apos;s date and time are correct! If your clock is wrong Stone Core will not work properly.</translation>
+        <location line="+9"/>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong Stone Core will not work properly.</source>
+        <translation>Please check that your computer's date and time are correct! If your clock is wrong Stone Core will not work properly.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5746,9 +5746,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Support filtering of blocks and transaction with bloom filters (default: %u)</translation>
     </message>
     <message>
-      <location line="+2"/>
-      <source>The block database contains a block which appears to be from the future. This may be due to your computer&apos;s date and time being set incorrectly. Only rebuild the block database if you are sure that your computer&apos;s date and time are correct</source>
-      <translation type="unfinished">The block database contains a block which appears to be from the future. This may be due to your computer&apos;s date and time being set incorrectly. Only rebuild the block database if you are sure that your computer&apos;s date and time are correct</translation>
+        <location line="+2"/>
+        <source>The block database contains a block which appears to be from the future. This may be due to your computer's date and time being set incorrectly. Only rebuild the block database if you are sure that your computer's date and time are correct</source>
+        <translation>The block database contains a block which appears to be from the future. This may be due to your computer's date and time being set incorrectly. Only rebuild the block database if you are sure that your computer's date and time are correct</translation>
     </message>
     <message>
       <location line="+5"/>
@@ -5776,9 +5776,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 1000 STONE.</translation>
     </message>
     <message>
-      <location line="+6"/>
-      <source>Unsupported argument -socks found. Setting SOCKS version isn&apos;t possible anymore, only SOCKS5 proxies are supported.</source>
-      <translation type="unfinished">Unsupported argument -socks found. Setting SOCKS version isn&apos;t possible anymore, only SOCKS5 proxies are supported.</translation>
+        <location line="+6"/>
+        <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
+        <translation>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</translation>
     </message>
     <message>
       <location line="+3"/>
@@ -5816,14 +5816,14 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">WARNING: check your network connection, %d blocks received in the last %d hours (%d expected)</translation>
     </message>
     <message>
-      <location line="+3"/>
-      <source>Wallet is locked, can&apos;t replenish keypool! Automatic backups and mixing are disabled, please unlock your wallet to replenish keypool.</source>
-      <translation type="unfinished">Wallet is locked, can&apos;t replenish keypool! Automatic backups and mixing are disabled, please unlock your wallet to replenish keypool.</translation>
+        <location line="+3"/>
+        <source>Wallet is locked, can't replenish keypool! Automatic backups and mixing are disabled, please unlock your wallet to replenish keypool.</source>
+        <translation>Wallet is locked, can't replenish keypool! Automatic backups and mixing are disabled, please unlock your wallet to replenish keypool.</translation>
     </message>
     <message>
-      <location line="+6"/>
-      <source>Warning: Unknown block versions being mined! It&apos;s possible unknown rules are in effect</source>
-      <translation type="unfinished">Warning: Unknown block versions being mined! It&apos;s possible unknown rules are in effect</translation>
+        <location line="+6"/>
+        <source>Warning: Unknown block versions being mined! It's possible unknown rules are in effect</source>
+        <translation>Warning: Unknown block versions being mined! It's possible unknown rules are in effect</translation>
     </message>
     <message>
       <location line="+19"/>
@@ -5971,9 +5971,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">InstantSend options:</translation>
     </message>
     <message>
-      <location line="+4"/>
-      <source>Invalid amount for -fallbackfee=&lt;amount&gt;: &apos;%s&apos;</source>
-      <translation type="unfinished">Invalid amount for -fallbackfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+        <location line="+4"/>
+        <source>Invalid amount for -fallbackfee=&lt;amount&gt;: '%s'</source>
+        <translation>Invalid amount for -fallbackfee=&lt;amount&gt;: '%s'</translation>
     </message>
     <message>
       <location line="+14"/>
@@ -6176,9 +6176,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Warning: unknown new rules activated (versionbit %i)</translation>
     </message>
     <message>
-      <location line="+1"/>
-      <source>Wasn&apos;t able to create wallet backup folder %s!</source>
-      <translation type="unfinished">Wasn&apos;t able to create wallet backup folder %s!</translation>
+        <location line="+1"/>
+        <source>Wasn't able to create wallet backup folder %s!</source>
+        <translation>Wasn't able to create wallet backup folder %s!</translation>
     </message>
     <message>
       <location line="+1"/>
@@ -6371,9 +6371,9 @@ https://www.transifex.com/projects/p/stone/</translation>
       <translation type="unfinished">Unable to sign spork message, wrong key?</translation>
     </message>
     <message>
-      <location line="+2"/>
-      <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
-      <translation type="unfinished">Unknown network specified in -onlynet: &apos;%s&apos;</translation>
+        <location line="+2"/>
+        <source>Unknown network specified in -onlynet: '%s'</source>
+        <translation>Unknown network specified in -onlynet: '%s'</translation>
     </message>
     <message>
       <location line="+2"/>
@@ -6450,5 +6450,5 @@ https://www.transifex.com/projects/p/stone/</translation>
       <source>wallet.dat corrupt, salvage failed</source>
       <translation type="unfinished">wallet.dat corrupt, salvage failed</translation>
     </message>
-  </context>
+</context>
 </TS>

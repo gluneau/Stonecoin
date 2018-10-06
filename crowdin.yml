@@ -1,0 +1,9 @@
+files:
+  - source: /src/qt/locale/stone_en.ts
+    translation: /src/qt/locale/stone_%osx_locale%.ts
+    "update_option" : "update_as_unapproved"
+    languages_mapping:
+      osx_locale:
+        zh-CN: zh_CN
+      osx_code:
+        zh-TW: zh_TW
